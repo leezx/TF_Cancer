@@ -148,7 +148,7 @@ Run per cohort when eligible:
 Evidence classes (review B1). Every DE row carries an `evidence_class`:
 
 - **C1 = high-confidence discovery**, the only evidence used for the
-  main ranking. Available in 13 cohorts / 9 organ systems.
+  main ranking. Available in 12 cohorts / 9 organ systems.
 - **C2 = exploratory, `cross_source_only`**, in every cohort. Group is
   fully confounded with source (TCGA vs GTEx collection, processing and
   RNA quality), so a C2-only call is never high-confidence without
@@ -239,7 +239,7 @@ This is stated in the results doc.
 ### 3.6 Integration and recurrence (review B4)
 
 - TF × cohort matrices (shrunk log2FC, padj, tumor median TPM), one set
-  per evidence class: `C1` (13 cohorts) and `C2_exploratory` (15
+  per evidence class: `C1` (12 cohorts) and `C2_exploratory` (15
   cohorts). LAML is a column in the TPM matrix only.
 - Organ systems: colorectum, lung (LUAD, LUSC), kidney (KIRC, KIRP, KICH),
   liver, pancreas, breast, brain (GBM, LGG), prostate, thyroid, stomach,
