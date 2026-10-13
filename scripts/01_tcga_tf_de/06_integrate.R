@@ -74,6 +74,9 @@ cc <- de[contrast == "C1", .(n_cohorts_C1_tier1 = sum(tier %in% "Tier1"), n_coho
 rec <- merge(rec, cc, by = "TF", all.x = TRUE)
 rec[, fig1B_primary := n_organ_systems_C1_up >= th$fig1b_min_organ_systems]
 rec[, fig1B_supplementary := n_organ_systems_exploratory_up >= th$fig1b_min_organ_systems]
+# recount3-discordant Toil Tier 1 TFs (review round 3, N3): carry the flag downstream.
+disc <- fread(file.path(qc, "input_validation", "recount3_discordant_tier1_TFs.tsv"))
+rec[, pipeline_sensitive := TF %in% disc$TF]
 setorder(rec, -n_organ_systems_C1_up, -n_organ_systems_C1_tier1, -n_organ_systems_exploratory_up, TF)
 fwrite_tsv(rec, file.path(repo_results, "TF_recurrent_upregulation.tsv"))
 

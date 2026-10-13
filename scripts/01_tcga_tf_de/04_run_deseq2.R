@@ -31,41 +31,7 @@ toil <- readRDS(file.path(processed_dir, sprintf("toil_%s.rds", k)))
 tf <- fread(file.path(repo_results, "TF_reference.tsv"))[in_expression_matrix == TRUE]
 s <- copy(toil$samples)
 
-# ---- recount3 loader (validation only) ----
-load_recount3 <- function() {
-  suppressPackageStartupMessages(library(SummarizedExperiment))
-  f <- dpath(cfg$inputs$recount3[[k]])
-  rse <- readRDS(f)
-  # The combined COADREAD+GTEx object kept only columns shared with GTEx; the TCGA
-  # sample type and barcode live in the per-project coldata CSVs next to it.
-  if (!"tcga.cgc_sample_sample_type" %in% colnames(colData(rse))) {
-    extra <- rbindlist(lapply(Sys.glob(file.path(dirname(f), "coldata_tcga_*.csv")), function(x)
-      fread(x, select = c("V1", "tcga.cgc_sample_sample_type", "tcga.tcga_barcode"))), use.names = TRUE)
-    i <- match(colnames(rse), extra$V1)
-    colData(rse)$tcga.cgc_sample_sample_type <- extra$tcga.cgc_sample_sample_type[i]
-    colData(rse)$tcga.tcga_barcode <- extra$tcga.tcga_barcode[i]
-  }
-  cd <- as.data.frame(colData(rse))
-  keep <- cd$study %in% names(cfg$cohorts[[k]]$projects) &
-    cd$tcga.cgc_sample_sample_type %in% c("Primary Tumor", cfg$normal_sample_type)
-  rse <- rse[!grepl("_PAR_Y$", rownames(rse)), keep]
-  cd <- as.data.frame(colData(rse))
-  m <- assay(rse, "counts")
-  storage.mode(m) <- "integer"
-  rownames(m) <- bare_id(rownames(m))
-  smp <- data.table(col = colnames(m), sample = substr(cd$tcga.tcga_barcode, 1, 15),
-                    patient = substr(cd$tcga.tcga_barcode, 1, 12), project = cd$study,
-                    group = fifelse(cd$tcga.cgc_sample_sample_type == cfg$normal_sample_type, "normal", "tumor"),
-                    library_size = colSums(m))
-  # Several aliquots per sample/patient can exist in recount3: keep the largest library
-  # (implementation choice for the validation runs; logged).
-  setorder(smp, patient, group, -library_size)
-  n0 <- nrow(smp)
-  smp <- smp[!duplicated(smp[, .(patient, group)])]
-  log_msg("recount3 %s: %d columns, %d after one-per-patient-per-group", k, n0, nrow(smp))
-  m <- m[, smp$col, drop = FALSE]; colnames(m) <- smp$sample
-  list(counts = m, samples = smp[, .(sample, patient, project, group, source = "TCGA")])
-}
+source("scripts/01_tcga_tf_de/recount3_loader.R")
 
 # ---- choose samples and count matrix ----
 if (ctr == "C1") s <- s[group %in% c("tumor", "normal")]
@@ -78,7 +44,7 @@ if (set == "read_only") s <- s[project == "READ"]
 if (set %in% c("production", "read_only")) {
   counts <- toil_counts[, s$sample, drop = FALSE]
 } else {
-  r3 <- load_recount3()
+  r3 <- load_recount3(k)
   if (set == "matched") {
     shared <- intersect(s$sample, r3$samples$sample)
     genes <- intersect(rownames(toil_counts), rownames(r3$counts))
