@@ -1,0 +1,100 @@
+# Step 1 config (docs/STEP1_TCGA_TF_DE_DESIGN.md). Paths are relative to
+# $TF_CANCER_DATA_ROOT (local: $BIOWORKSPACE_ROOT/DATA; Argos: /home/zz950/DATA).
+analysis_id: 2026-10-13_tf_cancer_step1_tcga_de_v0.1
+processed_version: v0.1
+
+inputs:
+  counts: bulkRNAseq/UCSC_Toil_TCGA_GTEx/raw/TcgaTargetGtex_gene_expected_count.gz
+  tpm: bulkRNAseq/UCSC_Toil_TCGA_GTEx/raw/TcgaTargetGtex_rsem_gene_tpm.gz
+  pheno: bulkRNAseq/UCSC_Toil_TCGA_GTEx/raw/TcgaTargetGTEX_phenotype.txt.gz
+  probemap: bulkRNAseq/UCSC_Toil_TCGA_GTEx/raw/gencode.v23.annotation.gene.probemap
+  lambert: 2.PROJECTS/Cancer_Context_Dependency/TF_executors/data/raw/HumanTF_paper/DatabaseExtract_v_1.01.csv
+  recount3:
+    COADREAD: bulkRNAseq/recount3_TCGA_COAD_READ_GTEx_COLON/processed/v0.1/recount3_TCGA_COAD_READ_GTEx_COLON_gene_counts.rds
+    LUAD: bulkRNAseq/recount3_TCGA_LUAD/processed/v0.1/recount3_TCGA_LUAD_gene_counts.rds
+
+md5:
+  counts: 87b9b2c409846b412396836faedf4814
+  tpm: 8006d92eeb199bf4701102750f45fe65
+  pheno: 25cc6f2bdbc56da2989df79a2ad86308
+  probemap: c9f7e859d17d4c9102c07b98ffbd753d
+  lambert: 5fa3ea81fe1cd8fa5deb36b5bb5b43ff
+
+outputs:
+  processed_dir: bulkRNAseq/UCSC_Toil_TCGA_GTEx/processed/v0.1
+  result_dir: bulkRNAseq/UCSC_Toil_TCGA_GTEx/result/2026-10-13_tf_cancer_step1_tcga_de_v0.1
+  repo_results: results/01_tcga_tf_de
+
+thresholds:
+  padj: 0.05
+  lfc_tier1: 1.0
+  lfc_tier2: 0.5
+  tumor_tpm_min: 1.0
+  tumor_prevalence_min: 0.25
+  prevalence_tpm: 1.0
+  min_count: 10
+  min_normal_c1: 10
+  min_pairs_c3: 10
+  fig1b_min_organ_systems: 3
+  concordance_rho_flag: 0.5
+  recount3_direction_min: 0.95
+  recount3_direction_lfc: 1.0
+  recount3_tier1_recovery_min: 0.80
+
+tumor_sample_types: ["Primary Tumor", "Primary Blood Derived Cancer - Peripheral Blood"]
+normal_sample_type: "Solid Tissue Normal"
+
+# detailed_category (lower-case) -> project; cohort groups projects.
+cohorts:
+  COADREAD: {projects: {COAD: "colon adenocarcinoma", READ: "rectum adenocarcinoma"}, organ_system: colorectum, gtex: ["Colon - Transverse"], c2_quality: moderate, composition_risk: "colon region mismatch (rectum vs transverse)", hc_eligible: true}
+  LUAD: {projects: {LUAD: "lung adenocarcinoma"}, organ_system: lung, gtex: ["Lung"], c2_quality: moderate, composition_risk: "bulk lung (alveolar + airway)", hc_eligible: true}
+  LUSC: {projects: {LUSC: "lung squamous cell carcinoma"}, organ_system: lung, gtex: ["Lung"], c2_quality: moderate, composition_risk: "bulk lung (alveolar + airway)", hc_eligible: true}
+  KIRC: {projects: {KIRC: "kidney clear cell carcinoma"}, organ_system: kidney, gtex: ["Kidney - Cortex"], c2_quality: low, composition_risk: "GTEx n=28", hc_eligible: true}
+  KIRP: {projects: {KIRP: "kidney papillary cell carcinoma"}, organ_system: kidney, gtex: ["Kidney - Cortex"], c2_quality: low, composition_risk: "GTEx n=28", hc_eligible: true}
+  KICH: {projects: {KICH: "kidney chromophobe"}, organ_system: kidney, gtex: ["Kidney - Cortex"], c2_quality: low, composition_risk: "GTEx n=28; distal nephron origin", hc_eligible: true}
+  LIHC: {projects: {LIHC: "liver hepatocellular carcinoma"}, organ_system: liver, gtex: ["Liver"], c2_quality: moderate, composition_risk: "", hc_eligible: true}
+  LAML: {projects: {LAML: "acute myeloid leukemia"}, organ_system: blood, gtex: [], c2_quality: none, composition_risk: "no valid normal", hc_eligible: false}
+  PAAD: {projects: {PAAD: "pancreatic adenocarcinoma"}, organ_system: pancreas, gtex: ["Pancreas"], c2_quality: low, composition_risk: "acinar-dominated whole pancreas vs ductal PDAC", hc_eligible: false}
+  BRCA: {projects: {BRCA: "breast invasive carcinoma"}, organ_system: breast, gtex: ["Breast - Mammary Tissue"], c2_quality: moderate, composition_risk: "adipose-rich mammary tissue", hc_eligible: true}
+  GBM: {projects: {GBM: "glioblastoma multiforme"}, organ_system: brain, gtex: ["Brain - Cortex", "Brain - Frontal Cortex (Ba9)"], c2_quality: low, composition_risk: "neuron-rich bulk cortex, not glial-lineage matched", hc_eligible: false}
+  LGG: {projects: {LGG: "brain lower grade glioma"}, organ_system: brain, gtex: ["Brain - Cortex", "Brain - Frontal Cortex (Ba9)"], c2_quality: low, composition_risk: "neuron-rich bulk cortex, not glial-lineage matched", hc_eligible: false}
+  PRAD: {projects: {PRAD: "prostate adenocarcinoma"}, organ_system: prostate, gtex: ["Prostate"], c2_quality: moderate, composition_risk: "", hc_eligible: true}
+  THCA: {projects: {THCA: "thyroid carcinoma"}, organ_system: thyroid, gtex: ["Thyroid"], c2_quality: moderate, composition_risk: "", hc_eligible: true}
+  STAD: {projects: {STAD: "stomach adenocarcinoma"}, organ_system: stomach, gtex: ["Stomach"], c2_quality: moderate, composition_risk: "", hc_eligible: true}
+  HNSC: {projects: {HNSC: "head & neck squamous cell carcinoma"}, organ_system: head_neck, gtex: ["Esophagus - Mucosa"], c2_quality: low, composition_risk: "esophageal mucosa proxy, not oral/laryngeal epithelium", hc_eligible: true}
+
+# Pre-registered sample-count gate (design §3.2 table). Any mismatch stops the run.
+expected_n:
+  COADREAD: {tumor: 379, normal: 51, pairs: 32, gtex: 166}
+  LUAD: {tumor: 513, normal: 59, pairs: 58, gtex: 288}
+  LUSC: {tumor: 498, normal: 50, pairs: 50, gtex: 288}
+  KIRC: {tumor: 530, normal: 72, pairs: 72, gtex: 28}
+  KIRP: {tumor: 288, normal: 32, pairs: 32, gtex: 28}
+  KICH: {tumor: 66, normal: 25, pairs: 25, gtex: 28}
+  LIHC: {tumor: 369, normal: 50, pairs: 50, gtex: 110}
+  LAML: {tumor: 173, normal: 0, pairs: 0, gtex: 0}
+  PAAD: {tumor: 178, normal: 4, pairs: 4, gtex: 167}
+  BRCA: {tumor: 1092, normal: 113, pairs: 112, gtex: 178}
+  GBM: {tumor: 153, normal: 5, pairs: 0, gtex: 206}
+  LGG: {tumor: 509, normal: 0, pairs: 0, gtex: 206}
+  PRAD: {tumor: 494, normal: 51, pairs: 51, gtex: 100}
+  THCA: {tumor: 504, normal: 59, pairs: 59, gtex: 279}
+  STAD: {tumor: 413, normal: 36, pairs: 33, gtex: 175}
+  HNSC: {tumor: 518, normal: 44, pairs: 43, gtex: 273}
+
+# Design §5.4/5.5 controls (expression sanity, not DE expectations).
+identity_controls:
+  COADREAD: [CDX2]
+  LUAD: [NKX2-1]
+  THCA: [NKX2-1, PAX8]
+  LUSC: [TP63, SOX2]
+  HNSC: [TP63, SOX2]
+  KIRC: [PAX8]
+  KIRP: [PAX8]
+  LIHC: [HNF4A]
+  BRCA: [FOXA1, GATA3]
+  PRAD: [AR, NKX3-1]
+  GBM: [OLIG2, SOX2]
+  LGG: [OLIG2, SOX2]
+  LAML: [SPI1, CEBPA]
+proliferation_controls: [FOXM1, E2F1]
