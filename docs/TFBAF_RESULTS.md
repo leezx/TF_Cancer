@@ -1,4 +1,4 @@
-# TF–BAF module — results (v0.1)
+# TF–BAF module — results (v0.1, v0.2)
 
 - Design: `docs/TFBAF_DESIGN.md` (approved, review round 6). Thresholds and
   the figure selection rule are unchanged.
@@ -96,7 +96,7 @@ page per pair, with selected members shown even when nonsignificant).
   - GATA3 and FOXA1 are weak dependencies in these lines, so a correlation
     with them means little functionally.
 
-### Open points (not run; for the user/reviewer to decide)
+### Open points from v0.1 (both done in v0.2, §8)
 
 1. **Background reference** for TCGA: the percentile of each BAF member's ρ
    among the TF's correlations with all expressed protein-coding genes in
@@ -118,3 +118,120 @@ None from the approved design.
     the gene universe. A percentile is not set-level enrichment; that needs
     a set test that accounts for expression level.
   - Organoids are a later module.
+
+## 8. v0.2: organoids, DepMap context, background percentile
+
+- Design: `docs/TFBAF_V02_DESIGN.md`, approved in round 8 (PR #6).
+- Code: `scripts/tfbaf/10_v02_extract.R` and `11_v02_analyze.R`.
+- Run on the Mac mini on 2026-10-13. Extraction took about 2 min,
+  analysis about 2 min.
+- Logs: `logs/tfbaf_v02_*.log`.
+- Records: `DATA/bulkRNAseq/UCSC_Toil_TCGA_GTEx/result/2026-10-13_tf_cancer_tfbaf_v0.2/`
+  (`organoid/`, `background/`, `report/`).
+- v0.1 tables and figures are unchanged. The v0.2 figures have their own
+  files (`*_v02.pdf`).
+
+### 8.1 Checks
+
+| Check | Result |
+|---|---|
+| Organoid inventory | 178 screens / 162 organoids. Colorectal: 97 screens, 85 organoids, 83 individuals, 95 malignant screens |
+| CRC units (§3.1) | 82 individuals: 68 `minLib`, 14 `v1_1`; 57 primary-derived, 25 metastasis-derived |
+| Library LFC (N1) | SOX9 median LFC: `minLib` −0.44, `v1_1` −0.48 (`qc/organoid_library_LFC.tsv`) |
+| Organoid positive control (all 178 screens) | ρ(SMARCB1, SMARCE1) = 0.43; ρ(ARID1A, SMARCB1) = 0.36; both positive as expected |
+| Depth reference set | 295 genes depleted in ≥ 90% of screens |
+| Background consistency | The background ρ for the 28 members reproduces v0.1 TCGA and DepMap ρ, and the organoid main ρ, exactly (asserted in code) |
+| Background universe (N5) | TCGA 12,233–13,354 protein-coding genes (median TPM ≥ 1); DepMap 17,204–17,930 genes (600–1,326 with some missing values, scored on complete cases); organoid 16,561; 0 zero-variance genes; TF excluded |
+| Organoid availability | CRC analysed. AML, prostate, breast and melanoma unavailable: there are no matching organoids |
+
+### 8.2 Organoid co-dependency (CRC SOX9, n = 82)
+
+- **SOX9 is a dependency in this panel.** It is depleted in 34% of the
+  units (`is_depleted`), with a median LFC of −0.45.
+- **One member is called: ARID1A**, ρ = 0.35, 95% CI [0.12, 0.53],
+  q = 0.031 (strong).
+  - Depth-adjusted ρ = 0.36, so it is not depth-sensitive.
+  - `minLib` only: 0.40 (q 0.024).
+  - Primary-derived only (n = 57): 0.29 (q 0.25, no call). This is the
+    same direction, with less power.
+- SMARCB1 has ρ = 0.31 (CI [0.09, 0.50]), q = 0.059: no call in the main
+  analysis. It is called in the primary-derived subset (0.42, q 0.035).
+  Main SMARCB1 is not called, so it is reported, not interpreted.
+- **ARID1A is rarely depleted (7%).** Its pattern is therefore
+  "TF-specific dependency", not "both dependent, correlated". The ρ
+  reflects SOX9 and ARID1A knockout effects varying together across
+  organoids, mostly in a range where ARID1A loss has little growth effect.
+  It does not show that organoids depend on ARID1A together with SOX9.
+  ARID1A is also a known tumour suppressor in CRC.
+- Other v0.1-highlighted members: SMARCA4 0.17 and SMARCC1 0.19, both
+  nonsignificant.
+
+### 8.3 DepMap 2D context
+
+- **CIs** for the two v0.1 hits:
+  - AML SPI1–SMARCD1: 0.56 [0.28, 0.76].
+  - CRC SOX9–DPF3: −0.40 [−0.59, −0.17].
+  - The other CIs are wide at these n. For example, CRC SMARCB1 is −0.01
+    [−0.27, 0.26].
+- **Dependent BAF members** (≥ 25% of lines < −0.5):
+  - ACTL6A, SMARCB1, SMARCE1 and DPF2 are dependent in all five lineages.
+  - AML has 11 dependent members, CRC 4.
+- **Patterns:**
+  - Only AML SPI1–SMARCD1 is "both dependent, correlated".
+  - In all pairs, the common-essential members (ACTL6A, SMARCB1, SMARCE1,
+    DPF2) are "both dependent, no positive co-dependency". This is the
+    case the brief warned about: a member can be essential in every line
+    and still not track the TF.
+  - The rest are "TF-specific dependency". All five TFs are dependent at
+    ≥ 25% prevalence (GATA3 32%, FOXA1 40%).
+  - GATA3 and FOXA1 also carry the v0.1 flag `TF_not_dependency`
+    (median > −0.3).
+
+### 8.4 Background percentile (descriptive; not a set-level test)
+
+Median signed percentile of the 28 members' ρ among all genes' ρ with the
+same TF:
+
+| Pair | TCGA (bg median ρ) | DepMap 2D | Organoid |
+|---|---|---|---|
+| CRC SOX9 | **85** (0.10); 8 of 28 ≥ 95th | 53 | 64; 4 of 28 ≥ 95th |
+| AML SPI1 | 44 (0.06) | 79 | — |
+| Prostate FOXA1 | 71 (0.30) | 53 (exploratory, n = 10) | — |
+| Breast GATA3 | 58 (0.16) | 61 | — |
+| Melanoma SOX10 | 67 (0.16) | 40 | — |
+
+- **CRC is the pair where the BAF correlations stand out from the
+  background in TCGA.** SMARCC1 is at the 99.2nd percentile, SMARCA4 the
+  99.1st, and ARID1A the 95.1st. SMARCB1 is at the 63rd.
+- In prostate, FOXA1 correlates with most genes (background median 0.30).
+  Its high BAF ρ (median 0.51) is therefore only modestly above typical
+  genes. This is the v0.1 "broad, not subunit-specific" finding, now
+  quantified.
+- The organoid ARID1A ρ is at the 99.9th percentile. So are DepMap AML
+  SMARCD1 (99.9th) and the |ρ| of CRC DPF3 (99.7th).
+
+### 8.5 Across evidence types, CRC SOX9
+
+| Member | TCGA ρ (q; pct) | DepMap 2D ρ [CI] (q) | Organoid ρ [CI] (q) |
+|---|---|---|---|
+| ARID1A | 0.27 (6e-7, moderate; 95th) | 0.21 [-0.07, 0.48] (0.52) | **0.35 [0.12, 0.53] (0.031)** |
+| SMARCC1 | 0.34 (5e-10, strong; 99th) | −0.01 [−0.28, 0.26] | 0.19 (0.40) |
+| SMARCA4 | 0.33 (5e-10, strong; 99th) | −0.20 [−0.43, 0.05] | 0.17 (0.40) |
+| SMARCB1 | 0.13 (0.014, below ρ 0.2: none; 63rd) | −0.01 [−0.27, 0.26] | 0.31 [0.09, 0.50] (0.059) |
+
+- **ARID1A is the first member with called support from two independent
+  sources:** TCGA moderate co-expression and organoid co-dependency.
+  DepMap 2D points the same way but is not significant.
+- It is one of 28 tests, with q = 0.031 within the pair. It is weakened in
+  the primary-derived subset, and ARID1A itself is rarely a dependency.
+- It is a candidate to follow up, not an established SOX9–cBAF partner.
+  Co-dependency and co-expression are not recruitment.
+
+### 8.6 Deviations from the v0.2 design
+
+- **TCGA protein-coding proxy.** The design gives the definition
+  (HGNC Approved + UniProt ID, by Ensembl ID).
+  - This finds 19,995 of 60,498 Toil genes.
+  - BICRA and BICRAL carry their GENCODE v23 names (GLTSCR1, GLTSCR1L) in
+    the matrix and were mapped by `v23_symbol`.
+- No other deviations.

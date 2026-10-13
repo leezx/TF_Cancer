@@ -1,0 +1,7 @@
+primary_tumour_type	n_screens	n_organoids	n_individuals	n_malignant_screens	n_metastasis_derived_screens
+Colorectal	97	85	83	95	27
+Gastric	3	3	3	3	0
+Oesophageal	63	59	58	63	0
+Ovarian	11	11	9	10	2
+Pancreatic	4	4	4	4	0
+CRC units selected (§3.1)	82	82	82	82	25
