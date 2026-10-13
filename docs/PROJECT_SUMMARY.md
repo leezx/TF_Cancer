@@ -22,7 +22,7 @@ The input data are inventoried and complete: Toil TCGA+GTEx counts and
 TPM, DepMap 26Q1, and the Lambert TFs, md5-verified on local and Argos.
 Step 1 is closed: design PR #1 and results PR #2 were merged after 3
 review rounds, and all gates passed. Step 2 (within-cancer TF
-co-expression + proliferation axis) is in design review.
+co-expression + proliferation axis): design approved (PR #3).
 
 ## Roadmap and progress (100% = all rows done)
 
@@ -30,7 +30,7 @@ co-expression + proliferation axis) is in design review.
 |---|---|---:|---|---|---|
 | 0 | Data inventory + gap fill (hot data list) | 5% | **done** | — | infra |
 | 1 | TCGA pan-cancer TF DE atlas (Figs 1–2) | 20% | **done** (PR #1, #2) | — | Q1 |
-| 2 | Within-cancer TF co-expression network + proliferation axis (Fig 3) | 10% | design in review | ABSOLUTE purity download (user OK) | Q1 |
+| 2 | Within-cancer TF co-expression network + proliferation axis (Fig 3) | 10% | design APPROVED (PR #3, R4–R5) | merge + ABSOLUTE/PAM50 download (user OK) | Q1 |
 | 3 | Curated TF functional annotation (lineage/pioneer/etc.) | 10% | not started | — | Q1/Q3 |
 | 4 | DepMap patient-vs-cell-line concordance and model table (Fig 5) | 10% | not started | Step 1 | Q2/Q3 |
 | 5 | scRNA malignant-vs-normal pseudobulk validation (Fig 4) | 20% | not started | dataset selection | Q2 |
