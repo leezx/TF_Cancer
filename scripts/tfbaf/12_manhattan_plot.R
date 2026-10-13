@@ -53,7 +53,7 @@ long <- rbindlist(lapply(SRC, function(s)
 long[, y := if (YVAR == "z") z else rho]
 long[, col := match(pair, pair_order)]
 # deterministic jitter: members spread across the column in BAF-list order
-long[, xpos := col + (match(BAF, unique(x$BAF)) - 14.5) / 14.5 * 0.32]
+long[, xpos := col + (match(BAF, unique(x$BAF)) - 14.5) / 14.5 * 0.213]
 long[, sig := factor(!is.na(q) & q < 0.05, levels = c(TRUE, FALSE))]
 long[, class := factor(class, levels = cls_order)]
 long[, label := ""]
@@ -71,7 +71,7 @@ panel <- function(s) {
   ggplot(d[!is.na(y)], aes(xpos, y)) +
     geom_hline(yintercept = 0, linewidth = 0.3, colour = "grey50") +
     geom_vline(xintercept = 1.5:4.5, linewidth = 0.2, colour = "grey85") +
-    geom_point(aes(fill = class), shape = 21, colour = "black", size = 2, stroke = 0.4) +
+    geom_point(aes(fill = class), shape = 21, colour = "black", size = 1.33, stroke = 0.3) +
     geom_text_repel(aes(label = label, colour = class), size = 2.4, min.segment.length = 0, segment.size = 0.25,
                     box.padding = 0.3, max.overlaps = Inf, seed = 1, show.legend = FALSE) +
     geom_text(data = nn, aes(x = col, y = ylim[1] * 0.94, label = txt), size = 2.2, colour = "grey35", inherit.aes = FALSE) +
@@ -79,13 +79,13 @@ panel <- function(s) {
     scale_colour_manual(values = cls_col, guide = "none") +
     scale_x_continuous(breaks = 1:5, labels = lab_x, limits = c(0.5, 5.5), expand = c(0, 0)) +
     scale_y_continuous(limits = ylim) +
-    labs(x = NULL, y = if (YVAR == "z") "background z of ρ" else "Spearman ρ", title = titles[[s]]) +
+    labs(x = NULL, y = if (YVAR == "z") "Z-score of Spearman ρ" else "Spearman ρ", title = titles[[s]]) +
     theme_bw(base_size = 8) + theme(panel.grid.major.x = element_blank(), panel.grid.minor = element_blank(),
                                     plot.title = element_text(size = 8, face = "bold"))
 }
 p <- wrap_plots(lapply(SRC, panel), ncol = 1) +
   plot_layout(guides = "collect") +
-  plot_annotation(caption = sprintf(paste0(if (YVAR == "z") "y = (ρ − mean) / SD of the TF's ρ with all genes in the same dataset (comparable across pairs and datasets).\n" else "",
+  plot_annotation(caption = sprintf(paste0(if (YVAR == "z") "Z-score: each BAF member's ρ standardized against the TF's ρ with all ~13,000–18,000 genes in the same dataset (z = 2 means 2 SD above a typical gene).\n" else "",
                                            "Each point is one of 28 BAF members. Labels: top %d positive members per column.\n",
                                            "Prostate DepMap n = 10 (underpowered). Association only; not binding or recruitment."), TOP_N),
                   theme = theme(plot.caption = element_text(size = 6, hjust = 0)))
