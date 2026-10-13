@@ -1,0 +1,16 @@
+pair	BAF	why
+CRC	SMARCA4	fixed reference
+CRC	SMARCC1	top TCGA rho
+CRC	DPF1	top DepMap rho
+AML	SMARCA4	fixed reference
+AML	BCL7B	top TCGA rho
+AML	SMARCD1	top DepMap rho
+Prostate	SMARCA4	fixed reference
+Prostate	SS18L1	top TCGA rho
+Prostate	SMARCB1	top DepMap rho
+Breast	SMARCA4	fixed reference
+Breast	ARID2	top TCGA rho
+Breast	SMARCD1	top DepMap rho
+Melanoma	SMARCA4	fixed reference
+Melanoma	BICRA	top TCGA rho
+Melanoma	SMARCA2	top DepMap rho
