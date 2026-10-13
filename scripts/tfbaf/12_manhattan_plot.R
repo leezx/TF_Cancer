@@ -25,6 +25,17 @@ for (s in c("TCGA", "DepMap", "Organoid")) {
 fwrite(x, file.path(out, "TF_BAF_core_correlation.tsv"), sep = "\t", na = "NA")
 fwrite(bgs, file.path(out, "qc", "background_mean_sd.tsv"), sep = "\t")
 YVAR <- if (length(commandArgs(TRUE))) commandArgs(TRUE)[1] else "z"   # "z" (default) or "rho"
+# optional 2nd arg "internal": organoid panel from DepMap internal 25Q2 3DO screens (not public; output to DATA only)
+INTERNAL <- length(commandArgs(TRUE)) > 1 && commandArgs(TRUE)[2] == "internal"
+if (INTERNAL) {
+  idir <- file.path(root, "bulkRNAseq", "UCSC_Toil_TCGA_GTEx", "result", "2026-10-13_tf_cancer_tfbaf_v0.3_internal3D")
+  io <- fread(file.path(idir, "Organoid_internal25Q2_TF_BAF_correlation.tsv"))
+  ib <- fread(file.path(idir, "organoid_internal25Q2_background_mean_sd.tsv"))
+  x[, c("Organoid_n", "Organoid_rho", "Organoid_q", "Organoid_z") := NA]
+  i <- match(paste(x$pair, x$BAF), paste(io$pair, io$BAF))
+  x[, `:=`(Organoid_n = io$n[i], Organoid_rho = io$rho[i], Organoid_q = io$q[i], Organoid_z = io$z[i])]
+  fig <- idir
+}
 pair_order <- c("CRC", "AML", "Prostate", "Breast", "Melanoma")
 tf_of <- setNames(c("SOX9", "SPI1", "FOXA1", "GATA3", "SOX10"), pair_order)
 cls_order <- c("ATPase", "core", "cBAF-specific", "PBAF-specific", "ncBAF-specific")
@@ -38,19 +49,19 @@ long[, y := if (YVAR == "z") z else rho]
 long[, col := match(pair, pair_order)]
 # deterministic jitter: members spread across the column in BAF-list order
 long[, xpos := col + (match(BAF, unique(x$BAF)) - 14.5) / 14.5 * 0.32]
-long[, sig := !is.na(q) & q < 0.05]
+long[, sig := factor(!is.na(q) & q < 0.05, levels = c(TRUE, FALSE))]
 long[, class := factor(class, levels = cls_order)]
 long[, label := ""]
-long[sig & rho > 0, label := fifelse(frank(-y, ties.method = "first") <= TOP_N, BAF, ""), by = .(source, pair)]
+long[sig == "TRUE" & rho > 0, label := fifelse(frank(-y, ties.method = "first") <= TOP_N, BAF, ""), by = .(source, pair)]
 
 titles <- c(TCGA = "TCGA tumors: TF–BAF expression correlation (log2 TPM+1)",
             DepMap = "DepMap 2D cell lines: TF–BAF dependency correlation (CRISPR gene effect)",
-            Organoid = "DepMap 3D organoids: TF–BAF dependency correlation (CRISPR LFC)")
+            Organoid = if (INTERNAL) "DepMap 3D organoids (internal 25Q2, 3DO screens): TF–BAF dependency correlation (Chronos gene effect)" else "Sanger organoid biobank: TF–BAF dependency correlation (CRISPR LFC)")
 ylim <- if (YVAR == "z") { m <- ceiling(max(abs(long$z), na.rm = TRUE)); c(-m - 0.5, m + 0.5) } else c(-0.9, 0.9)
 panel <- function(s) {
   d <- long[source == s]
   nn <- d[, .(n = n[1]), by = .(pair, col)]
-  nn[, txt := fifelse(is.na(n), "not available", paste0("n = ", n))]
+  nn[, txt := fifelse(is.na(n), "not available", paste0("n = ", n, fifelse(n < 10, " (underpowered)", "")))]
   ggplot(d[!is.na(y)], aes(xpos, y)) +
     geom_hline(yintercept = 0, linewidth = 0.3, colour = "grey50") +
     geom_vline(xintercept = 1.5:4.5, linewidth = 0.2, colour = "grey85") +
@@ -58,7 +69,7 @@ panel <- function(s) {
     geom_text_repel(aes(label = label, colour = class), size = 2.4, min.segment.length = 0, segment.size = 0.25,
                     box.padding = 0.3, max.overlaps = Inf, seed = 1, show.legend = FALSE) +
     geom_text(data = nn, aes(x = col, y = ylim[1] * 0.94, label = txt), size = 2.2, colour = "grey35", inherit.aes = FALSE) +
-    scale_shape_manual(values = c(`TRUE` = 16, `FALSE` = 1), labels = c(`TRUE` = "q < 0.05", `FALSE` = "n.s."), name = NULL, drop = FALSE) +
+    scale_shape_manual(values = c(`TRUE` = 16, `FALSE` = 1), labels = c(`TRUE` = "q < 0.05", `FALSE` = "n.s."), name = NULL, drop = FALSE, limits = c("TRUE", "FALSE")) +
     scale_colour_manual(values = cls_col, name = "BAF class", drop = FALSE) +
     scale_x_continuous(breaks = 1:5, labels = lab_x, limits = c(0.5, 5.5), expand = c(0, 0)) +
     scale_y_continuous(limits = ylim) +
@@ -69,10 +80,10 @@ panel <- function(s) {
 p <- (panel("TCGA") / panel("DepMap") / panel("Organoid")) +
   plot_layout(guides = "collect") +
   plot_annotation(caption = sprintf(paste0(if (YVAR == "z") "y = (ρ − mean) / SD of the TF's ρ with all genes in the same dataset (comparable across pairs and datasets).\n" else "",
-                                           "Each point is one of 28 BAF members. Labels: top %d significant positive members per column (q < 0.05, BH within pair). ",
+                                           "Each point is one of 28 BAF members. Labels: top %d significant positive members per column (q < 0.05, BH within pair).\n",
                                            "Prostate DepMap n = 10 (underpowered). Association only; not binding or recruitment."), TOP_N),
                   theme = theme(plot.caption = element_text(size = 6, hjust = 0)))
-fn <- if (YVAR == "z") "TFBAF_manhattan_z" else "TFBAF_manhattan_rho"
+fn <- paste0(if (YVAR == "z") "TFBAF_manhattan_z" else "TFBAF_manhattan_rho", if (INTERNAL) "_internal3D" else "")
 ggsave(file.path(fig, paste0(fn, ".pdf")), p, width = 7.5, height = 9, device = cairo_pdf)
 ggsave(file.path(fig, paste0(fn, ".png")), p, width = 7.5, height = 9, dpi = 200)
 print(bgs)
