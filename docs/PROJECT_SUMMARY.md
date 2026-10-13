@@ -58,10 +58,12 @@ Step 2 (`docs/STEP2_TF_COEXPRESSION_RESULTS.md`, in review):
 - Proliferation coupling is concentrated in about 16 TFs (E2F/MYB/FOXM1).
   Only 9 of the 358 Step 1 recurrent-up TFs are recurrently coupled, so a
   focused 349-TF Fig 1B view is available.
-- Recurrent cross-organ TF co-expression is dominated by chr19 KZFP
-  clusters, global chromatin-regulator axes, and a stromal, endothelial
-  and immune module that survives purity adjustment. No pan-cancer
-  lineage module was found.
+- Recurrent cross-organ TF co-expression is dominated by a module
+  enriched for chr19 KZFP genes, modules enriched for broadly expressed
+  and chromatin-regulator TFs, and a stromal, endothelial and
+  immune-associated module that persists after adjustment. No pan-cancer
+  lineage module was found; the recurrence criterion is insensitive to
+  lineage-restricted programs.
 - Lineage structure needs a lineage-specificity statistic (next design).
 - SOX9 has no edge in COADREAD at the frozen threshold.
 

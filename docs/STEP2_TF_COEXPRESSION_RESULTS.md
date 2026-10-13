@@ -32,7 +32,7 @@ bulk co-expression can still reflect the non-malignant composition (§4).
 |---|---|
 | Purity coverage | 88–97% in 14 cohorts. KIRC (62%) and LAML (64%) are not primary-eligible; they contribute prolif-only and unadjusted results only |
 | ρ(purity, proliferation score) | −0.16 (KIRC) to 0.60 (GBM) |
-| Score vs MKI67 (held out) | ≥ 0.7 in 13 of 16 cohorts. **Misses: COADREAD 0.65, HNSC 0.67, LUSC 0.54** (see below) |
+| Score vs MKI67 (held out) | ≥ 0.7 in 13 of 16 cohorts. **QC expectation not met in 3 cohorts: COADREAD 0.65, HNSC 0.67, LUSC 0.54** (see below) |
 | Adjustment check, E2F1–FOXM1 | Attenuated in every cohort. For example: COADREAD 0.53 → 0.16; LUAD 0.74 → 0.23; LUSC 0.47 → 0.17 (unadjusted → primary) |
 | Positive controls | BRCA FOXA1–GATA3: primary 0.64 (edge). LUSC TP63–SOX2: 0.57 (edge). LIHC HNF1A–HNF4A: unadjusted 0.46 (edge) → primary 0.33 (no edge). COADREAD CDX1–CDX2: unadjusted 0.31 → primary 0.29 (no edge in any analysis) |
 | Permutation null (20 per cohort and analysis) | Mean ≤ 0.05 edges, max 1 (in 5 of 46 cohort × analysis runs), against 8,130–63,674 observed positive primary edges per cohort |
@@ -42,6 +42,8 @@ bulk co-expression can still reflect the non-malignant composition (§4).
 - MKI67 is a single noisy marker in these cohorts. For example, in
   COADREAD TOP2A–MKI67 is 0.54, while the score vs TOP2A is 0.71.
 - The score is unchanged. The design says "investigated, not waived".
+- The TOP2A check explains COADREAD in part. It does not fully resolve
+  HNSC and LUSC (review N4).
 - It is a deviation from the expected ≥ 0.7. It is recorded here and in
   §6.
 
@@ -64,8 +66,10 @@ bulk co-expression can still reflect the non-malignant composition (§4).
   - Their median purity-adjusted ρ with the score is 0.03.
   - 28 have a median ρ ≥ 0.3.
 - So the proliferation TFs lead the Step 1 ranking, but most of the 358
-  recurrently-up TFs do not track proliferation across tumors at this
-  threshold.
+  recurrently-up TFs are not recurrently proliferation-coupled at the
+  preset threshold. They are not "non-proliferative TFs": 28 still have a
+  median ρ ≥ 0.3 (review N5). The figure keeps its file name, but the
+  focused view is a binary threshold call.
 - The focused Fig 1B view therefore keeps **349 TFs**
   (`TF_focused_fig1B.tsv`, `figures/Fig1B_focused_nonproliferative_TFs.pdf`).
 - The proliferation heatmap
@@ -90,25 +94,29 @@ bulk co-expression can still reflect the non-malignant composition (§4).
 - At the frozen thresholds (|ρ| ≥ 0.4, ≥ 3 organ systems), the network
   has 1,154 TFs and 48,976 edges. Fig 3B is a hairball.
 - The cluster picture is not informative on its own. The module table
-  and the full edge lists carry the result (review N5).
+  and the full edge lists carry the result (design review N5).
+- For a main figure, a module-level summary or collapsed network should
+  replace the full network, which becomes supplementary (review N6).
 
 **Modules** (Leiden, preset parameters; 6 with ≥ 5 TFs):
 
 | Module | TFs | Content | Reading |
 |---|---|---|---|
-| 4 | 293 | 271 ZNF/KZFP; 69% on chr19 | Clustered KRAB-ZNF genes: most likely shared genomic and chromatin regulation of the chr19 clusters, not a lineage program |
-| 1 | 283 | ZNF787, MBD3, ZNF524…; 23% chr19; **140 of the Fig 1B TFs** | Broadly expressed, GC-rich TFs; a global axis |
-| 2 | 326 | ASH1L, BPTF, KMT2A, MGA, ZKSCAN8 | Large chromatin regulators; a global "transcriptional capacity" axis |
-| 3 | 228 | TCF4, ZEB1/2, PRRX1 (stromal); ETS1, FLI1, ERG, HEYL, EPAS1 (endothelial); SPI1, IKZF1, LYL1, IRF1 (immune) | **Microenvironment composition that survives ABSOLUTE purity adjustment** |
-| 5, 6 | 10, 6 | HOXA cluster, HOXC cluster | Co-located gene clusters |
+| 4 | 293 | 271 ZNF/KZFP; 69% on chr19 | A recurrent module enriched for chr19 KZFP genes, possibly reflecting shared genomic organization and transcriptional regulation. Enrichment is shown; mechanism is not |
+| 1 | 283 | ZNF787, MBD3, ZNF524…; 23% chr19; **140 of the Fig 1B TFs** | Module enriched for broadly expressed TFs (descriptive; no enrichment or eigengene test yet) |
+| 2 | 326 | ASH1L, BPTF, KMT2A, MGA, ZKSCAN8 | Module enriched for chromatin regulators (descriptive) |
+| 3 | 228 | TCF4, ZEB1/2, PRRX1 (stromal); ETS1, FLI1, ERG, HEYL, EPAS1 (endothelial); SPI1, IKZF1, LYL1, IRF1 (immune) | **A stromal, endothelial and immune-associated module that persists after purity and proliferation adjustment.** Consistent with residual non-malignant composition. ABSOLUTE does not separate fibroblast, endothelial, myeloid and lymphoid fractions; composition as the cause needs deconvolution or single-cell data |
+| 5, 6 | 10, 6 | HOXA cluster, HOXC cluster | Co-located gene clusters (same limit as M4) |
 
 **No module corresponds to a tumor-lineage TF program.**
 - Lineage pairs exist as edges. FOXA1–GATA3 and TP63–SOX2 are edges.
-- But they are not separated by recurrence across organ systems, because
-  lineage programs are by definition not shared across organs.
-- So recurrence across organ systems selects global, genomic-cluster and
-  microenvironment axes. This is the main Step 2 result for the network
-  question.
+- The cross-organ recurrence criterion is insensitive to
+  lineage-restricted programs. Lineage pairs can still recur across organs,
+  but this criterion does not favour them (review: not "by construction").
+- Within this framework, recurrence favours broadly shared programs:
+  genomic clusters, broadly expressed and chromatin-regulator TFs, and the
+  microenvironment-associated module. This is the main Step 2 result for
+  the network question.
 - Lineage-level structure belongs to the lineage-specificity axis (next
   design, out of scope here).
 
@@ -176,15 +184,30 @@ used for recurrence.
 - **Supported.**
   - Adjusting for purity and proliferation removes the cell-cycle
     covariance (E2F1–FOXM1). The controls behave.
-  - A stromal, endothelial and immune module persists after purity
-    adjustment. Bulk composition is not fully removed by ABSOLUTE purity.
+  - A stromal, endothelial and immune-associated module persists after
+    purity and proliferation adjustment. This is consistent with residual
+    composition, not a proof of it.
 - **Not established.**
   - Any regulatory or physical TF–TF relation.
-  - A shared pan-cancer lineage TF module. The recurrence design cannot
-    find one, by construction.
+  - A shared pan-cancer lineage TF module. None was found, and the
+    recurrence criterion is insensitive to lineage-restricted programs.
   - SOX9 partners in CRC: SOX9 has no edge at the frozen threshold.
 - **For the next design** (lineage axis + Step 3):
   - Lineage programs need a within-organ or lineage-specificity
     statistic, not cross-organ recurrence.
   - The microenvironment module argues for a cell-type deconvolution
     covariate or a single-cell check (Step 5).
+
+## 8. Review
+
+- Round 10 (PR #8, head 4eb4fb1): **APPROVE**, 0 blocking.
+  - N1: M4 and M5/M6 are enrichment, not mechanism.
+  - N2: the M3 wording; composition needs deconvolution or single-cell
+    data.
+  - N3: M1 and M2 have descriptive names.
+  - N4: "QC expectation not met in 3 cohorts".
+  - N5: "not recurrently coupled", not "non-proliferative".
+  - N6: use a module-level main figure.
+  - Also: not "by construction"; the recurrence criterion is insensitive
+    to lineage-restricted programs.
+  - All are folded into the wording above.
