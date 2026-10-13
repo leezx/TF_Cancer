@@ -20,7 +20,7 @@ Pan-cancer Lineage-defining TF Atlas (`Tasks/Task-1.md`):
 
 The input data are inventoried and complete: Toil TCGA+GTEx counts and
 TPM, DepMap 26Q1, and the Lambert TFs, md5-verified on local and Argos.
-The Step 1 design is drafted and awaiting review. No analysis has run.
+The Step 1 design was approved after 2 review rounds (PR #1). No analysis has run.
 Infrastructure is ready; scientific progress is still 0.
 
 ## Roadmap and progress (100% = all rows done)
@@ -28,7 +28,7 @@ Infrastructure is ready; scientific progress is still 0.
 | Step | Workstream | Weight | Status | Blocker | Answers |
 |---|---|---:|---|---|---|
 | 0 | Data inventory + gap fill (hot data list) | 5% | **done** | — | infra |
-| 1 | TCGA pan-cancer TF DE atlas (Figs 1–2) | 20% | design drafted | review conversation not yet set up | Q1 |
+| 1 | TCGA pan-cancer TF DE atlas (Figs 1–2) | 20% | design APPROVED (PR #1, 2 review rounds) | merge confirmation; recount3 LUAD download | Q1 |
 | 2 | Within-cancer TF co-expression network (Fig 3) | 10% | not started | Step 1 | Q1 |
 | 3 | Curated TF functional annotation (lineage/pioneer/etc.) | 10% | not started | — | Q1/Q3 |
 | 4 | DepMap patient-vs-cell-line concordance and model table (Fig 5) | 10% | not started | Step 1 | Q2/Q3 |
