@@ -123,9 +123,11 @@ TF universe size is reported.
   where the TF is analysed, and in ≥ 3 cohorts.
 
 These are preset annotation thresholds, not biological boundaries.
-Coupled TFs are labelled, not removed. Both statistical definitions from
-§3.5 (purity-adjusted for primary-eligible cohorts, proliferation-only
-sensitivity for all cohorts) are reported separately. For each, the
+Coupled TFs are labelled, not removed. Two definitions are reported
+separately: purity-adjusted (primary-eligible cohorts, §3.5) and
+unadjusted (all cohorts). There is no "proliferation-only" variant here,
+because the score is itself the associated variable and is never
+residualized on itself (round 5 N1). For each, the
 outputs give n_evaluable, n_coupled and n_coupled/n_evaluable (review N3).
 
 Interpretation (review B3): the score is derived from the same expression
@@ -262,7 +264,8 @@ BRCA only, not blocking other cohorts:
 Repo (`results/02_tf_coexpression/`, small TSV):
 
 - `cohort_qc.tsv`: n tumors, n with purity, TF universe size, ρ(purity,
-  prolif), ρ(score, MKI67), permutation edge ratio, edge counts.
+  prolif), ρ(score, MKI67), primary eligibility, observed and permuted
+  (mean, max) edge counts per analysis, edge counts.
 - `proliferation_signature_genes.tsv` (frozen in this PR).
 - `TF_proliferation_association.tsv`: TF, cohort, analysis, ρ, q, coupled.
 - `TF_proliferation_summary.tsv`: per TF and definition: n_evaluable,
@@ -340,3 +343,7 @@ Results doc: `docs/STEP2_TF_COEXPRESSION_RESULTS.md`.
     - Q3: add a BRCA PAM50 sensitivity → §3.9.
     - Q4: any cohort, with consistency info.
     - Q5: accept ABSOLUTE; check coverage, especially LAML.
+- **Round 5** (rev 2, head 6a8f136): **APPROVE**, 0 blocking issues.
+  - N1: the TF–score association has no proliferation-only variant → fixed
+    in §3.4.
+  - N2: `cohort_qc.tsv` still mentioned a permutation ratio → fixed in §5.
