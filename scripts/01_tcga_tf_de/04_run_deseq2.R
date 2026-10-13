@@ -1,11 +1,12 @@
 #!/usr/bin/env Rscript
 # Design §3.3–3.5: one DESeq2 contrast for one cohort.
 # Usage (repo root):
-#   Rscript scripts/01_tcga_tf_de/04_run_deseq2.R <cohort> <C1|C2|C3> [toil|recount3] [production|matched|full]
+#   Rscript scripts/01_tcga_tf_de/04_run_deseq2.R <cohort> <C1|C2|C3> [toil|recount3] [production|matched|full|read_only]
 # production = Toil, design sample set (default)
 # matched    = Toil or recount3 restricted to the same TCGA samples and the shared
 #              bare-Ensembl gene universe (validation, primary; C1 only)
 # full       = recount3 with all of its eligible samples (validation, secondary; C1 only)
+# read_only  = Toil COADREAD C1 restricted to READ (design §5.7 sensitivity)
 source("scripts/01_tcga_tf_de/common.R")
 suppressPackageStartupMessages({ library(DESeq2); library(apeglm); library(BiocParallel) })
 
@@ -15,8 +16,9 @@ k <- a[[1]]; ctr <- a[[2]]
 src <- if (length(a) >= 3) a[[3]] else "toil"
 set <- if (length(a) >= 4) a[[4]] else "production"
 stopifnot(ctr %in% c("C1", "C2", "C3"), src %in% c("toil", "recount3"),
-          set %in% c("production", "matched", "full"),
-          !(src == "recount3" && set == "production"), set == "production" || ctr == "C1")
+          set %in% c("production", "matched", "full", "read_only"),
+          set != "read_only" || (k == "COADREAD" && src == "toil"),
+          !(src == "recount3" && set %in% c("production", "read_only")), set == "production" || ctr == "C1")
 th <- cfg$thresholds
 nslots <- as.integer(Sys.getenv("NSLOTS", "1"))
 bp <- if (nslots > 1) MulticoreParam(nslots) else SerialParam()
@@ -72,7 +74,8 @@ if (ctr == "C3") s <- s[group %in% c("tumor", "normal") & in_pair == TRUE]
 toil_counts <- toil$counts
 rownames(toil_counts) <- bare_id(rownames(toil_counts))
 
-if (set == "production") {
+if (set == "read_only") s <- s[project == "READ"]
+if (set %in% c("production", "read_only")) {
   counts <- toil_counts[, s$sample, drop = FALSE]
 } else {
   r3 <- load_recount3()
@@ -91,7 +94,7 @@ if (set == "production") {
 s[, condition := factor(fifelse(group == "tumor", "tumor", "ref"), levels = c("ref", "tumor"))]
 if (anyDuplicated(s[condition == "tumor", patient]) || anyDuplicated(s[condition == "ref", patient]))
   stop("duplicate patient within a condition")
-form <- if (ctr == "C3") ~ patient + condition else if (k == "COADREAD" && ctr == "C1") ~ project + condition else ~ condition
+form <- if (ctr == "C3") ~ patient + condition else if (k == "COADREAD" && ctr == "C1" && set != "read_only") ~ project + condition else ~ condition
 s[, patient := factor(patient)]; s[, project := factor(project)]
 n_t <- sum(s$condition == "tumor"); n_r <- sum(s$condition == "ref")
 
