@@ -22,7 +22,11 @@ The input data are inventoried and complete: Toil TCGA+GTEx counts and
 TPM, DepMap 26Q1, and the Lambert TFs, md5-verified on local and Argos.
 Step 1 is closed: design PR #1 and results PR #2 were merged after 3
 review rounds, and all gates passed. Step 2 (within-cancer TF
-co-expression + proliferation axis): design approved (PR #3).
+co-expression + proliferation axis): design approved (PR #3); computed
+2026-10-13, results in review (`docs/STEP2_TF_COEXPRESSION_RESULTS.md`).
+TF–BAF module (outside the 100%): v0.1 merged (PR #4, #5); v0.2
+(organoids, DepMap context, background percentile) design merged (PR #6),
+results in review (PR #7).
 
 ## Roadmap and progress (100% = all rows done)
 
@@ -30,7 +34,7 @@ co-expression + proliferation axis): design approved (PR #3).
 |---|---|---:|---|---|---|
 | 0 | Data inventory + gap fill (hot data list) | 5% | **done** | — | infra |
 | 1 | TCGA pan-cancer TF DE atlas (Figs 1–2) | 20% | **done** (PR #1, #2) | — | Q1 |
-| 2 | Within-cancer TF co-expression network + proliferation axis (Fig 3) | 10% | design APPROVED (PR #3, R4–R5) | merge + ABSOLUTE/PAM50 download (user OK) | Q1 |
+| 2 | Within-cancer TF co-expression network + proliferation axis (Fig 3) | 10% | computed; results in review | results review + merge | Q1 |
 | 3 | Curated TF functional annotation (lineage/pioneer/etc.) | 10% | not started | — | Q1/Q3 |
 | 4 | DepMap patient-vs-cell-line concordance and model table (Fig 5) | 10% | not started | Step 1 | Q2/Q3 |
 | 5 | scRNA malignant-vs-normal pseudobulk validation (Fig 4) | 20% | not started | dataset selection | Q2 |
@@ -48,6 +52,20 @@ Step 1 (`docs/STEP1_TCGA_TF_DE_RESULTS.md`, frozen v0.1):
   answered**: canonical lineage TFs are expressed in their tumors but often
   not up vs normal, so "recurrently up" is not the same as
   "lineage-defining".
+
+Step 2 (`docs/STEP2_TF_COEXPRESSION_RESULTS.md`, in review):
+
+- Proliferation coupling is concentrated in about 16 TFs (E2F/MYB/FOXM1).
+  Only 9 of the 358 Step 1 recurrent-up TFs are recurrently coupled, so a
+  focused 349-TF Fig 1B view is available.
+- Recurrent cross-organ TF co-expression is dominated by a module
+  enriched for chr19 KZFP genes, modules enriched for broadly expressed
+  and chromatin-regulator TFs, and a stromal, endothelial and
+  immune-associated module that persists after adjustment. No pan-cancer
+  lineage module was found; the recurrence criterion is insensitive to
+  lineage-restricted programs.
+- Lineage structure needs a lineage-specificity statistic (next design).
+- SOX9 has no edge in COADREAD at the frozen threshold.
 
 ## What's still open
 
