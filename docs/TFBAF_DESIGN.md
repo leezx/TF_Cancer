@@ -1,8 +1,7 @@
 # TF–BAF module: TF–BAF co-expression (TCGA) and co-dependency (DepMap) in five TF–cancer pairs — design
 
-- Status: **draft for review** (design only). The BAF member list is frozen
-  in this PR from annotation; no expression or dependency data have been
-  analysed.
+- Status: **approved v0.1** (review round 6: APPROVE, 0 blocking; notes
+  folded in, §8). The BAF member list is frozen from annotation.
 - Requested by the user on 2026-10-13. Planned with ChatGPT in the project
   review conversation; round 4 review N7 says it must stay a **separate
   module** from Step 2.
@@ -68,6 +67,9 @@ Out of scope:
   (Lambert TFs, BAF-associated only).
 - ARID2, DPF1 and DPF3 are also in the Lambert TF list. This is recorded
   as `in_lambert_TF` and does not exclude them.
+- Membership flags are a structural annotation. Some core subunits are
+  context-dependent, so the flags do not show that a TF depends on one
+  specific subcomplex (review N3).
 
 ### 3.2 TCGA expression correlation (primary)
 
@@ -106,7 +108,12 @@ Out of scope:
 - Context, reported per pair: the TF's gene-effect distribution (median,
   fraction < −0.5) and each BAF member's median effect. A correlation
   between two non-dependent genes means little; such pairs are flagged
-  `TF_not_dependency` if the TF's median effect is > −0.3.
+  `TF_not_dependency` if the TF's median effect is > −0.3. TF dependency
+  prevalence (fraction of models < −0.5) is always reported alongside. A
+  correlation without TF dependency is not read as functional coupling
+  (review N2).
+- Prostate's ρ values are reported but never used to rank or interpret
+  (review N1).
 
 ### 3.5 Figures
 
@@ -115,7 +122,9 @@ Out of scope:
    - Per pair, 3 BAF members: SMARCA4 (fixed reference), the member with
      the highest TCGA ρ, and the member with the highest DepMap ρ (or the
      next-ranked if a member repeats).
-   - Each member is shown in a TCGA panel and a DepMap panel.
+   - Each member is shown in a TCGA panel and a DepMap panel. A selected
+     member that misses the call thresholds is still shown, labelled
+     `nonsignificant` (review N4).
    - One point is one tumor or one model. Each panel shows ρ, q and n; the
      trend line is for display only.
 2. **Summary dual-evidence dot plot** (Fig TFBAF-2):
@@ -126,6 +135,8 @@ Out of scope:
    - Members supported by both data types are listed in the caption. With
      no shared support, the figure says so; it does not search for
      agreement.
+   - Cross-pair comparison uses continuous ρ, n and q, not the count of
+     positive calls, because power differs by n (review Q3).
 
 ## 4. Validity checks
 
@@ -191,3 +202,17 @@ Results doc: `docs/TFBAF_RESULTS.md`.
   user asked for a simple analysis) with purity-adjusted as sensitivity.
   Is that acceptable, given that BAF subunits are broadly expressed and
   purity can drive TF–BAF correlations?
+
+## 8. Review history
+
+- **Round 6** (head 5ba809e): **APPROVE**, 0 blocking.
+  - N1: prostate underpowered → §3.4.
+  - N2: report TF dependency prevalence → §3.4.
+  - N3: membership flags are annotation only → §3.1.
+  - N4: show nonsignificant selected members → §3.5.
+  - Q1: run cell lines now; organoids later, as a separate validation never
+    merged with 2D gene effects.
+  - Q2: SKCM primary is the main analysis, metastatic a sensitivity.
+  - Q3: thresholds accepted; compare continuous ρ, n and q across pairs.
+  - Q4: raw Spearman is primary; if the purity-adjusted value reverses or
+    strongly attenuates, flag it in the results.
