@@ -1,0 +1,38 @@
+OncotreeLineage	ModelID	ScreenID	OncotreePrimaryDisease	ModelType	pair	TF
+Breast	ACH-002883	SC-002883.CD01	Invasive Breast Carcinoma	Organoid	Breast	GATA3
+Breast	ACH-002884	SC-002884.CD01	Invasive Breast Carcinoma	Organoid	Breast	GATA3
+Breast	ACH-002885	SC-002885.CD01	Invasive Breast Carcinoma	Organoid	Breast	GATA3
+Breast	ACH-002947	SC-002947.CD01	Invasive Breast Carcinoma	Organoid	Breast	GATA3
+Breast	ACH-002948	SC-002948.CD01	Invasive Breast Carcinoma	Organoid	Breast	GATA3
+Breast	ACH-002950	SC-002950.CD01	Invasive Breast Carcinoma	Organoid	Breast	GATA3
+Breast	ACH-002951	SC-002951.CD01	Invasive Breast Carcinoma	Organoid	Breast	GATA3
+Breast	ACH-003030	SC-003030.CD01	Invasive Breast Carcinoma	Organoid	Breast	GATA3
+Breast	ACH-003130	SC-003130.CD01	Invasive Breast Carcinoma	Organoid	Breast	GATA3
+Breast	ACH-003216	SC-003216.CD01	Invasive Breast Carcinoma	Organoid	Breast	GATA3
+Breast	ACH-003359	SC-003359.CD01	Invasive Breast Carcinoma	Organoid	Breast	GATA3
+Breast	ACH-003360	SC-003360.CD01	Invasive Breast Carcinoma	Organoid	Breast	GATA3
+Breast	ACH-003374	SC-003374.CD01	Invasive Breast Carcinoma	Organoid	Breast	GATA3
+Breast	ACH-003704	SC-003704.CD01	Invasive Breast Carcinoma	Organoid	Breast	GATA3
+Bowel	ACH-002839	SC-002839.CD01	Colorectal Adenocarcinoma	Organoid	CRC	SOX9
+Bowel	ACH-002841	SC-002841.CD02	Colorectal Adenocarcinoma	Organoid	CRC	SOX9
+Bowel	ACH-003332	SC-003332.CD01	Colorectal Adenocarcinoma	Organoid	CRC	SOX9
+Bowel	ACH-003334	SC-003334.CD02	Colorectal Adenocarcinoma	Organoid	CRC	SOX9
+Bowel	ACH-003337	SC-003337.CD01	Colorectal Adenocarcinoma	Organoid	CRC	SOX9
+Bowel	ACH-003345	SC-003345.CD01	Colorectal Adenocarcinoma	Organoid	CRC	SOX9
+Bowel	ACH-003346	SC-003346.CD01	Colorectal Adenocarcinoma	Organoid	CRC	SOX9
+Bowel	ACH-003348	SC-003348.CD01	Colorectal Adenocarcinoma	Organoid	CRC	SOX9
+Bowel	ACH-003386	SC-003386.CD01	Colorectal Adenocarcinoma	Organoid	CRC	SOX9
+Bowel	ACH-003387	SC-003387.CD01	Colorectal Adenocarcinoma	Organoid	CRC	SOX9
+Bowel	ACH-003388	SC-003388.CD01	Colorectal Adenocarcinoma	Organoid	CRC	SOX9
+Bowel	ACH-003390	SC-003390.CD01	Colorectal Adenocarcinoma	Organoid	CRC	SOX9
+Bowel	ACH-003391	SC-003391.CD01	Colorectal Adenocarcinoma	Organoid	CRC	SOX9
+Bowel	ACH-003400	SC-003400.CD01	Colorectal Adenocarcinoma	Organoid	CRC	SOX9
+Bowel	ACH-003401	SC-003401.CD01	Colorectal Adenocarcinoma	Organoid	CRC	SOX9
+Bowel	ACH-003402	SC-003402.CD01	Colorectal Adenocarcinoma	Organoid	CRC	SOX9
+Prostate	ACH-002878	SC-002878.CD02	Prostate Adenocarcinoma	Organoid	Prostate	FOXA1
+Prostate	ACH-002879	SC-002879.CD01	Prostate Adenocarcinoma	Organoid	Prostate	FOXA1
+Prostate	ACH-002991	SC-002991.CD02	Prostate Neuroendocrine Carcinoma	Organoid	Prostate	FOXA1
+Prostate	ACH-003233	SC-003233.CD01	Prostate Adenocarcinoma	Organoid	Prostate	FOXA1
+Prostate	ACH-003235	SC-003235.CD01	Prostate Adenocarcinoma	Organoid	Prostate	FOXA1
+Prostate	ACH-003236	SC-003236.CD01	Prostate Adenocarcinoma	Organoid	Prostate	FOXA1
+Prostate	ACH-003237	SC-003237.CD01	Prostate Adenocarcinoma	Organoid	Prostate	FOXA1
