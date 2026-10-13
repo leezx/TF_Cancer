@@ -1,0 +1,3 @@
+analysis	n	n_pos_edges	n_pos_edges_BRCA_primary	jaccard_vs_primary	rho_FOXA1_GATA3
+"pam50_adjusted"	985	25085	28215	0.772766580190248	0.376234484584061
+"luma_only"	528	41028	28215	0.599958408429225	0.399470097845896
