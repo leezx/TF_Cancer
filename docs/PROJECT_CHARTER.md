@@ -25,22 +25,41 @@ repeat what they already say, only what's specific to this pattern.
 ## Part 1 — Fill in for this project
 
 - **Project name / repo**: `TF_Cancer` — GitHub repo
-  `github.com/leezx/TF_Cancer`.
-- **Founding question(s)**: `<the specific scientific question(s) this
-  project exists to answer — one or two sentences, precise enough that
-  "done" is recognizable>`.
-- **Definition of 100%**: `<what "the original scope is complete" means
-  concretely — e.g. "founding question answered with a locked, reviewed
-  gene signature and a final results doc", not a vague aspiration>`.
-- **Explicit non-goals / deferred scope**: `<anything a reader might
-  assume is in scope but isn't — list it so it doesn't get silently
-  assumed back into scope later>`.
-- **ChatGPT review conversation**: `<URL of the single persistent
-  ChatGPT conversation/tab used for every PR review in this project —
-  create it once, then reuse it for the life of the project (see
-  AGENTS.md rule 11)>`.
-- **Compute location**: `<cluster name, e.g. Argos — or "local" if this
-  project genuinely has no heavy compute; state which explicitly>`.
+  `github.com/leezx/TF_Cancer`. Task brief: `Tasks/Task-1.md`.
+- **Founding question(s)** (Pan-cancer Lineage-defining TF Atlas; supports
+  generalizing the SOX9–BAF mechanism beyond CRC):
+  1. **Q1** — Are lineage-defining TFs recurrently upregulated across
+     different cancers (TCGA tumor vs normal)?
+  2. **Q2** — Are these TFs expressed/co-expressed within malignant cells,
+     rather than reflecting bulk tissue composition?
+  3. **Q3** — Which TFs are plausible candidates for BAF-dependent enhancer
+     remodeling, and in which experimentally tractable models?
+- **Definition of 100%**: all three questions answered with locked,
+  reviewed results docs — (Q1) a complete TF × cancer DE atlas over the
+  full Lambert TF universe and 16 TCGA cohorts, plus within-cancer TF
+  co-expression; (Q2) malignant-vs-normal pseudobulk validation in the
+  priority cancers with scRNA data, plus TCGA-vs-DepMap expression
+  concordance; (Q3) a tiered (A/B/C) candidate TF list integrating lineage
+  annotation, chromatin (TCGA ATAC) evidence, DepMap expression and CRISPR
+  dependency, with Figures 1–6 and `docs/PROJECT_SUMMARY.md` at 100%.
+  Step roadmap and weights: `docs/PROJECT_SUMMARY.md`.
+- **Explicit non-goals / deferred scope**:
+  - Wet-lab validation (BAF recruitment, degradation, perturbation) — the
+    project ends at a prioritized candidate list.
+  - TAD / Hi-C / Micro-C analysis and the TAD hypothesis A vs B question
+    (Task-1 §八) — deferred until the candidate list exists and the PI
+    clarifies which hypothesis is being tested.
+  - Patient-derived organoid RNA-seq integration — optional, only if a
+    suitable dataset is identified; not required for 100%.
+  - Proving SOX9 is pan-cancer — SOX9 is a CRC reference TF only; other
+    cancers' candidates come from the data.
+  - Merging TCGA, GTEx and DepMap into one DE model.
+- **ChatGPT review conversation**: TBD — to be created at the first review
+  (Step 1 design) and reused for every PR afterwards.
+- **Compute location**: Argos (`argos.dfci.harvard.edu`, SGE `qsub`).
+  R env: `/home/zz950/softwares/miniconda3/envs/r4p3/bin/Rscript` with
+  `R_LIBS_USER=/home/zz950/softwares/R_lib_4` (DESeq2 1.38.1, apeglm,
+  ashr, limma). Data inputs: `DATA/HotData/TF_Cancer_PanCancer_TF_Atlas.md`.
 
 ---
 

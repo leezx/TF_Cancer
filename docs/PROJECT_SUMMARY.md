@@ -1,64 +1,61 @@
 # Project Summary — TF_Cancer
 
-> Update this file at every major milestone, and always when the
-> project reaches its Part-1-defined 100%. This is the staged
-> deliverable report — the file a new reader (human or agent) should be
-> pointed to first, before `Worklog.md`'s full chronological detail.
-> Keep it structured and current; prune stale detail into `Worklog.md`
-> rather than letting this file grow without bound.
+> Staged deliverable report. Update at every major milestone. Detail lives
+> in `Worklog.md`.
 
 ## Founding question(s)
 
-<Restate from `docs/PROJECT_CHARTER.md` Part 1, verbatim or near-
-verbatim — this file should stand alone without requiring the charter
-open alongside it.>
+Pan-cancer Lineage-defining TF Atlas (`Tasks/Task-1.md`):
+
+1. **Q1**: Are lineage-defining TFs recurrently upregulated across cancers?
+2. **Q2**: Are they expressed and co-expressed within malignant cells, not
+   just a reflection of bulk tissue composition?
+3. **Q3**: Which TFs are plausible candidates for BAF-dependent enhancer
+   remodeling, and in which tractable models?
 
 ## Status
 
-`<current>%` complete against the Part-1 definition of 100%
-(`<delta>` since the last summary update on `<date>`).
+`5%` complete against the charter definition of 100% (0% → 5%, +5%, on
+2026-10-13).
 
-<One paragraph: where things stand right now, in plain language, for
-someone who has not been following along.>
+The input data are inventoried and complete: Toil TCGA+GTEx counts and
+TPM, DepMap 26Q1, and the Lambert TFs, md5-verified on local and Argos.
+The Step 1 design is drafted and awaiting review. No analysis has run.
+Infrastructure is ready; scientific progress is still 0.
+
+## Roadmap and progress (100% = all rows done)
+
+| Step | Workstream | Weight | Status | Blocker | Answers |
+|---|---|---:|---|---|---|
+| 0 | Data inventory + gap fill (hot data list) | 5% | **done** | — | infra |
+| 1 | TCGA pan-cancer TF DE atlas (Figs 1–2) | 20% | design drafted | review conversation not yet set up | Q1 |
+| 2 | Within-cancer TF co-expression network (Fig 3) | 10% | not started | Step 1 | Q1 |
+| 3 | Curated TF functional annotation (lineage/pioneer/etc.) | 10% | not started | — | Q1/Q3 |
+| 4 | DepMap patient-vs-cell-line concordance and model table (Fig 5) | 10% | not started | Step 1 | Q2/Q3 |
+| 5 | scRNA malignant-vs-normal pseudobulk validation (Fig 4) | 20% | not started | dataset selection | Q2 |
+| 6 | Chromatin evidence (TCGA ATAC) | 10% | not started | Step 1 | Q3 |
+| 7 | Tiered candidate prioritization, Fig 6, final results doc | 15% | not started | Steps 1–6 | Q3 |
 
 ## What's been answered
 
-<For each sub-question or major deliverable that's actually closed:
-state the answer/result plainly, and cite the results doc(s) it comes
-from. Do not restate uncertainty that's already resolved; do not
-overclaim beyond what the cited results doc actually supports.>
-
-- **<Sub-question / deliverable>**: <answer>. See
-  `docs/STEP<N>_..._RESULTS.md`.
+Nothing yet.
 
 ## What's still open
 
-<Honest list of what remains — deferred scope from the charter,
-follow-on steps not yet started, genuinely unresolved findings from a
-results doc (e.g. a coverage gap investigated but not fully explained).
-Distinguish "not started" from "started but blocked" from "investigated,
-real finding, but inconclusive.">
-
-- <item> — <status: not started / blocked on X / investigated,
-  inconclusive>
+- Everything in Steps 1–7.
+- Scope to confirm with the PI: the TAD hypothesis (A vs B, Task-1 §八)
+  is deferred, and organoids are optional (charter non-goals).
 
 ## Steps closed so far
 
 | Step | What | Design doc | Results doc | PR(s) |
 |---|---|---|---|---|
-| 1 | <name> | `docs/STEP1_..._DESIGN.md` | `docs/STEP1_..._RESULTS.md` | #<n> |
+| — | — | — | — | — |
 
 ## Key locked artifacts
 
-<Anything durable this project has produced that other work depends on
-or should reuse — a frozen gene signature file, a calibration table, a
-reusable loader module. Give exact paths so a reader doesn't have to
-hunt.>
+- Hot data list: `DATA/HotData/TF_Cancer_PanCancer_TF_Atlas.md`
 
-- `results/<step>/<file>` — <what it is, why it's frozen/final>
+## Scope boundaries
 
-## Scope boundaries (unchanged from charter unless noted)
-
-<Restate the charter's non-goals/deferred-scope list, or point to it,
-so a reader doesn't accidentally assume something is in scope that
-never was.>
+See `docs/PROJECT_CHARTER.md` Part 1 "Explicit non-goals".

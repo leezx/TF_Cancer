@@ -1,8 +1,10 @@
 # TF_Cancer
 
-<One-paragraph description: what this project builds/tests and why —
-the founding question(s) from `docs/PROJECT_CHARTER.md`, in plain
-language.>
+Pan-cancer lineage-defining transcription factor (TF) atlas. Asks whether
+lineage-defining TFs are recurrently upregulated across cancers (TCGA vs
+normal), whether that holds within malignant cells (scRNA pseudobulk), and
+which TFs are plausible candidates for BAF-dependent enhancer remodeling in
+tractable models (DepMap, chromatin evidence).
 
 **Start here:**
 - [`docs/PROJECT_CHARTER.md`](docs/PROJECT_CHARTER.md) — the operating
@@ -17,15 +19,14 @@ language.>
 
 ## Current status
 
-<one or two sentences + a pointer: "See docs/PROJECT_SUMMARY.md for
-details." Keep this section short — it goes stale fast; the summary doc
-is the source of truth.>
+Data inventory done; Step 1 (TCGA TF DE) design under review. See
+`docs/PROJECT_SUMMARY.md` for details.
 
 ## Scope
 
-<what this repo covers, in a few sentences. Link out to
-docs/PROJECT_CHARTER.md's "explicit non-goals / deferred scope" for
-what's intentionally excluded.>
+Bulk TCGA/GTEx DE, TF co-expression, DepMap concordance, scRNA validation,
+and candidate prioritization. See `docs/PROJECT_CHARTER.md` Part 1 for
+non-goals (wet-lab, TAD/Hi-C, organoids optional).
 
 ## Data
 
@@ -52,11 +53,10 @@ metadata/code/docs only. The eight hard data-placement rules are defined in
 
 ## Compute
 
-Heavy compute runs on <cluster name> (see `docs/PROJECT_CHARTER.md`
+Heavy compute runs on Argos (see `docs/PROJECT_CHARTER.md`
 §2.4). Nothing here should require running large jobs on a laptop.
 
 ## Related repos
 
-<list any pre-existing related repos this project builds on or overlaps
-with, if any, with a one-line note on the relationship — mirror
-TWEAKR-OncoPlacental's README.md pattern for `REPOS/...`.>
+- Input hot data list: `DATA/HotData/TF_Cancer_PanCancer_TF_Atlas.md`
+- TF reference source: `DATA/2.PROJECTS/Cancer_Context_Dependency/TF_executors/`
