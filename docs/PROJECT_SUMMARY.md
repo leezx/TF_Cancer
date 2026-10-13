@@ -15,23 +15,22 @@ Pan-cancer Lineage-defining TF Atlas (`Tasks/Task-1.md`):
 
 ## Status
 
-`5%` complete against the charter definition of 100% (0% → 5%, +5%, on
-2026-10-13).
+`25%` complete against the charter definition of 100% (5% → 25%, +20%,
+on 2026-10-13: Step 1 closed).
 
 The input data are inventoried and complete: Toil TCGA+GTEx counts and
 TPM, DepMap 26Q1, and the Lambert TFs, md5-verified on local and Argos.
-The Step 1 design was approved after 2 review rounds (PR #1). Step 1 has
-run on the Mac mini (2026-10-13): all gates passed, including the recount3
-pipeline check; results are in review (PR #2). Step 1 counts toward the
-percentage only after review and merge.
+Step 1 is closed: design PR #1 and results PR #2 were merged after 3
+review rounds, and all gates passed. Step 2 (within-cancer TF
+co-expression + proliferation axis) is in design review.
 
 ## Roadmap and progress (100% = all rows done)
 
 | Step | Workstream | Weight | Status | Blocker | Answers |
 |---|---|---:|---|---|---|
 | 0 | Data inventory + gap fill (hot data list) | 5% | **done** | — | infra |
-| 1 | TCGA pan-cancer TF DE atlas (Figs 1–2) | 20% | computed, gates PASS; results in review (PR #2) | results review + merge confirmation | Q1 |
-| 2 | Within-cancer TF co-expression network (Fig 3) | 10% | not started | Step 1 | Q1 |
+| 1 | TCGA pan-cancer TF DE atlas (Figs 1–2) | 20% | **done** (PR #1, #2) | — | Q1 |
+| 2 | Within-cancer TF co-expression network + proliferation axis (Fig 3) | 10% | design in review | ABSOLUTE purity download (user OK) | Q1 |
 | 3 | Curated TF functional annotation (lineage/pioneer/etc.) | 10% | not started | — | Q1/Q3 |
 | 4 | DepMap patient-vs-cell-line concordance and model table (Fig 5) | 10% | not started | Step 1 | Q2/Q3 |
 | 5 | scRNA malignant-vs-normal pseudobulk validation (Fig 4) | 20% | not started | dataset selection | Q2 |
@@ -40,7 +39,7 @@ percentage only after review and merge.
 
 ## What's been answered
 
-Provisional, pending Step 1 review (`docs/STEP1_TCGA_TF_DE_RESULTS.md`):
+Step 1 (`docs/STEP1_TCGA_TF_DE_RESULTS.md`, frozen v0.1):
 
 - The Toil count input is reliable for DE: recount3 agrees on direction
   (99–100%) and Tier 1 calls (99–100%) in COADREAD and LUAD.
@@ -60,11 +59,13 @@ Provisional, pending Step 1 review (`docs/STEP1_TCGA_TF_DE_RESULTS.md`):
 
 | Step | What | Design doc | Results doc | PR(s) |
 |---|---|---|---|---|
-| — | — | — | — | — |
+| 1 | TCGA TF DE atlas | `docs/STEP1_TCGA_TF_DE_DESIGN.md` | `docs/STEP1_TCGA_TF_DE_RESULTS.md` | #1, #2 |
 
 ## Key locked artifacts
 
 - Hot data list: `DATA/HotData/TF_Cancer_PanCancer_TF_Atlas.md`
+- Step 1 v0.1: `results/01_tcga_tf_de/`; DESeq2 objects under
+  `DATA/bulkRNAseq/UCSC_Toil_TCGA_GTEx/result/2026-10-13_tf_cancer_step1_tcga_de_v0.1/`
 
 ## Scope boundaries
 

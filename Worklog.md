@@ -60,4 +60,42 @@ closes, per `AGENTS.md` rule 10.
 
 ---
 
-<first real entry goes here>
+## 2026-10-13 — Step 1: TCGA pan-cancer TF DE (PR #1 design, PR #2 implementation + results, merged 113c0c3)
+
+**What**: DESeq2 TF differential expression over 15 TCGA cohorts (39
+contrasts: C1 TCGA tumor vs normal, C2 vs GTEx, C3 paired), with LAML as
+expression only. Recurrence by organ system, QC gates and draft Figs 1–2.
+
+**Why**: answers the first half of Q1 (are TFs recurrently up across
+cancers) and produces the TF × cohort asset that Steps 2–7 build on.
+
+**How**:
+- Toil counts were recovered with `round(2^x − 1)` and validated against
+  recount3 (an independent pipeline) on matched samples before the full run.
+- C1 is the primary evidence class; C2 is exploratory (`cross_source_only`).
+- Shrunk-LFC tiers.
+- Run on the Mac mini, because the Argos `all.q` slots were fully booked.
+
+**Real findings**:
+- The recount3 gate passed with a wide margin (99–100% direction, 99–100%
+  Tier 1 recovery).
+- LBX2 is the only discordant TF and is flagged `pipeline_sensitive`.
+- Toil's COAD gap is structured by tissue source site.
+- 358 TFs are C1-up in ≥ 3 of 9 organ systems. The top of the ranking is
+  proliferation TFs.
+- Canonical lineage TFs are expressed but often not up versus normal (KICH
+  PAX8/PAX2/HNF1B are down), so Q1 is not answered by "up" alone.
+- C1 vs C2 rank correlation is low in KIRC, THCA and PRAD (0.31–0.48).
+- Bug caught before compute: the Argos wrapper crashed when called with no
+  arguments, and `-hold_jid` released dependent jobs even after a failure.
+  This was moot after the move to local.
+
+**Review**:
+- PR #1: R1 REQUEST CHANGES (B1 confounding, B2 count validity, B3 normal
+  references, B4 recurrence by evidence class), then R2 APPROVE.
+- PR #2: R3 APPROVE with 9 notes. Checked against the code: N2 (recount3
+  uses the Toil TPM filter) also applies to the matched set, which the
+  reviewer missed. Fixed in ecae021. The final-head check approved.
+
+**Merged**: 113c0c3, after explicit user confirmation on 2026-10-13.
+
