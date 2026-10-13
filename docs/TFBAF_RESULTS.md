@@ -144,7 +144,7 @@ None from the approved design.
 | Background universe (N5) | TCGA 12,233–13,354 protein-coding genes (median TPM ≥ 1); DepMap 17,204–17,930 genes (600–1,326 with some missing values, scored on complete cases); organoid 16,561; 0 zero-variance genes; TF excluded |
 | Organoid availability | CRC analysed. AML, prostate, breast and melanoma unavailable: there are no matching organoids |
 
-### 8.2 Organoid co-dependency (CRC SOX9, n = 82)
+### 8.2 Organoid CRISPR knockout-effect correlation (CRC SOX9, n = 82)
 
 - **SOX9 is a dependency in this panel.** It is depleted in 34% of the
   units (`is_depleted`), with a median LFC of −0.45.
@@ -152,15 +152,21 @@ None from the approved design.
   q = 0.031 (strong).
   - Depth-adjusted ρ = 0.36, so it is not depth-sensitive.
   - `minLib` only: 0.40 (q 0.024).
-  - Primary-derived only (n = 57): 0.29 (q 0.25, no call). This is the
-    same direction, with less power.
+  - Primary-derived only (n = 57): 0.29 (q 0.25, no call). The direction
+    is the same, but the estimate is weaker and the smaller subset loses
+    significance. This alone neither shows the result is fragile nor can
+    be put down to n (review N2).
+- q is BH within the 28 members of this pair. It is not a global FDR
+  across cancers, data types and the exploratory v0.2 analyses
+  (review N5).
 - SMARCB1 has ρ = 0.31 (CI [0.09, 0.50]), q = 0.059: no call in the main
   analysis. It is called in the primary-derived subset (0.42, q 0.035).
   Main SMARCB1 is not called, so it is reported, not interpreted.
 - **ARID1A is rarely depleted (7%).** Its pattern is therefore
-  "TF-specific dependency", not "both dependent, correlated". The ρ
-  reflects SOX9 and ARID1A knockout effects varying together across
-  organoids, mostly in a range where ARID1A loss has little growth effect.
+  "TF-specific dependency", not "both dependent, correlated". This is a
+  **correlation of CRISPR knockout effects, not co-dependency**
+  (review N1). The ρ reflects SOX9 and ARID1A knockout effects varying
+  together across organoids, mostly in a range where ARID1A loss has little growth effect.
   It does not show that organoids depend on ARID1A together with SOX9.
   ARID1A is also a known tumour suppressor in CRC.
 - Other v0.1-highlighted members: SMARCA4 0.17 and SMARCC1 0.19, both
@@ -201,7 +207,9 @@ same TF:
 | Melanoma SOX10 | 67 (0.16) | 40 | — |
 
 - **CRC is the pair where the BAF correlations stand out from the
-  background in TCGA.** SMARCC1 is at the 99.2nd percentile, SMARCA4 the
+  background in TCGA.** A percentile is not a BAF gene-set enrichment
+  test. It does not show that SOX9 preferentially associates with or
+  regulates BAF (review N3). SMARCC1 is at the 99.2nd percentile, SMARCA4 the
   99.1st, and ARID1A the 95.1st. SMARCB1 is at the 63rd.
 - In prostate, FOXA1 correlates with most genes (background median 0.30).
   Its high BAF ρ (median 0.51) is therefore only modestly above typical
@@ -220,18 +228,38 @@ same TF:
 | SMARCB1 | 0.13 (0.014, below ρ 0.2: none; 63rd) | −0.01 [−0.27, 0.26] | 0.31 [0.09, 0.50] (0.059) |
 
 - **ARID1A is the first member with called support from two independent
-  sources:** TCGA moderate co-expression and organoid co-dependency.
+  sources:** TCGA moderate co-expression, and correlated knockout effects
+  in organoids.
   DepMap 2D points the same way but is not significant.
 - It is one of 28 tests, with q = 0.031 within the pair. It is weakened in
   the primary-derived subset, and ARID1A itself is rarely a dependency.
-- It is a candidate to follow up, not an established SOX9–cBAF partner.
-  Co-dependency and co-expression are not recruitment.
+- It is a cross-platform association candidate to follow up, not a
+  validated SOX9–cBAF partner. It shows neither joint dependency nor a
+  direct mechanism. Co-expression and correlated knockout effects are not
+  recruitment.
+- SOX9–SMARCC1 and SOX9–SMARCA4 stand out in CRC tumour co-expression
+  (99th percentile). They have no matching 2D or 3D knockout-effect
+  correlation.
 
 ### 8.6 Deviations from the v0.2 design
 
 - **TCGA protein-coding proxy.** The design gives the definition
-  (HGNC Approved + UniProt ID, by Ensembl ID).
+  (HGNC Approved + UniProt ID, by Ensembl ID). It is a reproducible proxy,
+  not the strict GENCODE protein-coding biotype (review N4).
   - This finds 19,995 of 60,498 Toil genes.
   - BICRA and BICRAL carry their GENCODE v23 names (GLTSCR1, GLTSCR1L) in
     the matrix and were mapped by `v23_symbol`.
 - No other deviations.
+
+## 9. Review (v0.2)
+
+- Round 9 (PR #7, head c4afaee): **APPROVE**, 0 blocking.
+  - N1: ARID1A is a "correlated CRISPR knockout effect", not
+    co-dependency → §8.2, §8.5.
+  - N2: primary-derived wording → §8.2.
+  - N3: a percentile is not set enrichment → §8.4.
+  - N4: HGNC + UniProt is a proxy → §8.6.
+  - N5: the q scope is within-pair → §8.2.
+  - The reviewer advises against further threshold or rule changes to get
+    a stronger positive result. Their review was based on the results
+    document only: they did not recompute or audit the code.
