@@ -1,0 +1,1640 @@
+ensembl_id	hgnc_symbol	DBD	binding_mode	motif_status	gencode_v23_id	gencode_v23_symbol	in_expression_matrix	symbol_mismatch
+ENSG00000267179	AC008770.3	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000267179.1	CTD-2006C1.13	TRUE	TRUE
+ENSG00000267281	AC023509.3	bZIP	Monomer or homomultimer	100 perc ID - in vitro	ENSG00000267281.2	RP11-793H13.10	TRUE	TRUE
+ENSG00000233757	AC092835.1	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000233757.6	AC092835.2	TRUE	TRUE
+ENSG00000264668	AC138696.1	C2H2 ZF	Monomer or homomultimer	100 perc ID - in vitro	ENSG00000264668.1	RP13-582O9.6	TRUE	TRUE
+ENSG00000101126	ADNP	Homeodomain	Monomer or homomultimer	No motif	ENSG00000101126.15	ADNP	TRUE	FALSE
+ENSG00000101544	ADNP2	Homeodomain	Monomer or homomultimer	No motif	ENSG00000101544.8	ADNP2	TRUE	FALSE
+ENSG00000106624	AEBP1	Unknown	Monomer or homomultimer	No motif	ENSG00000106624.8	AEBP1	TRUE	FALSE
+ENSG00000139154	AEBP2	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000139154.14	AEBP2	TRUE	FALSE
+ENSG00000153207	AHCTF1	AT hook	Monomer or homomultimer	No motif	ENSG00000153207.14	AHCTF1	TRUE	FALSE
+ENSG00000126705	AHDC1	AT hook	Monomer or homomultimer	No motif	ENSG00000126705.13	AHDC1	TRUE	FALSE
+ENSG00000106546	AHR	bHLH	Monomer or homomultimer	In vivo/Misc source	ENSG00000106546.12	AHR	TRUE	FALSE
+ENSG00000063438	AHRR	bHLH	Monomer or homomultimer	In vivo/Misc source	ENSG00000063438.16	AHRR	TRUE	FALSE
+ENSG00000160224	AIRE	SAND	Monomer or homomultimer	In vivo/Misc source	ENSG00000160224.16	AIRE	TRUE	FALSE
+ENSG00000105127	AKAP8	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000105127.8	AKAP8	TRUE	FALSE
+ENSG00000011243	AKAP8L	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000011243.17	AKAP8L	TRUE	FALSE
+ENSG00000106948	AKNA	AT hook	Monomer or homomultimer	No motif	ENSG00000106948.16	AKNA	TRUE	FALSE
+ENSG00000180318	ALX1	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000180318.3	ALX1	TRUE	FALSE
+ENSG00000156150	ALX3	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000156150.6	ALX3	TRUE	FALSE
+ENSG00000052850	ALX4	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000052850.5	ALX4	TRUE	FALSE
+ENSG00000227059	ANHX	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000227059.6	ANHX	TRUE	FALSE
+ENSG00000163516	ANKZF1	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000163516.13	ANKZF1	TRUE	FALSE
+ENSG00000169083	AR	Nuclear receptor	Monomer or homomultimer	High-throughput in vitro	ENSG00000169083.15	AR	TRUE	FALSE
+ENSG00000186103	ARGFX	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000186103.3	ARGFX	TRUE	FALSE
+ENSG00000160007	ARHGAP35	Unknown	Monomer or homomultimer	No motif	ENSG00000160007.17	ARHGAP35	TRUE	FALSE
+ENSG00000189079	ARID2	ARID/BRIGHT; RFX	Monomer or homomultimer	No motif	ENSG00000189079.15	ARID2	TRUE	FALSE
+ENSG00000116017	ARID3A	ARID/BRIGHT	Monomer or homomultimer	100 perc ID - in vitro	ENSG00000116017.10	ARID3A	TRUE	FALSE
+ENSG00000179361	ARID3B	ARID/BRIGHT	Monomer or homomultimer	High-throughput in vitro	ENSG00000179361.17	ARID3B	TRUE	FALSE
+ENSG00000205143	ARID3C	ARID/BRIGHT	Monomer or homomultimer	High-throughput in vitro	ENSG00000205143.2	ARID3C	TRUE	FALSE
+ENSG00000196843	ARID5A	ARID/BRIGHT	Monomer or homomultimer	100 perc ID - in vitro	ENSG00000196843.15	ARID5A	TRUE	FALSE
+ENSG00000150347	ARID5B	ARID/BRIGHT	Monomer or homomultimer	100 perc ID - in vitro	ENSG00000150347.14	ARID5B	TRUE	FALSE
+ENSG00000143437	ARNT	bHLH	Monomer or homomultimer	100 perc ID - in vitro	ENSG00000143437.20	ARNT	TRUE	FALSE
+ENSG00000172379	ARNT2	bHLH	Monomer or homomultimer	High-throughput in vitro	ENSG00000172379.18	ARNT2	TRUE	FALSE
+ENSG00000133794	ARNTL	bHLH	Monomer or homomultimer	High-throughput in vitro	ENSG00000133794.17	ARNTL	TRUE	FALSE
+ENSG00000029153	ARNTL2	bHLH	Obligate heteromer	High-throughput in vitro	ENSG00000029153.14	ARNTL2	TRUE	FALSE
+ENSG00000004848	ARX	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000004848.6	ARX	TRUE	FALSE
+ENSG00000139352	ASCL1	bHLH	Monomer or homomultimer	High-throughput in vitro	ENSG00000139352.3	ASCL1	TRUE	FALSE
+ENSG00000183734	ASCL2	bHLH	Monomer or homomultimer	High-throughput in vitro	ENSG00000183734.4	ASCL2	TRUE	FALSE
+ENSG00000176009	ASCL3	bHLH	Obligate heteromer	High-throughput in vitro	ENSG00000176009.3	ASCL3	TRUE	FALSE
+ENSG00000187855	ASCL4	bHLH	Monomer or homomultimer	High-throughput in vitro	ENSG00000187855.5	ASCL4	TRUE	FALSE
+ENSG00000232237	ASCL5	bHLH	Monomer or homomultimer	High-throughput in vitro	ENSG00000232237.3	ASCL5	TRUE	FALSE
+ENSG00000116539	ASH1L	AT hook	Monomer or homomultimer	No motif	ENSG00000116539.10	ASH1L	TRUE	FALSE
+ENSG00000123268	ATF1	bZIP	Monomer or homomultimer	In vivo/Misc source	ENSG00000123268.8	ATF1	TRUE	FALSE
+ENSG00000115966	ATF2	bZIP	Monomer or homomultimer	High-throughput in vitro	ENSG00000115966.16	ATF2	TRUE	FALSE
+ENSG00000162772	ATF3	bZIP	Monomer or homomultimer	High-throughput in vitro	ENSG00000162772.16	ATF3	TRUE	FALSE
+ENSG00000128272	ATF4	bZIP	Monomer or homomultimer	High-throughput in vitro	ENSG00000128272.14	ATF4	TRUE	FALSE
+ENSG00000169136	ATF5	bZIP	Obligate heteromer	In vivo/Misc source	ENSG00000169136.8	ATF5	TRUE	FALSE
+ENSG00000118217	ATF6	bZIP	Monomer or homomultimer	High-throughput in vitro	ENSG00000118217.5	ATF6	TRUE	FALSE
+ENSG00000213676	ATF6B	bZIP	Monomer or homomultimer	High-throughput in vitro	ENSG00000213676.10	ATF6B	TRUE	FALSE
+ENSG00000170653	ATF7	bZIP	Monomer or homomultimer	High-throughput in vitro	ENSG00000170653.18	ATF7	TRUE	FALSE
+ENSG00000166454	ATMIN	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000166454.9	ATMIN	TRUE	FALSE
+ENSG00000172238	ATOH1	bHLH	Monomer or homomultimer	High-throughput in vitro	ENSG00000172238.4	ATOH1	TRUE	FALSE
+ENSG00000179774	ATOH7	bHLH	Monomer or homomultimer	High-throughput in vitro	ENSG00000179774.8	ATOH7	TRUE	FALSE
+ENSG00000168874	ATOH8	bHLH	Monomer or homomultimer	High-throughput in vitro	ENSG00000168874.12	ATOH8	TRUE	FALSE
+ENSG00000156273	BACH1	bZIP	Monomer or homomultimer	In vivo/Misc source	ENSG00000156273.15	BACH1	TRUE	FALSE
+ENSG00000112182	BACH2	bZIP	Monomer or homomultimer	High-throughput in vitro	ENSG00000112182.14	BACH2	TRUE	FALSE
+ENSG00000125492	BARHL1	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000125492.9	BARHL1	TRUE	FALSE
+ENSG00000143032	BARHL2	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000143032.7	BARHL2	TRUE	FALSE
+ENSG00000131668	BARX1	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000131668.13	BARX1	TRUE	FALSE
+ENSG00000043039	BARX2	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000043039.6	BARX2	TRUE	FALSE
+ENSG00000156127	BATF	bZIP	Monomer or homomultimer	High-throughput in vitro	ENSG00000156127.6	BATF	TRUE	FALSE
+ENSG00000168062	BATF2	bZIP	Obligate heteromer	No motif	ENSG00000168062.9	BATF2	TRUE	FALSE
+ENSG00000123685	BATF3	bZIP	Monomer or homomultimer	High-throughput in vitro	ENSG00000123685.8	BATF3	TRUE	FALSE
+ENSG00000076108	BAZ2A	MBD; AT hook	Low specificity DNA-binding protein	No motif	ENSG00000076108.11	BAZ2A	TRUE	FALSE
+ENSG00000123636	BAZ2B	MBD	Low specificity DNA-binding protein	No motif	ENSG00000123636.17	BAZ2B	TRUE	FALSE
+ENSG00000114439	BBX	HMG/Sox	Monomer or homomultimer	High-throughput in vitro	ENSG00000114439.18	BBX	TRUE	FALSE
+ENSG00000119866	BCL11A	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000119866.20	BCL11A	TRUE	FALSE
+ENSG00000127152	BCL11B	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000127152.17	BCL11B	TRUE	FALSE
+ENSG00000113916	BCL6	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000113916.17	BCL6	TRUE	FALSE
+ENSG00000161940	BCL6B	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000161940.10	BCL6B	TRUE	FALSE
+ENSG00000180535	BHLHA15	bHLH	Monomer or homomultimer	High-throughput in vitro	ENSG00000180535.3	BHLHA15	TRUE	FALSE
+ENSG00000205899	BHLHA9	bHLH	Obligate heteromer	No motif	ENSG00000205899.3	BHLHA9	TRUE	FALSE
+ENSG00000180828	BHLHE22	bHLH	Monomer or homomultimer	High-throughput in vitro	ENSG00000180828.2	BHLHE22	TRUE	FALSE
+ENSG00000125533	BHLHE23	bHLH	Monomer or homomultimer	High-throughput in vitro	ENSG00000125533.5	BHLHE23	TRUE	FALSE
+ENSG00000134107	BHLHE40	bHLH	Monomer or homomultimer	High-throughput in vitro	ENSG00000134107.4	BHLHE40	TRUE	FALSE
+ENSG00000123095	BHLHE41	bHLH	Monomer or homomultimer	High-throughput in vitro	ENSG00000123095.5	BHLHE41	TRUE	FALSE
+ENSG00000169594	BNC1	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000169594.12	BNC1	TRUE	FALSE
+ENSG00000173068	BNC2	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000173068.17	BNC2	TRUE	FALSE
+ENSG00000064489	BORCS8-MEF2B	MADS box	Monomer or homomultimer	100 perc ID - in vitro	ENSG00000064489.21	MEF2BNB-MEF2B	TRUE	TRUE
+ENSG00000171634	BPTF	Unknown	Monomer or homomultimer	In vivo/Misc source	ENSG00000171634.16	BPTF	TRUE	FALSE
+ENSG00000104221	BRF2	Unknown	Low specificity DNA-binding protein	No motif	ENSG00000104221.12	BRF2	TRUE	FALSE
+ENSG00000188909	BSX	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000188909.4	BSX	TRUE	FALSE
+ENSG00000188070	C11orf95	BED ZF	Monomer or homomultimer	No motif	ENSG00000188070.9	C11orf95	TRUE	FALSE
+ENSG00000171735	CAMTA1	CG-1	Monomer or homomultimer	No motif	ENSG00000171735.18	CAMTA1	TRUE	FALSE
+ENSG00000108509	CAMTA2	CG-1	Monomer or homomultimer	No motif	ENSG00000108509.20	CAMTA2	TRUE	FALSE
+ENSG00000138380	CARF	Unknown	Monomer or homomultimer	In vivo/Misc source	ENSG00000138380.17	CARF	TRUE	FALSE
+ENSG00000130940	CASZ1	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000130940.14	CASZ1	TRUE	FALSE
+ENSG00000173894	CBX2	AT hook	Monomer or homomultimer	No motif	ENSG00000173894.10	CBX2	TRUE	FALSE
+ENSG00000132024	CC2D1A	Unknown	Monomer or homomultimer	No motif	ENSG00000132024.17	CC2D1A	TRUE	FALSE
+ENSG00000250709	CCDC169-SOHLH2	bHLH	Monomer or homomultimer	100 perc ID - in vitro	ENSG00000250709.1	CCDC169-SOHLH2	TRUE	FALSE
+ENSG00000159588	CCDC17	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000159588.14	CCDC17	TRUE	FALSE
+ENSG00000096401	CDC5L	Myb/SANT	Monomer or homomultimer	In vivo/Misc source	ENSG00000096401.7	CDC5L	TRUE	FALSE
+ENSG00000113722	CDX1	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000113722.16	CDX1	TRUE	FALSE
+ENSG00000165556	CDX2	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000165556.9	CDX2	TRUE	FALSE
+ENSG00000131264	CDX4	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000131264.3	CDX4	TRUE	FALSE
+ENSG00000245848	CEBPA	bZIP	Monomer or homomultimer	100 perc ID - in vitro	ENSG00000245848.2	CEBPA	TRUE	FALSE
+ENSG00000172216	CEBPB	bZIP	Monomer or homomultimer	High-throughput in vitro	ENSG00000172216.5	CEBPB	TRUE	FALSE
+ENSG00000221869	CEBPD	bZIP	Monomer or homomultimer	High-throughput in vitro	ENSG00000221869.4	CEBPD	TRUE	FALSE
+ENSG00000092067	CEBPE	bZIP	Monomer or homomultimer	High-throughput in vitro	ENSG00000092067.5	CEBPE	TRUE	FALSE
+ENSG00000153879	CEBPG	bZIP	Monomer or homomultimer	High-throughput in vitro	ENSG00000153879.8	CEBPG	TRUE	FALSE
+ENSG00000115816	CEBPZ	Unknown	Monomer or homomultimer	In vivo/Misc source	ENSG00000115816.13	CEBPZ	TRUE	FALSE
+ENSG00000115163	CENPA	Unknown	Low specificity DNA-binding protein	No motif	ENSG00000115163.14	CENPA	TRUE	FALSE
+ENSG00000125817	CENPB	CENPB	Monomer or homomultimer	High-throughput in vitro	ENSG00000125817.7	CENPB	TRUE	FALSE
+ENSG00000177946	CENPBD1	CENPB	Monomer or homomultimer	High-throughput in vitro	ENSG00000177946.5	CENPBD1	TRUE	FALSE
+ENSG00000175279	CENPS	Unknown	Low specificity DNA-binding protein	No motif	ENSG00000175279.21	APITD1	TRUE	TRUE
+ENSG00000102901	CENPT	Unknown	Low specificity DNA-binding protein	No motif	ENSG00000102901.12	CENPT	TRUE	FALSE
+ENSG00000169689	CENPX	Unknown	Low specificity DNA-binding protein	No motif	ENSG00000169689.14	STRA13	TRUE	TRUE
+ENSG00000163320	CGGBP1	Unknown	Monomer or homomultimer	No motif	ENSG00000163320.10	CGGBP1	TRUE	FALSE
+ENSG00000198824	CHAMP1	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000198824.5	CHAMP1	TRUE	FALSE
+ENSG00000106554	CHCHD3	Unknown	Monomer or homomultimer	No motif	ENSG00000106554.11	CHCHD3	TRUE	FALSE
+ENSG00000079432	CIC	HMG/Sox	Monomer or homomultimer	100 perc ID - in vitro	ENSG00000079432.7	CIC	TRUE	FALSE
+ENSG00000134852	CLOCK	bHLH	Monomer or homomultimer	High-throughput in vitro	ENSG00000134852.14	CLOCK	TRUE	FALSE
+ENSG00000214575	CPEB1	Unknown	Monomer or homomultimer	High-throughput in vitro	ENSG00000214575.9	CPEB1	TRUE	FALSE
+ENSG00000147183	CPXCR1	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000147183.9	CPXCR1	TRUE	FALSE
+ENSG00000118260	CREB1	bZIP	Monomer or homomultimer	High-throughput in vitro	ENSG00000118260.14	CREB1	TRUE	FALSE
+ENSG00000107175	CREB3	bZIP	Monomer or homomultimer	High-throughput in vitro	ENSG00000107175.10	CREB3	TRUE	FALSE
+ENSG00000157613	CREB3L1	bZIP	Monomer or homomultimer	High-throughput in vitro	ENSG00000157613.10	CREB3L1	TRUE	FALSE
+ENSG00000182158	CREB3L2	bZIP	Monomer or homomultimer	100 perc ID - in vitro	ENSG00000182158.14	CREB3L2	TRUE	FALSE
+ENSG00000060566	CREB3L3	bZIP	Monomer or homomultimer	No motif	ENSG00000060566.13	CREB3L3	TRUE	FALSE
+ENSG00000143578	CREB3L4	bZIP	Monomer or homomultimer	High-throughput in vitro	ENSG00000143578.15	CREB3L4	TRUE	FALSE
+ENSG00000146592	CREB5	bZIP	Monomer or homomultimer	High-throughput in vitro	ENSG00000146592.16	CREB5	TRUE	FALSE
+ENSG00000111269	CREBL2	bZIP	Monomer or homomultimer	High-throughput in vitro	ENSG00000111269.2	CREBL2	TRUE	FALSE
+ENSG00000137504	CREBZF	bZIP	Monomer or homomultimer	High-throughput in vitro	ENSG00000137504.13	CREBZF	TRUE	FALSE
+ENSG00000095794	CREM	bZIP	Monomer or homomultimer	High-throughput in vitro	ENSG00000095794.19	CREM	TRUE	FALSE
+ENSG00000105392	CRX	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000105392.15	CRX	TRUE	FALSE
+ENSG00000144655	CSRNP1	Unknown	Monomer or homomultimer	No motif	ENSG00000144655.14	CSRNP1	TRUE	FALSE
+ENSG00000110925	CSRNP2	Unknown	Monomer or homomultimer	No motif	ENSG00000110925.6	CSRNP2	TRUE	FALSE
+ENSG00000178662	CSRNP3	Unknown	Monomer or homomultimer	No motif	ENSG00000178662.15	CSRNP3	TRUE	FALSE
+ENSG00000102974	CTCF	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000102974.14	CTCF	TRUE	FALSE
+ENSG00000124092	CTCFL	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000124092.12	CTCFL	TRUE	FALSE
+ENSG00000257923	CUX1	CUT; Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000257923.9	CUX1	TRUE	FALSE
+ENSG00000111249	CUX2	CUT; Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000111249.13	CUX2	TRUE	FALSE
+ENSG00000154832	CXXC1	CxxC	Monomer or homomultimer	High-throughput in vitro	ENSG00000154832.14	CXXC1	TRUE	FALSE
+ENSG00000168772	CXXC4	CxxC	Monomer or homomultimer	No motif	ENSG00000168772.10	CXXC4	TRUE	FALSE
+ENSG00000171604	CXXC5	CxxC	Monomer or homomultimer	High-throughput in vitro	ENSG00000171604.11	CXXC5	TRUE	FALSE
+ENSG00000276644	DACH1	Unknown	Monomer or homomultimer	No motif	ENSG00000276644.4	DACH1	TRUE	FALSE
+ENSG00000126733	DACH2	Unknown	Monomer or homomultimer	No motif	ENSG00000126733.20	DACH2	TRUE	FALSE
+ENSG00000105516	DBP	bZIP	Monomer or homomultimer	High-throughput in vitro	ENSG00000105516.10	DBP	TRUE	FALSE
+ENSG00000109851	DBX1	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000109851.6	DBX1	TRUE	FALSE
+ENSG00000185610	DBX2	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000185610.6	DBX2	TRUE	FALSE
+ENSG00000175197	DDIT3	bZIP	Obligate heteromer	In vivo/Misc source	ENSG00000175197.10	DDIT3	TRUE	FALSE
+ENSG00000177030	DEAF1	SAND	Monomer or homomultimer	In vivo/Misc source	ENSG00000177030.16	DEAF1	TRUE	FALSE
+ENSG00000144355	DLX1	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000144355.14	DLX1	TRUE	FALSE
+ENSG00000115844	DLX2	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000115844.10	DLX2	TRUE	FALSE
+ENSG00000064195	DLX3	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000064195.7	DLX3	TRUE	FALSE
+ENSG00000108813	DLX4	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000108813.10	DLX4	TRUE	FALSE
+ENSG00000105880	DLX5	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000105880.4	DLX5	TRUE	FALSE
+ENSG00000006377	DLX6	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000006377.10	DLX6	TRUE	FALSE
+ENSG00000197587	DMBX1	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000197587.10	DMBX1	TRUE	FALSE
+ENSG00000137090	DMRT1	DM	Monomer or homomultimer	High-throughput in vitro	ENSG00000137090.11	DMRT1	TRUE	FALSE
+ENSG00000173253	DMRT2	DM	Monomer or homomultimer	High-throughput in vitro	ENSG00000173253.14	DMRT2	TRUE	FALSE
+ENSG00000064218	DMRT3	DM	Monomer or homomultimer	High-throughput in vitro	ENSG00000064218.4	DMRT3	TRUE	FALSE
+ENSG00000176399	DMRTA1	DM	Monomer or homomultimer	High-throughput in vitro	ENSG00000176399.3	DMRTA1	TRUE	FALSE
+ENSG00000142700	DMRTA2	DM	Monomer or homomultimer	High-throughput in vitro	ENSG00000142700.11	DMRTA2	TRUE	FALSE
+ENSG00000143006	DMRTB1	DM	Obligate heteromer	No motif	ENSG00000143006.7	DMRTB1	TRUE	FALSE
+ENSG00000142025	DMRTC2	DM	Monomer or homomultimer	High-throughput in vitro	ENSG00000142025.15	DMRTC2	TRUE	FALSE
+ENSG00000135164	DMTF1	Myb/SANT	Monomer or homomultimer	No motif	ENSG00000135164.18	DMTF1	TRUE	FALSE
+ENSG00000130816	DNMT1	CxxC	Monomer or homomultimer	High-throughput in vitro	ENSG00000130816.14	DNMT1	TRUE	FALSE
+ENSG00000101457	DNTTIP1	AT hook	Monomer or homomultimer	No motif	ENSG00000101457.12	DNTTIP1	TRUE	FALSE
+ENSG00000104885	DOT1L	AT hook	Monomer or homomultimer	No motif	ENSG00000104885.17	DOT1L	TRUE	FALSE
+ENSG00000011332	DPF1	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000011332.19	DPF1	TRUE	FALSE
+ENSG00000205683	DPF3	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000205683.11	DPF3	TRUE	FALSE
+ENSG00000204595	DPRX	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000204595.1	DPRX	TRUE	FALSE
+ENSG00000117505	DR1	Unknown	Obligate heteromer	No motif	ENSG00000117505.12	DR1	TRUE	FALSE
+ENSG00000175550	DRAP1	Unknown	Obligate heteromer	No motif	ENSG00000175550.7	DRAP1	TRUE	FALSE
+ENSG00000165606	DRGX	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000165606.8	DRGX	TRUE	FALSE
+DUX1_HUMAN	DUX1	Homeodomain	Monomer or homomultimer	In vivo/Misc source	NA	NA	FALSE	FALSE
+DUX3_HUMAN	DUX3	Homeodomain	Monomer or homomultimer	In vivo/Misc source	NA	NA	FALSE	FALSE
+ENSG00000260596	DUX4	Homeodomain	Monomer or homomultimer	In vivo/Misc source	ENSG00000260596.5	DUX4	TRUE	FALSE
+ENSG00000258873	DUXA	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000258873.2	DUXA	TRUE	FALSE
+ENSG00000134874	DZIP1	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000134874.17	DZIP1	TRUE	FALSE
+ENSG00000101412	E2F1	E2F	Monomer or homomultimer	High-throughput in vitro	ENSG00000101412.12	E2F1	TRUE	FALSE
+ENSG00000007968	E2F2	E2F	Monomer or homomultimer	High-throughput in vitro	ENSG00000007968.6	E2F2	TRUE	FALSE
+ENSG00000112242	E2F3	E2F	Monomer or homomultimer	High-throughput in vitro	ENSG00000112242.14	E2F3	TRUE	FALSE
+ENSG00000205250	E2F4	E2F	Monomer or homomultimer	High-throughput in vitro	ENSG00000205250.8	E2F4	TRUE	FALSE
+ENSG00000133740	E2F5	E2F	Monomer or homomultimer	In vivo/Misc source	ENSG00000133740.10	E2F5	TRUE	FALSE
+ENSG00000169016	E2F6	E2F	Monomer or homomultimer	In vivo/Misc source	ENSG00000169016.16	E2F6	TRUE	FALSE
+ENSG00000165891	E2F7	E2F	Monomer or homomultimer	High-throughput in vitro	ENSG00000165891.15	E2F7	TRUE	FALSE
+ENSG00000129173	E2F8	E2F	Monomer or homomultimer	High-throughput in vitro	ENSG00000129173.12	E2F8	TRUE	FALSE
+ENSG00000167967	E4F1	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000167967.15	E4F1	TRUE	FALSE
+ENSG00000164330	EBF1	EBF1	Monomer or homomultimer	High-throughput in vitro	ENSG00000164330.16	EBF1	TRUE	FALSE
+ENSG00000221818	EBF2	EBF1	Monomer or homomultimer	In vivo/Misc source	ENSG00000221818.8	EBF2	TRUE	FALSE
+ENSG00000108001	EBF3	EBF1	Monomer or homomultimer	In vivo/Misc source	ENSG00000108001.13	EBF3	TRUE	FALSE
+ENSG00000088881	EBF4	EBF1	Monomer or homomultimer	In vivo/Misc source	ENSG00000088881.20	EBF4	TRUE	FALSE
+ENSG00000102189	EEA1	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000102189.16	EEA1	TRUE	FALSE
+ENSG00000120738	EGR1	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000120738.7	EGR1	TRUE	FALSE
+ENSG00000122877	EGR2	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000122877.13	EGR2	TRUE	FALSE
+ENSG00000179388	EGR3	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000179388.8	EGR3	TRUE	FALSE
+ENSG00000135625	EGR4	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000135625.7	EGR4	TRUE	FALSE
+ENSG00000135373	EHF	Ets	Monomer or homomultimer	High-throughput in vitro	ENSG00000135373.12	EHF	TRUE	FALSE
+ENSG00000120690	ELF1	Ets	Monomer or homomultimer	High-throughput in vitro	ENSG00000120690.13	ELF1	TRUE	FALSE
+ENSG00000109381	ELF2	Ets	Monomer or homomultimer	High-throughput in vitro	ENSG00000109381.19	ELF2	TRUE	FALSE
+ENSG00000163435	ELF3	Ets; AT hook	Monomer or homomultimer	High-throughput in vitro	ENSG00000163435.15	ELF3	TRUE	FALSE
+ENSG00000102034	ELF4	Ets	Monomer or homomultimer	High-throughput in vitro	ENSG00000102034.16	ELF4	TRUE	FALSE
+ENSG00000135374	ELF5	Ets	Monomer or homomultimer	High-throughput in vitro	ENSG00000135374.9	ELF5	TRUE	FALSE
+ENSG00000126767	ELK1	Ets	Monomer or homomultimer	High-throughput in vitro	ENSG00000126767.17	ELK1	TRUE	FALSE
+ENSG00000111145	ELK3	Ets	Monomer or homomultimer	High-throughput in vitro	ENSG00000111145.7	ELK3	TRUE	FALSE
+ENSG00000158711	ELK4	Ets	Monomer or homomultimer	High-throughput in vitro	ENSG00000158711.13	ELK4	TRUE	FALSE
+ENSG00000135638	EMX1	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000135638.13	EMX1	TRUE	FALSE
+ENSG00000170370	EMX2	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000170370.11	EMX2	TRUE	FALSE
+ENSG00000163064	EN1	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000163064.6	EN1	TRUE	FALSE
+ENSG00000164778	EN2	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000164778.4	EN2	TRUE	FALSE
+ENSG00000163508	EOMES	T-box	Monomer or homomultimer	High-throughput in vitro	ENSG00000163508.12	EOMES	TRUE	FALSE
+ENSG00000116016	EPAS1	bHLH	Monomer or homomultimer	In vivo/Misc source	ENSG00000116016.13	EPAS1	TRUE	FALSE
+ENSG00000105722	ERF	Ets	Monomer or homomultimer	High-throughput in vitro	ENSG00000105722.9	ERF	TRUE	FALSE
+ENSG00000157554	ERG	Ets	Monomer or homomultimer	High-throughput in vitro	ENSG00000157554.18	ERG	TRUE	FALSE
+ENSG00000091831	ESR1	Nuclear receptor	Monomer or homomultimer	High-throughput in vitro	ENSG00000091831.21	ESR1	TRUE	FALSE
+ENSG00000140009	ESR2	Nuclear receptor	Monomer or homomultimer	100 perc ID - in vitro	ENSG00000140009.18	ESR2	TRUE	FALSE
+ENSG00000173153	ESRRA	Nuclear receptor	Monomer or homomultimer	High-throughput in vitro	ENSG00000173153.13	ESRRA	TRUE	FALSE
+ENSG00000119715	ESRRB	Nuclear receptor	Monomer or homomultimer	High-throughput in vitro	ENSG00000119715.14	ESRRB	TRUE	FALSE
+ENSG00000196482	ESRRG	Nuclear receptor	Monomer or homomultimer	High-throughput in vitro	ENSG00000196482.16	ESRRG	TRUE	FALSE
+ENSG00000123576	ESX1	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000123576.5	ESX1	TRUE	FALSE
+ENSG00000134954	ETS1	Ets	Monomer or homomultimer	High-throughput in vitro	ENSG00000134954.14	ETS1	TRUE	FALSE
+ENSG00000157557	ETS2	Ets	Monomer or homomultimer	High-throughput in vitro	ENSG00000157557.11	ETS2	TRUE	FALSE
+ENSG00000006468	ETV1	Ets	Monomer or homomultimer	High-throughput in vitro	ENSG00000006468.13	ETV1	TRUE	FALSE
+ENSG00000105672	ETV2	Ets	Monomer or homomultimer	High-throughput in vitro	ENSG00000105672.14	ETV2	TRUE	FALSE
+ENSG00000117036	ETV3	Ets	Monomer or homomultimer	High-throughput in vitro	ENSG00000117036.11	ETV3	TRUE	FALSE
+ENSG00000253831	ETV3L	Ets	Monomer or homomultimer	100 perc ID - in vitro	ENSG00000253831.1	ETV3L	TRUE	FALSE
+ENSG00000175832	ETV4	Ets	Monomer or homomultimer	High-throughput in vitro	ENSG00000175832.12	ETV4	TRUE	FALSE
+ENSG00000244405	ETV5	Ets	Monomer or homomultimer	High-throughput in vitro	ENSG00000244405.7	ETV5	TRUE	FALSE
+ENSG00000139083	ETV6	Ets	Monomer or homomultimer	High-throughput in vitro	ENSG00000139083.10	ETV6	TRUE	FALSE
+ENSG00000010030	ETV7	Ets	Monomer or homomultimer	High-throughput in vitro	ENSG00000010030.13	ETV7	TRUE	FALSE
+ENSG00000106038	EVX1	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000106038.12	EVX1	TRUE	FALSE
+ENSG00000174279	EVX2	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000174279.4	EVX2	TRUE	FALSE
+ENSG00000164334	FAM170A	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000164334.15	FAM170A	TRUE	FALSE
+ENSG00000237765	FAM200B	BED ZF	Monomer or homomultimer	No motif	ENSG00000237765.6	FAM200B	TRUE	FALSE
+ENSG00000099364	FBXL19	CxxC	Monomer or homomultimer	No motif	ENSG00000099364.16	FBXL19	TRUE	FALSE
+ENSG00000146618	FERD3L	bHLH	Monomer or homomultimer	High-throughput in vitro	ENSG00000146618.3	FERD3L	TRUE	FALSE
+ENSG00000163497	FEV	Ets	Monomer or homomultimer	High-throughput in vitro	ENSG00000163497.2	FEV	TRUE	FALSE
+ENSG00000128610	FEZF1	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000128610.11	FEZF1	TRUE	FALSE
+ENSG00000153266	FEZF2	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000153266.12	FEZF2	TRUE	FALSE
+ENSG00000183733	FIGLA	bHLH	Monomer or homomultimer	High-throughput in vitro	ENSG00000183733.6	FIGLA	TRUE	FALSE
+ENSG00000179943	FIZ1	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000179943.7	FIZ1	TRUE	FALSE
+ENSG00000151702	FLI1	Ets	Monomer or homomultimer	High-throughput in vitro	ENSG00000151702.16	FLI1	TRUE	FALSE
+ENSG00000059122	FLYWCH1	FLYWCH	Monomer or homomultimer	No motif	ENSG00000059122.16	FLYWCH1	TRUE	FALSE
+ENSG00000170345	FOS	bZIP	Monomer or homomultimer	High-throughput in vitro	ENSG00000170345.9	FOS	TRUE	FALSE
+ENSG00000125740	FOSB	bZIP	Monomer or homomultimer	High-throughput in vitro	ENSG00000125740.13	FOSB	TRUE	FALSE
+ENSG00000175592	FOSL1	bZIP	Monomer or homomultimer	High-throughput in vitro	ENSG00000175592.8	FOSL1	TRUE	FALSE
+ENSG00000075426	FOSL2	bZIP	Monomer or homomultimer	High-throughput in vitro	ENSG00000075426.11	FOSL2	TRUE	FALSE
+ENSG00000129514	FOXA1	Forkhead	Monomer or homomultimer	High-throughput in vitro	ENSG00000129514.5	FOXA1	TRUE	FALSE
+ENSG00000125798	FOXA2	Forkhead	Monomer or homomultimer	High-throughput in vitro	ENSG00000125798.14	FOXA2	TRUE	FALSE
+ENSG00000170608	FOXA3	Forkhead	Monomer or homomultimer	High-throughput in vitro	ENSG00000170608.2	FOXA3	TRUE	FALSE
+ENSG00000171956	FOXB1	Forkhead	Monomer or homomultimer	High-throughput in vitro	ENSG00000171956.6	FOXB1	TRUE	FALSE
+ENSG00000204612	FOXB2	Forkhead	Monomer or homomultimer	High-throughput in vitro	ENSG00000204612.1	FOXB2	TRUE	FALSE
+ENSG00000054598	FOXC1	Forkhead	Monomer or homomultimer	High-throughput in vitro	ENSG00000054598.6	FOXC1	TRUE	FALSE
+ENSG00000176692	FOXC2	Forkhead	Monomer or homomultimer	High-throughput in vitro	ENSG00000176692.5	FOXC2	TRUE	FALSE
+ENSG00000251493	FOXD1	Forkhead	Monomer or homomultimer	100 perc ID - in vitro	ENSG00000251493.3	FOXD1	TRUE	FALSE
+ENSG00000186564	FOXD2	Forkhead	Monomer or homomultimer	High-throughput in vitro	ENSG00000186564.5	FOXD2	TRUE	FALSE
+ENSG00000187140	FOXD3	Forkhead	Monomer or homomultimer	High-throughput in vitro	ENSG00000187140.5	FOXD3	TRUE	FALSE
+ENSG00000170122	FOXD4	Forkhead	Monomer or homomultimer	In vivo/Misc source	ENSG00000170122.5	FOXD4	TRUE	FALSE
+ENSG00000184492	FOXD4L1	Forkhead	Monomer or homomultimer	In vivo/Misc source	ENSG00000184492.6	FOXD4L1	TRUE	FALSE
+ENSG00000187559	FOXD4L3	Forkhead	Monomer or homomultimer	In vivo/Misc source	ENSG00000187559.5	FOXD4L3	TRUE	FALSE
+ENSG00000184659	FOXD4L4	Forkhead	Monomer or homomultimer	In vivo/Misc source	ENSG00000184659.5	FOXD4L4	TRUE	FALSE
+ENSG00000204779	FOXD4L5	Forkhead	Monomer or homomultimer	In vivo/Misc source	ENSG00000204779.2	FOXD4L5	TRUE	FALSE
+ENSG00000273514	FOXD4L6	Forkhead	Monomer or homomultimer	In vivo/Misc source	ENSG00000273514.1	FOXD4L6	TRUE	FALSE
+ENSG00000178919	FOXE1	Forkhead	Monomer or homomultimer	High-throughput in vitro	ENSG00000178919.8	FOXE1	TRUE	FALSE
+ENSG00000186790	FOXE3	Forkhead	Monomer or homomultimer	High-throughput in vitro	ENSG00000186790.5	FOXE3	TRUE	FALSE
+ENSG00000103241	FOXF1	Forkhead	Monomer or homomultimer	In vivo/Misc source	ENSG00000103241.6	FOXF1	TRUE	FALSE
+ENSG00000137273	FOXF2	Forkhead	Monomer or homomultimer	In vivo/Misc source	ENSG00000137273.3	FOXF2	TRUE	FALSE
+ENSG00000176165	FOXG1	Forkhead	Monomer or homomultimer	High-throughput in vitro	ENSG00000176165.9	FOXG1	TRUE	FALSE
+ENSG00000160973	FOXH1	Forkhead	Monomer or homomultimer	In vivo/Misc source	ENSG00000160973.7	FOXH1	TRUE	FALSE
+ENSG00000168269	FOXI1	Forkhead	Monomer or homomultimer	High-throughput in vitro	ENSG00000168269.8	FOXI1	TRUE	FALSE
+ENSG00000186766	FOXI2	Forkhead	Monomer or homomultimer	High-throughput in vitro	ENSG00000186766.7	FOXI2	TRUE	FALSE
+ENSG00000214336	FOXI3	Forkhead	Monomer or homomultimer	High-throughput in vitro	ENSG00000214336.4	FOXI3	TRUE	FALSE
+ENSG00000129654	FOXJ1	Forkhead	Monomer or homomultimer	100 perc ID - in vitro	ENSG00000129654.7	FOXJ1	TRUE	FALSE
+ENSG00000065970	FOXJ2	Forkhead	Monomer or homomultimer	High-throughput in vitro	ENSG00000065970.8	FOXJ2	TRUE	FALSE
+ENSG00000198815	FOXJ3	Forkhead	Monomer or homomultimer	High-throughput in vitro	ENSG00000198815.8	FOXJ3	TRUE	FALSE
+ENSG00000164916	FOXK1	Forkhead	Monomer or homomultimer	High-throughput in vitro	ENSG00000164916.10	FOXK1	TRUE	FALSE
+ENSG00000141568	FOXK2	Forkhead	Monomer or homomultimer	High-throughput in vitro	ENSG00000141568.19	FOXK2	TRUE	FALSE
+ENSG00000176678	FOXL1	Forkhead	Monomer or homomultimer	High-throughput in vitro	ENSG00000176678.5	FOXL1	TRUE	FALSE
+ENSG00000183770	FOXL2	Forkhead	Monomer or homomultimer	High-throughput in vitro	ENSG00000183770.5	FOXL2	TRUE	FALSE
+ENSG00000111206	FOXM1	Forkhead	Monomer or homomultimer	100 perc ID - in vitro	ENSG00000111206.12	FOXM1	TRUE	FALSE
+ENSG00000109101	FOXN1	Forkhead	Monomer or homomultimer	In vivo/Misc source	ENSG00000109101.7	FOXN1	TRUE	FALSE
+ENSG00000170802	FOXN2	Forkhead	Monomer or homomultimer	High-throughput in vitro	ENSG00000170802.15	FOXN2	TRUE	FALSE
+ENSG00000053254	FOXN3	Forkhead	Monomer or homomultimer	High-throughput in vitro	ENSG00000053254.15	FOXN3	TRUE	FALSE
+ENSG00000139445	FOXN4	Forkhead	Monomer or homomultimer	In vivo/Misc source	ENSG00000139445.17	FOXN4	TRUE	FALSE
+ENSG00000150907	FOXO1	Forkhead	Monomer or homomultimer	High-throughput in vitro	ENSG00000150907.6	FOXO1	TRUE	FALSE
+ENSG00000118689	FOXO3	Forkhead	Monomer or homomultimer	High-throughput in vitro	ENSG00000118689.14	FOXO3	TRUE	FALSE
+ENSG00000184481	FOXO4	Forkhead	Monomer or homomultimer	High-throughput in vitro	ENSG00000184481.16	FOXO4	TRUE	FALSE
+ENSG00000204060	FOXO6	Forkhead	Monomer or homomultimer	High-throughput in vitro	ENSG00000204060.5	FOXO6	TRUE	FALSE
+ENSG00000114861	FOXP1	Forkhead	Monomer or homomultimer	High-throughput in vitro	ENSG00000114861.18	FOXP1	TRUE	FALSE
+ENSG00000128573	FOXP2	Forkhead	Monomer or homomultimer	High-throughput in vitro	ENSG00000128573.22	FOXP2	TRUE	FALSE
+ENSG00000049768	FOXP3	Forkhead	Monomer or homomultimer	High-throughput in vitro	ENSG00000049768.14	FOXP3	TRUE	FALSE
+ENSG00000137166	FOXP4	Forkhead	Monomer or homomultimer	High-throughput in vitro	ENSG00000137166.14	FOXP4	TRUE	FALSE
+ENSG00000164379	FOXQ1	Forkhead	Monomer or homomultimer	High-throughput in vitro	ENSG00000164379.5	FOXQ1	TRUE	FALSE
+ENSG00000176302	FOXR1	Forkhead	Monomer or homomultimer	High-throughput in vitro	ENSG00000176302.12	FOXR1	TRUE	FALSE
+ENSG00000189299	FOXR2	Forkhead	Monomer or homomultimer	High-throughput in vitro	ENSG00000189299.6	FOXR2	TRUE	FALSE
+ENSG00000179772	FOXS1	Forkhead	Monomer or homomultimer	High-throughput in vitro	ENSG00000179772.7	FOXS1	TRUE	FALSE
+ENSG00000154727	GABPA	Ets	Monomer or homomultimer	High-throughput in vitro	ENSG00000154727.10	GABPA	TRUE	FALSE
+ENSG00000102145	GATA1	GATA	Monomer or homomultimer	High-throughput in vitro	ENSG00000102145.13	GATA1	TRUE	FALSE
+ENSG00000179348	GATA2	GATA	Monomer or homomultimer	High-throughput in vitro	ENSG00000179348.11	GATA2	TRUE	FALSE
+ENSG00000107485	GATA3	GATA	Monomer or homomultimer	High-throughput in vitro	ENSG00000107485.15	GATA3	TRUE	FALSE
+ENSG00000136574	GATA4	GATA	Monomer or homomultimer	High-throughput in vitro	ENSG00000136574.17	GATA4	TRUE	FALSE
+ENSG00000130700	GATA5	GATA	Monomer or homomultimer	High-throughput in vitro	ENSG00000130700.6	GATA5	TRUE	FALSE
+ENSG00000141448	GATA6	GATA	Monomer or homomultimer	High-throughput in vitro	ENSG00000141448.8	GATA6	TRUE	FALSE
+ENSG00000167491	GATAD2A	GATA	Monomer or homomultimer	No motif	ENSG00000167491.17	GATAD2A	TRUE	FALSE
+ENSG00000143614	GATAD2B	GATA	Monomer or homomultimer	No motif	ENSG00000143614.7	GATAD2B	TRUE	FALSE
+ENSG00000164900	GBX1	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000164900.4	GBX1	TRUE	FALSE
+ENSG00000168505	GBX2	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000168505.6	GBX2	TRUE	FALSE
+ENSG00000137270	GCM1	GCM	Monomer or homomultimer	High-throughput in vitro	ENSG00000137270.10	GCM1	TRUE	FALSE
+ENSG00000124827	GCM2	GCM	Monomer or homomultimer	High-throughput in vitro	ENSG00000124827.6	GCM2	TRUE	FALSE
+ENSG00000162676	GFI1	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000162676.11	GFI1	TRUE	FALSE
+ENSG00000165702	GFI1B	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000165702.12	GFI1B	TRUE	FALSE
+ENSG00000111087	GLI1	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000111087.9	GLI1	TRUE	FALSE
+ENSG00000074047	GLI2	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000074047.20	GLI2	TRUE	FALSE
+ENSG00000106571	GLI3	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000106571.12	GLI3	TRUE	FALSE
+ENSG00000250571	GLI4	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000250571.6	GLI4	TRUE	FALSE
+ENSG00000174332	GLIS1	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000174332.5	GLIS1	TRUE	FALSE
+ENSG00000126603	GLIS2	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000126603.8	GLIS2	TRUE	FALSE
+ENSG00000107249	GLIS3	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000107249.21	GLIS3	TRUE	FALSE
+ENSG00000198715	GLMP	Unknown	Monomer or homomultimer	No motif	ENSG00000198715.11	GLMP	TRUE	FALSE
+ENSG00000140632	GLYR1	AT hook	Monomer or homomultimer	No motif	ENSG00000140632.16	GLYR1	TRUE	FALSE
+ENSG00000162419	GMEB1	SAND	Monomer or homomultimer	High-throughput in vitro	ENSG00000162419.12	GMEB1	TRUE	FALSE
+ENSG00000101216	GMEB2	SAND	Monomer or homomultimer	High-throughput in vitro	ENSG00000101216.10	GMEB2	TRUE	FALSE
+ENSG00000062194	GPBP1	Unknown	Monomer or homomultimer	No motif	ENSG00000062194.15	GPBP1	TRUE	FALSE
+ENSG00000159592	GPBP1L1	Unknown	Monomer or homomultimer	No motif	ENSG00000159592.10	GPBP1L1	TRUE	FALSE
+ENSG00000134317	GRHL1	Grainyhead	Monomer or homomultimer	High-throughput in vitro	ENSG00000134317.17	GRHL1	TRUE	FALSE
+ENSG00000083307	GRHL2	Grainyhead	Monomer or homomultimer	In vivo/Misc source	ENSG00000083307.10	GRHL2	TRUE	FALSE
+ENSG00000158055	GRHL3	Grainyhead	Monomer or homomultimer	No motif	ENSG00000158055.15	GRHL3	TRUE	FALSE
+ENSG00000133937	GSC	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000133937.4	GSC	TRUE	FALSE
+ENSG00000063515	GSC2	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000063515.2	GSC2	TRUE	FALSE
+ENSG00000169840	GSX1	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000169840.4	GSX1	TRUE	FALSE
+ENSG00000180613	GSX2	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000180613.10	GSX2	TRUE	FALSE
+ENSG00000137947	GTF2B	Unknown	Low specificity DNA-binding protein	In vivo/Misc source	ENSG00000137947.11	GTF2B	TRUE	FALSE
+ENSG00000263001	GTF2I	GTF2I-like	Monomer or homomultimer	In vivo/Misc source	ENSG00000263001.5	GTF2I	TRUE	FALSE
+ENSG00000006704	GTF2IRD1	GTF2I-like	Monomer or homomultimer	In vivo/Misc source	ENSG00000006704.10	GTF2IRD1	TRUE	FALSE
+ENSG00000196275	GTF2IRD2	GTF2I-like	Monomer or homomultimer	No motif	ENSG00000196275.13	GTF2IRD2	TRUE	FALSE
+ENSG00000174428	GTF2IRD2B	GTF2I-like	Monomer or homomultimer	No motif	ENSG00000174428.16	GTF2IRD2B	TRUE	FALSE
+ENSG00000122034	GTF3A	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000122034.12	GTF3A	TRUE	FALSE
+ENSG00000125812	GZF1	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000125812.15	GZF1	TRUE	FALSE
+ENSG00000113196	HAND1	bHLH	Obligate heteromer	In vivo/Misc source	ENSG00000113196.2	HAND1	TRUE	FALSE
+ENSG00000164107	HAND2	bHLH	Monomer or homomultimer	High-throughput in vitro	ENSG00000164107.8	HAND2	TRUE	FALSE
+ENSG00000105856	HBP1	HMG/Sox	Monomer or homomultimer	100 perc ID - in vitro	ENSG00000105856.13	HBP1	TRUE	FALSE
+ENSG00000165259	HDX	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000165259.13	HDX	TRUE	FALSE
+ENSG00000187821	HELT	bHLH	Monomer or homomultimer	High-throughput in vitro	ENSG00000187821.8	HELT	TRUE	FALSE
+ENSG00000114315	HES1	bHLH	Monomer or homomultimer	High-throughput in vitro	ENSG00000114315.3	HES1	TRUE	FALSE
+ENSG00000069812	HES2	bHLH	Monomer or homomultimer	High-throughput in vitro	ENSG00000069812.11	HES2	TRUE	FALSE
+ENSG00000173673	HES3	bHLH	Monomer or homomultimer	High-throughput in vitro	ENSG00000173673.7	HES3	TRUE	FALSE
+ENSG00000188290	HES4	bHLH	Monomer or homomultimer	High-throughput in vitro	ENSG00000188290.10	HES4	TRUE	FALSE
+ENSG00000197921	HES5	bHLH	Monomer or homomultimer	High-throughput in vitro	ENSG00000197921.5	HES5	TRUE	FALSE
+ENSG00000144485	HES6	bHLH	Monomer or homomultimer	High-throughput in vitro	ENSG00000144485.10	HES6	TRUE	FALSE
+ENSG00000179111	HES7	bHLH	Monomer or homomultimer	High-throughput in vitro	ENSG00000179111.8	HES7	TRUE	FALSE
+ENSG00000163666	HESX1	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000163666.8	HESX1	TRUE	FALSE
+ENSG00000164683	HEY1	bHLH	Monomer or homomultimer	High-throughput in vitro	ENSG00000164683.16	HEY1	TRUE	FALSE
+ENSG00000135547	HEY2	bHLH	Monomer or homomultimer	High-throughput in vitro	ENSG00000135547.8	HEY2	TRUE	FALSE
+ENSG00000163909	HEYL	bHLH	Monomer or homomultimer	High-throughput in vitro	ENSG00000163909.7	HEYL	TRUE	FALSE
+ENSG00000152804	HHEX	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000152804.10	HHEX	TRUE	FALSE
+ENSG00000177374	HIC1	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000177374.12	HIC1	TRUE	FALSE
+ENSG00000169635	HIC2	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000169635.9	HIC2	TRUE	FALSE
+ENSG00000100644	HIF1A	bHLH	Obligate heteromer	In vivo/Misc source	ENSG00000100644.16	HIF1A	TRUE	FALSE
+ENSG00000124440	HIF3A	bHLH	Obligate heteromer	In vivo/Misc source	ENSG00000124440.15	HIF3A	TRUE	FALSE
+ENSG00000172273	HINFP	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000172273.12	HINFP	TRUE	FALSE
+ENSG00000095951	HIVEP1	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000095951.16	HIVEP1	TRUE	FALSE
+ENSG00000010818	HIVEP2	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000010818.8	HIVEP2	TRUE	FALSE
+ENSG00000127124	HIVEP3	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000127124.13	HIVEP3	TRUE	FALSE
+ENSG00000181666	HKR1	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000181666.17	HKR1	TRUE	FALSE
+ENSG00000108924	HLF	bZIP	Monomer or homomultimer	High-throughput in vitro	ENSG00000108924.13	HLF	TRUE	FALSE
+ENSG00000136630	HLX	Homeodomain	Monomer or homomultimer	100 perc ID - in vitro	ENSG00000136630.12	HLX	TRUE	FALSE
+ENSG00000147421	HMBOX1	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000147421.17	HMBOX1	TRUE	FALSE
+ENSG00000140382	HMG20A	HMG/Sox	Monomer or homomultimer	No motif	ENSG00000140382.14	HMG20A	TRUE	FALSE
+ENSG00000064961	HMG20B	HMG/Sox	Monomer or homomultimer	High-throughput in vitro	ENSG00000064961.18	HMG20B	TRUE	FALSE
+ENSG00000137309	HMGA1	AT hook	Monomer or homomultimer	In vivo/Misc source	ENSG00000137309.19	HMGA1	TRUE	FALSE
+ENSG00000149948	HMGA2	AT hook	Monomer or homomultimer	In vivo/Misc source	ENSG00000149948.13	HMGA2	TRUE	FALSE
+ENSG00000118418	HMGN3	HMG/Sox	Low specificity DNA-binding protein	No motif	ENSG00000118418.14	HMGN3	TRUE	FALSE
+ENSG00000215612	HMX1	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000215612.6	HMX1	TRUE	FALSE
+ENSG00000188816	HMX2	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000188816.3	HMX2	TRUE	FALSE
+ENSG00000188620	HMX3	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000188620.9	HMX3	TRUE	FALSE
+ENSG00000135100	HNF1A	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000135100.17	HNF1A	TRUE	FALSE
+ENSG00000275410	HNF1B	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000275410.4	HNF1B	TRUE	FALSE
+ENSG00000101076	HNF4A	Nuclear receptor	Monomer or homomultimer	High-throughput in vitro	ENSG00000101076.16	HNF4A	TRUE	FALSE
+ENSG00000164749	HNF4G	Nuclear receptor	Monomer or homomultimer	In vivo/Misc source	ENSG00000164749.11	HNF4G	TRUE	FALSE
+ENSG00000215271	HOMEZ	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000215271.7	HOMEZ	TRUE	FALSE
+ENSG00000105991	HOXA1	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000105991.7	HOXA1	TRUE	FALSE
+ENSG00000253293	HOXA10	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000253293.4	HOXA10	TRUE	FALSE
+ENSG00000005073	HOXA11	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000005073.5	HOXA11	TRUE	FALSE
+ENSG00000106031	HOXA13	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000106031.7	HOXA13	TRUE	FALSE
+ENSG00000105996	HOXA2	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000105996.6	HOXA2	TRUE	FALSE
+ENSG00000105997	HOXA3	Homeodomain	Monomer or homomultimer	100 perc ID - in vitro	ENSG00000105997.22	HOXA3	TRUE	FALSE
+ENSG00000197576	HOXA4	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000197576.13	HOXA4	TRUE	FALSE
+ENSG00000106004	HOXA5	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000106004.4	HOXA5	TRUE	FALSE
+ENSG00000106006	HOXA6	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000106006.6	HOXA6	TRUE	FALSE
+ENSG00000122592	HOXA7	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000122592.7	HOXA7	TRUE	FALSE
+ENSG00000078399	HOXA9	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000078399.15	HOXA9	TRUE	FALSE
+ENSG00000120094	HOXB1	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000120094.6	HOXB1	TRUE	FALSE
+ENSG00000159184	HOXB13	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000159184.7	HOXB13	TRUE	FALSE
+ENSG00000173917	HOXB2	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000173917.10	HOXB2	TRUE	FALSE
+ENSG00000120093	HOXB3	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000120093.11	HOXB3	TRUE	FALSE
+ENSG00000182742	HOXB4	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000182742.5	HOXB4	TRUE	FALSE
+ENSG00000120075	HOXB5	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000120075.5	HOXB5	TRUE	FALSE
+ENSG00000108511	HOXB6	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000108511.9	HOXB6	TRUE	FALSE
+ENSG00000260027	HOXB7	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000260027.4	HOXB7	TRUE	FALSE
+ENSG00000120068	HOXB8	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000120068.6	HOXB8	TRUE	FALSE
+ENSG00000170689	HOXB9	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000170689.9	HOXB9	TRUE	FALSE
+ENSG00000180818	HOXC10	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000180818.4	HOXC10	TRUE	FALSE
+ENSG00000123388	HOXC11	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000123388.4	HOXC11	TRUE	FALSE
+ENSG00000123407	HOXC12	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000123407.3	HOXC12	TRUE	FALSE
+ENSG00000123364	HOXC13	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000123364.4	HOXC13	TRUE	FALSE
+ENSG00000198353	HOXC4	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000198353.7	HOXC4	TRUE	FALSE
+ENSG00000172789	HOXC5	Homeodomain	Monomer or homomultimer	100 perc ID - in vitro	ENSG00000172789.3	HOXC5	TRUE	FALSE
+ENSG00000197757	HOXC6	Homeodomain	Monomer or homomultimer	100 perc ID - in vitro	ENSG00000197757.7	HOXC6	TRUE	FALSE
+ENSG00000037965	HOXC8	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000037965.5	HOXC8	TRUE	FALSE
+ENSG00000180806	HOXC9	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000180806.4	HOXC9	TRUE	FALSE
+ENSG00000128645	HOXD1	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000128645.12	HOXD1	TRUE	FALSE
+ENSG00000128710	HOXD10	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000128710.5	HOXD10	TRUE	FALSE
+ENSG00000128713	HOXD11	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000128713.12	HOXD11	TRUE	FALSE
+ENSG00000170178	HOXD12	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000170178.6	HOXD12	TRUE	FALSE
+ENSG00000128714	HOXD13	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000128714.5	HOXD13	TRUE	FALSE
+ENSG00000128652	HOXD3	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000128652.11	HOXD3	TRUE	FALSE
+ENSG00000170166	HOXD4	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000170166.5	HOXD4	TRUE	FALSE
+ENSG00000175879	HOXD8	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000175879.8	HOXD8	TRUE	FALSE
+ENSG00000128709	HOXD9	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000128709.11	HOXD9	TRUE	FALSE
+ENSG00000185122	HSF1	HSF	Monomer or homomultimer	High-throughput in vitro	ENSG00000185122.10	HSF1	TRUE	FALSE
+ENSG00000025156	HSF2	HSF	Monomer or homomultimer	High-throughput in vitro	ENSG00000025156.12	HSF2	TRUE	FALSE
+ENSG00000102878	HSF4	HSF	Monomer or homomultimer	High-throughput in vitro	ENSG00000102878.15	HSF4	TRUE	FALSE
+ENSG00000176160	HSF5	HSF	Monomer or homomultimer	High-throughput in vitro	ENSG00000176160.9	HSF5	TRUE	FALSE
+ENSG00000171116	HSFX1	HSF	Monomer or homomultimer	No motif	ENSG00000171116.7	HSFX1	TRUE	FALSE
+ENSG00000268738	HSFX2	HSF	Monomer or homomultimer	No motif	ENSG00000268738.2	HSFX2	TRUE	FALSE
+ENSG00000172468	HSFY1	HSF	Monomer or homomultimer	High-throughput in vitro	ENSG00000172468.13	HSFY1	TRUE	FALSE
+ENSG00000169953	HSFY2	HSF	Monomer or homomultimer	High-throughput in vitro	ENSG00000169953.11	HSFY2	TRUE	FALSE
+ENSG00000185811	IKZF1	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000185811.16	IKZF1	TRUE	FALSE
+ENSG00000030419	IKZF2	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000030419.16	IKZF2	TRUE	FALSE
+ENSG00000161405	IKZF3	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000161405.16	IKZF3	TRUE	FALSE
+ENSG00000123411	IKZF4	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000123411.14	IKZF4	TRUE	FALSE
+ENSG00000095574	IKZF5	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000095574.11	IKZF5	TRUE	FALSE
+ENSG00000173404	INSM1	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000173404.4	INSM1	TRUE	FALSE
+ENSG00000168348	INSM2	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000168348.3	INSM2	TRUE	FALSE
+ENSG00000125347	IRF1	IRF	Monomer or homomultimer	In vivo/Misc source	ENSG00000125347.13	IRF1	TRUE	FALSE
+ENSG00000168310	IRF2	IRF	Monomer or homomultimer	High-throughput in vitro	ENSG00000168310.10	IRF2	TRUE	FALSE
+ENSG00000126456	IRF3	IRF	Monomer or homomultimer	High-throughput in vitro	ENSG00000126456.15	IRF3	TRUE	FALSE
+ENSG00000137265	IRF4	IRF	Monomer or homomultimer	High-throughput in vitro	ENSG00000137265.14	IRF4	TRUE	FALSE
+ENSG00000128604	IRF5	IRF	Monomer or homomultimer	High-throughput in vitro	ENSG00000128604.18	IRF5	TRUE	FALSE
+ENSG00000117595	IRF6	IRF	Monomer or homomultimer	High-throughput in vitro	ENSG00000117595.10	IRF6	TRUE	FALSE
+ENSG00000185507	IRF7	IRF	Monomer or homomultimer	High-throughput in vitro	ENSG00000185507.19	IRF7	TRUE	FALSE
+ENSG00000140968	IRF8	IRF	Monomer or homomultimer	High-throughput in vitro	ENSG00000140968.10	IRF8	TRUE	FALSE
+ENSG00000213928	IRF9	IRF	Monomer or homomultimer	High-throughput in vitro	ENSG00000213928.8	IRF9	TRUE	FALSE
+ENSG00000170549	IRX1	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000170549.3	IRX1	TRUE	FALSE
+ENSG00000170561	IRX2	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000170561.12	IRX2	TRUE	FALSE
+ENSG00000177508	IRX3	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000177508.11	IRX3	TRUE	FALSE
+ENSG00000113430	IRX4	Homeodomain	Monomer or homomultimer	100 perc ID - in vitro	ENSG00000113430.9	IRX4	TRUE	FALSE
+ENSG00000176842	IRX5	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000176842.14	IRX5	TRUE	FALSE
+ENSG00000159387	IRX6	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000159387.7	IRX6	TRUE	FALSE
+ENSG00000016082	ISL1	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000016082.14	ISL1	TRUE	FALSE
+ENSG00000159556	ISL2	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000159556.9	ISL2	TRUE	FALSE
+ENSG00000175329	ISX	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000175329.12	ISX	TRUE	FALSE
+ENSG00000153814	JAZF1	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000153814.11	JAZF1	TRUE	FALSE
+ENSG00000140044	JDP2	bZIP	Monomer or homomultimer	High-throughput in vitro	ENSG00000140044.12	JDP2	TRUE	FALSE
+ENSG00000234616	JRK	CENPB	Monomer or homomultimer	No motif	ENSG00000234616.8	JRK	TRUE	FALSE
+ENSG00000183340	JRKL	CENPB	Monomer or homomultimer	High-throughput in vitro	ENSG00000183340.6	JRKL	TRUE	FALSE
+ENSG00000177606	JUN	bZIP	Monomer or homomultimer	High-throughput in vitro	ENSG00000177606.6	JUN	TRUE	FALSE
+ENSG00000171223	JUNB	bZIP	Monomer or homomultimer	High-throughput in vitro	ENSG00000171223.5	JUNB	TRUE	FALSE
+ENSG00000130522	JUND	bZIP	Monomer or homomultimer	High-throughput in vitro	ENSG00000130522.5	JUND	TRUE	FALSE
+ENSG00000136504	KAT7	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000136504.11	KAT7	TRUE	FALSE
+ENSG00000176407	KCMF1	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000176407.17	KCMF1	TRUE	FALSE
+ENSG00000115041	KCNIP3	Unknown	Monomer or homomultimer	No motif	ENSG00000115041.12	KCNIP3	TRUE	FALSE
+ENSG00000173120	KDM2A	CxxC	Monomer or homomultimer	No motif	ENSG00000173120.14	KDM2A	TRUE	FALSE
+ENSG00000089094	KDM2B	CxxC	Monomer or homomultimer	High-throughput in vitro	ENSG00000089094.16	KDM2B	TRUE	FALSE
+ENSG00000117139	KDM5B	ARID/BRIGHT	Monomer or homomultimer	No motif	ENSG00000117139.16	KDM5B	TRUE	FALSE
+ENSG00000151657	KIN	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000151657.11	KIN	TRUE	FALSE
+ENSG00000105610	KLF1	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000105610.4	KLF1	TRUE	FALSE
+ENSG00000155090	KLF10	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000155090.14	KLF10	TRUE	FALSE
+ENSG00000172059	KLF11	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000172059.10	KLF11	TRUE	FALSE
+ENSG00000118922	KLF12	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000118922.16	KLF12	TRUE	FALSE
+ENSG00000169926	KLF13	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000169926.9	KLF13	TRUE	FALSE
+ENSG00000266265	KLF14	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000266265.2	KLF14	TRUE	FALSE
+ENSG00000163884	KLF15	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000163884.3	KLF15	TRUE	FALSE
+ENSG00000129911	KLF16	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000129911.8	KLF16	TRUE	FALSE
+ENSG00000171872	KLF17	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000171872.4	KLF17	TRUE	FALSE
+ENSG00000127528	KLF2	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000127528.5	KLF2	TRUE	FALSE
+ENSG00000109787	KLF3	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000109787.12	KLF3	TRUE	FALSE
+ENSG00000136826	KLF4	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000136826.14	KLF4	TRUE	FALSE
+ENSG00000102554	KLF5	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000102554.13	KLF5	TRUE	FALSE
+ENSG00000067082	KLF6	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000067082.14	KLF6	TRUE	FALSE
+ENSG00000118263	KLF7	C2H2 ZF	Monomer or homomultimer	100 perc ID - in vitro	ENSG00000118263.14	KLF7	TRUE	FALSE
+ENSG00000102349	KLF8	C2H2 ZF	Monomer or homomultimer	100 perc ID - in vitro	ENSG00000102349.14	KLF8	TRUE	FALSE
+ENSG00000119138	KLF9	C2H2 ZF	Monomer or homomultimer	100 perc ID - in vitro	ENSG00000119138.4	KLF9	TRUE	FALSE
+ENSG00000118058	KMT2A	CxxC; AT hook	Monomer or homomultimer	High-throughput in vitro	ENSG00000118058.20	KMT2A	TRUE	FALSE
+ENSG00000272333	KMT2B	CxxC; AT hook	Monomer or homomultimer	No motif	ENSG00000272333.5	KMT2B	TRUE	FALSE
+ENSG00000185513	L3MBTL1	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000185513.14	L3MBTL1	TRUE	FALSE
+ENSG00000198945	L3MBTL3	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000198945.7	L3MBTL3	TRUE	FALSE
+ENSG00000154655	L3MBTL4	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000154655.14	L3MBTL4	TRUE	FALSE
+ENSG00000138136	LBX1	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000138136.6	LBX1	TRUE	FALSE
+ENSG00000179528	LBX2	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000179528.15	LBX2	TRUE	FALSE
+ENSG00000196233	LCOR	Pipsqueak	Monomer or homomultimer	100 perc ID - in vitro	ENSG00000196233.11	LCOR	TRUE	FALSE
+ENSG00000178177	LCORL	Pipsqueak	Monomer or homomultimer	High-throughput in vitro	ENSG00000178177.14	LCORL	TRUE	FALSE
+ENSG00000138795	LEF1	HMG/Sox	Monomer or homomultimer	High-throughput in vitro	ENSG00000138795.9	LEF1	TRUE	FALSE
+ENSG00000213921	LEUTX	Homeodomain	Monomer or homomultimer	No motif	ENSG00000213921.6	LEUTX	TRUE	FALSE
+ENSG00000273706	LHX1	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000273706.4	LHX1	TRUE	FALSE
+ENSG00000106689	LHX2	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000106689.10	LHX2	TRUE	FALSE
+ENSG00000107187	LHX3	Homeodomain	Monomer or homomultimer	100 perc ID - in vitro	ENSG00000107187.15	LHX3	TRUE	FALSE
+ENSG00000121454	LHX4	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000121454.5	LHX4	TRUE	FALSE
+ENSG00000089116	LHX5	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000089116.3	LHX5	TRUE	FALSE
+ENSG00000106852	LHX6	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000106852.15	LHX6	TRUE	FALSE
+ENSG00000162624	LHX8	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000162624.14	LHX8	TRUE	FALSE
+ENSG00000143355	LHX9	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000143355.15	LHX9	TRUE	FALSE
+ENSG00000131914	LIN28A	CSD	Monomer or homomultimer	High-throughput in vitro	ENSG00000131914.10	LIN28A	TRUE	FALSE
+ENSG00000187772	LIN28B	CSD	Monomer or homomultimer	High-throughput in vitro	ENSG00000187772.6	LIN28B	TRUE	FALSE
+ENSG00000189308	LIN54	TCR/CxC	Monomer or homomultimer	High-throughput in vitro	ENSG00000189308.10	LIN54	TRUE	FALSE
+ENSG00000162761	LMX1A	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000162761.14	LMX1A	TRUE	FALSE
+ENSG00000136944	LMX1B	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000136944.17	LMX1B	TRUE	FALSE
+ENSG00000012223	LTF	Unknown	Monomer or homomultimer	In vivo/Misc source	ENSG00000012223.12	LTF	TRUE	FALSE
+ENSG00000104903	LYL1	bHLH	Obligate heteromer	In vivo/Misc source	ENSG00000104903.4	LYL1	TRUE	FALSE
+ENSG00000178573	MAF	bZIP	Monomer or homomultimer	High-throughput in vitro	ENSG00000178573.6	MAF	TRUE	FALSE
+ENSG00000182759	MAFA	bZIP	Monomer or homomultimer	High-throughput in vitro	ENSG00000182759.3	MAFA	TRUE	FALSE
+ENSG00000204103	MAFB	bZIP	Monomer or homomultimer	100 perc ID - in vitro	ENSG00000204103.3	MAFB	TRUE	FALSE
+ENSG00000185022	MAFF	bZIP	Monomer or homomultimer	High-throughput in vitro	ENSG00000185022.11	MAFF	TRUE	FALSE
+ENSG00000197063	MAFG	bZIP	Monomer or homomultimer	High-throughput in vitro	ENSG00000197063.10	MAFG	TRUE	FALSE
+ENSG00000198517	MAFK	bZIP	Monomer or homomultimer	High-throughput in vitro	ENSG00000198517.9	MAFK	TRUE	FALSE
+ENSG00000125952	MAX	bHLH	Monomer or homomultimer	High-throughput in vitro	ENSG00000125952.18	MAX	TRUE	FALSE
+ENSG00000103495	MAZ	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000103495.13	MAZ	TRUE	FALSE
+ENSG00000141644	MBD1	MBD; CxxC ZF	Low specificity DNA-binding protein	No motif	ENSG00000141644.17	MBD1	TRUE	FALSE
+ENSG00000134046	MBD2	MBD	Low specificity DNA-binding protein	In vivo/Misc source	ENSG00000134046.11	MBD2	TRUE	FALSE
+ENSG00000071655	MBD3	MBD	Low specificity DNA-binding protein	No motif	ENSG00000071655.17	MBD3	TRUE	FALSE
+ENSG00000129071	MBD4	MBD	Low specificity DNA-binding protein	No motif	ENSG00000129071.9	MBD4	TRUE	FALSE
+ENSG00000166987	MBD6	MBD	Low specificity DNA-binding protein	No motif	ENSG00000166987.14	MBD6	TRUE	FALSE
+ENSG00000139793	MBNL2	CCCH ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000139793.18	MBNL2	TRUE	FALSE
+ENSG00000085276	MECOM	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000085276.17	MECOM	TRUE	FALSE
+ENSG00000169057	MECP2	MBD; AT hook	Low specificity DNA-binding protein	100 perc ID - in vitro	ENSG00000169057.19	MECP2	TRUE	FALSE
+ENSG00000068305	MEF2A	MADS box	Monomer or homomultimer	High-throughput in vitro	ENSG00000068305.17	MEF2A	TRUE	FALSE
+ENSG00000213999	MEF2B	MADS box	Monomer or homomultimer	High-throughput in vitro	ENSG00000213999.15	MEF2B	TRUE	FALSE
+ENSG00000081189	MEF2C	MADS box	Monomer or homomultimer	High-throughput in vitro	ENSG00000081189.13	MEF2C	TRUE	FALSE
+ENSG00000116604	MEF2D	MADS box	Monomer or homomultimer	High-throughput in vitro	ENSG00000116604.17	MEF2D	TRUE	FALSE
+ENSG00000143995	MEIS1	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000143995.19	MEIS1	TRUE	FALSE
+ENSG00000134138	MEIS2	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000134138.19	MEIS2	TRUE	FALSE
+ENSG00000105419	MEIS3	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000105419.17	MEIS3	TRUE	FALSE
+ENSG00000005102	MEOX1	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000005102.12	MEOX1	TRUE	FALSE
+ENSG00000106511	MEOX2	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000106511.5	MEOX2	TRUE	FALSE
+ENSG00000166823	MESP1	bHLH	Monomer or homomultimer	High-throughput in vitro	ENSG00000166823.5	MESP1	TRUE	FALSE
+ENSG00000188095	MESP2	bHLH	Monomer or homomultimer	High-throughput in vitro	ENSG00000188095.4	MESP2	TRUE	FALSE
+ENSG00000174197	MGA	T-box	Monomer or homomultimer	High-throughput in vitro	ENSG00000174197.16	MGA	TRUE	FALSE
+ENSG00000187098	MITF	bHLH	Monomer or homomultimer	100 perc ID - in vitro	ENSG00000187098.14	MITF	TRUE	FALSE
+ENSG00000185155	MIXL1	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000185155.11	MIXL1	TRUE	FALSE
+ENSG00000150051	MKX	Homeodomain	Monomer or homomultimer	No motif	ENSG00000150051.13	MKX	TRUE	FALSE
+ENSG00000108788	MLX	bHLH	Monomer or homomultimer	High-throughput in vitro	ENSG00000108788.11	MLX	TRUE	FALSE
+ENSG00000175727	MLXIP	bHLH	Obligate heteromer	High-throughput in vitro	ENSG00000175727.13	MLXIP	TRUE	FALSE
+ENSG00000009950	MLXIPL	bHLH	Monomer or homomultimer	High-throughput in vitro	ENSG00000009950.15	MLXIPL	TRUE	FALSE
+ENSG00000070444	MNT	bHLH	Monomer or homomultimer	High-throughput in vitro	ENSG00000070444.14	MNT	TRUE	FALSE
+ENSG00000130675	MNX1	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000130675.14	MNX1	TRUE	FALSE
+ENSG00000188981	MSANTD1	MADF	Monomer or homomultimer	No motif	ENSG00000188981.10	MSANTD1	TRUE	FALSE
+ENSG00000066697	MSANTD3	MADF	Monomer or homomultimer	High-throughput in vitro	ENSG00000066697.14	MSANTD3	TRUE	FALSE
+ENSG00000170903	MSANTD4	Myb/SANT	Low specificity DNA-binding protein	No motif	ENSG00000170903.10	MSANTD4	TRUE	FALSE
+ENSG00000178860	MSC	bHLH	Monomer or homomultimer	High-throughput in vitro	ENSG00000178860.8	MSC	TRUE	FALSE
+ENSG00000151379	MSGN1	bHLH	Monomer or homomultimer	High-throughput in vitro	ENSG00000151379.3	MSGN1	TRUE	FALSE
+ENSG00000163132	MSX1	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000163132.6	MSX1	TRUE	FALSE
+ENSG00000120149	MSX2	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000120149.8	MSX2	TRUE	FALSE
+ENSG00000127989	MTERF1	mTERF	Monomer or homomultimer	In vivo/Misc source	ENSG00000127989.13	MTERF1	TRUE	FALSE
+ENSG00000120832	MTERF2	mTERF	Monomer or homomultimer	No motif	ENSG00000120832.9	MTERF2	TRUE	FALSE
+ENSG00000156469	MTERF3	mTERF	Monomer or homomultimer	No motif	ENSG00000156469.8	MTERF3	TRUE	FALSE
+ENSG00000122085	MTERF4	mTERF	Monomer or homomultimer	No motif	ENSG00000122085.16	MTERF4	TRUE	FALSE
+ENSG00000188786	MTF1	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000188786.9	MTF1	TRUE	FALSE
+ENSG00000143033	MTF2	Unknown	Monomer or homomultimer	High-throughput in vitro	ENSG00000143033.17	MTF2	TRUE	FALSE
+ENSG00000059728	MXD1	bHLH	Obligate heteromer	In vivo/Misc source	ENSG00000059728.10	MXD1	TRUE	FALSE
+ENSG00000213347	MXD3	bHLH	Obligate heteromer	In vivo/Misc source	ENSG00000213347.10	MXD3	TRUE	FALSE
+ENSG00000123933	MXD4	bHLH	Obligate heteromer	In vivo/Misc source	ENSG00000123933.14	MXD4	TRUE	FALSE
+ENSG00000119950	MXI1	bHLH	Obligate heteromer	In vivo/Misc source	ENSG00000119950.20	MXI1	TRUE	FALSE
+ENSG00000118513	MYB	Myb/SANT	Monomer or homomultimer	In vivo/Misc source	ENSG00000118513.18	MYB	TRUE	FALSE
+ENSG00000185697	MYBL1	Myb/SANT	Monomer or homomultimer	High-throughput in vitro	ENSG00000185697.16	MYBL1	TRUE	FALSE
+ENSG00000101057	MYBL2	Myb/SANT	Monomer or homomultimer	High-throughput in vitro	ENSG00000101057.15	MYBL2	TRUE	FALSE
+ENSG00000136997	MYC	bHLH	Obligate heteromer	In vivo/Misc source	ENSG00000136997.14	MYC	TRUE	FALSE
+ENSG00000116990	MYCL	bHLH	Obligate heteromer	In vivo/Misc source	ENSG00000116990.10	MYCL	TRUE	FALSE
+ENSG00000134323	MYCN	bHLH	Monomer or homomultimer	High-throughput in vitro	ENSG00000134323.10	MYCN	TRUE	FALSE
+ENSG00000111049	MYF5	bHLH	Monomer or homomultimer	In vivo/Misc source	ENSG00000111049.3	MYF5	TRUE	FALSE
+ENSG00000111046	MYF6	bHLH	Monomer or homomultimer	High-throughput in vitro	ENSG00000111046.3	MYF6	TRUE	FALSE
+ENSG00000085274	MYNN	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000085274.15	MYNN	TRUE	FALSE
+ENSG00000129152	MYOD1	bHLH	Monomer or homomultimer	High-throughput in vitro	ENSG00000129152.3	MYOD1	TRUE	FALSE
+ENSG00000122180	MYOG	bHLH	Monomer or homomultimer	High-throughput in vitro	ENSG00000122180.4	MYOG	TRUE	FALSE
+ENSG00000176182	MYPOP	Myb/SANT	Monomer or homomultimer	No motif	ENSG00000176182.5	MYPOP	TRUE	FALSE
+ENSG00000124920	MYRF	Ndt80/PhoG	Monomer or homomultimer	High-throughput in vitro	ENSG00000124920.13	MYRF	TRUE	FALSE
+ENSG00000166268	MYRFL	Ndt80/PhoG	Monomer or homomultimer	No motif	ENSG00000166268.10	MYRFL	TRUE	FALSE
+ENSG00000162601	MYSM1	Myb/SANT	Low specificity DNA-binding protein	No motif	ENSG00000162601.9	MYSM1	TRUE	FALSE
+ENSG00000196132	MYT1	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000196132.11	MYT1	TRUE	FALSE
+ENSG00000186487	MYT1L	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000186487.17	MYT1L	TRUE	FALSE
+ENSG00000099326	MZF1	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000099326.8	MZF1	TRUE	FALSE
+ENSG00000148411	NACC2	Unknown	Monomer or homomultimer	No motif	ENSG00000148411.7	NACC2	TRUE	FALSE
+ENSG00000171169	NAIF1	MADF	Monomer or homomultimer	High-throughput in vitro	ENSG00000171169.8	NAIF1	TRUE	FALSE
+ENSG00000111704	NANOG	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000111704.10	NANOG	TRUE	FALSE
+ENSG00000205857	NANOGNB	Homeodomain	Monomer or homomultimer	No motif	ENSG00000205857.1	NANOGNB	TRUE	FALSE
+ENSG00000255192	NANOGP8	Homeodomain	Monomer or homomultimer	100 perc ID - in vitro	ENSG00000255192.5	NANOGP8	TRUE	FALSE
+ENSG00000084676	NCOA1	bHLH	Obligate heteromer	No motif	ENSG00000084676.15	NCOA1	TRUE	FALSE
+ENSG00000140396	NCOA2	bHLH	Obligate heteromer	No motif	ENSG00000140396.12	NCOA2	TRUE	FALSE
+ENSG00000124151	NCOA3	bHLH	Obligate heteromer	No motif	ENSG00000124151.18	NCOA3	TRUE	FALSE
+ENSG00000162992	NEUROD1	bHLH	Monomer or homomultimer	High-throughput in vitro	ENSG00000162992.3	NEUROD1	TRUE	FALSE
+ENSG00000171532	NEUROD2	bHLH	Monomer or homomultimer	High-throughput in vitro	ENSG00000171532.4	NEUROD2	TRUE	FALSE
+ENSG00000123307	NEUROD4	bHLH	Monomer or homomultimer	High-throughput in vitro	ENSG00000123307.3	NEUROD4	TRUE	FALSE
+ENSG00000164600	NEUROD6	bHLH	Monomer or homomultimer	High-throughput in vitro	ENSG00000164600.5	NEUROD6	TRUE	FALSE
+ENSG00000181965	NEUROG1	bHLH	Monomer or homomultimer	High-throughput in vitro	ENSG00000181965.5	NEUROG1	TRUE	FALSE
+ENSG00000178403	NEUROG2	bHLH	Monomer or homomultimer	High-throughput in vitro	ENSG00000178403.3	NEUROG2	TRUE	FALSE
+ENSG00000122859	NEUROG3	bHLH	Monomer or homomultimer	High-throughput in vitro	ENSG00000122859.4	NEUROG3	TRUE	FALSE
+ENSG00000102908	NFAT5	Rel	Monomer or homomultimer	High-throughput in vitro	ENSG00000102908.20	NFAT5	TRUE	FALSE
+ENSG00000131196	NFATC1	Rel	Monomer or homomultimer	High-throughput in vitro	ENSG00000131196.17	NFATC1	TRUE	FALSE
+ENSG00000101096	NFATC2	Rel	Monomer or homomultimer	High-throughput in vitro	ENSG00000101096.19	NFATC2	TRUE	FALSE
+ENSG00000072736	NFATC3	Rel	Monomer or homomultimer	High-throughput in vitro	ENSG00000072736.18	NFATC3	TRUE	FALSE
+ENSG00000100968	NFATC4	Rel	Monomer or homomultimer	High-throughput in vitro	ENSG00000100968.13	NFATC4	TRUE	FALSE
+ENSG00000123405	NFE2	bZIP	Monomer or homomultimer	High-throughput in vitro	ENSG00000123405.13	NFE2	TRUE	FALSE
+ENSG00000082641	NFE2L1	bZIP	Obligate heteromer	In vivo/Misc source	ENSG00000082641.15	NFE2L1	TRUE	FALSE
+ENSG00000116044	NFE2L2	bZIP	Obligate heteromer	In vivo/Misc source	ENSG00000116044.15	NFE2L2	TRUE	FALSE
+ENSG00000050344	NFE2L3	bZIP	Obligate heteromer	In vivo/Misc source	ENSG00000050344.8	NFE2L3	TRUE	FALSE
+ENSG00000230257	NFE4	Unknown	Obligate heteromer	In vivo/Misc source	ENSG00000230257.1	NFE4	TRUE	FALSE
+ENSG00000162599	NFIA	SMAD	Monomer or homomultimer	High-throughput in vitro	ENSG00000162599.15	NFIA	TRUE	FALSE
+ENSG00000147862	NFIB	SMAD	Monomer or homomultimer	High-throughput in vitro	ENSG00000147862.14	NFIB	TRUE	FALSE
+ENSG00000141905	NFIC	SMAD	Monomer or homomultimer	High-throughput in vitro	ENSG00000141905.17	NFIC	TRUE	FALSE
+ENSG00000165030	NFIL3	bZIP	Monomer or homomultimer	High-throughput in vitro	ENSG00000165030.3	NFIL3	TRUE	FALSE
+ENSG00000008441	NFIX	SMAD	Monomer or homomultimer	High-throughput in vitro	ENSG00000008441.16	NFIX	TRUE	FALSE
+ENSG00000109320	NFKB1	Rel	Monomer or homomultimer	High-throughput in vitro	ENSG00000109320.11	NFKB1	TRUE	FALSE
+ENSG00000077150	NFKB2	Rel	Monomer or homomultimer	High-throughput in vitro	ENSG00000077150.17	NFKB2	TRUE	FALSE
+ENSG00000086102	NFX1	NFX	Monomer or homomultimer	No motif	ENSG00000086102.18	NFX1	TRUE	FALSE
+ENSG00000170448	NFXL1	NFX	Monomer or homomultimer	No motif	ENSG00000170448.11	NFXL1	TRUE	FALSE
+ENSG00000001167	NFYA	CBF/NF-Y	Obligate heteromer	In vivo/Misc source	ENSG00000001167.14	NFYA	TRUE	FALSE
+ENSG00000120837	NFYB	Unknown	Obligate heteromer	In vivo/Misc source	ENSG00000120837.7	NFYB	TRUE	FALSE
+ENSG00000066136	NFYC	Unknown	Obligate heteromer	In vivo/Misc source	ENSG00000066136.19	NFYC	TRUE	FALSE
+ENSG00000171786	NHLH1	bHLH	Monomer or homomultimer	High-throughput in vitro	ENSG00000171786.5	NHLH1	TRUE	FALSE
+ENSG00000177551	NHLH2	bHLH	Monomer or homomultimer	High-throughput in vitro	ENSG00000177551.5	NHLH2	TRUE	FALSE
+ENSG00000186416	NKRF	Unknown	Monomer or homomultimer	No motif	ENSG00000186416.12	NKRF	TRUE	FALSE
+ENSG00000235608	NKX1-1	Homeodomain	Monomer or homomultimer	100 perc ID - in vitro	ENSG00000235608.1	NKX1-1	TRUE	FALSE
+ENSG00000229544	NKX1-2	Homeodomain	Monomer or homomultimer	100 perc ID - in vitro	ENSG00000229544.8	NKX1-2	TRUE	FALSE
+ENSG00000136352	NKX2-1	Homeodomain	Monomer or homomultimer	100 perc ID - in vitro	ENSG00000136352.17	NKX2-1	TRUE	FALSE
+ENSG00000125820	NKX2-2	Homeodomain	Monomer or homomultimer	100 perc ID - in vitro	ENSG00000125820.5	NKX2-2	TRUE	FALSE
+ENSG00000119919	NKX2-3	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000119919.10	NKX2-3	TRUE	FALSE
+ENSG00000125816	NKX2-4	Homeodomain	Monomer or homomultimer	100 perc ID - in vitro	ENSG00000125816.4	NKX2-4	TRUE	FALSE
+ENSG00000183072	NKX2-5	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000183072.9	NKX2-5	TRUE	FALSE
+ENSG00000180053	NKX2-6	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000180053.7	NKX2-6	TRUE	FALSE
+ENSG00000136327	NKX2-8	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000136327.6	NKX2-8	TRUE	FALSE
+ENSG00000167034	NKX3-1	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000167034.9	NKX3-1	TRUE	FALSE
+ENSG00000109705	NKX3-2	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000109705.7	NKX3-2	TRUE	FALSE
+ENSG00000163623	NKX6-1	Homeodomain	Monomer or homomultimer	100 perc ID - in vitro	ENSG00000163623.9	NKX6-1	TRUE	FALSE
+ENSG00000148826	NKX6-2	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000148826.8	NKX6-2	TRUE	FALSE
+ENSG00000165066	NKX6-3	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000165066.12	NKX6-3	TRUE	FALSE
+ENSG00000243678	NME2	Unknown	Monomer or homomultimer	No motif	ENSG00000243678.11	NME1-NME2	TRUE	TRUE
+ENSG00000106410	NOBOX	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000106410.14	NOBOX	TRUE	FALSE
+ENSG00000214513	NOTO	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000214513.3	NOTO	TRUE	FALSE
+ENSG00000130751	NPAS1	bHLH	Obligate heteromer	In vivo/Misc source	ENSG00000130751.9	NPAS1	TRUE	FALSE
+ENSG00000170485	NPAS2	bHLH	Monomer or homomultimer	High-throughput in vitro	ENSG00000170485.16	NPAS2	TRUE	FALSE
+ENSG00000151322	NPAS3	bHLH	Obligate heteromer	In vivo/Misc source	ENSG00000151322.18	NPAS3	TRUE	FALSE
+ENSG00000174576	NPAS4	bHLH	Obligate heteromer	High-throughput in vitro	ENSG00000174576.8	NPAS4	TRUE	FALSE
+ENSG00000169297	NR0B1	Unknown	Obligate heteromer	In vivo/Misc source	ENSG00000169297.7	NR0B1	TRUE	FALSE
+ENSG00000126368	NR1D1	Nuclear receptor	Monomer or homomultimer	High-throughput in vitro	ENSG00000126368.5	NR1D1	TRUE	FALSE
+ENSG00000174738	NR1D2	Nuclear receptor	Monomer or homomultimer	High-throughput in vitro	ENSG00000174738.12	NR1D2	TRUE	FALSE
+ENSG00000131408	NR1H2	Nuclear receptor	Obligate heteromer	In vivo/Misc source	ENSG00000131408.13	NR1H2	TRUE	FALSE
+ENSG00000025434	NR1H3	Nuclear receptor	Obligate heteromer	In vivo/Misc source	ENSG00000025434.18	NR1H3	TRUE	FALSE
+ENSG00000012504	NR1H4	Nuclear receptor	Monomer or homomultimer	High-throughput in vitro	ENSG00000012504.13	NR1H4	TRUE	FALSE
+ENSG00000144852	NR1I2	Nuclear receptor	Monomer or homomultimer	High-throughput in vitro	ENSG00000144852.16	NR1I2	TRUE	FALSE
+ENSG00000143257	NR1I3	Nuclear receptor	Monomer or homomultimer	High-throughput in vitro	ENSG00000143257.11	NR1I3	TRUE	FALSE
+ENSG00000120798	NR2C1	Nuclear receptor	Monomer or homomultimer	High-throughput in vitro	ENSG00000120798.16	NR2C1	TRUE	FALSE
+ENSG00000177463	NR2C2	Nuclear receptor	Monomer or homomultimer	High-throughput in vitro	ENSG00000177463.15	NR2C2	TRUE	FALSE
+ENSG00000112333	NR2E1	Nuclear receptor	Monomer or homomultimer	High-throughput in vitro	ENSG00000112333.11	NR2E1	TRUE	FALSE
+ENSG00000278570	NR2E3	Nuclear receptor	Monomer or homomultimer	High-throughput in vitro	ENSG00000278570.4	NR2E3	TRUE	FALSE
+ENSG00000175745	NR2F1	Nuclear receptor	Monomer or homomultimer	High-throughput in vitro	ENSG00000175745.11	NR2F1	TRUE	FALSE
+ENSG00000185551	NR2F2	Nuclear receptor	Monomer or homomultimer	100 perc ID - in vitro	ENSG00000185551.12	NR2F2	TRUE	FALSE
+ENSG00000160113	NR2F6	Nuclear receptor	Monomer or homomultimer	High-throughput in vitro	ENSG00000160113.5	NR2F6	TRUE	FALSE
+ENSG00000113580	NR3C1	Nuclear receptor	Monomer or homomultimer	High-throughput in vitro	ENSG00000113580.14	NR3C1	TRUE	FALSE
+ENSG00000151623	NR3C2	Nuclear receptor	Monomer or homomultimer	High-throughput in vitro	ENSG00000151623.14	NR3C2	TRUE	FALSE
+ENSG00000123358	NR4A1	Nuclear receptor	Monomer or homomultimer	High-throughput in vitro	ENSG00000123358.19	NR4A1	TRUE	FALSE
+ENSG00000153234	NR4A2	Nuclear receptor	Monomer or homomultimer	High-throughput in vitro	ENSG00000153234.13	NR4A2	TRUE	FALSE
+ENSG00000119508	NR4A3	Nuclear receptor	Monomer or homomultimer	In vivo/Misc source	ENSG00000119508.17	NR4A3	TRUE	FALSE
+ENSG00000136931	NR5A1	Nuclear receptor	Monomer or homomultimer	High-throughput in vitro	ENSG00000136931.9	NR5A1	TRUE	FALSE
+ENSG00000116833	NR5A2	Nuclear receptor	Monomer or homomultimer	High-throughput in vitro	ENSG00000116833.13	NR5A2	TRUE	FALSE
+ENSG00000148200	NR6A1	Nuclear receptor	Monomer or homomultimer	High-throughput in vitro	ENSG00000148200.16	NR6A1	TRUE	FALSE
+ENSG00000106459	NRF1	Unknown	Monomer or homomultimer	High-throughput in vitro	ENSG00000106459.14	NRF1	TRUE	FALSE
+ENSG00000129535	NRL	bZIP	Monomer or homomultimer	High-throughput in vitro	ENSG00000129535.12	NRL	TRUE	FALSE
+ENSG00000184221	OLIG1	bHLH	Monomer or homomultimer	High-throughput in vitro	ENSG00000184221.12	OLIG1	TRUE	FALSE
+ENSG00000205927	OLIG2	bHLH	Monomer or homomultimer	High-throughput in vitro	ENSG00000205927.4	OLIG2	TRUE	FALSE
+ENSG00000177468	OLIG3	bHLH	Monomer or homomultimer	High-throughput in vitro	ENSG00000177468.6	OLIG3	TRUE	FALSE
+ENSG00000169856	ONECUT1	CUT; Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000169856.8	ONECUT1	TRUE	FALSE
+ENSG00000119547	ONECUT2	CUT; Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000119547.5	ONECUT2	TRUE	FALSE
+ENSG00000205922	ONECUT3	CUT; Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000205922.4	ONECUT3	TRUE	FALSE
+ENSG00000143867	OSR1	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000143867.6	OSR1	TRUE	FALSE
+ENSG00000164920	OSR2	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000164920.9	OSR2	TRUE	FALSE
+ENSG00000171540	OTP	Homeodomain	Monomer or homomultimer	100 perc ID - in vitro	ENSG00000171540.7	OTP	TRUE	FALSE
+ENSG00000115507	OTX1	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000115507.9	OTX1	TRUE	FALSE
+ENSG00000165588	OTX2	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000165588.16	OTX2	TRUE	FALSE
+ENSG00000172818	OVOL1	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000172818.9	OVOL1	TRUE	FALSE
+ENSG00000125850	OVOL2	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000125850.10	OVOL2	TRUE	FALSE
+ENSG00000105261	OVOL3	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000105261.7	OVOL3	TRUE	FALSE
+ENSG00000170515	PA2G4	Unknown	Monomer or homomultimer	No motif	ENSG00000170515.13	PA2G4	TRUE	FALSE
+ENSG00000100105	PATZ1	C2H2 ZF; AT hook	Monomer or homomultimer	In vivo/Misc source	ENSG00000100105.17	PATZ1	TRUE	FALSE
+ENSG00000125813	PAX1	Paired box	Monomer or homomultimer	High-throughput in vitro	ENSG00000125813.13	PAX1	TRUE	FALSE
+ENSG00000075891	PAX2	Homeodomain; Paired box	Monomer or homomultimer	High-throughput in vitro	ENSG00000075891.21	PAX2	TRUE	FALSE
+ENSG00000135903	PAX3	Homeodomain; Paired box	Monomer or homomultimer	High-throughput in vitro	ENSG00000135903.18	PAX3	TRUE	FALSE
+ENSG00000106331	PAX4	Homeodomain; Paired box	Monomer or homomultimer	High-throughput in vitro	ENSG00000106331.14	PAX4	TRUE	FALSE
+ENSG00000196092	PAX5	Paired box	Monomer or homomultimer	High-throughput in vitro	ENSG00000196092.12	PAX5	TRUE	FALSE
+ENSG00000007372	PAX6	Homeodomain; Paired box	Monomer or homomultimer	High-throughput in vitro	ENSG00000007372.20	PAX6	TRUE	FALSE
+ENSG00000009709	PAX7	Homeodomain; Paired box	Monomer or homomultimer	High-throughput in vitro	ENSG00000009709.11	PAX7	TRUE	FALSE
+ENSG00000125618	PAX8	Paired box	Monomer or homomultimer	High-throughput in vitro	ENSG00000125618.16	PAX8	TRUE	FALSE
+ENSG00000198807	PAX9	Paired box	Monomer or homomultimer	High-throughput in vitro	ENSG00000198807.12	PAX9	TRUE	FALSE
+ENSG00000185630	PBX1	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000185630.18	PBX1	TRUE	FALSE
+ENSG00000204304	PBX2	Homeodomain	Monomer or homomultimer	In vivo/Misc source	ENSG00000204304.11	PBX2	TRUE	FALSE
+ENSG00000167081	PBX3	Homeodomain	Monomer or homomultimer	In vivo/Misc source	ENSG00000167081.16	PBX3	TRUE	FALSE
+ENSG00000105717	PBX4	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000105717.13	PBX4	TRUE	FALSE
+ENSG00000277258	PCGF2	Unknown	Monomer or homomultimer	No motif	ENSG00000277258.4	PCGF2	TRUE	FALSE
+ENSG00000156374	PCGF6	Unknown	Monomer or homomultimer	No motif	ENSG00000156374.14	PCGF6	TRUE	FALSE
+ENSG00000139515	PDX1	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000139515.5	PDX1	TRUE	FALSE
+ENSG00000198300	PEG3	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000198300.12	PEG3	TRUE	FALSE
+ENSG00000082175	PGR	Nuclear receptor	Monomer or homomultimer	High-throughput in vitro	ENSG00000082175.14	PGR	TRUE	FALSE
+ENSG00000112511	PHF1	Unknown	Monomer or homomultimer	High-throughput in vitro	ENSG00000112511.17	PHF1	TRUE	FALSE
+ENSG00000119403	PHF19	Unknown	Monomer or homomultimer	No motif	ENSG00000119403.13	PHF19	TRUE	FALSE
+ENSG00000025293	PHF20	AT hook	Monomer or homomultimer	No motif	ENSG00000025293.15	PHF20	TRUE	FALSE
+ENSG00000135365	PHF21A	AT hook	Monomer or homomultimer	No motif	ENSG00000135365.15	PHF21A	TRUE	FALSE
+ENSG00000165462	PHOX2A	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000165462.5	PHOX2A	TRUE	FALSE
+ENSG00000109132	PHOX2B	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000109132.6	PHOX2B	TRUE	FALSE
+ENSG00000127445	PIN1	MBD	Low specificity DNA-binding protein	No motif	ENSG00000127445.13	PIN1	TRUE	FALSE
+ENSG00000069011	PITX1	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000069011.15	PITX1	TRUE	FALSE
+ENSG00000164093	PITX2	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000164093.15	PITX2	TRUE	FALSE
+ENSG00000107859	PITX3	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000107859.9	PITX3	TRUE	FALSE
+ENSG00000160199	PKNOX1	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000160199.14	PKNOX1	TRUE	FALSE
+ENSG00000165495	PKNOX2	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000165495.15	PKNOX2	TRUE	FALSE
+ENSG00000181690	PLAG1	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000181690.7	PLAG1	TRUE	FALSE
+ENSG00000118495	PLAGL1	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000118495.18	PLAGL1	TRUE	FALSE
+ENSG00000126003	PLAGL2	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000126003.6	PLAGL2	TRUE	FALSE
+ENSG00000188313	PLSCR1	Unknown	Monomer or homomultimer	No motif	ENSG00000188313.12	PLSCR1	TRUE	FALSE
+ENSG00000143157	POGK	Brinker	Monomer or homomultimer	No motif	ENSG00000143157.11	POGK	TRUE	FALSE
+ENSG00000064835	POU1F1	Homeodomain; POU	Monomer or homomultimer	High-throughput in vitro	ENSG00000064835.10	POU1F1	TRUE	FALSE
+ENSG00000110777	POU2AF1	Unknown	Obligate heteromer	In vivo/Misc source	ENSG00000110777.11	POU2AF1	TRUE	FALSE
+ENSG00000143190	POU2F1	Homeodomain; POU	Monomer or homomultimer	High-throughput in vitro	ENSG00000143190.21	POU2F1	TRUE	FALSE
+ENSG00000028277	POU2F2	Homeodomain; POU	Monomer or homomultimer	High-throughput in vitro	ENSG00000028277.20	POU2F2	TRUE	FALSE
+ENSG00000137709	POU2F3	Homeodomain; POU	Monomer or homomultimer	High-throughput in vitro	ENSG00000137709.9	POU2F3	TRUE	FALSE
+ENSG00000185668	POU3F1	Homeodomain; POU	Monomer or homomultimer	High-throughput in vitro	ENSG00000185668.6	POU3F1	TRUE	FALSE
+ENSG00000184486	POU3F2	Homeodomain; POU	Monomer or homomultimer	High-throughput in vitro	ENSG00000184486.8	POU3F2	TRUE	FALSE
+ENSG00000198914	POU3F3	Homeodomain; POU	Monomer or homomultimer	High-throughput in vitro	ENSG00000198914.2	POU3F3	TRUE	FALSE
+ENSG00000196767	POU3F4	Homeodomain; POU	Monomer or homomultimer	High-throughput in vitro	ENSG00000196767.6	POU3F4	TRUE	FALSE
+ENSG00000152192	POU4F1	Homeodomain; POU	Monomer or homomultimer	High-throughput in vitro	ENSG00000152192.7	POU4F1	TRUE	FALSE
+ENSG00000151615	POU4F2	Homeodomain; POU	Monomer or homomultimer	High-throughput in vitro	ENSG00000151615.3	POU4F2	TRUE	FALSE
+ENSG00000091010	POU4F3	Homeodomain; POU	Monomer or homomultimer	High-throughput in vitro	ENSG00000091010.4	POU4F3	TRUE	FALSE
+ENSG00000204531	POU5F1	Homeodomain; POU	Monomer or homomultimer	High-throughput in vitro	ENSG00000204531.15	POU5F1	TRUE	FALSE
+ENSG00000212993	POU5F1B	Homeodomain; POU	Monomer or homomultimer	High-throughput in vitro	ENSG00000212993.4	POU5F1B	TRUE	FALSE
+ENSG00000248483	POU5F2	Homeodomain; POU	Monomer or homomultimer	No motif	ENSG00000248483.5	POU5F2	TRUE	FALSE
+ENSG00000184271	POU6F1	Homeodomain; POU	Monomer or homomultimer	High-throughput in vitro	ENSG00000184271.15	POU6F1	TRUE	FALSE
+ENSG00000106536	POU6F2	Homeodomain; POU	Monomer or homomultimer	High-throughput in vitro	ENSG00000106536.19	POU6F2	TRUE	FALSE
+ENSG00000186951	PPARA	Nuclear receptor	Monomer or homomultimer	In vivo/Misc source	ENSG00000186951.16	PPARA	TRUE	FALSE
+ENSG00000112033	PPARD	Nuclear receptor	Monomer or homomultimer	High-throughput in vitro	ENSG00000112033.13	PPARD	TRUE	FALSE
+ENSG00000132170	PPARG	Nuclear receptor	Monomer or homomultimer	100 perc ID - in vitro	ENSG00000132170.19	PPARG	TRUE	FALSE
+ENSG00000057657	PRDM1	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000057657.14	PRDM1	TRUE	FALSE
+ENSG00000170325	PRDM10	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000170325.14	PRDM10	TRUE	FALSE
+ENSG00000130711	PRDM12	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000130711.3	PRDM12	TRUE	FALSE
+ENSG00000112238	PRDM13	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000112238.11	PRDM13	TRUE	FALSE
+ENSG00000147596	PRDM14	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000147596.3	PRDM14	TRUE	FALSE
+ENSG00000141956	PRDM15	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000141956.13	PRDM15	TRUE	FALSE
+ENSG00000142611	PRDM16	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000142611.16	PRDM16	TRUE	FALSE
+ENSG00000116731	PRDM2	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000116731.22	PRDM2	TRUE	FALSE
+ENSG00000110851	PRDM4	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000110851.11	PRDM4	TRUE	FALSE
+ENSG00000138738	PRDM5	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000138738.10	PRDM5	TRUE	FALSE
+ENSG00000061455	PRDM6	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000061455.10	PRDM6	TRUE	FALSE
+ENSG00000152784	PRDM8	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000152784.15	PRDM8	TRUE	FALSE
+ENSG00000164256	PRDM9	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000164256.9	PRDM9	TRUE	FALSE
+ENSG00000138073	PREB	Unknown	Monomer or homomultimer	No motif	ENSG00000138073.13	PREB	TRUE	FALSE
+ENSG00000185238	PRMT3	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000185238.12	PRMT3	TRUE	FALSE
+ENSG00000175325	PROP1	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000175325.2	PROP1	TRUE	FALSE
+ENSG00000117707	PROX1	Prospero	Monomer or homomultimer	High-throughput in vitro	ENSG00000117707.15	PROX1	TRUE	FALSE
+ENSG00000119608	PROX2	Prospero	Monomer or homomultimer	High-throughput in vitro	ENSG00000119608.12	PROX2	TRUE	FALSE
+ENSG00000126464	PRR12	AT hook	Monomer or homomultimer	No motif	ENSG00000126464.13	PRR12	TRUE	FALSE
+ENSG00000116132	PRRX1	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000116132.11	PRRX1	TRUE	FALSE
+ENSG00000167157	PRRX2	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000167157.10	PRRX2	TRUE	FALSE
+ENSG00000168267	PTF1A	bHLH	Monomer or homomultimer	High-throughput in vitro	ENSG00000168267.5	PTF1A	TRUE	FALSE
+ENSG00000185129	PURA	Unknown	Monomer or homomultimer	In vivo/Misc source	ENSG00000185129.5	PURA	TRUE	FALSE
+ENSG00000146676	PURB	Unknown	Monomer or homomultimer	No motif	ENSG00000146676.6	PURB	TRUE	FALSE
+ENSG00000172733	PURG	Unknown	Monomer or homomultimer	No motif	ENSG00000172733.11	PURG	TRUE	FALSE
+ENSG00000166349	RAG1	Unknown	Monomer or homomultimer	No motif	ENSG00000166349.9	RAG1	TRUE	FALSE
+ENSG00000131759	RARA	Nuclear receptor	Monomer or homomultimer	High-throughput in vitro	ENSG00000131759.17	RARA	TRUE	FALSE
+ENSG00000077092	RARB	Nuclear receptor	Monomer or homomultimer	High-throughput in vitro	ENSG00000077092.18	RARB	TRUE	FALSE
+ENSG00000172819	RARG	Nuclear receptor	Monomer or homomultimer	High-throughput in vitro	ENSG00000172819.16	RARG	TRUE	FALSE
+ENSG00000134438	RAX	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000134438.9	RAX	TRUE	FALSE
+ENSG00000173976	RAX2	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000173976.15	RAX2	TRUE	FALSE
+ENSG00000146587	RBAK	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000146587.17	RBAK	TRUE	FALSE
+ENSG00000125826	RBCK1	Unknown	Monomer or homomultimer	No motif	ENSG00000125826.19	RBCK1	TRUE	FALSE
+ENSG00000168214	RBPJ	CSL	Monomer or homomultimer	High-throughput in vitro	ENSG00000168214.20	RBPJ	TRUE	FALSE
+ENSG00000124232	RBPJL	CSL	Monomer or homomultimer	In vivo/Misc source	ENSG00000124232.10	RBPJL	TRUE	FALSE
+ENSG00000131381	RBSN	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000131381.12	RBSN	TRUE	FALSE
+ENSG00000162924	REL	Rel	Monomer or homomultimer	In vivo/Misc source	ENSG00000162924.13	REL	TRUE	FALSE
+ENSG00000173039	RELA	Rel	Monomer or homomultimer	In vivo/Misc source	ENSG00000173039.18	RELA	TRUE	FALSE
+ENSG00000104856	RELB	Rel	Obligate heteromer	In vivo/Misc source	ENSG00000104856.13	RELB	TRUE	FALSE
+ENSG00000214022	REPIN1	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000214022.11	REPIN1	TRUE	FALSE
+ENSG00000084093	REST	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000084093.15	REST	TRUE	FALSE
+ENSG00000148300	REXO4	Unknown	Low specificity DNA-binding protein	No motif	ENSG00000148300.11	REXO4	TRUE	FALSE
+ENSG00000132005	RFX1	RFX	Monomer or homomultimer	High-throughput in vitro	ENSG00000132005.8	RFX1	TRUE	FALSE
+ENSG00000087903	RFX2	RFX	Monomer or homomultimer	High-throughput in vitro	ENSG00000087903.12	RFX2	TRUE	FALSE
+ENSG00000080298	RFX3	RFX	Monomer or homomultimer	High-throughput in vitro	ENSG00000080298.15	RFX3	TRUE	FALSE
+ENSG00000111783	RFX4	RFX	Monomer or homomultimer	High-throughput in vitro	ENSG00000111783.12	RFX4	TRUE	FALSE
+ENSG00000143390	RFX5	RFX	Monomer or homomultimer	High-throughput in vitro	ENSG00000143390.17	RFX5	TRUE	FALSE
+ENSG00000185002	RFX6	RFX	Monomer or homomultimer	High-throughput in vitro	ENSG00000185002.9	RFX6	TRUE	FALSE
+ENSG00000181827	RFX7	RFX	Monomer or homomultimer	High-throughput in vitro	ENSG00000181827.14	RFX7	TRUE	FALSE
+ENSG00000196460	RFX8	RFX	Monomer or homomultimer	No motif	ENSG00000196460.12	RFX8	TRUE	FALSE
+ENSG00000101883	RHOXF1	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000101883.4	RHOXF1	TRUE	FALSE
+ENSG00000131721	RHOXF2	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000131721.4	RHOXF2	TRUE	FALSE
+ENSG00000203989	RHOXF2B	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000203989.3	RHOXF2B	TRUE	FALSE
+ENSG00000117000	RLF	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000117000.8	RLF	TRUE	FALSE
+ENSG00000069667	RORA	Nuclear receptor	Monomer or homomultimer	High-throughput in vitro	ENSG00000069667.15	RORA	TRUE	FALSE
+ENSG00000198963	RORB	Nuclear receptor	Monomer or homomultimer	High-throughput in vitro	ENSG00000198963.10	RORB	TRUE	FALSE
+ENSG00000143365	RORC	Nuclear receptor	Monomer or homomultimer	High-throughput in vitro	ENSG00000143365.16	RORC	TRUE	FALSE
+ENSG00000124782	RREB1	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000124782.19	RREB1	TRUE	FALSE
+ENSG00000159216	RUNX1	Runt	Monomer or homomultimer	In vivo/Misc source	ENSG00000159216.18	RUNX1	TRUE	FALSE
+ENSG00000124813	RUNX2	Runt	Monomer or homomultimer	High-throughput in vitro	ENSG00000124813.20	RUNX2	TRUE	FALSE
+ENSG00000020633	RUNX3	Runt	Monomer or homomultimer	High-throughput in vitro	ENSG00000020633.18	RUNX3	TRUE	FALSE
+ENSG00000186350	RXRA	Nuclear receptor	Monomer or homomultimer	High-throughput in vitro	ENSG00000186350.9	RXRA	TRUE	FALSE
+ENSG00000204231	RXRB	Nuclear receptor	Monomer or homomultimer	High-throughput in vitro	ENSG00000204231.10	RXRB	TRUE	FALSE
+ENSG00000143171	RXRG	Nuclear receptor	Monomer or homomultimer	High-throughput in vitro	ENSG00000143171.12	RXRG	TRUE	FALSE
+ENSG00000160633	SAFB	Unknown	Low specificity DNA-binding protein	No motif	ENSG00000160633.12	SAFB	TRUE	FALSE
+ENSG00000130254	SAFB2	Unknown	Low specificity DNA-binding protein	No motif	ENSG00000130254.11	SAFB2	TRUE	FALSE
+ENSG00000103449	SALL1	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000103449.11	SALL1	TRUE	FALSE
+ENSG00000165821	SALL2	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000165821.11	SALL2	TRUE	FALSE
+ENSG00000256463	SALL3	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000256463.8	SALL3	TRUE	FALSE
+ENSG00000101115	SALL4	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000101115.12	SALL4	TRUE	FALSE
+ENSG00000182568	SATB1	CUT; Homeodomain	Low specificity DNA-binding protein	In vivo/Misc source	ENSG00000182568.16	SATB1	TRUE	FALSE
+ENSG00000119042	SATB2	CUT; Homeodomain	Low specificity DNA-binding protein	In vivo/Misc source	ENSG00000119042.16	SATB2	TRUE	FALSE
+ENSG00000010803	SCMH1	Unknown	Monomer or homomultimer	No motif	ENSG00000010803.16	SCMH1	TRUE	FALSE
+ENSG00000146285	SCML4	AT hook	Monomer or homomultimer	No motif	ENSG00000146285.13	SCML4	TRUE	FALSE
+ENSG00000261678	SCRT1	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000261678.2	SCRT1	TRUE	FALSE
+ENSG00000215397	SCRT2	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000215397.3	SCRT2	TRUE	FALSE
+ENSG00000260428	SCX	bHLH	Monomer or homomultimer	High-throughput in vitro	ENSG00000260428.2	SCX	TRUE	FALSE
+ENSG00000274529	SEBOX	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000274529.4	SEBOX	TRUE	FALSE
+ENSG00000152217	SETBP1	AT hook	Monomer or homomultimer	No motif	ENSG00000152217.16	SETBP1	TRUE	FALSE
+ENSG00000143379	SETDB1	MBD	Low specificity DNA-binding protein	In vivo/Misc source	ENSG00000143379.12	SETDB1	TRUE	FALSE
+ENSG00000136169	SETDB2	MBD	Low specificity DNA-binding protein	No motif	ENSG00000136169.16	SETDB2	TRUE	FALSE
+ENSG00000141258	SGSM2	BED ZF	Monomer or homomultimer	No motif	ENSG00000141258.12	SGSM2	TRUE	FALSE
+ENSG00000185960	SHOX	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000185960.12	SHOX	TRUE	FALSE
+ENSG00000168779	SHOX2	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000168779.19	SHOX2	TRUE	FALSE
+ENSG00000112246	SIM1	bHLH	Obligate heteromer	In vivo/Misc source	ENSG00000112246.9	SIM1	TRUE	FALSE
+ENSG00000159263	SIM2	bHLH	Obligate heteromer	In vivo/Misc source	ENSG00000159263.15	SIM2	TRUE	FALSE
+ENSG00000126778	SIX1	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000126778.8	SIX1	TRUE	FALSE
+ENSG00000170577	SIX2	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000170577.7	SIX2	TRUE	FALSE
+ENSG00000138083	SIX3	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000138083.4	SIX3	TRUE	FALSE
+ENSG00000100625	SIX4	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000100625.8	SIX4	TRUE	FALSE
+ENSG00000177045	SIX5	Homeodomain	Monomer or homomultimer	In vivo/Misc source	ENSG00000177045.7	SIX5	TRUE	FALSE
+ENSG00000184302	SIX6	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000184302.6	SIX6	TRUE	FALSE
+ENSG00000157933	SKI	Unknown	Monomer or homomultimer	No motif	ENSG00000157933.9	SKI	TRUE	FALSE
+ENSG00000136603	SKIL	Unknown	Monomer or homomultimer	No motif	ENSG00000136603.13	SKIL	TRUE	FALSE
+ENSG00000188779	SKOR1	Unknown	Monomer or homomultimer	High-throughput in vitro	ENSG00000188779.10	SKOR1	TRUE	FALSE
+ENSG00000215474	SKOR2	SAND	Monomer or homomultimer	High-throughput in vitro	ENSG00000215474.6	SKOR2	TRUE	FALSE
+ENSG00000125520	SLC2A4RG	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000125520.13	SLC2A4RG	TRUE	FALSE
+ENSG00000170365	SMAD1	SMAD	Obligate heteromer	In vivo/Misc source	ENSG00000170365.9	SMAD1	TRUE	FALSE
+ENSG00000166949	SMAD3	SMAD	Monomer or homomultimer	High-throughput in vitro	ENSG00000166949.15	SMAD3	TRUE	FALSE
+ENSG00000141646	SMAD4	SMAD	Monomer or homomultimer	100 perc ID - in vitro	ENSG00000141646.13	SMAD4	TRUE	FALSE
+ENSG00000113658	SMAD5	SMAD	Monomer or homomultimer	High-throughput in vitro	ENSG00000113658.16	SMAD5	TRUE	FALSE
+ENSG00000120693	SMAD9	SMAD	Obligate heteromer	In vivo/Misc source	ENSG00000120693.13	SMAD9	TRUE	FALSE
+ENSG00000185420	SMYD3	Unknown	Monomer or homomultimer	No motif	ENSG00000185420.18	SMYD3	TRUE	FALSE
+ENSG00000124216	SNAI1	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000124216.3	SNAI1	TRUE	FALSE
+ENSG00000019549	SNAI2	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000019549.8	SNAI2	TRUE	FALSE
+ENSG00000185669	SNAI3	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000185669.5	SNAI3	TRUE	FALSE
+ENSG00000104976	SNAPC2	Unknown	Monomer or homomultimer	No motif	ENSG00000104976.11	SNAPC2	TRUE	FALSE
+ENSG00000165684	SNAPC4	Myb/SANT	Monomer or homomultimer	No motif	ENSG00000165684.3	SNAPC4	TRUE	FALSE
+ENSG00000174446	SNAPC5	Unknown	Monomer or homomultimer	No motif	ENSG00000174446.12	SNAPC5	TRUE	FALSE
+ENSG00000165643	SOHLH1	bHLH	Obligate heteromer	No motif	ENSG00000165643.10	SOHLH1	TRUE	FALSE
+ENSG00000120669	SOHLH2	bHLH	Monomer or homomultimer	High-throughput in vitro	ENSG00000120669.15	SOHLH2	TRUE	FALSE
+ENSG00000159140	SON	Unknown	Monomer or homomultimer	No motif	ENSG00000159140.17	SON	TRUE	FALSE
+ENSG00000182968	SOX1	HMG/Sox	Monomer or homomultimer	100 perc ID - in vitro	ENSG00000182968.4	SOX1	TRUE	FALSE
+ENSG00000100146	SOX10	HMG/Sox	Monomer or homomultimer	High-throughput in vitro	ENSG00000100146.16	SOX10	TRUE	FALSE
+ENSG00000176887	SOX11	HMG/Sox	Monomer or homomultimer	100 perc ID - in vitro	ENSG00000176887.6	SOX11	TRUE	FALSE
+ENSG00000177732	SOX12	HMG/Sox	Monomer or homomultimer	High-throughput in vitro	ENSG00000177732.7	SOX12	TRUE	FALSE
+ENSG00000143842	SOX13	HMG/Sox	Monomer or homomultimer	100 perc ID - in vitro	ENSG00000143842.14	SOX13	TRUE	FALSE
+ENSG00000168875	SOX14	HMG/Sox	Monomer or homomultimer	High-throughput in vitro	ENSG00000168875.2	SOX14	TRUE	FALSE
+ENSG00000129194	SOX15	HMG/Sox	Monomer or homomultimer	High-throughput in vitro	ENSG00000129194.7	SOX15	TRUE	FALSE
+ENSG00000164736	SOX17	HMG/Sox	Monomer or homomultimer	High-throughput in vitro	ENSG00000164736.5	SOX17	TRUE	FALSE
+ENSG00000203883	SOX18	HMG/Sox	Monomer or homomultimer	High-throughput in vitro	ENSG00000203883.6	SOX18	TRUE	FALSE
+ENSG00000181449	SOX2	HMG/Sox	Monomer or homomultimer	High-throughput in vitro	ENSG00000181449.3	SOX2	TRUE	FALSE
+ENSG00000125285	SOX21	HMG/Sox	Monomer or homomultimer	High-throughput in vitro	ENSG00000125285.5	SOX21	TRUE	FALSE
+ENSG00000134595	SOX3	HMG/Sox	Monomer or homomultimer	High-throughput in vitro	ENSG00000134595.7	SOX3	TRUE	FALSE
+ENSG00000039600	SOX30	HMG/Sox	Monomer or homomultimer	High-throughput in vitro	ENSG00000039600.10	SOX30	TRUE	FALSE
+ENSG00000124766	SOX4	HMG/Sox	Monomer or homomultimer	High-throughput in vitro	ENSG00000124766.5	SOX4	TRUE	FALSE
+ENSG00000134532	SOX5	HMG/Sox	Monomer or homomultimer	High-throughput in vitro	ENSG00000134532.15	SOX5	TRUE	FALSE
+ENSG00000110693	SOX6	HMG/Sox	Monomer or homomultimer	High-throughput in vitro	ENSG00000110693.15	SOX6	TRUE	FALSE
+ENSG00000171056	SOX7	HMG/Sox	Monomer or homomultimer	High-throughput in vitro	ENSG00000171056.7	SOX7	TRUE	FALSE
+ENSG00000005513	SOX8	HMG/Sox	Monomer or homomultimer	High-throughput in vitro	ENSG00000005513.9	SOX8	TRUE	FALSE
+ENSG00000125398	SOX9	HMG/Sox	Monomer or homomultimer	High-throughput in vitro	ENSG00000125398.5	SOX9	TRUE	FALSE
+ENSG00000185591	SP1	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000185591.9	SP1	TRUE	FALSE
+ENSG00000067066	SP100	SAND	Monomer or homomultimer	No motif	ENSG00000067066.16	SP100	TRUE	FALSE
+ENSG00000135899	SP110	SAND	Monomer or homomultimer	No motif	ENSG00000135899.16	SP110	TRUE	FALSE
+ENSG00000079263	SP140	SAND	Monomer or homomultimer	No motif	ENSG00000079263.18	SP140	TRUE	FALSE
+ENSG00000185404	SP140L	SAND	Monomer or homomultimer	No motif	ENSG00000185404.16	SP140L	TRUE	FALSE
+ENSG00000167182	SP2	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000167182.12	SP2	TRUE	FALSE
+ENSG00000172845	SP3	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000172845.13	SP3	TRUE	FALSE
+ENSG00000105866	SP4	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000105866.13	SP4	TRUE	FALSE
+ENSG00000204335	SP5	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000204335.3	SP5	TRUE	FALSE
+ENSG00000189120	SP6	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000189120.4	SP6	TRUE	FALSE
+ENSG00000170374	SP7	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000170374.5	SP7	TRUE	FALSE
+ENSG00000164651	SP8	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000164651.16	SP8	TRUE	FALSE
+ENSG00000217236	SP9	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000217236.1	SP9	TRUE	FALSE
+ENSG00000124664	SPDEF	Ets	Monomer or homomultimer	High-throughput in vitro	ENSG00000124664.10	SPDEF	TRUE	FALSE
+ENSG00000065526	SPEN	Unknown	Monomer or homomultimer	No motif	ENSG00000065526.10	SPEN	TRUE	FALSE
+ENSG00000066336	SPI1	Ets	Monomer or homomultimer	High-throughput in vitro	ENSG00000066336.11	SPI1	TRUE	FALSE
+ENSG00000269404	SPIB	Ets	Monomer or homomultimer	High-throughput in vitro	ENSG00000269404.6	SPIB	TRUE	FALSE
+ENSG00000166211	SPIC	Ets	Monomer or homomultimer	High-throughput in vitro	ENSG00000166211.7	SPIC	TRUE	FALSE
+ENSG00000164299	SPZ1	Unknown	Monomer or homomultimer	In vivo/Misc source	ENSG00000164299.6	SPZ1	TRUE	FALSE
+ENSG00000080603	SRCAP	AT hook	Monomer or homomultimer	No motif	ENSG00000080603.16	SRCAP	TRUE	FALSE
+ENSG00000072310	SREBF1	bHLH	Monomer or homomultimer	High-throughput in vitro	ENSG00000072310.16	SREBF1	TRUE	FALSE
+ENSG00000198911	SREBF2	bHLH	Monomer or homomultimer	High-throughput in vitro	ENSG00000198911.11	SREBF2	TRUE	FALSE
+ENSG00000112658	SRF	MADS box	Monomer or homomultimer	High-throughput in vitro	ENSG00000112658.7	SRF	TRUE	FALSE
+ENSG00000184895	SRY	HMG/Sox	Monomer or homomultimer	High-throughput in vitro	ENSG00000184895.7	SRY	TRUE	FALSE
+ENSG00000147488	ST18	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000147488.11	ST18	TRUE	FALSE
+ENSG00000115415	STAT1	STAT	Monomer or homomultimer	In vivo/Misc source	ENSG00000115415.18	STAT1	TRUE	FALSE
+ENSG00000170581	STAT2	STAT	Monomer or homomultimer	In vivo/Misc source	ENSG00000170581.13	STAT2	TRUE	FALSE
+ENSG00000168610	STAT3	STAT	Monomer or homomultimer	In vivo/Misc source	ENSG00000168610.14	STAT3	TRUE	FALSE
+ENSG00000138378	STAT4	STAT	Monomer or homomultimer	In vivo/Misc source	ENSG00000138378.17	STAT4	TRUE	FALSE
+ENSG00000126561	STAT5A	STAT	Monomer or homomultimer	In vivo/Misc source	ENSG00000126561.16	STAT5A	TRUE	FALSE
+ENSG00000173757	STAT5B	STAT	Monomer or homomultimer	In vivo/Misc source	ENSG00000173757.9	STAT5B	TRUE	FALSE
+ENSG00000166888	STAT6	STAT	Monomer or homomultimer	In vivo/Misc source	ENSG00000166888.10	STAT6	TRUE	FALSE
+ENSG00000164458	T	T-box	Monomer or homomultimer	High-throughput in vitro	ENSG00000164458.9	T	TRUE	FALSE
+ENSG00000162367	TAL1	bHLH	Obligate heteromer	In vivo/Misc source	ENSG00000162367.11	TAL1	TRUE	FALSE
+ENSG00000186051	TAL2	bHLH	Obligate heteromer	In vivo/Misc source	ENSG00000186051.6	TAL2	TRUE	FALSE
+ENSG00000112592	TBP	TBP	Monomer or homomultimer	100 perc ID - in vitro	ENSG00000112592.12	TBP	TRUE	FALSE
+ENSG00000028839	TBPL1	TBP	Obligate heteromer	No motif	ENSG00000028839.9	TBPL1	TRUE	FALSE
+ENSG00000182521	TBPL2	TBP	Monomer or homomultimer	High-throughput in vitro	ENSG00000182521.5	TBPL2	TRUE	FALSE
+ENSG00000136535	TBR1	T-box	Monomer or homomultimer	High-throughput in vitro	ENSG00000136535.14	TBR1	TRUE	FALSE
+ENSG00000184058	TBX1	T-box	Monomer or homomultimer	High-throughput in vitro	ENSG00000184058.12	TBX1	TRUE	FALSE
+ENSG00000167800	TBX10	T-box	Monomer or homomultimer	High-throughput in vitro	ENSG00000167800.9	TBX10	TRUE	FALSE
+ENSG00000092607	TBX15	T-box	Monomer or homomultimer	High-throughput in vitro	ENSG00000092607.13	TBX15	TRUE	FALSE
+ENSG00000112837	TBX18	T-box	Monomer or homomultimer	High-throughput in vitro	ENSG00000112837.16	TBX18	TRUE	FALSE
+ENSG00000143178	TBX19	T-box	Monomer or homomultimer	High-throughput in vitro	ENSG00000143178.12	TBX19	TRUE	FALSE
+ENSG00000121068	TBX2	T-box	Monomer or homomultimer	High-throughput in vitro	ENSG00000121068.13	TBX2	TRUE	FALSE
+ENSG00000164532	TBX20	T-box	Monomer or homomultimer	High-throughput in vitro	ENSG00000164532.10	TBX20	TRUE	FALSE
+ENSG00000073861	TBX21	T-box	Monomer or homomultimer	High-throughput in vitro	ENSG00000073861.2	TBX21	TRUE	FALSE
+ENSG00000122145	TBX22	T-box	Monomer or homomultimer	In vivo/Misc source	ENSG00000122145.14	TBX22	TRUE	FALSE
+ENSG00000135111	TBX3	T-box	Monomer or homomultimer	High-throughput in vitro	ENSG00000135111.14	TBX3	TRUE	FALSE
+ENSG00000121075	TBX4	T-box	Monomer or homomultimer	High-throughput in vitro	ENSG00000121075.9	TBX4	TRUE	FALSE
+ENSG00000089225	TBX5	T-box	Monomer or homomultimer	High-throughput in vitro	ENSG00000089225.19	TBX5	TRUE	FALSE
+ENSG00000149922	TBX6	T-box	Monomer or homomultimer	High-throughput in vitro	ENSG00000149922.10	TBX6	TRUE	FALSE
+ENSG00000140262	TCF12	bHLH	Monomer or homomultimer	High-throughput in vitro	ENSG00000140262.17	TCF12	TRUE	FALSE
+ENSG00000125878	TCF15	bHLH	Monomer or homomultimer	High-throughput in vitro	ENSG00000125878.5	TCF15	TRUE	FALSE
+ENSG00000100207	TCF20	Unknown	Monomer or homomultimer	No motif	ENSG00000100207.18	TCF20	TRUE	FALSE
+ENSG00000118526	TCF21	bHLH	Monomer or homomultimer	High-throughput in vitro	ENSG00000118526.6	TCF21	TRUE	FALSE
+ENSG00000163792	TCF23	bHLH	Monomer or homomultimer	High-throughput in vitro	ENSG00000163792.6	TCF23	TRUE	FALSE
+ENSG00000261787	TCF24	bHLH	Monomer or homomultimer	High-throughput in vitro	ENSG00000261787.1	TCF24	TRUE	FALSE
+ENSG00000071564	TCF3	bHLH	Monomer or homomultimer	High-throughput in vitro	ENSG00000071564.14	TCF3	TRUE	FALSE
+ENSG00000196628	TCF4	bHLH	Monomer or homomultimer	High-throughput in vitro	ENSG00000196628.13	TCF4	TRUE	FALSE
+ENSG00000081059	TCF7	HMG/Sox	Monomer or homomultimer	High-throughput in vitro	ENSG00000081059.19	TCF7	TRUE	FALSE
+ENSG00000152284	TCF7L1	HMG/Sox	Monomer or homomultimer	High-throughput in vitro	ENSG00000152284.4	TCF7L1	TRUE	FALSE
+ENSG00000148737	TCF7L2	HMG/Sox	Monomer or homomultimer	100 perc ID - in vitro	ENSG00000148737.15	TCF7L2	TRUE	FALSE
+ENSG00000101190	TCFL5	bHLH	Monomer or homomultimer	High-throughput in vitro	ENSG00000101190.12	TCFL5	TRUE	FALSE
+ENSG00000187079	TEAD1	TEA	Monomer or homomultimer	High-throughput in vitro	ENSG00000187079.14	TEAD1	TRUE	FALSE
+ENSG00000074219	TEAD2	TEA	Monomer or homomultimer	High-throughput in vitro	ENSG00000074219.13	TEAD2	TRUE	FALSE
+ENSG00000007866	TEAD3	TEA	Monomer or homomultimer	High-throughput in vitro	ENSG00000007866.18	TEAD3	TRUE	FALSE
+ENSG00000197905	TEAD4	TEA	Monomer or homomultimer	High-throughput in vitro	ENSG00000197905.8	TEAD4	TRUE	FALSE
+ENSG00000167074	TEF	bZIP	Monomer or homomultimer	High-throughput in vitro	ENSG00000167074.14	TEF	TRUE	FALSE
+ENSG00000249961	TERB1	Myb/SANT	Monomer or homomultimer	No motif	ENSG00000249961.9	CCDC79	TRUE	TRUE
+ENSG00000147601	TERF1	Myb/SANT	Monomer or homomultimer	No motif	ENSG00000147601.13	TERF1	TRUE	FALSE
+ENSG00000132604	TERF2	Myb/SANT	Monomer or homomultimer	High-throughput in vitro	ENSG00000132604.10	TERF2	TRUE	FALSE
+ENSG00000138336	TET1	CxxC	Monomer or homomultimer	High-throughput in vitro	ENSG00000138336.8	TET1	TRUE	FALSE
+ENSG00000168769	TET2	Unknown	Monomer or homomultimer	No motif	ENSG00000168769.12	TET2	TRUE	FALSE
+ENSG00000187605	TET3	CxxC	Monomer or homomultimer	No motif	ENSG00000187605.15	TET3	TRUE	FALSE
+ENSG00000137203	TFAP2A	AP-2	Monomer or homomultimer	High-throughput in vitro	ENSG00000137203.10	TFAP2A	TRUE	FALSE
+ENSG00000008196	TFAP2B	AP-2	Monomer or homomultimer	High-throughput in vitro	ENSG00000008196.12	TFAP2B	TRUE	FALSE
+ENSG00000087510	TFAP2C	AP-2	Monomer or homomultimer	High-throughput in vitro	ENSG00000087510.6	TFAP2C	TRUE	FALSE
+ENSG00000008197	TFAP2D	AP-2	Monomer or homomultimer	In vivo/Misc source	ENSG00000008197.4	TFAP2D	TRUE	FALSE
+ENSG00000116819	TFAP2E	AP-2	Monomer or homomultimer	High-throughput in vitro	ENSG00000116819.6	TFAP2E	TRUE	FALSE
+ENSG00000090447	TFAP4	bHLH	Monomer or homomultimer	High-throughput in vitro	ENSG00000090447.11	TFAP4	TRUE	FALSE
+ENSG00000135457	TFCP2	Grainyhead	Monomer or homomultimer	High-throughput in vitro	ENSG00000135457.9	TFCP2	TRUE	FALSE
+ENSG00000115112	TFCP2L1	Grainyhead	Monomer or homomultimer	High-throughput in vitro	ENSG00000115112.7	TFCP2L1	TRUE	FALSE
+ENSG00000198176	TFDP1	E2F	Obligate heteromer	In vivo/Misc source	ENSG00000198176.12	TFDP1	TRUE	FALSE
+ENSG00000114126	TFDP2	E2F	Obligate heteromer	In vivo/Misc source	ENSG00000114126.17	TFDP2	TRUE	FALSE
+ENSG00000183434	TFDP3	E2F	Obligate heteromer	In vivo/Misc source	ENSG00000183434.9	TFDP3	TRUE	FALSE
+ENSG00000068323	TFE3	bHLH	Monomer or homomultimer	High-throughput in vitro	ENSG00000068323.16	TFE3	TRUE	FALSE
+ENSG00000112561	TFEB	bHLH	Monomer or homomultimer	High-throughput in vitro	ENSG00000112561.17	TFEB	TRUE	FALSE
+ENSG00000105967	TFEC	bHLH	Monomer or homomultimer	High-throughput in vitro	ENSG00000105967.15	TFEC	TRUE	FALSE
+ENSG00000177426	TGIF1	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000177426.20	TGIF1	TRUE	FALSE
+ENSG00000118707	TGIF2	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000118707.9	TGIF2	TRUE	FALSE
+ENSG00000153779	TGIF2LX	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000153779.9	TGIF2LX	TRUE	FALSE
+ENSG00000176679	TGIF2LY	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000176679.8	TGIF2LY	TRUE	FALSE
+ENSG00000131931	THAP1	THAP finger	Monomer or homomultimer	In vivo/Misc source	ENSG00000131931.8	THAP1	TRUE	FALSE
+ENSG00000129028	THAP10	THAP finger	Monomer or homomultimer	No motif	ENSG00000129028.8	THAP10	TRUE	FALSE
+ENSG00000168286	THAP11	THAP finger	Monomer or homomultimer	No motif	ENSG00000168286.2	THAP11	TRUE	FALSE
+ENSG00000137492	THAP12	THAP finger	Monomer or homomultimer	High-throughput in vitro	ENSG00000137492.7	PRKRIR	TRUE	TRUE
+ENSG00000173451	THAP2	THAP finger	Monomer or homomultimer	No motif	ENSG00000173451.6	THAP2	TRUE	FALSE
+ENSG00000041988	THAP3	THAP finger	Monomer or homomultimer	No motif	ENSG00000041988.15	THAP3	TRUE	FALSE
+ENSG00000176946	THAP4	THAP finger	Monomer or homomultimer	No motif	ENSG00000176946.11	THAP4	TRUE	FALSE
+ENSG00000177683	THAP5	THAP finger	Monomer or homomultimer	No motif	ENSG00000177683.13	THAP5	TRUE	FALSE
+ENSG00000174796	THAP6	THAP finger	Monomer or homomultimer	No motif	ENSG00000174796.12	THAP6	TRUE	FALSE
+ENSG00000184436	THAP7	THAP finger	Monomer or homomultimer	No motif	ENSG00000184436.11	THAP7	TRUE	FALSE
+ENSG00000161277	THAP8	THAP finger	Monomer or homomultimer	No motif	ENSG00000161277.10	THAP8	TRUE	FALSE
+ENSG00000168152	THAP9	THAP finger	Monomer or homomultimer	No motif	ENSG00000168152.12	THAP9	TRUE	FALSE
+ENSG00000126351	THRA	Nuclear receptor	Monomer or homomultimer	High-throughput in vitro	ENSG00000126351.12	THRA	TRUE	FALSE
+ENSG00000151090	THRB	Nuclear receptor	Monomer or homomultimer	High-throughput in vitro	ENSG00000151090.17	THRB	TRUE	FALSE
+ENSG00000151500	THYN1	Unknown	Low specificity DNA-binding protein	No motif	ENSG00000151500.14	THYN1	TRUE	FALSE
+ENSG00000221944	TIGD1	CENPB	Monomer or homomultimer	High-throughput in vitro	ENSG00000221944.4	TIGD1	TRUE	FALSE
+ENSG00000180346	TIGD2	CENPB	Monomer or homomultimer	High-throughput in vitro	ENSG00000180346.3	TIGD2	TRUE	FALSE
+ENSG00000173825	TIGD3	CENPB	Monomer or homomultimer	No motif	ENSG00000173825.6	TIGD3	TRUE	FALSE
+ENSG00000169989	TIGD4	CENPB	Monomer or homomultimer	No motif	ENSG00000169989.2	TIGD4	TRUE	FALSE
+ENSG00000179886	TIGD5	CENPB	Monomer or homomultimer	No motif	ENSG00000179886.5	TIGD5	TRUE	FALSE
+ENSG00000164296	TIGD6	CENPB	Monomer or homomultimer	High-throughput in vitro	ENSG00000164296.6	TIGD6	TRUE	FALSE
+ENSG00000140993	TIGD7	CENPB	Monomer or homomultimer	No motif	ENSG00000140993.10	TIGD7	TRUE	FALSE
+ENSG00000107807	TLX1	Homeodomain	Monomer or homomultimer	In vivo/Misc source	ENSG00000107807.12	TLX1	TRUE	FALSE
+ENSG00000115297	TLX2	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000115297.10	TLX2	TRUE	FALSE
+ENSG00000164438	TLX3	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000164438.5	TLX3	TRUE	FALSE
+ENSG00000144747	TMF1	Unknown	Monomer or homomultimer	No motif	ENSG00000144747.14	TMF1	TRUE	FALSE
+ENSG00000197579	TOPORS	Unknown	Monomer or homomultimer	In vivo/Misc source	ENSG00000197579.7	TOPORS	TRUE	FALSE
+ENSG00000141510	TP53	p53	Monomer or homomultimer	In vivo/Misc source	ENSG00000141510.15	TP53	TRUE	FALSE
+ENSG00000073282	TP63	p53	Monomer or homomultimer	High-throughput in vitro	ENSG00000073282.12	TP63	TRUE	FALSE
+ENSG00000078900	TP73	p53	Monomer or homomultimer	In vivo/Misc source	ENSG00000078900.14	TP73	TRUE	FALSE
+ENSG00000178928	TPRX1	Homeodomain	Monomer or homomultimer	No motif	ENSG00000178928.8	TPRX1	TRUE	FALSE
+ENSG00000135148	TRAFD1	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000135148.11	TRAFD1	TRUE	FALSE
+ENSG00000124496	TRERF1	C2H2 ZF; Myb/SANT	Monomer or homomultimer	In vivo/Misc source	ENSG00000124496.12	TRERF1	TRUE	FALSE
+ENSG00000104447	TRPS1	GATA	Monomer or homomultimer	In vivo/Misc source	ENSG00000104447.11	TRPS1	TRUE	FALSE
+ENSG00000102804	TSC22D1	Unknown	Monomer or homomultimer	No motif	ENSG00000102804.14	TSC22D1	TRUE	FALSE
+ENSG00000179981	TSHZ1	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000179981.9	TSHZ1	TRUE	FALSE
+ENSG00000182463	TSHZ2	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000182463.15	TSHZ2	TRUE	FALSE
+ENSG00000121297	TSHZ3	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000121297.6	TSHZ3	TRUE	FALSE
+ENSG00000125482	TTF1	Myb/SANT	Monomer or homomultimer	No motif	ENSG00000125482.12	TTF1	TRUE	FALSE
+ENSG00000122691	TWIST1	bHLH	Monomer or homomultimer	In vivo/Misc source	ENSG00000122691.12	TWIST1	TRUE	FALSE
+ENSG00000233608	TWIST2	bHLH	Monomer or homomultimer	100 perc ID - in vitro	ENSG00000233608.3	TWIST2	TRUE	FALSE
+ENSG00000153560	UBP1	Grainyhead	Monomer or homomultimer	High-throughput in vitro	ENSG00000153560.11	UBP1	TRUE	FALSE
+ENSG00000164853	UNCX	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000164853.8	UNCX	TRUE	FALSE
+ENSG00000158773	USF1	bHLH	Monomer or homomultimer	High-throughput in vitro	ENSG00000158773.14	USF1	TRUE	FALSE
+ENSG00000105698	USF2	bHLH	Monomer or homomultimer	High-throughput in vitro	ENSG00000105698.15	USF2	TRUE	FALSE
+ENSG00000176542	USF3	bHLH	Monomer or homomultimer	No motif	ENSG00000176542.9	KIAA2018	TRUE	TRUE
+ENSG00000148704	VAX1	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000148704.12	VAX1	TRUE	FALSE
+ENSG00000116035	VAX2	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000116035.2	VAX2	TRUE	FALSE
+ENSG00000111424	VDR	Nuclear receptor	Monomer or homomultimer	High-throughput in vitro	ENSG00000111424.10	VDR	TRUE	FALSE
+ENSG00000151650	VENTX	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000151650.7	VENTX	TRUE	FALSE
+ENSG00000136451	VEZF1	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000136451.8	VEZF1	TRUE	FALSE
+ENSG00000100987	VSX1	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000100987.14	VSX1	TRUE	FALSE
+ENSG00000119614	VSX2	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000119614.2	VSX2	TRUE	FALSE
+ENSG00000011451	WIZ	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000011451.17	WIZ	TRUE	FALSE
+ENSG00000184937	WT1	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000184937.12	WT1	TRUE	FALSE
+ENSG00000100219	XBP1	bZIP	Monomer or homomultimer	High-throughput in vitro	ENSG00000100219.16	XBP1	TRUE	FALSE
+ENSG00000136936	XPA	Unknown	Monomer or homomultimer	High-throughput in vitro	ENSG00000136936.10	XPA	TRUE	FALSE
+ENSG00000065978	YBX1	CSD	Monomer or homomultimer	High-throughput in vitro	ENSG00000065978.17	YBX1	TRUE	FALSE
+ENSG00000006047	YBX2	CSD	Monomer or homomultimer	High-throughput in vitro	ENSG00000006047.12	YBX2	TRUE	FALSE
+ENSG00000060138	YBX3	CSD	Monomer or homomultimer	100 perc ID - in vitro	ENSG00000060138.12	YBX3	TRUE	FALSE
+ENSG00000100811	YY1	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000100811.10	YY1	TRUE	FALSE
+ENSG00000230797	YY2	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000230797.2	YY2	TRUE	FALSE
+ENSG00000214717	ZBED1	BED ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000214717.9	ZBED1	TRUE	FALSE
+ENSG00000177494	ZBED2	BED ZF	Monomer or homomultimer	No motif	ENSG00000177494.5	ZBED2	TRUE	FALSE
+ENSG00000132846	ZBED3	BED ZF	Monomer or homomultimer	No motif	ENSG00000132846.5	ZBED3	TRUE	FALSE
+ENSG00000100426	ZBED4	BED ZF	Monomer or homomultimer	No motif	ENSG00000100426.6	ZBED4	TRUE	FALSE
+ENSG00000236287	ZBED5	BED ZF	Monomer or homomultimer	No motif	ENSG00000236287.7	ZBED5	TRUE	FALSE
+ENSG00000257315	ZBED6	BED ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000257315.1	ZBED6	TRUE	FALSE
+ENSG00000232040	ZBED9	BED ZF	Monomer or homomultimer	No motif	ENSG00000232040.2	ZBED9	TRUE	FALSE
+ENSG00000126804	ZBTB1	C2H2 ZF	Monomer or homomultimer	100 perc ID - in vitro	ENSG00000126804.13	ZBTB1	TRUE	FALSE
+ENSG00000205189	ZBTB10	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000205189.11	ZBTB10	TRUE	FALSE
+ENSG00000066422	ZBTB11	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000066422.4	ZBTB11	TRUE	FALSE
+ENSG00000204366	ZBTB12	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000204366.3	ZBTB12	TRUE	FALSE
+ENSG00000198081	ZBTB14	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000198081.10	ZBTB14	TRUE	FALSE
+ENSG00000109906	ZBTB16	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000109906.13	ZBTB16	TRUE	FALSE
+ENSG00000116809	ZBTB17	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000116809.11	ZBTB17	TRUE	FALSE
+ENSG00000179456	ZBTB18	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000179456.10	ZBTB18	TRUE	FALSE
+ENSG00000181472	ZBTB2	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000181472.4	ZBTB2	TRUE	FALSE
+ENSG00000181722	ZBTB20	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000181722.15	ZBTB20	TRUE	FALSE
+ENSG00000173276	ZBTB21	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000173276.13	ZBTB21	TRUE	FALSE
+ENSG00000236104	ZBTB22	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000236104.2	ZBTB22	TRUE	FALSE
+ENSG00000112365	ZBTB24	C2H2 ZF; AT hook	Monomer or homomultimer	No motif	ENSG00000112365.4	ZBTB24	TRUE	FALSE
+ENSG00000089775	ZBTB25	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000089775.11	ZBTB25	TRUE	FALSE
+ENSG00000171448	ZBTB26	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000171448.8	ZBTB26	TRUE	FALSE
+ENSG00000185670	ZBTB3	C2H2 ZF	Monomer or homomultimer	100 perc ID - in vitro	ENSG00000185670.7	ZBTB3	TRUE	FALSE
+ENSG00000011590	ZBTB32	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000011590.13	ZBTB32	TRUE	FALSE
+ENSG00000177485	ZBTB33	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000177485.6	ZBTB33	TRUE	FALSE
+ENSG00000177125	ZBTB34	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000177125.5	ZBTB34	TRUE	FALSE
+ENSG00000185278	ZBTB37	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000185278.14	ZBTB37	TRUE	FALSE
+ENSG00000177311	ZBTB38	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000177311.10	ZBTB38	TRUE	FALSE
+ENSG00000166860	ZBTB39	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000166860.2	ZBTB39	TRUE	FALSE
+ENSG00000174282	ZBTB4	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000174282.11	ZBTB4	TRUE	FALSE
+ENSG00000184677	ZBTB40	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000184677.16	ZBTB40	TRUE	FALSE
+ENSG00000177888	ZBTB41	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000177888.7	ZBTB41	TRUE	FALSE
+ENSG00000179627	ZBTB42	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000179627.9	ZBTB42	TRUE	FALSE
+ENSG00000169155	ZBTB43	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000169155.9	ZBTB43	TRUE	FALSE
+ENSG00000196323	ZBTB44	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000196323.11	ZBTB44	TRUE	FALSE
+ENSG00000119574	ZBTB45	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000119574.12	ZBTB45	TRUE	FALSE
+ENSG00000130584	ZBTB46	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000130584.10	ZBTB46	TRUE	FALSE
+ENSG00000114853	ZBTB47	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000114853.13	ZBTB47	TRUE	FALSE
+ENSG00000204859	ZBTB48	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000204859.11	ZBTB48	TRUE	FALSE
+ENSG00000168826	ZBTB49	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000168826.15	ZBTB49	TRUE	FALSE
+ENSG00000168795	ZBTB5	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000168795.4	ZBTB5	TRUE	FALSE
+ENSG00000186130	ZBTB6	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000186130.4	ZBTB6	TRUE	FALSE
+ENSG00000178951	ZBTB7A	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000178951.8	ZBTB7A	TRUE	FALSE
+ENSG00000160685	ZBTB7B	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000160685.13	ZBTB7B	TRUE	FALSE
+ENSG00000184828	ZBTB7C	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000184828.9	ZBTB7C	TRUE	FALSE
+ENSG00000160062	ZBTB8A	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000160062.14	ZBTB8A	TRUE	FALSE
+ENSG00000273274	ZBTB8B	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000273274.1	ZBTB8B	TRUE	FALSE
+ENSG00000213588	ZBTB9	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000213588.5	ZBTB9	TRUE	FALSE
+ENSG00000144161	ZC3H8	CCCH ZF	Monomer or homomultimer	No motif	ENSG00000144161.12	ZC3H8	TRUE	FALSE
+ENSG00000148516	ZEB1	C2H2 ZF; Homeodomain	Monomer or homomultimer	In vivo/Misc source	ENSG00000148516.21	ZEB1	TRUE	FALSE
+ENSG00000169554	ZEB2	C2H2 ZF; Homeodomain	Monomer or homomultimer	In vivo/Misc source	ENSG00000169554.16	ZEB2	TRUE	FALSE
+ENSG00000066827	ZFAT	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000066827.15	ZFAT	TRUE	FALSE
+ENSG00000136367	ZFHX2	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000136367.13	ZFHX2	TRUE	FALSE
+ENSG00000140836	ZFHX3	C2H2 ZF; Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000140836.14	ZFHX3	TRUE	FALSE
+ENSG00000091656	ZFHX4	C2H2 ZF; Homeodomain	Monomer or homomultimer	In vivo/Misc source	ENSG00000091656.15	ZFHX4	TRUE	FALSE
+ENSG00000184517	ZFP1	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000184517.11	ZFP1	TRUE	FALSE
+ENSG00000142065	ZFP14	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000142065.13	ZFP14	TRUE	FALSE
+ENSG00000198939	ZFP2	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000198939.7	ZFP2	TRUE	FALSE
+ENSG00000196867	ZFP28	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000196867.7	ZFP28	TRUE	FALSE
+ENSG00000180787	ZFP3	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000180787.5	ZFP3	TRUE	FALSE
+ENSG00000120784	ZFP30	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000120784.15	ZFP30	TRUE	FALSE
+ENSG00000136866	ZFP37	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000136866.13	ZFP37	TRUE	FALSE
+ENSG00000181638	ZFP41	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000181638.17	ZFP41	TRUE	FALSE
+ENSG00000179059	ZFP42	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000179059.9	ZFP42	TRUE	FALSE
+ENSG00000204644	ZFP57	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000204644.9	ZFP57	TRUE	FALSE
+ENSG00000196670	ZFP62	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000196670.13	ZFP62	TRUE	FALSE
+ENSG00000020256	ZFP64	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000020256.19	ZFP64	TRUE	FALSE
+ENSG00000187815	ZFP69	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000187815.9	ZFP69	TRUE	FALSE
+ENSG00000187801	ZFP69B	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000187801.14	ZFP69B	TRUE	FALSE
+ENSG00000181007	ZFP82	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000181007.8	ZFP82	TRUE	FALSE
+ENSG00000184939	ZFP90	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000184939.15	ZFP90	TRUE	FALSE
+ENSG00000186660	ZFP91	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000186660.14	ZFP91	TRUE	FALSE
+ENSG00000189420	ZFP92	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000189420.8	ZFP92	TRUE	FALSE
+ENSG00000179588	ZFPM1	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000179588.8	ZFPM1	TRUE	FALSE
+ENSG00000169946	ZFPM2	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000169946.13	ZFPM2	TRUE	FALSE
+ENSG00000005889	ZFX	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000005889.15	ZFX	TRUE	FALSE
+ENSG00000067646	ZFY	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000067646.11	ZFY	TRUE	FALSE
+ENSG00000220201	ZGLP1	GATA	Monomer or homomultimer	No motif	ENSG00000220201.7	ZGLP1	TRUE	FALSE
+ENSG00000197114	ZGPAT	CCCH ZF	Monomer or homomultimer	No motif	ENSG00000197114.11	ZGPAT	TRUE	FALSE
+ENSG00000165156	ZHX1	Homeodomain	Monomer or homomultimer	High-throughput in vitro	ENSG00000165156.14	ZHX1	TRUE	FALSE
+ENSG00000178764	ZHX2	Homeodomain	Monomer or homomultimer	No motif	ENSG00000178764.7	ZHX2	TRUE	FALSE
+ENSG00000174306	ZHX3	Homeodomain	Monomer or homomultimer	No motif	ENSG00000174306.21	ZHX3	TRUE	FALSE
+ENSG00000152977	ZIC1	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000152977.9	ZIC1	TRUE	FALSE
+ENSG00000043355	ZIC2	C2H2 ZF	Monomer or homomultimer	100 perc ID - in vitro	ENSG00000043355.10	ZIC2	TRUE	FALSE
+ENSG00000156925	ZIC3	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000156925.11	ZIC3	TRUE	FALSE
+ENSG00000174963	ZIC4	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000174963.17	ZIC4	TRUE	FALSE
+ENSG00000139800	ZIC5	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000139800.8	ZIC5	TRUE	FALSE
+ENSG00000171649	ZIK1	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000171649.11	ZIK1	TRUE	FALSE
+ENSG00000269699	ZIM2	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000269699.5	ZIM2	TRUE	FALSE
+ENSG00000141946	ZIM3	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000141946.1	ZIM3	TRUE	FALSE
+ENSG00000106261	ZKSCAN1	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000106261.16	ZKSCAN1	TRUE	FALSE
+ENSG00000155592	ZKSCAN2	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000155592.15	ZKSCAN2	TRUE	FALSE
+ENSG00000189298	ZKSCAN3	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000189298.13	ZKSCAN3	TRUE	FALSE
+ENSG00000187626	ZKSCAN4	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000187626.8	ZKSCAN4	TRUE	FALSE
+ENSG00000196652	ZKSCAN5	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000196652.11	ZKSCAN5	TRUE	FALSE
+ENSG00000196345	ZKSCAN7	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000196345.12	ZKSCAN7	TRUE	FALSE
+ENSG00000198315	ZKSCAN8	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000198315.10	ZKSCAN8	TRUE	FALSE
+ENSG00000166432	ZMAT1	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000166432.14	ZMAT1	TRUE	FALSE
+ENSG00000165061	ZMAT4	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000165061.14	ZMAT4	TRUE	FALSE
+ENSG00000256223	ZNF10	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000256223.5	ZNF10	TRUE	FALSE
+ENSG00000197020	ZNF100	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000197020.10	ZNF100	TRUE	FALSE
+ENSG00000181896	ZNF101	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000181896.11	ZNF101	TRUE	FALSE
+ENSG00000196247	ZNF107	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000196247.11	ZNF107	TRUE	FALSE
+ENSG00000062370	ZNF112	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000062370.16	ZNF112	TRUE	FALSE
+ENSG00000178150	ZNF114	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000178150.8	ZNF114	TRUE	FALSE
+ENSG00000152926	ZNF117	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000152926.14	ZNF117	TRUE	FALSE
+ENSG00000164631	ZNF12	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000164631.18	ZNF12	TRUE	FALSE
+ENSG00000197961	ZNF121	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000197961.11	ZNF121	TRUE	FALSE
+ENSG00000196418	ZNF124	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000196418.12	ZNF124	TRUE	FALSE
+ENSG00000172262	ZNF131	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000172262.11	ZNF131	TRUE	FALSE
+ENSG00000131849	ZNF132	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000131849.10	ZNF132	TRUE	FALSE
+ENSG00000125846	ZNF133	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000125846.15	ZNF133	TRUE	FALSE
+ENSG00000213762	ZNF134	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000213762.10	ZNF134	TRUE	FALSE
+ENSG00000176293	ZNF135	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000176293.19	ZNF135	TRUE	FALSE
+ENSG00000196646	ZNF136	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000196646.11	ZNF136	TRUE	FALSE
+ENSG00000197008	ZNF138	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000197008.9	ZNF138	TRUE	FALSE
+ENSG00000105708	ZNF14	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000105708.8	ZNF14	TRUE	FALSE
+ENSG00000196387	ZNF140	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000196387.9	ZNF140	TRUE	FALSE
+ENSG00000131127	ZNF141	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000131127.13	ZNF141	TRUE	FALSE
+ENSG00000115568	ZNF142	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000115568.15	ZNF142	TRUE	FALSE
+ENSG00000166478	ZNF143	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000166478.9	ZNF143	TRUE	FALSE
+ENSG00000167635	ZNF146	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000167635.11	ZNF146	TRUE	FALSE
+ENSG00000163848	ZNF148	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000163848.18	ZNF148	TRUE	FALSE
+ENSG00000179909	ZNF154	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000179909.15	ZNF154	TRUE	FALSE
+ENSG00000204920	ZNF155	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000204920.10	ZNF155	TRUE	FALSE
+ENSG00000147117	ZNF157	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000147117.7	ZNF157	TRUE	FALSE
+ENSG00000170631	ZNF16	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000170631.14	ZNF16	TRUE	FALSE
+ENSG00000170949	ZNF160	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000170949.17	ZNF160	TRUE	FALSE
+ENSG00000197279	ZNF165	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000197279.3	ZNF165	TRUE	FALSE
+ENSG00000175787	ZNF169	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000175787.16	ZNF169	TRUE	FALSE
+ENSG00000186272	ZNF17	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000186272.12	ZNF17	TRUE	FALSE
+ENSG00000103343	ZNF174	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000103343.12	ZNF174	TRUE	FALSE
+ENSG00000105497	ZNF175	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000105497.7	ZNF175	TRUE	FALSE
+ENSG00000188629	ZNF177	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000188629.11	ZNF177	TRUE	FALSE
+ENSG00000154957	ZNF18	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000154957.13	ZNF18	TRUE	FALSE
+ENSG00000167384	ZNF180	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000167384.10	ZNF180	TRUE	FALSE
+ENSG00000197841	ZNF181	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000197841.14	ZNF181	TRUE	FALSE
+ENSG00000147118	ZNF182	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000147118.10	ZNF182	TRUE	FALSE
+ENSG00000096654	ZNF184	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000096654.15	ZNF184	TRUE	FALSE
+ENSG00000136870	ZNF189	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000136870.10	ZNF189	TRUE	FALSE
+ENSG00000157429	ZNF19	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000157429.15	ZNF19	TRUE	FALSE
+ENSG00000005801	ZNF195	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000005801.16	ZNF195	TRUE	FALSE
+ENSG00000186448	ZNF197	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000186448.14	ZNF197	TRUE	FALSE
+ENSG00000275111	ZNF2	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000275111.4	ZNF2	TRUE	FALSE
+ENSG00000132010	ZNF20	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000132010.15	ZNF20	TRUE	FALSE
+ENSG00000010539	ZNF200	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000010539.11	ZNF200	TRUE	FALSE
+ENSG00000166261	ZNF202	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000166261.10	ZNF202	TRUE	FALSE
+ENSG00000122386	ZNF205	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000122386.10	ZNF205	TRUE	FALSE
+ENSG00000010244	ZNF207	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000010244.16	ZNF207	TRUE	FALSE
+ENSG00000160321	ZNF208	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000160321.14	ZNF208	TRUE	FALSE
+ENSG00000121417	ZNF211	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000121417.13	ZNF211	TRUE	FALSE
+ENSG00000170260	ZNF212	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000170260.8	ZNF212	TRUE	FALSE
+ENSG00000085644	ZNF213	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000085644.13	ZNF213	TRUE	FALSE
+ENSG00000149050	ZNF214	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000149050.9	ZNF214	TRUE	FALSE
+ENSG00000149054	ZNF215	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000149054.14	ZNF215	TRUE	FALSE
+ENSG00000171940	ZNF217	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000171940.13	ZNF217	TRUE	FALSE
+ENSG00000165804	ZNF219	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000165804.15	ZNF219	TRUE	FALSE
+ENSG00000165512	ZNF22	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000165512.4	ZNF22	TRUE	FALSE
+ENSG00000159905	ZNF221	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000159905.14	ZNF221	TRUE	FALSE
+ENSG00000159885	ZNF222	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000159885.13	ZNF222	TRUE	FALSE
+ENSG00000178386	ZNF223	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000178386.12	ZNF223	TRUE	FALSE
+ENSG00000267680	ZNF224	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000267680.5	ZNF224	TRUE	FALSE
+ENSG00000256294	ZNF225	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000256294.7	ZNF225	TRUE	FALSE
+ENSG00000167380	ZNF226	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000167380.16	ZNF226	TRUE	FALSE
+ENSG00000131115	ZNF227	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000131115.15	ZNF227	TRUE	FALSE
+ENSG00000278318	ZNF229	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000278318.4	ZNF229	TRUE	FALSE
+ENSG00000167377	ZNF23	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000167377.17	ZNF23	TRUE	FALSE
+ENSG00000159882	ZNF230	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000159882.12	ZNF230	TRUE	FALSE
+ENSG00000167840	ZNF232	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000167840.13	ZNF232	TRUE	FALSE
+ENSG00000159915	ZNF233	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000159915.12	ZNF233	TRUE	FALSE
+ENSG00000263002	ZNF234	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000263002.7	ZNF234	TRUE	FALSE
+ENSG00000159917	ZNF235	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000159917.14	ZNF235	TRUE	FALSE
+ENSG00000130856	ZNF236	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000130856.15	ZNF236	TRUE	FALSE
+ENSG00000196793	ZNF239	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000196793.13	ZNF239	TRUE	FALSE
+ENSG00000172466	ZNF24	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000172466.15	ZNF24	TRUE	FALSE
+ENSG00000198105	ZNF248	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000198105.11	ZNF248	TRUE	FALSE
+ENSG00000175395	ZNF25	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000175395.15	ZNF25	TRUE	FALSE
+ENSG00000196150	ZNF250	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000196150.13	ZNF250	TRUE	FALSE
+ENSG00000198169	ZNF251	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000198169.8	ZNF251	TRUE	FALSE
+ENSG00000256771	ZNF253	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000256771.2	ZNF253	TRUE	FALSE
+ENSG00000213096	ZNF254	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000213096.9	ZNF254	TRUE	FALSE
+ENSG00000152454	ZNF256	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000152454.3	ZNF256	TRUE	FALSE
+ENSG00000197134	ZNF257	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000197134.11	ZNF257	TRUE	FALSE
+ENSG00000198393	ZNF26	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000198393.7	ZNF26	TRUE	FALSE
+ENSG00000254004	ZNF260	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000254004.6	ZNF260	TRUE	FALSE
+ENSG00000006194	ZNF263	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000006194.9	ZNF263	TRUE	FALSE
+ENSG00000083844	ZNF264	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000083844.10	ZNF264	TRUE	FALSE
+ENSG00000174652	ZNF266	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000174652.17	ZNF266	TRUE	FALSE
+ENSG00000185947	ZNF267	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000185947.14	ZNF267	TRUE	FALSE
+ENSG00000090612	ZNF268	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000090612.20	ZNF268	TRUE	FALSE
+ENSG00000198039	ZNF273	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000198039.11	ZNF273	TRUE	FALSE
+ENSG00000171606	ZNF274	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000171606.17	ZNF274	TRUE	FALSE
+ENSG00000063587	ZNF275	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000063587.13	ZNF275	TRUE	FALSE
+ENSG00000158805	ZNF276	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000158805.11	ZNF276	TRUE	FALSE
+ENSG00000198839	ZNF277	C2H2 ZF; BED ZF	Monomer or homomultimer	No motif	ENSG00000198839.9	ZNF277	TRUE	FALSE
+ENSG00000198538	ZNF28	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000198538.10	ZNF28	TRUE	FALSE
+ENSG00000169548	ZNF280A	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000169548.3	ZNF280A	TRUE	FALSE
+ENSG00000275004	ZNF280B	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000275004.3	ZNF280B	TRUE	FALSE
+ENSG00000056277	ZNF280C	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000056277.15	ZNF280C	TRUE	FALSE
+ENSG00000137871	ZNF280D	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000137871.19	ZNF280D	TRUE	FALSE
+ENSG00000162702	ZNF281	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000162702.7	ZNF281	TRUE	FALSE
+ENSG00000170265	ZNF282	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000170265.11	ZNF282	TRUE	FALSE
+ENSG00000167637	ZNF283	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000167637.16	ZNF283	TRUE	FALSE
+ENSG00000186026	ZNF284	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000186026.6	ZNF284	TRUE	FALSE
+ENSG00000267508	ZNF285	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000267508.5	ZNF285	TRUE	FALSE
+ENSG00000187607	ZNF286A	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000187607.15	ZNF286A	TRUE	FALSE
+ENSG00000249459	ZNF286B	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000249459.8	ZNF286B	TRUE	FALSE
+ENSG00000141040	ZNF287	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000141040.14	ZNF287	TRUE	FALSE
+ENSG00000188994	ZNF292	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000188994.12	ZNF292	TRUE	FALSE
+ENSG00000170684	ZNF296	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000170684.8	ZNF296	TRUE	FALSE
+ENSG00000166526	ZNF3	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000166526.16	ZNF3	TRUE	FALSE
+ENSG00000168661	ZNF30	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000168661.14	ZNF30	TRUE	FALSE
+ENSG00000145908	ZNF300	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000145908.12	ZNF300	TRUE	FALSE
+ENSG00000089335	ZNF302	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000089335.20	ZNF302	TRUE	FALSE
+ENSG00000131845	ZNF304	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000131845.14	ZNF304	TRUE	FALSE
+ENSG00000197935	ZNF311	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000197935.6	ZNF311	TRUE	FALSE
+ENSG00000205903	ZNF316	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000205903.6	ZNF316	TRUE	FALSE
+ENSG00000130803	ZNF317	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000130803.14	ZNF317	TRUE	FALSE
+ENSG00000171467	ZNF318	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000171467.15	ZNF318	TRUE	FALSE
+ENSG00000166188	ZNF319	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000166188.2	ZNF319	TRUE	FALSE
+ENSG00000169740	ZNF32	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000169740.13	ZNF32	TRUE	FALSE
+ENSG00000182986	ZNF320	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000182986.12	ZNF320	TRUE	FALSE
+ENSG00000181315	ZNF322	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000181315.10	ZNF322	TRUE	FALSE
+ENSG00000083812	ZNF324	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000083812.11	ZNF324	TRUE	FALSE
+ENSG00000249471	ZNF324B	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000249471.7	ZNF324B	TRUE	FALSE
+ENSG00000162664	ZNF326	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000162664.16	ZNF326	TRUE	FALSE
+ENSG00000181894	ZNF329	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000181894.14	ZNF329	TRUE	FALSE
+ENSG00000130844	ZNF331	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000130844.16	ZNF331	TRUE	FALSE
+ENSG00000160961	ZNF333	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000160961.11	ZNF333	TRUE	FALSE
+ENSG00000198185	ZNF334	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000198185.11	ZNF334	TRUE	FALSE
+ENSG00000198026	ZNF335	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000198026.7	ZNF335	TRUE	FALSE
+ENSG00000130684	ZNF337	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000130684.13	ZNF337	TRUE	FALSE
+ENSG00000189180	ZNF33A	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000189180.15	ZNF33A	TRUE	FALSE
+ENSG00000196693	ZNF33B	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000196693.14	ZNF33B	TRUE	FALSE
+ENSG00000196378	ZNF34	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000196378.11	ZNF34	TRUE	FALSE
+ENSG00000131061	ZNF341	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000131061.13	ZNF341	TRUE	FALSE
+ENSG00000088876	ZNF343	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000088876.11	ZNF343	TRUE	FALSE
+ENSG00000251247	ZNF345	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000251247.9	ZNF345	TRUE	FALSE
+ENSG00000113761	ZNF346	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000113761.11	ZNF346	TRUE	FALSE
+ENSG00000197937	ZNF347	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000197937.12	ZNF347	TRUE	FALSE
+ENSG00000169981	ZNF35	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000169981.10	ZNF35	TRUE	FALSE
+ENSG00000256683	ZNF350	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000256683.6	ZNF350	TRUE	FALSE
+ENSG00000169131	ZNF354A	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000169131.10	ZNF354A	TRUE	FALSE
+ENSG00000178338	ZNF354B	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000178338.10	ZNF354B	TRUE	FALSE
+ENSG00000177932	ZNF354C	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000177932.6	ZNF354C	TRUE	FALSE
+ENSG00000198816	ZNF358	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000198816.5	ZNF358	TRUE	FALSE
+ENSG00000160094	ZNF362	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000160094.14	ZNF362	TRUE	FALSE
+ENSG00000138311	ZNF365	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000138311.15	ZNF365	TRUE	FALSE
+ENSG00000178175	ZNF366	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000178175.11	ZNF366	TRUE	FALSE
+ENSG00000165244	ZNF367	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000165244.6	ZNF367	TRUE	FALSE
+ENSG00000075407	ZNF37A	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000075407.17	ZNF37A	TRUE	FALSE
+ENSG00000161298	ZNF382	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000161298.16	ZNF382	TRUE	FALSE
+ENSG00000188283	ZNF383	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000188283.11	ZNF383	TRUE	FALSE
+ENSG00000126746	ZNF384	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000126746.17	ZNF384	TRUE	FALSE
+ENSG00000161642	ZNF385A	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000161642.17	ZNF385A	TRUE	FALSE
+ENSG00000144331	ZNF385B	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000144331.18	ZNF385B	TRUE	FALSE
+ENSG00000187595	ZNF385C	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000187595.14	ZNF385C	TRUE	FALSE
+ENSG00000151789	ZNF385D	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000151789.9	ZNF385D	TRUE	FALSE
+ENSG00000124613	ZNF391	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000124613.8	ZNF391	TRUE	FALSE
+ENSG00000160908	ZNF394	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000160908.14	ZNF394	TRUE	FALSE
+ENSG00000186918	ZNF395	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000186918.13	ZNF395	TRUE	FALSE
+ENSG00000186496	ZNF396	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000186496.10	ZNF396	TRUE	FALSE
+ENSG00000186812	ZNF397	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000186812.12	ZNF397	TRUE	FALSE
+ENSG00000197024	ZNF398	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000197024.8	ZNF398	TRUE	FALSE
+ENSG00000176222	ZNF404	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000176222.8	ZNF404	TRUE	FALSE
+ENSG00000215421	ZNF407	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000215421.9	ZNF407	TRUE	FALSE
+ENSG00000175213	ZNF408	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000175213.2	ZNF408	TRUE	FALSE
+ENSG00000147124	ZNF41	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000147124.12	ZNF41	TRUE	FALSE
+ENSG00000119725	ZNF410	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000119725.17	ZNF410	TRUE	FALSE
+ENSG00000133250	ZNF414	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000133250.13	ZNF414	TRUE	FALSE
+ENSG00000170954	ZNF415	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000170954.11	ZNF415	TRUE	FALSE
+ENSG00000083817	ZNF416	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000083817.8	ZNF416	TRUE	FALSE
+ENSG00000173480	ZNF417	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000173480.10	ZNF417	TRUE	FALSE
+ENSG00000196724	ZNF418	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000196724.12	ZNF418	TRUE	FALSE
+ENSG00000105136	ZNF419	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000105136.19	ZNF419	TRUE	FALSE
+ENSG00000197050	ZNF420	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000197050.10	ZNF420	TRUE	FALSE
+ENSG00000102935	ZNF423	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000102935.11	ZNF423	TRUE	FALSE
+ENSG00000204947	ZNF425	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000204947.8	ZNF425	TRUE	FALSE
+ENSG00000130818	ZNF426	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000130818.10	ZNF426	TRUE	FALSE
+ENSG00000131116	ZNF428	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000131116.11	ZNF428	TRUE	FALSE
+ENSG00000197013	ZNF429	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000197013.9	ZNF429	TRUE	FALSE
+ENSG00000198521	ZNF43	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000198521.11	ZNF43	TRUE	FALSE
+ENSG00000118620	ZNF430	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000118620.12	ZNF430	TRUE	FALSE
+ENSG00000196705	ZNF431	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000196705.8	ZNF431	TRUE	FALSE
+ENSG00000256087	ZNF432	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000256087.6	ZNF432	TRUE	FALSE
+ENSG00000197647	ZNF433	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000197647.11	ZNF433	TRUE	FALSE
+ENSG00000125945	ZNF436	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000125945.14	ZNF436	TRUE	FALSE
+ENSG00000183621	ZNF438	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000183621.15	ZNF438	TRUE	FALSE
+ENSG00000171291	ZNF439	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000171291.8	ZNF439	TRUE	FALSE
+ENSG00000197857	ZNF44	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000197857.13	ZNF44	TRUE	FALSE
+ENSG00000171295	ZNF440	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000171295.12	ZNF440	TRUE	FALSE
+ENSG00000197044	ZNF441	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000197044.10	ZNF441	TRUE	FALSE
+ENSG00000198342	ZNF442	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000198342.9	ZNF442	TRUE	FALSE
+ENSG00000180855	ZNF443	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000180855.15	ZNF443	TRUE	FALSE
+ENSG00000167685	ZNF444	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000167685.14	ZNF444	TRUE	FALSE
+ENSG00000185219	ZNF445	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000185219.15	ZNF445	TRUE	FALSE
+ENSG00000083838	ZNF446	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000083838.15	ZNF446	TRUE	FALSE
+ENSG00000173275	ZNF449	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000173275.12	ZNF449	TRUE	FALSE
+ENSG00000124459	ZNF45	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000124459.11	ZNF45	TRUE	FALSE
+ENSG00000112200	ZNF451	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000112200.16	ZNF451	TRUE	FALSE
+ENSG00000178187	ZNF454	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000178187.7	ZNF454	TRUE	FALSE
+ENSG00000197714	ZNF460	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000197714.8	ZNF460	TRUE	FALSE
+ENSG00000197808	ZNF461	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000197808.11	ZNF461	TRUE	FALSE
+ENSG00000148143	ZNF462	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000148143.12	ZNF462	TRUE	FALSE
+ENSG00000181444	ZNF467	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000181444.12	ZNF467	TRUE	FALSE
+ENSG00000204604	ZNF468	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000204604.9	ZNF468	TRUE	FALSE
+ENSG00000225614	ZNF469	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000225614.2	ZNF469	TRUE	FALSE
+ENSG00000197016	ZNF470	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000197016.11	ZNF470	TRUE	FALSE
+ENSG00000196263	ZNF471	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000196263.7	ZNF471	TRUE	FALSE
+ENSG00000142528	ZNF473	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000142528.15	ZNF473	TRUE	FALSE
+ENSG00000164185	ZNF474	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000164185.4	ZNF474	TRUE	FALSE
+ENSG00000185177	ZNF479	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000185177.12	ZNF479	TRUE	FALSE
+ENSG00000180035	ZNF48	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000180035.10	ZNF48	TRUE	FALSE
+ENSG00000198464	ZNF480	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000198464.13	ZNF480	TRUE	FALSE
+ENSG00000173258	ZNF483	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000173258.12	ZNF483	TRUE	FALSE
+ENSG00000127081	ZNF484	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000127081.13	ZNF484	TRUE	FALSE
+ENSG00000198298	ZNF485	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000198298.12	ZNF485	TRUE	FALSE
+ENSG00000256229	ZNF486	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000256229.7	ZNF486	TRUE	FALSE
+ENSG00000243660	ZNF487	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000243660.9	ZNF487	TRUE	FALSE
+ENSG00000265763	ZNF488	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000265763.3	ZNF488	TRUE	FALSE
+ENSG00000188033	ZNF490	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000188033.9	ZNF490	TRUE	FALSE
+ENSG00000177599	ZNF491	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000177599.12	ZNF491	TRUE	FALSE
+ENSG00000229676	ZNF492	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000229676.2	ZNF492	TRUE	FALSE
+ENSG00000196268	ZNF493	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000196268.11	ZNF493	TRUE	FALSE
+ENSG00000162714	ZNF496	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000162714.12	ZNF496	TRUE	FALSE
+ENSG00000174586	ZNF497	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000174586.10	ZNF497	TRUE	FALSE
+ENSG00000103199	ZNF500	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000103199.13	ZNF500	TRUE	FALSE
+ENSG00000186446	ZNF501	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000186446.11	ZNF501	TRUE	FALSE
+ENSG00000196653	ZNF502	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000196653.11	ZNF502	TRUE	FALSE
+ENSG00000165655	ZNF503	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000165655.15	ZNF503	TRUE	FALSE
+ENSG00000081665	ZNF506	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000081665.13	ZNF506	TRUE	FALSE
+ENSG00000168813	ZNF507	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000168813.16	ZNF507	TRUE	FALSE
+ENSG00000081386	ZNF510	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000081386.12	ZNF510	TRUE	FALSE
+ENSG00000198546	ZNF511	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000198546.14	ZNF511	TRUE	FALSE
+ENSG00000243943	ZNF512	C2H2 ZF; BED ZF	Monomer or homomultimer	No motif	ENSG00000243943.9	ZNF512	TRUE	FALSE
+ENSG00000196700	ZNF512B	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000196700.7	ZNF512B	TRUE	FALSE
+ENSG00000163795	ZNF513	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000163795.13	ZNF513	TRUE	FALSE
+ENSG00000144026	ZNF514	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000144026.11	ZNF514	TRUE	FALSE
+ENSG00000101493	ZNF516	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000101493.10	ZNF516	TRUE	FALSE
+ENSG00000197363	ZNF517	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000197363.9	ZNF517	TRUE	FALSE
+ENSG00000177853	ZNF518A	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000177853.14	ZNF518A	TRUE	FALSE
+ENSG00000178163	ZNF518B	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000178163.7	ZNF518B	TRUE	FALSE
+ENSG00000175322	ZNF519	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000175322.11	ZNF519	TRUE	FALSE
+ENSG00000198795	ZNF521	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000198795.10	ZNF521	TRUE	FALSE
+ENSG00000171443	ZNF524	C2H2 ZF; AT hook	Monomer or homomultimer	High-throughput in vitro	ENSG00000171443.6	ZNF524	TRUE	FALSE
+ENSG00000203326	ZNF525	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000203326.9	ZNF525	TRUE	FALSE
+ENSG00000167625	ZNF526	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000167625.10	ZNF526	TRUE	FALSE
+ENSG00000189164	ZNF527	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000189164.14	ZNF527	TRUE	FALSE
+ENSG00000167555	ZNF528	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000167555.13	ZNF528	TRUE	FALSE
+ENSG00000186020	ZNF529	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000186020.12	ZNF529	TRUE	FALSE
+ENSG00000183647	ZNF530	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000183647.10	ZNF530	TRUE	FALSE
+ENSG00000074657	ZNF532	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000074657.13	ZNF532	TRUE	FALSE
+ENSG00000198633	ZNF534	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000198633.10	ZNF534	TRUE	FALSE
+ENSG00000198597	ZNF536	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000198597.8	ZNF536	TRUE	FALSE
+ENSG00000171817	ZNF540	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000171817.16	ZNF540	TRUE	FALSE
+ENSG00000118156	ZNF541	C2H2 ZF; Myb/SANT	Monomer or homomultimer	In vivo/Misc source	ENSG00000118156.12	ZNF541	TRUE	FALSE
+ENSG00000178229	ZNF543	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000178229.7	ZNF543	TRUE	FALSE
+ENSG00000198131	ZNF544	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000198131.13	ZNF544	TRUE	FALSE
+ENSG00000187187	ZNF546	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000187187.13	ZNF546	TRUE	FALSE
+ENSG00000152433	ZNF547	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000152433.14	ZNF547	TRUE	FALSE
+ENSG00000188785	ZNF548	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000188785.11	ZNF548	TRUE	FALSE
+ENSG00000121406	ZNF549	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000121406.8	ZNF549	TRUE	FALSE
+ENSG00000251369	ZNF550	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000251369.8	ZNF550	TRUE	FALSE
+ENSG00000204519	ZNF551	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000204519.10	ZNF551	TRUE	FALSE
+ENSG00000178935	ZNF552	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000178935.5	ZNF552	TRUE	FALSE
+ENSG00000172006	ZNF554	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000172006.11	ZNF554	TRUE	FALSE
+ENSG00000186300	ZNF555	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000186300.11	ZNF555	TRUE	FALSE
+ENSG00000172000	ZNF556	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000172000.7	ZNF556	TRUE	FALSE
+ENSG00000130544	ZNF557	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000130544.11	ZNF557	TRUE	FALSE
+ENSG00000167785	ZNF558	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000167785.8	ZNF558	TRUE	FALSE
+ENSG00000188321	ZNF559	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000188321.13	ZNF559	TRUE	FALSE
+ENSG00000198028	ZNF560	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000198028.3	ZNF560	TRUE	FALSE
+ENSG00000171469	ZNF561	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000171469.10	ZNF561	TRUE	FALSE
+ENSG00000171466	ZNF562	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000171466.9	ZNF562	TRUE	FALSE
+ENSG00000188868	ZNF563	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000188868.13	ZNF563	TRUE	FALSE
+ENSG00000249709	ZNF564	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000249709.7	ZNF564	TRUE	FALSE
+ENSG00000196357	ZNF565	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000196357.11	ZNF565	TRUE	FALSE
+ENSG00000186017	ZNF566	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000186017.14	ZNF566	TRUE	FALSE
+ENSG00000189042	ZNF567	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000189042.13	ZNF567	TRUE	FALSE
+ENSG00000198453	ZNF568	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000198453.12	ZNF568	TRUE	FALSE
+ENSG00000196437	ZNF569	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000196437.10	ZNF569	TRUE	FALSE
+ENSG00000171970	ZNF57	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000171970.12	ZNF57	TRUE	FALSE
+ENSG00000171827	ZNF570	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000171827.10	ZNF570	TRUE	FALSE
+ENSG00000180479	ZNF571	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000180479.13	ZNF571	TRUE	FALSE
+ENSG00000180938	ZNF572	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000180938.5	ZNF572	TRUE	FALSE
+ENSG00000189144	ZNF573	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000189144.13	ZNF573	TRUE	FALSE
+ENSG00000105732	ZNF574	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000105732.11	ZNF574	TRUE	FALSE
+ENSG00000176472	ZNF575	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000176472.10	ZNF575	TRUE	FALSE
+ENSG00000124444	ZNF576	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000124444.15	ZNF576	TRUE	FALSE
+ENSG00000161551	ZNF577	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000161551.12	ZNF577	TRUE	FALSE
+ENSG00000258405	ZNF578	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000258405.9	ZNF578	TRUE	FALSE
+ENSG00000218891	ZNF579	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000218891.4	ZNF579	TRUE	FALSE
+ENSG00000213015	ZNF580	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000213015.8	ZNF580	TRUE	FALSE
+ENSG00000171425	ZNF581	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000171425.9	ZNF581	TRUE	FALSE
+ENSG00000018869	ZNF582	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000018869.16	ZNF582	TRUE	FALSE
+ENSG00000198440	ZNF583	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000198440.9	ZNF583	TRUE	FALSE
+ENSG00000171574	ZNF584	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000171574.17	ZNF584	TRUE	FALSE
+ENSG00000196967	ZNF585A	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000196967.10	ZNF585A	TRUE	FALSE
+ENSG00000245680	ZNF585B	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000245680.9	ZNF585B	TRUE	FALSE
+ENSG00000083828	ZNF586	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000083828.15	ZNF586	TRUE	FALSE
+ENSG00000198466	ZNF587	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000198466.11	ZNF587	TRUE	FALSE
+ENSG00000269343	ZNF587B	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000269343.6	ZNF587B	TRUE	FALSE
+ENSG00000164048	ZNF589	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000164048.13	ZNF589	TRUE	FALSE
+ENSG00000166716	ZNF592	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000166716.9	ZNF592	TRUE	FALSE
+ENSG00000180626	ZNF594	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000180626.9	ZNF594	TRUE	FALSE
+ENSG00000272602	ZNF595	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000272602.5	ZNF595	TRUE	FALSE
+ENSG00000172748	ZNF596	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000172748.12	ZNF596	TRUE	FALSE
+ENSG00000167981	ZNF597	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000167981.5	ZNF597	TRUE	FALSE
+ENSG00000167962	ZNF598	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000167962.12	ZNF598	TRUE	FALSE
+ENSG00000153896	ZNF599	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000153896.17	ZNF599	TRUE	FALSE
+ENSG00000189190	ZNF600	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000189190.8	ZNF600	TRUE	FALSE
+ENSG00000196458	ZNF605	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000196458.10	ZNF605	TRUE	FALSE
+ENSG00000166704	ZNF606	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000166704.11	ZNF606	TRUE	FALSE
+ENSG00000198182	ZNF607	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000198182.12	ZNF607	TRUE	FALSE
+ENSG00000168916	ZNF608	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000168916.15	ZNF608	TRUE	FALSE
+ENSG00000180357	ZNF609	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000180357.9	ZNF609	TRUE	FALSE
+ENSG00000167554	ZNF610	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000167554.14	ZNF610	TRUE	FALSE
+ENSG00000213020	ZNF611	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000213020.8	ZNF611	TRUE	FALSE
+ENSG00000176024	ZNF613	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000176024.16	ZNF613	TRUE	FALSE
+ENSG00000142556	ZNF614	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000142556.18	ZNF614	TRUE	FALSE
+ENSG00000197619	ZNF615	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000197619.13	ZNF615	TRUE	FALSE
+ENSG00000204611	ZNF616	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000204611.6	ZNF616	TRUE	FALSE
+ENSG00000157657	ZNF618	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000157657.14	ZNF618	TRUE	FALSE
+ENSG00000177873	ZNF619	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000177873.12	ZNF619	TRUE	FALSE
+ENSG00000177842	ZNF620	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000177842.11	ZNF620	TRUE	FALSE
+ENSG00000172888	ZNF621	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000172888.11	ZNF621	TRUE	FALSE
+ENSG00000183309	ZNF623	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000183309.11	ZNF623	TRUE	FALSE
+ENSG00000197566	ZNF624	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000197566.9	ZNF624	TRUE	FALSE
+ENSG00000257591	ZNF625	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000257591.5	ZNF625	TRUE	FALSE
+ENSG00000188171	ZNF626	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000188171.14	ZNF626	TRUE	FALSE
+ENSG00000198551	ZNF627	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000198551.9	ZNF627	TRUE	FALSE
+ENSG00000197483	ZNF628	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000197483.9	ZNF628	TRUE	FALSE
+ENSG00000102870	ZNF629	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000102870.5	ZNF629	TRUE	FALSE
+ENSG00000221994	ZNF630	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000221994.10	ZNF630	TRUE	FALSE
+ENSG00000121864	ZNF639	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000121864.9	ZNF639	TRUE	FALSE
+ENSG00000167528	ZNF641	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000167528.12	ZNF641	TRUE	FALSE
+ENSG00000122482	ZNF644	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000122482.20	ZNF644	TRUE	FALSE
+ENSG00000175809	ZNF645	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000175809.4	ZNF645	TRUE	FALSE
+ENSG00000167395	ZNF646	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000167395.10	ZNF646	TRUE	FALSE
+ENSG00000179930	ZNF648	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000179930.5	ZNF648	TRUE	FALSE
+ENSG00000198093	ZNF649	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000198093.10	ZNF649	TRUE	FALSE
+ENSG00000198740	ZNF652	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000198740.8	ZNF652	TRUE	FALSE
+ENSG00000161914	ZNF653	C2H2 ZF; AT hook	Monomer or homomultimer	In vivo/Misc source	ENSG00000161914.9	ZNF653	TRUE	FALSE
+ENSG00000175105	ZNF654	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000175105.5	ZNF654	TRUE	FALSE
+ENSG00000197343	ZNF655	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000197343.10	ZNF655	TRUE	FALSE
+ENSG00000274349	ZNF658	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000274349.4	ZNF658	TRUE	FALSE
+ENSG00000160229	ZNF66	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000160229.11	ZNF66	TRUE	FALSE
+ENSG00000144792	ZNF660	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000144792.9	ZNF660	TRUE	FALSE
+ENSG00000182983	ZNF662	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000182983.14	ZNF662	TRUE	FALSE
+ENSG00000179195	ZNF664	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000179195.15	ZNF664	TRUE	FALSE
+ENSG00000197497	ZNF665	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000197497.10	ZNF665	TRUE	FALSE
+ENSG00000198046	ZNF667	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000198046.11	ZNF667	TRUE	FALSE
+ENSG00000167394	ZNF668	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000167394.12	ZNF668	TRUE	FALSE
+ENSG00000188295	ZNF669	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000188295.14	ZNF669	TRUE	FALSE
+ENSG00000277462	ZNF670	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000277462.1	ZNF670	TRUE	FALSE
+ENSG00000083814	ZNF671	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000083814.12	ZNF671	TRUE	FALSE
+ENSG00000171161	ZNF672	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000171161.12	ZNF672	TRUE	FALSE
+ENSG00000251192	ZNF674	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000251192.7	ZNF674	TRUE	FALSE
+ENSG00000197372	ZNF675	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000197372.9	ZNF675	TRUE	FALSE
+ENSG00000196109	ZNF676	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000196109.6	ZNF676	TRUE	FALSE
+ENSG00000197928	ZNF677	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000197928.10	ZNF677	TRUE	FALSE
+ENSG00000181450	ZNF678	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000181450.17	ZNF678	TRUE	FALSE
+ENSG00000197123	ZNF679	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000197123.9	ZNF679	TRUE	FALSE
+ENSG00000173041	ZNF680	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000173041.11	ZNF680	TRUE	FALSE
+ENSG00000196172	ZNF681	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000196172.9	ZNF681	TRUE	FALSE
+ENSG00000197124	ZNF682	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000197124.11	ZNF682	TRUE	FALSE
+ENSG00000176083	ZNF683	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000176083.17	ZNF683	TRUE	FALSE
+ENSG00000117010	ZNF684	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000117010.15	ZNF684	TRUE	FALSE
+ENSG00000143373	ZNF687	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000143373.17	ZNF687	TRUE	FALSE
+ENSG00000229809	ZNF688	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000229809.8	ZNF688	TRUE	FALSE
+ENSG00000156853	ZNF689	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000156853.11	ZNF689	TRUE	FALSE
+ENSG00000198429	ZNF69	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000198429.9	ZNF69	TRUE	FALSE
+ENSG00000164011	ZNF691	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000164011.17	ZNF691	TRUE	FALSE
+ENSG00000171163	ZNF692	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000171163.15	ZNF692	TRUE	FALSE
+ENSG00000197472	ZNF695	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000197472.14	ZNF695	TRUE	FALSE
+ENSG00000185730	ZNF696	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000185730.7	ZNF696	TRUE	FALSE
+ENSG00000143067	ZNF697	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000143067.4	ZNF697	TRUE	FALSE
+ENSG00000196110	ZNF699	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000196110.7	ZNF699	TRUE	FALSE
+ENSG00000147789	ZNF7	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000147789.15	ZNF7	TRUE	FALSE
+ENSG00000187792	ZNF70	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000187792.4	ZNF70	TRUE	FALSE
+ENSG00000196757	ZNF700	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000196757.7	ZNF700	TRUE	FALSE
+ENSG00000167562	ZNF701	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000167562.11	ZNF701	TRUE	FALSE
+ENSG00000183779	ZNF703	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000183779.6	ZNF703	TRUE	FALSE
+ENSG00000164684	ZNF704	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000164684.13	ZNF704	TRUE	FALSE
+ENSG00000196946	ZNF705A	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000196946.9	ZNF705A	TRUE	FALSE
+ENSG00000215356	ZNF705B	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000215356.4	ZNF705B	TRUE	FALSE
+ENSG00000215343	ZNF705D	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000215343.7	ZNF705D	TRUE	FALSE
+ENSG00000214534	ZNF705E	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000214534.4	ZNF705E	TRUE	FALSE
+ENSG00000215372	ZNF705G	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000215372.6	ZNF705G	TRUE	FALSE
+ENSG00000120963	ZNF706	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000120963.11	ZNF706	TRUE	FALSE
+ENSG00000181135	ZNF707	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000181135.15	ZNF707	TRUE	FALSE
+ENSG00000182141	ZNF708	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000182141.9	ZNF708	TRUE	FALSE
+ENSG00000242852	ZNF709	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000242852.6	ZNF709	TRUE	FALSE
+ENSG00000197951	ZNF71	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000197951.8	ZNF71	TRUE	FALSE
+ENSG00000140548	ZNF710	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000140548.9	ZNF710	TRUE	FALSE
+ENSG00000147180	ZNF711	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000147180.16	ZNF711	TRUE	FALSE
+ENSG00000178665	ZNF713	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000178665.14	ZNF713	TRUE	FALSE
+ENSG00000160352	ZNF714	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000160352.15	ZNF714	TRUE	FALSE
+ENSG00000182111	ZNF716	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000182111.8	ZNF716	TRUE	FALSE
+ENSG00000227124	ZNF717	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000227124.8	ZNF717	TRUE	FALSE
+ENSG00000250312	ZNF718	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000250312.6	ZNF718	TRUE	FALSE
+ENSG00000182903	ZNF721	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000182903.15	ZNF721	TRUE	FALSE
+ENSG00000196081	ZNF724	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000196081.9	ZNF724P	TRUE	TRUE
+ENSG00000213967	ZNF726	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000213967.10	ZNF726	TRUE	FALSE
+ENSG00000214652	ZNF727	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000214652.5	ZNF727	TRUE	FALSE
+ENSG00000269067	ZNF728	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000269067.1	ZNF728	TRUE	FALSE
+ENSG00000196350	ZNF729	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000196350.8	ZNF729	TRUE	FALSE
+ENSG00000183850	ZNF730	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000183850.13	ZNF730	TRUE	FALSE
+ENSG00000186777	ZNF732	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000186777.11	ZNF732	TRUE	FALSE
+ENSG00000223614	ZNF735	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000223614.4	ZNF735	TRUE	FALSE
+ENSG00000234444	ZNF736	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000234444.9	ZNF736	TRUE	FALSE
+ENSG00000237440	ZNF737	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000237440.8	ZNF737	TRUE	FALSE
+ENSG00000185252	ZNF74	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000185252.17	ZNF74	TRUE	FALSE
+ENSG00000139651	ZNF740	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000139651.10	ZNF740	TRUE	FALSE
+ENSG00000181220	ZNF746	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000181220.15	ZNF746	TRUE	FALSE
+ENSG00000169955	ZNF747	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000169955.7	ZNF747	TRUE	FALSE
+ENSG00000186230	ZNF749	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000186230.6	ZNF749	TRUE	FALSE
+ENSG00000141579	ZNF750	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000141579.6	ZNF750	TRUE	FALSE
+ENSG00000162086	ZNF75A	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000162086.14	ZNF75A	TRUE	FALSE
+ENSG00000186376	ZNF75D	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000186376.14	ZNF75D	TRUE	FALSE
+ENSG00000065029	ZNF76	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000065029.14	ZNF76	TRUE	FALSE
+ENSG00000160336	ZNF761	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000160336.14	ZNF761	TRUE	FALSE
+ENSG00000197054	ZNF763	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000197054.11	ZNF763	TRUE	FALSE
+ENSG00000169951	ZNF764	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000169951.9	ZNF764	TRUE	FALSE
+ENSG00000196417	ZNF765	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000196417.12	ZNF765	TRUE	FALSE
+ENSG00000196214	ZNF766	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000196214.10	ZNF766	TRUE	FALSE
+ENSG00000169957	ZNF768	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000169957.9	ZNF768	TRUE	FALSE
+ENSG00000175691	ZNF77	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000175691.8	ZNF77	TRUE	FALSE
+ENSG00000198146	ZNF770	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000198146.4	ZNF770	TRUE	FALSE
+ENSG00000179965	ZNF771	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000179965.11	ZNF771	TRUE	FALSE
+ENSG00000197128	ZNF772	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000197128.11	ZNF772	TRUE	FALSE
+ENSG00000152439	ZNF773	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000152439.12	ZNF773	TRUE	FALSE
+ENSG00000196391	ZNF774	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000196391.10	ZNF774	TRUE	FALSE
+ENSG00000196456	ZNF775	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000196456.8	ZNF775	TRUE	FALSE
+ENSG00000152443	ZNF776	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000152443.12	ZNF776	TRUE	FALSE
+ENSG00000196453	ZNF777	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000196453.7	ZNF777	TRUE	FALSE
+ENSG00000170100	ZNF778	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000170100.13	ZNF778	TRUE	FALSE
+ENSG00000197782	ZNF780A	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000197782.14	ZNF780A	TRUE	FALSE
+ENSG00000128000	ZNF780B	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000128000.15	ZNF780B	TRUE	FALSE
+ENSG00000196381	ZNF781	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000196381.10	ZNF781	TRUE	FALSE
+ENSG00000196597	ZNF782	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000196597.11	ZNF782	TRUE	FALSE
+ENSG00000204946	ZNF783	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000204946.9	ZNF783	TRUE	FALSE
+ENSG00000179922	ZNF784	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000179922.5	ZNF784	TRUE	FALSE
+ENSG00000197162	ZNF785	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000197162.9	ZNF785	TRUE	FALSE
+ENSG00000197362	ZNF786	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000197362.13	ZNF786	TRUE	FALSE
+ENSG00000142409	ZNF787	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000142409.5	ZNF787	TRUE	FALSE
+ENSG00000214189	ZNF788	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000214189.8	ZNF788	TRUE	FALSE
+ENSG00000198556	ZNF789	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000198556.13	ZNF789	TRUE	FALSE
+ENSG00000196152	ZNF79	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000196152.10	ZNF79	TRUE	FALSE
+ENSG00000197863	ZNF790	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000197863.8	ZNF790	TRUE	FALSE
+ENSG00000173875	ZNF791	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000173875.13	ZNF791	TRUE	FALSE
+ENSG00000180884	ZNF792	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000180884.9	ZNF792	TRUE	FALSE
+ENSG00000188227	ZNF793	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000188227.12	ZNF793	TRUE	FALSE
+ENSG00000196466	ZNF799	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000196466.10	ZNF799	TRUE	FALSE
+ENSG00000278129	ZNF8	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000278129.1	ZNF8	TRUE	FALSE
+ENSG00000174255	ZNF80	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000174255.6	ZNF80	TRUE	FALSE
+ENSG00000048405	ZNF800	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000048405.9	ZNF800	TRUE	FALSE
+ENSG00000170396	ZNF804A	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000170396.7	ZNF804A	TRUE	FALSE
+ENSG00000182348	ZNF804B	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000182348.6	ZNF804B	TRUE	FALSE
+ENSG00000204524	ZNF805	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000204524.6	ZNF805	TRUE	FALSE
+ENSG00000198482	ZNF808	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000198482.10	ZNF808	TRUE	FALSE
+ENSG00000197779	ZNF81	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000197779.13	ZNF81	TRUE	FALSE
+ENSG00000198346	ZNF813	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000198346.10	ZNF813	TRUE	FALSE
+ENSG00000204514	ZNF814	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000204514.9	ZNF814	TRUE	FALSE
+ENSG00000180257	ZNF816	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000180257.12	ZNF816	TRUE	FALSE
+ENSG00000102984	ZNF821	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000102984.14	ZNF821	TRUE	FALSE
+ENSG00000197933	ZNF823	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000197933.12	ZNF823	TRUE	FALSE
+ENSG00000151612	ZNF827	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000151612.15	ZNF827	TRUE	FALSE
+ENSG00000185869	ZNF829	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000185869.13	ZNF829	TRUE	FALSE
+ENSG00000167766	ZNF83	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000167766.18	ZNF83	TRUE	FALSE
+ENSG00000198783	ZNF830	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000198783.5	ZNF830	TRUE	FALSE
+ENSG00000124203	ZNF831	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000124203.5	ZNF831	TRUE	FALSE
+ENSG00000127903	ZNF835	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000127903.13	ZNF835	TRUE	FALSE
+ENSG00000196267	ZNF836	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000196267.12	ZNF836	TRUE	FALSE
+ENSG00000152475	ZNF837	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000152475.6	ZNF837	TRUE	FALSE
+ENSG00000198040	ZNF84	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000198040.10	ZNF84	TRUE	FALSE
+ENSG00000197608	ZNF841	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000197608.11	ZNF841	TRUE	FALSE
+ENSG00000176723	ZNF843	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000176723.9	ZNF843	TRUE	FALSE
+ENSG00000223547	ZNF844	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000223547.9	ZNF844	TRUE	FALSE
+ENSG00000213799	ZNF845	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000213799.10	ZNF845	TRUE	FALSE
+ENSG00000196605	ZNF846	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000196605.7	ZNF846	TRUE	FALSE
+ENSG00000105750	ZNF85	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000105750.14	ZNF85	TRUE	FALSE
+ENSG00000267041	ZNF850	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000267041.5	ZNF850	TRUE	FALSE
+ENSG00000178917	ZNF852	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000178917.14	ZNF852	TRUE	FALSE
+ENSG00000236609	ZNF853	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000236609.3	ZNF853	TRUE	FALSE
+ENSG00000197385	ZNF860	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000197385.5	ZNF860	TRUE	FALSE
+ENSG00000261221	ZNF865	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000261221.3	ZNF865	TRUE	FALSE
+ENSG00000257446	ZNF878	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000257446.3	ZNF878	TRUE	FALSE
+ENSG00000234284	ZNF879	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000234284.6	ZNF879	TRUE	FALSE
+ENSG00000221923	ZNF880	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000221923.8	ZNF880	TRUE	FALSE
+ENSG00000228623	ZNF883	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000228623.3	ZNF883	TRUE	FALSE
+ENSG00000213793	ZNF888	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000213793.4	ZNF888	TRUE	FALSE
+ENSG00000214029	ZNF891	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000214029.4	ZNF891	TRUE	FALSE
+ENSG00000213988	ZNF90	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000213988.9	ZNF90	TRUE	FALSE
+ENSG00000167232	ZNF91	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000167232.13	ZNF91	TRUE	FALSE
+ENSG00000146757	ZNF92	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000146757.13	ZNF92	TRUE	FALSE
+ENSG00000184635	ZNF93	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000184635.13	ZNF93	TRUE	FALSE
+ENSG00000197360	ZNF98	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000197360.9	ZNF98	TRUE	FALSE
+ENSG00000213973	ZNF99	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000213973.8	ZNF99	TRUE	FALSE
+ENSG00000152467	ZSCAN1	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000152467.9	ZSCAN1	TRUE	FALSE
+ENSG00000130182	ZSCAN10	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000130182.7	ZSCAN10	TRUE	FALSE
+ENSG00000158691	ZSCAN12	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000158691.14	ZSCAN12	TRUE	FALSE
+ENSG00000196812	ZSCAN16	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000196812.4	ZSCAN16	TRUE	FALSE
+ENSG00000121413	ZSCAN18	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000121413.12	ZSCAN18	TRUE	FALSE
+ENSG00000176371	ZSCAN2	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000176371.13	ZSCAN2	TRUE	FALSE
+ENSG00000121903	ZSCAN20	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000121903.14	ZSCAN20	TRUE	FALSE
+ENSG00000166529	ZSCAN21	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000166529.14	ZSCAN21	TRUE	FALSE
+ENSG00000182318	ZSCAN22	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000182318.5	ZSCAN22	TRUE	FALSE
+ENSG00000187987	ZSCAN23	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000187987.9	ZSCAN23	TRUE	FALSE
+ENSG00000197037	ZSCAN25	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000197037.10	ZSCAN25	TRUE	FALSE
+ENSG00000197062	ZSCAN26	C2H2 ZF	Monomer or homomultimer	In vivo/Misc source	ENSG00000197062.11	ZSCAN26	TRUE	FALSE
+ENSG00000140265	ZSCAN29	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000140265.12	ZSCAN29	TRUE	FALSE
+ENSG00000186814	ZSCAN30	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000186814.12	ZSCAN30	TRUE	FALSE
+ENSG00000235109	ZSCAN31	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000235109.7	ZSCAN31	TRUE	FALSE
+ENSG00000140987	ZSCAN32	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000140987.19	ZSCAN32	TRUE	FALSE
+ENSG00000180532	ZSCAN4	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000180532.10	ZSCAN4	TRUE	FALSE
+ENSG00000131848	ZSCAN5A	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000131848.9	ZSCAN5A	TRUE	FALSE
+ENSG00000197213	ZSCAN5B	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000197213.9	ZSCAN5B	TRUE	FALSE
+ENSG00000204532	ZSCAN5C	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000204532.6	ZSCAN5CP	TRUE	TRUE
+ENSG00000137185	ZSCAN9	C2H2 ZF	Monomer or homomultimer	High-throughput in vitro	ENSG00000137185.11	ZSCAN9	TRUE	FALSE
+ENSG00000153975	ZUFSP	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000153975.9	ZUFSP	TRUE	FALSE
+ENSG00000198205	ZXDA	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000198205.6	ZXDA	TRUE	FALSE
+ENSG00000198455	ZXDB	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000198455.4	ZXDB	TRUE	FALSE
+ENSG00000070476	ZXDC	C2H2 ZF	Monomer or homomultimer	No motif	ENSG00000070476.14	ZXDC	TRUE	FALSE
+ENSG00000036549	ZZZ3	Myb/SANT	Monomer or homomultimer	High-throughput in vitro	ENSG00000036549.12	ZZZ3	TRUE	FALSE

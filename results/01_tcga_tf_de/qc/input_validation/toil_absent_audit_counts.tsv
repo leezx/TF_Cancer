@@ -1,0 +1,10 @@
+cohort	project	sample_type	in_toil	N
+COADREAD	COAD	Primary Tumor	TRUE	287
+COADREAD	COAD	Primary Tumor	FALSE	171
+COADREAD	COAD	Solid Tissue Normal	TRUE	41
+COADREAD	READ	Primary Tumor	TRUE	92
+COADREAD	READ	Primary Tumor	FALSE	74
+COADREAD	READ	Solid Tissue Normal	TRUE	10
+LUAD	LUAD	Primary Tumor	TRUE	513
+LUAD	LUAD	Solid Tissue Normal	TRUE	59
+LUAD	LUAD	Primary Tumor	FALSE	3

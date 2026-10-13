@@ -20,15 +20,17 @@ Pan-cancer Lineage-defining TF Atlas (`Tasks/Task-1.md`):
 
 The input data are inventoried and complete: Toil TCGA+GTEx counts and
 TPM, DepMap 26Q1, and the Lambert TFs, md5-verified on local and Argos.
-The Step 1 design was approved after 2 review rounds (PR #1). No analysis has run.
-Infrastructure is ready; scientific progress is still 0.
+The Step 1 design was approved after 2 review rounds (PR #1). Step 1 has
+run on the Mac mini (2026-10-13): all gates passed, including the recount3
+pipeline check; results are in review (PR #2). Step 1 counts toward the
+percentage only after review and merge.
 
 ## Roadmap and progress (100% = all rows done)
 
 | Step | Workstream | Weight | Status | Blocker | Answers |
 |---|---|---:|---|---|---|
 | 0 | Data inventory + gap fill (hot data list) | 5% | **done** | — | infra |
-| 1 | TCGA pan-cancer TF DE atlas (Figs 1–2) | 20% | design APPROVED (PR #1, 2 review rounds) | merge confirmation; recount3 LUAD download | Q1 |
+| 1 | TCGA pan-cancer TF DE atlas (Figs 1–2) | 20% | computed, gates PASS; results in review (PR #2) | results review + merge confirmation | Q1 |
 | 2 | Within-cancer TF co-expression network (Fig 3) | 10% | not started | Step 1 | Q1 |
 | 3 | Curated TF functional annotation (lineage/pioneer/etc.) | 10% | not started | — | Q1/Q3 |
 | 4 | DepMap patient-vs-cell-line concordance and model table (Fig 5) | 10% | not started | Step 1 | Q2/Q3 |
@@ -38,7 +40,15 @@ Infrastructure is ready; scientific progress is still 0.
 
 ## What's been answered
 
-Nothing yet.
+Provisional, pending Step 1 review (`docs/STEP1_TCGA_TF_DE_RESULTS.md`):
+
+- The Toil count input is reliable for DE: recount3 agrees on direction
+  (99–100%) and Tier 1 calls (99–100%) in COADREAD and LUAD.
+- 917 TFs are up (C1) in ≥ 1 of 9 organ systems and 358 in ≥ 3. The most
+  recurrent are proliferation TFs (E2F1, FOXM1, MYBL2, …). Q1 is **not yet
+  answered**: canonical lineage TFs are expressed in their tumors but often
+  not up vs normal, so "recurrently up" is not the same as
+  "lineage-defining".
 
 ## What's still open
 
