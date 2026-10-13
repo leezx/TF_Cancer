@@ -46,7 +46,7 @@ cls_order <- c("ATPase", "core", "cBAF-specific", "PBAF-specific", "ncBAF-specif
 cls_col <- setNames(c("#D55E00", "#0072B2", "#009E73", "#CC79A7", "#E69F00"), cls_order)
 lab_x <- paste0(pair_order, "\n", tf_of)
 
-SRC <- c("TCGA", "DepMap", "DepMap3D", "Organoid")
+SRC <- c("TCGA", "DepMap", "DepMap3D")   # Sanger organoids (CRC only) stay in the table, not the figure
 long <- rbindlist(lapply(SRC, function(s)
   x[, .(pair, BAF, class, source = s, n = get(paste0(s, "_n")), rho = get(paste0(s, "_rho")), q = get(paste0(s, "_q")),
       z = get(paste0(s, "_z")))]))
@@ -71,23 +71,22 @@ panel <- function(s) {
   ggplot(d[!is.na(y)], aes(xpos, y)) +
     geom_hline(yintercept = 0, linewidth = 0.3, colour = "grey50") +
     geom_vline(xintercept = 1.5:4.5, linewidth = 0.2, colour = "grey85") +
-    geom_point(aes(colour = class, shape = sig), size = 1.9, stroke = 0.6) +
+    geom_point(aes(fill = class), shape = 21, colour = "black", size = 2, stroke = 0.4) +
     geom_text_repel(aes(label = label, colour = class), size = 2.4, min.segment.length = 0, segment.size = 0.25,
                     box.padding = 0.3, max.overlaps = Inf, seed = 1, show.legend = FALSE) +
     geom_text(data = nn, aes(x = col, y = ylim[1] * 0.94, label = txt), size = 2.2, colour = "grey35", inherit.aes = FALSE) +
-    scale_shape_manual(values = c(`TRUE` = 16, `FALSE` = 1), labels = c(`TRUE` = "q < 0.05", `FALSE` = "n.s."), name = NULL, drop = FALSE, limits = c("TRUE", "FALSE"), breaks = c("TRUE", "FALSE")) +
-    scale_colour_manual(values = cls_col, name = "BAF class", drop = FALSE) +
+    scale_fill_manual(values = cls_col, name = "BAF class", drop = FALSE) +
+    scale_colour_manual(values = cls_col, guide = "none") +
     scale_x_continuous(breaks = 1:5, labels = lab_x, limits = c(0.5, 5.5), expand = c(0, 0)) +
     scale_y_continuous(limits = ylim) +
     labs(x = NULL, y = if (YVAR == "z") "background z of ρ" else "Spearman ρ", title = titles[[s]]) +
-    guides(shape = if (s == SRC[1]) guide_legend() else "none") +
     theme_bw(base_size = 8) + theme(panel.grid.major.x = element_blank(), panel.grid.minor = element_blank(),
                                     plot.title = element_text(size = 8, face = "bold"))
 }
 p <- wrap_plots(lapply(SRC, panel), ncol = 1) +
   plot_layout(guides = "collect") +
   plot_annotation(caption = sprintf(paste0(if (YVAR == "z") "y = (ρ − mean) / SD of the TF's ρ with all genes in the same dataset (comparable across pairs and datasets).\n" else "",
-                                           "Each point is one of 28 BAF members. Labels: top %d positive members per column (any q). Filled = q < 0.05 (BH within pair).\n",
+                                           "Each point is one of 28 BAF members. Labels: top %d positive members per column.\n",
                                            "Prostate DepMap n = 10 (underpowered). Association only; not binding or recruitment."), TOP_N),
                   theme = theme(plot.caption = element_text(size = 6, hjust = 0)))
 fn <- paste0(if (YVAR == "z") "TFBAF_manhattan_z" else "TFBAF_manhattan_rho", if (INTERNAL) "_internal3D" else "")
