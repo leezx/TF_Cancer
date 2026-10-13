@@ -375,3 +375,24 @@ Results doc: `docs/STEP1_TCGA_TF_DE_RESULTS.md`, written after compute.
   - B4 recurrence by evidence quality: accepted → metric table (§3.6).
   - N1–N9 adopted. N1 is modified: there are no vial/aliquot fields in
     Toil, so a duplicate stops the run instead of a ranked tie-break.
+- **Round 2** (head 5993fd6): **APPROVE**, with zero remaining blockers.
+  The recount3 substitution and the preset thresholds (≥ 95% direction,
+  ≥ 80% Tier 1 recovery) are accepted. These implementation clarifications
+  are binding on the validation stage:
+  1. Convert recount3 coverage to counts with `recount3::transform_counts`.
+     Compare on a harmonized gene universe (bare Ensembl IDs).
+  2. Two separate comparisons for COADREAD and LUAD:
+     - (a) **matched-sample**, the primary technical validation: the same
+       TCGA samples in both pipelines, with patient de-duplication
+       verified;
+     - (b) **full-cohort**, a secondary coverage sensitivity check.
+  3. Tier 1 recovery is reported with two denominators: TFs evaluable in
+     recount3, and all Toil Tier 1 TFs (non-evaluable = unrecovered).
+     Missingness is reported.
+  4. A threshold failure triggers investigation (sample coverage,
+     annotation, low counts, normalization, shrinkage, pipeline), not
+     automatic rejection. Thresholds are never changed after seeing
+     results. Any exception is documented along with its effect on the
+     candidate list.
+  - Approved order: input QC + recount3 COADREAD → recount3 LUAD (after
+    download confirmation) → KICH smoke test → full 16-cohort array.

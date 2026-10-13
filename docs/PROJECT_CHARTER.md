@@ -54,8 +54,10 @@ repeat what they already say, only what's specific to this pattern.
   - Proving SOX9 is pan-cancer — SOX9 is a CRC reference TF only; other
     cancers' candidates come from the data.
   - Merging TCGA, GTEx and DepMap into one DE model.
-- **ChatGPT review conversation**: TBD — to be created at the first review
-  (Step 1 design) and reused for every PR afterwards.
+- **ChatGPT review conversation**: project "SOX9-BAF paper", conversation
+  "设计泛癌TF分析方案" —
+  https://chatgpt.com/g/g-p-6935aecd08188191bd6864c11db39bb7/c/6ace508e-9d20-83e9-a208-ddcdc2dac487
+  (the conversation that produced Task-1; reuse it for every PR).
 - **Compute location**: Argos (`argos.dfci.harvard.edu`, SGE `qsub`).
   R env: `/home/zz950/softwares/miniconda3/envs/r4p3/bin/Rscript` with
   `R_LIBS_USER=/home/zz950/softwares/R_lib_4` (DESeq2 1.38.1, apeglm,
