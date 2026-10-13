@@ -27,6 +27,11 @@ fwrite(bgs, file.path(out, "qc", "background_mean_sd.tsv"), sep = "\t")
 YVAR <- if (length(commandArgs(TRUE))) commandArgs(TRUE)[1] else "z"   # "z" (default) or "rho"
 # optional 2nd arg "internal": organoid panel from DepMap internal 25Q2 3DO screens (not public; output to DATA only)
 INTERNAL <- length(commandArgs(TRUE)) > 1 && commandArgs(TRUE)[2] == "internal"
+# DepMap 3D organoids: public DepMap 26Q3 NextGen 3DO screens (13_depmap26q3_organoid.R)
+pu <- fread(file.path(out, "DepMap26Q3_organoid_TF_BAF_correlation.tsv"))
+i <- match(paste(x$pair, x$BAF), paste(pu$pair, pu$BAF))
+x[, `:=`(DepMap3D_n = pu$n[i], DepMap3D_rho = pu$rho[i], DepMap3D_q = pu$q[i], DepMap3D_z = pu$z[i])]
+fwrite(x, file.path(out, "TF_BAF_core_correlation.tsv"), sep = "\t", na = "NA")   # public sources only
 if (INTERNAL) {
   idir <- file.path(root, "bulkRNAseq", "UCSC_Toil_TCGA_GTEx", "result", "2026-10-13_tf_cancer_tfbaf_v0.3_internal3D")
   io <- fread(file.path(idir, "Organoid_internal25Q2_TF_BAF_correlation.tsv"))
@@ -41,7 +46,7 @@ cls_order <- c("ATPase", "core", "cBAF-specific", "PBAF-specific", "ncBAF-specif
 cls_col <- setNames(c("#D55E00", "#0072B2", "#009E73", "#CC79A7", "#E69F00"), cls_order)
 lab_x <- paste0(pair_order, "\n", tf_of)
 
-SRC <- c("TCGA", "DepMap", if (INTERNAL) "DepMap3D", "Organoid")
+SRC <- c("TCGA", "DepMap", "DepMap3D", "Organoid")
 long <- rbindlist(lapply(SRC, function(s)
   x[, .(pair, BAF, class, source = s, n = get(paste0(s, "_n")), rho = get(paste0(s, "_rho")), q = get(paste0(s, "_q")),
       z = get(paste0(s, "_z")))]))
@@ -56,7 +61,7 @@ long[!is.na(y) & y > 0, label := fifelse(frank(-y, ties.method = "first") <= TOP
 
 titles <- c(TCGA = "TCGA tumors: TF–BAF expression correlation (log2 TPM+1)",
             DepMap = "DepMap 2D cell lines: TF–BAF dependency correlation (CRISPR gene effect)",
-            DepMap3D = "DepMap 3D organoids (internal 25Q2, 3DO screens): TF–BAF dependency correlation (Chronos gene effect)",
+            DepMap3D = if (INTERNAL) "DepMap 3D organoids (internal 25Q2): TF–BAF dependency correlation" else "DepMap 3D organoids (Public 26Q3 NextGen): TF–BAF dependency correlation",
             Organoid = "Sanger organoid biobank: TF–BAF dependency correlation (CRISPR LFC)")
 ylim <- if (YVAR == "z") { m <- ceiling(max(abs(long$z), na.rm = TRUE)); c(-m - 0.5, m + 0.5) } else c(-0.9, 0.9)
 panel <- function(s) {
