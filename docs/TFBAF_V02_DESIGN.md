@@ -1,6 +1,7 @@
 # TF–BAF module v0.2 design: organoids and DepMap context
 
-Status: design, for review. No v0.2 result has been computed. The v0.1
+Status: design approved in round 8 (APPROVE, 0 blocking; notes folded in
+§9). No v0.2 result has been computed. The v0.1
 results (`docs/TFBAF_RESULTS.md`, PR #5) are frozen: their ρ, q, calls,
 BAF list, thresholds and figure-selection rule do not change.
 
@@ -73,6 +74,9 @@ The unit is one screen per individual.
 
 The minimum n is 10, as in v0.1.
 
+The QC table reports how many included screens are `minLib` and how many
+are `v1_1`, and the LFC distribution by library (review N1).
+
 ### 3.2 Statistics
 
 - Spearman ρ(SOX9 LFC, BAF LFC) over individuals, for each of the 28
@@ -109,6 +113,12 @@ dependencies, including SOX9 and the BAF members that are essential.
 more than half, the call is flagged `depth_sensitive`. The same rule was
 used for the purity flag.
 
+- Raw ρ, adjusted ρ, and the change (size and direction) are all reported,
+  not only the flag (review N2).
+- Depth may also capture real global dependency biology. A
+  `depth_sensitive` association is not counted as robust organoid
+  co-dependency.
+
 ### 3.4 Other sensitivities
 
 1. `minLib` screens only.
@@ -139,12 +149,13 @@ replaced.
 | Pattern | TF dependent | BAF dependent | Call |
 |---|---|---|---|
 | both dependent, correlated | yes | yes | ≥ moderate, positive |
-| both dependent, uncorrelated | yes | yes | none |
+| both dependent, no positive co-dependency | yes | yes | not ≥ moderate positive |
 | TF-specific dependency | yes | no | any |
 | BAF-specific dependency | no | yes | any |
 | neither dependent | no | no | any |
 
-- A significant negative ρ keeps its pattern and is flagged `negative`.
+- A significant negative ρ (ρ ≤ −0.2, q < 0.05) keeps its pattern and is
+  flagged `negative` (review N3).
 - Only "both dependent, correlated" is described as co-dependency
   consistent with joint function.
 - The 25% cut-off is descriptive. It is fixed here and not tuned.
@@ -154,8 +165,23 @@ replaced.
 This puts each BAF member's ρ in context against all genes. It is
 descriptive and does not test anything.
 
-- **TCGA**: per pair, Spearman ρ of the TF against every gene in the Toil
-  TPM matrix with median TPM ≥ 1 in the cohort, using the v0.1 samples.
+- Two percentiles are reported:
+  - *signed*: how prominent a positive association is;
+  - *absolute* (|ρ|): how unusual its strength is (for example, AML
+    negative ρ). (Review N4.)
+- The TF itself is excluded.
+- Reported per pair: the number of background genes, plus how many were
+  dropped for missing values or zero variance (review N5).
+- Prostate DepMap (n = 10) percentiles are exploratory only.
+
+- **TCGA**: per pair, Spearman ρ of the TF against every protein-coding
+  gene in the Toil TPM matrix with median TPM ≥ 1 in the cohort, using the
+  v0.1 samples (review Q4).
+  - Protein-coding is defined as an approved HGNC record with a UniProt
+    ID, matched by Ensembl gene ID (version stripped), from
+    `DATA/1.Databases/HGNC_gene_id_mapping/raw/`.
+  - The local GENCODE v23 probemap has no biotype column, so this proxy is
+    fixed here instead of downloading new data.
   Report each BAF member's percentile among those genes.
 - **DepMap**: the same, against every gene in the 26Q1 CRISPR matrix,
   over the v0.1 lineage models.
@@ -222,3 +248,19 @@ Results go in `docs/TFBAF_RESULTS.md`, as a new v0.2 section.
   for both 2D (−0.5) and organoids (`is_depleted`)?
 - **Q4. Background percentile in TCGA.** Is median TPM ≥ 1 the right
   gene universe, or should it be restricted to protein-coding genes?
+
+## 9. Review history
+
+- **Round 8** (head of PR #6): **APPROVE**, 0 blocking.
+  - N1: report the included library counts and the LFC by library → §3.1.
+  - N2: report raw and adjusted ρ and the change; depth-sensitive is not
+    robust → §3.3.
+  - N3: the pattern is "no positive co-dependency"; negative is flagged
+    separately → §4.
+  - N4: signed and absolute percentiles → §5.
+  - N5: exclude the TF itself; report the background n, missing values
+    and zero variance; prostate is exploratory → §5.
+  - Q1: selection, not averaging. Q2: raw is primary, depth-adjusted is
+    the sensitivity. Q3: 25% accepted (descriptive; not comparable across
+    2D and organoids).
+  - Q4: protein-coding with median TPM ≥ 1 → §5 (HGNC + UniProt proxy).
