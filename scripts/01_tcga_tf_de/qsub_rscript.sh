@@ -17,4 +17,4 @@ if [[ -n "${TASK_FILE:-}" && "${SGE_TASK_ID:-undefined}" != "undefined" ]]; then
   read -r -a args <<< "$(sed -n "${SGE_TASK_ID}p" "$TASK_FILE")"
 fi
 echo "host=$(hostname) slots=${NSLOTS:-1} task=${SGE_TASK_ID:-none} script=$script args=${args[*]:-}"
-"$RSCRIPT" "$script" "${args[@]}"
+"$RSCRIPT" "$script" ${args[@]+"${args[@]}"}
