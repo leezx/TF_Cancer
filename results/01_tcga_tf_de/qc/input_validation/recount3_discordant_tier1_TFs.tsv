@@ -1,0 +1,3 @@
+cohort	comparison	TF	lfc_toil	lfc_recount3	recount3_tested	recount3_tier
+COADREAD	matched	LBX2	1.61732071559974	-0.0206464245626624	TRUE	NA
+COADREAD	full	LBX2	1.61717012100193	-0.0240440019774397	TRUE	NA

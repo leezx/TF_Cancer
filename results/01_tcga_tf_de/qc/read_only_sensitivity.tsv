@@ -1,0 +1,2 @@
+comparison	n_TF	spearman_rho	up_jaccard
+COADREAD_C1_vs_READonly_C1	1432	0.935804817697629	0.719063545150502

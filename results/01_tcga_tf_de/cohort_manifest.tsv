@@ -1,0 +1,17 @@
+cohort	organ_system	gtex_tissues	c2_quality	composition_risk	hc_eligible	n_tumor	n_normal	n_pairs	n_gtex	c1_eligible	c2_eligible	c3_eligible	normal_reference_quality	lineage_match_status	eligible_for_high_confidence_recurrence	DE_status
+COADREAD	colorectum	Colon - Transverse	moderate	colon region mismatch (rectum vs transverse)	TRUE	379	51	32	166	TRUE	TRUE	TRUE	TCGA_matched	same_patient_population	TRUE	run
+LUAD	lung	Lung	moderate	bulk lung (alveolar + airway)	TRUE	513	59	58	288	TRUE	TRUE	TRUE	TCGA_matched	same_patient_population	TRUE	run
+LUSC	lung	Lung	moderate	bulk lung (alveolar + airway)	TRUE	498	50	50	288	TRUE	TRUE	TRUE	TCGA_matched	same_patient_population	TRUE	run
+KIRC	kidney	Kidney - Cortex	low	GTEx n=28	TRUE	530	72	72	28	TRUE	TRUE	TRUE	TCGA_matched	same_patient_population	TRUE	run
+KIRP	kidney	Kidney - Cortex	low	GTEx n=28	TRUE	288	32	32	28	TRUE	TRUE	TRUE	TCGA_matched	same_patient_population	TRUE	run
+KICH	kidney	Kidney - Cortex	low	GTEx n=28; distal nephron origin	TRUE	66	25	25	28	TRUE	TRUE	TRUE	TCGA_matched	same_patient_population	TRUE	run
+LIHC	liver	Liver	moderate		TRUE	369	50	50	110	TRUE	TRUE	TRUE	TCGA_matched	same_patient_population	TRUE	run
+LAML	blood		none	no valid normal	FALSE	173	0	0	0	FALSE	FALSE	FALSE	GTEx_none	no_valid_normal	FALSE	no_valid_normal
+PAAD	pancreas	Pancreas	low	acinar-dominated whole pancreas vs ductal PDAC	FALSE	178	4	4	167	FALSE	TRUE	FALSE	GTEx_low	cross_source_proxy	FALSE	run
+BRCA	breast	Breast - Mammary Tissue	moderate	adipose-rich mammary tissue	TRUE	1092	113	112	178	TRUE	TRUE	TRUE	TCGA_matched	same_patient_population	TRUE	run
+GBM	brain	Brain - Cortex; Brain - Frontal Cortex (Ba9)	low	neuron-rich bulk cortex, not glial-lineage matched	FALSE	153	5	0	206	FALSE	TRUE	FALSE	GTEx_low	cross_source_proxy	FALSE	run
+LGG	brain	Brain - Cortex; Brain - Frontal Cortex (Ba9)	low	neuron-rich bulk cortex, not glial-lineage matched	FALSE	509	0	0	206	FALSE	TRUE	FALSE	GTEx_low	cross_source_proxy	FALSE	run
+PRAD	prostate	Prostate	moderate		TRUE	494	51	51	100	TRUE	TRUE	TRUE	TCGA_matched	same_patient_population	TRUE	run
+THCA	thyroid	Thyroid	moderate		TRUE	504	59	59	279	TRUE	TRUE	TRUE	TCGA_matched	same_patient_population	TRUE	run
+STAD	stomach	Stomach	moderate		TRUE	413	36	33	175	TRUE	TRUE	TRUE	TCGA_matched	same_patient_population	TRUE	run
+HNSC	head_neck	Esophagus - Mucosa	low	esophageal mucosa proxy, not oral/laryngeal epithelium	TRUE	518	44	43	273	TRUE	TRUE	TRUE	TCGA_matched	same_patient_population	TRUE	run

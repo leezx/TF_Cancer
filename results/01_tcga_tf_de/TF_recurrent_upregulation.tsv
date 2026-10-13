@@ -1,0 +1,1638 @@
+TF	ensembl_id	n_organ_systems_C1_up	n_organ_systems_C1_tier1	n_organ_systems_C1_C3_supported	n_organ_systems_C2_only_up	n_organ_systems_exploratory_up	n_organ_systems_discordant	n_organ_systems_eligible_C1	n_organ_systems_eligible_exploratory	organ_systems_C1_up	organ_systems_C2_only_up	n_cohorts_C1_tier1	n_cohorts_C1_up	fig1B_primary	fig1B_supplementary	pipeline_sensitive
+E2F1	ENSG00000101412	9	8	9	2	11	0	9	11	breast;colorectum;head_neck;kidney;liver;lung;prostate;stomach;thyroid	brain;pancreas	11	12	TRUE	TRUE	FALSE
+NFE2L3	ENSG00000050344	9	8	9	2	11	1	9	11	breast;colorectum;head_neck;kidney;liver;lung;prostate;stomach;thyroid	brain;pancreas	10	11	TRUE	TRUE	FALSE
+HES6	ENSG00000144485	9	8	9	1	10	0	9	11	breast;colorectum;head_neck;kidney;liver;lung;prostate;stomach;thyroid	brain	9	10	TRUE	TRUE	FALSE
+HES4	ENSG00000188290	9	6	9	0	9	8	9	11	breast;colorectum;head_neck;kidney;liver;lung;prostate;stomach;thyroid		7	11	TRUE	TRUE	FALSE
+SOX4	ENSG00000124766	9	5	9	2	11	1	9	11	breast;colorectum;head_neck;kidney;liver;lung;prostate;stomach;thyroid	brain;pancreas	6	10	TRUE	TRUE	FALSE
+FOXM1	ENSG00000111206	8	8	8	2	10	0	9	11	breast;colorectum;head_neck;kidney;liver;lung;prostate;stomach	brain;pancreas	11	11	TRUE	TRUE	FALSE
+FOXS1	ENSG00000179772	8	8	8	2	10	0	9	11	breast;colorectum;head_neck;kidney;liver;prostate;stomach;thyroid	brain;pancreas	8	8	TRUE	TRUE	FALSE
+CBX2	ENSG00000173894	8	8	8	1	9	0	9	11	breast;colorectum;head_neck;liver;lung;prostate;stomach;thyroid	brain	9	9	TRUE	TRUE	FALSE
+MYBL2	ENSG00000101057	8	8	8	1	9	0	9	11	breast;colorectum;head_neck;kidney;liver;lung;prostate;stomach	brain	10	10	TRUE	TRUE	FALSE
+SOX12	ENSG00000177732	8	6	8	1	9	1	9	11	breast;colorectum;head_neck;kidney;liver;lung;prostate;stomach	brain	7	11	TRUE	TRUE	FALSE
+MXD3	ENSG00000213347	8	5	8	1	9	8	9	11	breast;colorectum;head_neck;kidney;liver;lung;prostate;stomach	brain	8	11	TRUE	TRUE	FALSE
+ARID3A	ENSG00000116017	8	4	8	0	8	2	9	11	breast;colorectum;head_neck;kidney;liver;lung;prostate;stomach		4	9	TRUE	TRUE	FALSE
+E2F3	ENSG00000112242	8	3	8	2	10	0	9	11	breast;colorectum;head_neck;kidney;liver;lung;prostate;stomach	brain;pancreas	4	9	TRUE	TRUE	FALSE
+HEYL	ENSG00000163909	8	3	8	1	9	4	9	11	breast;colorectum;head_neck;kidney;liver;prostate;stomach;thyroid	brain	3	8	TRUE	TRUE	FALSE
+NME2	ENSG00000243678	8	2	8	2	10	0	9	11	breast;colorectum;kidney;liver;lung;prostate;stomach;thyroid	brain;head_neck	3	10	TRUE	TRUE	FALSE
+ZGLP1	ENSG00000220201	8	2	5	0	8	8	9	11	breast;colorectum;head_neck;kidney;liver;lung;prostate;thyroid		2	9	TRUE	TRUE	FALSE
+CENPA	ENSG00000115163	7	7	7	2	9	0	9	11	breast;colorectum;head_neck;kidney;liver;lung;stomach	brain;pancreas	8	8	TRUE	TRUE	FALSE
+ETV4	ENSG00000175832	7	6	7	3	10	0	9	11	colorectum;head_neck;kidney;liver;lung;stomach;thyroid	brain;breast;pancreas	7	8	TRUE	TRUE	FALSE
+LEF1	ENSG00000138795	7	6	7	3	10	0	9	11	breast;colorectum;kidney;liver;lung;prostate;stomach	brain;pancreas;thyroid	7	9	TRUE	TRUE	FALSE
+HMGA1	ENSG00000137309	7	5	7	2	9	0	9	11	breast;colorectum;kidney;liver;lung;stomach;thyroid	brain;pancreas	6	8	TRUE	TRUE	FALSE
+ZNF692	ENSG00000171163	7	5	7	0	7	7	9	11	breast;colorectum;kidney;liver;lung;prostate;stomach		7	9	TRUE	TRUE	FALSE
+DNMT1	ENSG00000130816	7	4	7	2	9	0	9	11	breast;colorectum;head_neck;liver;lung;stomach;thyroid	brain;pancreas	4	8	TRUE	TRUE	FALSE
+ZNF581	ENSG00000171425	7	3	7	1	8	0	9	11	breast;colorectum;kidney;liver;lung;prostate;thyroid	brain	3	10	TRUE	TRUE	FALSE
+ZNF74	ENSG00000185252	7	3	7	0	7	0	9	11	breast;colorectum;kidney;liver;lung;prostate;stomach		3	8	TRUE	TRUE	FALSE
+TFAP4	ENSG00000090447	7	2	7	3	10	0	9	11	breast;colorectum;kidney;liver;lung;prostate;stomach	brain;head_neck;thyroid	3	10	TRUE	TRUE	FALSE
+TCF3	ENSG00000071564	7	2	7	2	9	1	9	11	breast;colorectum;head_neck;kidney;liver;lung;stomach	brain;pancreas	2	10	TRUE	TRUE	FALSE
+TGIF1	ENSG00000177426	7	2	7	2	9	0	9	11	breast;colorectum;head_neck;kidney;lung;stomach;thyroid	brain;pancreas	2	7	TRUE	TRUE	FALSE
+MTERF3	ENSG00000156469	7	2	7	1	8	0	9	11	breast;colorectum;head_neck;kidney;liver;lung;stomach	brain	2	8	TRUE	TRUE	FALSE
+ZNF696	ENSG00000185730	7	1	7	1	8	0	9	11	breast;colorectum;head_neck;liver;lung;prostate;stomach	kidney	1	8	TRUE	TRUE	FALSE
+ZFP41	ENSG00000181638	7	1	7	0	7	0	9	11	breast;colorectum;head_neck;kidney;liver;lung;stomach		1	8	TRUE	TRUE	FALSE
+ZNF623	ENSG00000183309	7	0	7	1	8	1	9	11	breast;colorectum;head_neck;kidney;liver;lung;stomach	prostate	0	8	TRUE	TRUE	FALSE
+LBX2	ENSG00000179528	6	5	6	1	7	2	9	11	breast;colorectum;kidney;liver;lung;stomach	pancreas	7	8	TRUE	TRUE	TRUE
+ZBTB12	ENSG00000204366	6	4	6	4	10	0	9	11	breast;colorectum;kidney;liver;lung;stomach	brain;pancreas;prostate;thyroid	5	7	TRUE	TRUE	FALSE
+ZNF367	ENSG00000165244	6	4	6	4	10	2	9	11	breast;colorectum;head_neck;lung;stomach;thyroid	brain;kidney;liver;pancreas	5	7	TRUE	TRUE	FALSE
+FBXL19	ENSG00000099364	6	4	6	2	8	2	9	11	breast;colorectum;kidney;liver;lung;thyroid	pancreas;stomach	5	9	TRUE	TRUE	FALSE
+HEY1	ENSG00000164683	6	4	6	2	8	2	9	11	head_neck;kidney;liver;lung;stomach;thyroid	brain;pancreas	5	7	TRUE	TRUE	FALSE
+E2F5	ENSG00000133740	6	4	6	1	7	1	9	11	breast;colorectum;liver;lung;prostate;stomach	brain	4	7	TRUE	TRUE	FALSE
+MSC	ENSG00000178860	6	4	6	1	7	1	9	11	colorectum;head_neck;kidney;liver;lung;stomach	pancreas	5	8	TRUE	TRUE	FALSE
+MESP1	ENSG00000166823	6	4	6	0	6	1	9	11	kidney;liver;lung;prostate;stomach;thyroid		6	8	TRUE	TRUE	FALSE
+STAT1	ENSG00000115415	6	3	6	5	11	1	9	11	breast;head_neck;kidney;lung;stomach;thyroid	brain;colorectum;liver;pancreas;prostate	3	6	TRUE	TRUE	FALSE
+BATF	ENSG00000156127	6	3	6	4	10	1	9	11	breast;colorectum;kidney;liver;lung;stomach	brain;head_neck;pancreas;thyroid	4	7	TRUE	TRUE	FALSE
+ATF5	ENSG00000169136	6	3	6	2	8	1	9	11	breast;head_neck;kidney;lung;prostate;thyroid	brain;colorectum	3	8	TRUE	TRUE	FALSE
+MAZ	ENSG00000103495	6	3	6	2	8	1	9	11	breast;head_neck;kidney;liver;lung;prostate	colorectum;stomach	4	9	TRUE	TRUE	FALSE
+TIGD1	ENSG00000221944	6	3	6	1	7	3	9	11	colorectum;head_neck;kidney;lung;prostate;stomach	brain	3	7	TRUE	TRUE	FALSE
+ZNF485	ENSG00000198298	6	3	6	0	6	0	9	11	breast;colorectum;kidney;lung;prostate;stomach		4	7	TRUE	TRUE	FALSE
+ETV7	ENSG00000010030	6	2	6	4	10	1	9	11	breast;colorectum;head_neck;kidney;lung;thyroid	brain;liver;pancreas;stomach	3	7	TRUE	TRUE	FALSE
+CREB3L1	ENSG00000157613	6	2	5	3	9	3	9	11	breast;kidney;lung;prostate;stomach;thyroid	brain;colorectum;head_neck	2	6	TRUE	TRUE	FALSE
+SMYD3	ENSG00000185420	6	2	6	3	9	2	9	11	breast;colorectum;head_neck;liver;lung;prostate	kidney;pancreas;thyroid	2	6	TRUE	TRUE	FALSE
+ZNF217	ENSG00000171940	6	2	6	3	9	1	9	11	breast;kidney;lung;prostate;stomach;thyroid	brain;colorectum;pancreas	3	8	TRUE	TRUE	FALSE
+TET3	ENSG00000187605	6	2	6	2	8	1	9	11	breast;kidney;liver;lung;prostate;thyroid	brain;stomach	2	7	TRUE	TRUE	FALSE
+ZNF525	ENSG00000203326	6	2	6	1	7	1	9	11	breast;colorectum;kidney;liver;lung;stomach	brain	2	7	TRUE	TRUE	FALSE
+ZNF92	ENSG00000146757	6	1	6	2	8	1	9	11	breast;colorectum;kidney;liver;lung;stomach	brain;prostate	1	7	TRUE	TRUE	FALSE
+REPIN1	ENSG00000214022	6	1	6	1	7	0	9	11	breast;kidney;liver;lung;prostate;stomach	brain	1	6	TRUE	TRUE	FALSE
+ZNF486	ENSG00000256229	6	1	6	1	7	1	9	11	breast;colorectum;kidney;lung;stomach;thyroid	brain	1	6	TRUE	TRUE	FALSE
+ZNF618	ENSG00000157657	6	1	6	1	7	1	9	11	colorectum;head_neck;kidney;liver;prostate;stomach	lung	1	6	TRUE	TRUE	FALSE
+HSF1	ENSG00000185122	6	1	6	0	6	2	9	11	breast;colorectum;head_neck;kidney;liver;lung		1	7	TRUE	TRUE	FALSE
+ZNF579	ENSG00000218891	6	1	6	0	6	5	9	11	breast;colorectum;kidney;liver;prostate;thyroid		1	7	TRUE	TRUE	FALSE
+IRF3	ENSG00000126456	6	0	6	0	6	4	9	11	breast;colorectum;head_neck;kidney;liver;lung		0	8	TRUE	TRUE	FALSE
+ZNF587	ENSG00000198466	6	0	6	0	6	2	9	11	breast;colorectum;kidney;liver;lung;stomach		0	7	TRUE	TRUE	FALSE
+ZNF783	ENSG00000204946	6	0	6	0	6	6	9	11	colorectum;kidney;liver;lung;prostate;stomach		0	8	TRUE	TRUE	FALSE
+SOX9	ENSG00000125398	5	5	5	6	11	3	9	11	colorectum;kidney;liver;lung;stomach	brain;breast;head_neck;pancreas;prostate;thyroid	6	7	TRUE	TRUE	FALSE
+FOXD1	ENSG00000251493	5	5	5	1	6	0	9	11	head_neck;kidney;lung;prostate;stomach	brain	5	5	TRUE	TRUE	FALSE
+HMGA2	ENSG00000149948	5	5	5	1	6	0	9	11	colorectum;head_neck;lung;stomach;thyroid	pancreas	5	5	TRUE	TRUE	FALSE
+ASCL2	ENSG00000183734	5	5	5	0	5	0	9	11	breast;colorectum;head_neck;lung;stomach		6	6	TRUE	TRUE	FALSE
+HSF4	ENSG00000102878	5	5	5	0	5	5	9	11	colorectum;kidney;liver;lung;prostate		8	8	TRUE	TRUE	FALSE
+POU5F1	ENSG00000204531	5	5	4	0	5	3	9	11	head_neck;kidney;liver;lung;stomach		6	6	TRUE	TRUE	FALSE
+SP5	ENSG00000204335	5	5	5	0	5	0	9	11	colorectum;liver;lung;prostate;stomach		5	5	TRUE	TRUE	FALSE
+GTF2IRD1	ENSG00000006704	5	4	5	2	7	0	9	11	breast;colorectum;liver;lung;thyroid	brain;pancreas	4	6	TRUE	TRUE	FALSE
+IRF7	ENSG00000185507	5	4	5	2	7	2	9	11	breast;head_neck;kidney;lung;prostate	brain;pancreas	4	6	TRUE	TRUE	FALSE
+FOXP3	ENSG00000049768	5	4	5	1	6	0	9	11	breast;colorectum;head_neck;lung;stomach	pancreas	5	6	TRUE	TRUE	FALSE
+SIX4	ENSG00000100625	5	4	5	1	6	1	9	11	breast;kidney;lung;prostate;stomach	head_neck	5	6	TRUE	TRUE	FALSE
+TIGD5	ENSG00000179886	5	4	5	1	6	0	9	11	breast;head_neck;kidney;liver;lung	brain	4	6	TRUE	TRUE	FALSE
+CENPX	ENSG00000169689	5	3	5	4	9	1	9	11	breast;kidney;liver;lung;prostate	brain;colorectum;pancreas;stomach	3	6	TRUE	TRUE	FALSE
+TEAD4	ENSG00000197905	5	3	5	2	7	1	9	11	breast;colorectum;kidney;liver;stomach	brain;head_neck	3	6	TRUE	TRUE	FALSE
+DDIT3	ENSG00000175197	5	3	5	1	6	4	9	11	colorectum;head_neck;kidney;liver;lung	brain	3	7	TRUE	TRUE	FALSE
+MEIS3	ENSG00000105419	5	3	5	1	6	2	9	11	breast;head_neck;kidney;lung;thyroid	pancreas	4	7	TRUE	TRUE	FALSE
+ZNF121	ENSG00000197961	5	3	5	1	6	3	9	11	colorectum;kidney;lung;prostate;stomach	brain	3	8	TRUE	TRUE	FALSE
+ZNF703	ENSG00000183779	5	3	5	1	6	0	9	11	breast;colorectum;liver;lung;stomach	pancreas	3	6	TRUE	TRUE	FALSE
+GLI4	ENSG00000250571	5	3	5	0	5	5	9	11	breast;kidney;liver;lung;prostate		3	8	TRUE	TRUE	FALSE
+SATB2	ENSG00000119042	5	3	5	0	5	0	9	11	head_neck;kidney;liver;lung;stomach		4	6	TRUE	TRUE	FALSE
+SREBF1	ENSG00000072310	5	3	5	0	5	1	9	11	breast;kidney;lung;prostate;thyroid		3	7	TRUE	TRUE	FALSE
+ZFP69B	ENSG00000187801	5	3	5	0	5	0	9	11	breast;colorectum;head_neck;lung;stomach		4	6	TRUE	TRUE	FALSE
+ZNF789	ENSG00000198556	5	3	5	0	5	5	9	11	colorectum;kidney;liver;lung;stomach		3	7	TRUE	TRUE	FALSE
+ZFP64	ENSG00000020256	5	2	5	6	11	1	9	11	breast;colorectum;head_neck;kidney;lung	brain;liver;pancreas;prostate;stomach;thyroid	2	6	TRUE	TRUE	FALSE
+AHR	ENSG00000106546	5	2	5	3	8	2	9	11	colorectum;head_neck;kidney;stomach;thyroid	brain;lung;pancreas	2	6	TRUE	TRUE	FALSE
+AEBP1	ENSG00000106624	5	2	5	2	7	1	9	11	breast;colorectum;head_neck;kidney;thyroid	brain;pancreas	2	5	TRUE	TRUE	FALSE
+PRMT3	ENSG00000185238	5	2	5	2	7	0	9	11	colorectum;kidney;liver;lung;stomach	brain;head_neck	2	6	TRUE	TRUE	FALSE
+CREB3L4	ENSG00000143578	5	2	5	1	6	0	9	11	breast;kidney;liver;lung;prostate	brain	2	6	TRUE	TRUE	FALSE
+FOXK1	ENSG00000164916	5	2	5	1	6	0	9	11	colorectum;head_neck;kidney;liver;lung	stomach	2	5	TRUE	TRUE	FALSE
+ZNF710	ENSG00000140548	5	2	5	1	6	1	9	11	breast;kidney;liver;lung;thyroid	stomach	2	5	TRUE	TRUE	FALSE
+ANKZF1	ENSG00000163516	5	2	5	0	5	5	9	11	colorectum;kidney;liver;lung;prostate		2	7	TRUE	TRUE	FALSE
+NFATC4	ENSG00000100968	5	2	5	0	5	5	9	11	breast;kidney;liver;lung;thyroid		2	5	TRUE	TRUE	FALSE
+NR2F6	ENSG00000160113	5	2	5	0	5	0	9	11	breast;kidney;lung;prostate;thyroid		2	6	TRUE	TRUE	FALSE
+SCX	ENSG00000260428	5	2	5	0	5	4	9	11	colorectum;kidney;lung;prostate;thyroid		2	6	TRUE	TRUE	FALSE
+ZNF251	ENSG00000198169	5	2	5	0	5	5	9	11	colorectum;head_neck;liver;lung;stomach		2	6	TRUE	TRUE	FALSE
+ZNF707	ENSG00000181135	5	2	5	0	5	0	9	11	breast;colorectum;head_neck;liver;lung		2	6	TRUE	TRUE	FALSE
+GLMP	ENSG00000198715	5	1	5	6	11	2	9	11	breast;kidney;liver;lung;thyroid	brain;colorectum;head_neck;pancreas;prostate;stomach	1	5	TRUE	TRUE	FALSE
+ZNF281	ENSG00000162702	5	1	5	4	9	1	9	11	breast;colorectum;head_neck;lung;stomach	brain;kidney;pancreas;prostate	1	5	TRUE	TRUE	FALSE
+ZNF473	ENSG00000142528	5	1	5	3	8	1	9	11	colorectum;liver;lung;prostate;stomach	brain;breast;head_neck	1	5	TRUE	TRUE	FALSE
+ZNF714	ENSG00000160352	5	1	5	3	8	1	9	11	breast;colorectum;kidney;lung;thyroid	brain;prostate;stomach	1	6	TRUE	TRUE	FALSE
+NFKB2	ENSG00000077150	5	1	5	2	7	3	9	11	breast;kidney;liver;prostate;stomach	head_neck;pancreas	1	6	TRUE	TRUE	FALSE
+PHF19	ENSG00000119403	5	1	5	2	7	2	9	11	colorectum;head_neck;kidney;liver;lung	brain;pancreas	1	5	TRUE	TRUE	FALSE
+TCFL5	ENSG00000101190	5	1	5	2	7	0	9	11	colorectum;head_neck;kidney;liver;lung	breast;stomach	1	5	TRUE	TRUE	FALSE
+ZNF107	ENSG00000196247	5	1	5	1	6	0	9	11	breast;colorectum;kidney;lung;stomach	brain	2	7	TRUE	TRUE	FALSE
+ZNF90	ENSG00000213988	5	1	3	1	6	1	9	11	breast;kidney;lung;stomach;thyroid	brain	1	6	TRUE	TRUE	FALSE
+E4F1	ENSG00000167967	5	1	5	0	5	5	9	11	breast;kidney;liver;lung;prostate		1	8	TRUE	TRUE	FALSE
+ZNF205	ENSG00000122386	5	1	5	0	5	2	9	11	breast;colorectum;kidney;liver;prostate		1	7	TRUE	TRUE	FALSE
+ZNF841	ENSG00000197608	5	1	5	0	5	5	9	11	colorectum;kidney;liver;lung;stomach		2	6	TRUE	TRUE	FALSE
+ZBTB9	ENSG00000213588	5	0	5	6	11	2	9	11	breast;colorectum;liver;lung;stomach	brain;head_neck;kidney;pancreas;prostate;thyroid	0	6	TRUE	TRUE	FALSE
+ZBTB33	ENSG00000177485	5	0	5	5	10	2	9	11	colorectum;kidney;lung;stomach;thyroid	brain;breast;head_neck;liver;prostate	0	5	TRUE	TRUE	FALSE
+KLF16	ENSG00000129911	5	0	5	4	9	0	9	11	breast;kidney;lung;prostate;thyroid	colorectum;head_neck;pancreas;stomach	0	6	TRUE	TRUE	FALSE
+ZBTB41	ENSG00000177888	5	0	5	4	9	3	9	11	breast;colorectum;liver;lung;stomach	head_neck;kidney;prostate;thyroid	0	6	TRUE	TRUE	FALSE
+ZNF468	ENSG00000204604	5	0	5	4	9	2	9	11	breast;kidney;liver;lung;stomach	brain;colorectum;prostate;thyroid	0	5	TRUE	TRUE	FALSE
+ELK1	ENSG00000126767	5	0	5	3	8	0	9	11	breast;colorectum;kidney;lung;thyroid	head_neck;pancreas;stomach	0	5	TRUE	TRUE	FALSE
+JRKL	ENSG00000183340	5	0	5	2	7	1	9	11	colorectum;kidney;liver;lung;stomach	brain;pancreas	0	6	TRUE	TRUE	FALSE
+PCGF2	ENSG00000277258	5	0	5	2	7	0	9	11	breast;head_neck;liver;stomach;thyroid	brain;pancreas	0	5	TRUE	TRUE	FALSE
+NFYA	ENSG00000001167	5	0	5	1	6	0	9	11	breast;colorectum;liver;lung;stomach	prostate	0	6	TRUE	TRUE	FALSE
+ZNF26	ENSG00000198393	5	0	5	1	6	5	9	11	colorectum;kidney;liver;lung;stomach	brain	0	6	TRUE	TRUE	FALSE
+ZNF587B	ENSG00000269343	5	0	5	1	6	0	9	11	breast;colorectum;lung;prostate;stomach	brain	0	5	TRUE	TRUE	FALSE
+ZNF680	ENSG00000173041	5	0	5	1	6	0	9	11	colorectum;kidney;lung;prostate;stomach	breast	0	6	TRUE	TRUE	FALSE
+ZNF318	ENSG00000171467	5	0	5	0	5	1	9	11	colorectum;head_neck;liver;lung;stomach		0	5	TRUE	TRUE	FALSE
+ZNF7	ENSG00000147789	5	0	5	0	5	1	9	11	colorectum;head_neck;kidney;liver;lung		0	6	TRUE	TRUE	FALSE
+RUNX1	ENSG00000159216	4	4	4	5	9	0	9	11	colorectum;kidney;stomach;thyroid	brain;breast;head_neck;lung;pancreas	6	6	TRUE	TRUE	FALSE
+RUNX2	ENSG00000124813	4	4	4	4	8	1	9	11	breast;kidney;lung;thyroid	brain;head_neck;pancreas;stomach	5	6	TRUE	TRUE	FALSE
+MYBL1	ENSG00000185697	4	4	4	2	6	1	9	11	breast;head_neck;kidney;lung	brain;pancreas	6	6	TRUE	TRUE	FALSE
+OTX1	ENSG00000115507	4	4	3	2	6	1	9	11	colorectum;lung;prostate;stomach	brain;head_neck	5	5	TRUE	TRUE	FALSE
+SIM2	ENSG00000159263	4	4	4	2	6	0	9	11	breast;colorectum;lung;prostate	brain;pancreas	4	4	TRUE	TRUE	FALSE
+E2F7	ENSG00000165891	4	4	4	1	5	0	9	11	colorectum;head_neck;lung;stomach	brain	4	4	TRUE	TRUE	FALSE
+GRHL3	ENSG00000158055	4	4	4	1	5	0	9	11	breast;colorectum;lung;thyroid	brain	4	4	TRUE	TRUE	FALSE
+HOXC6	ENSG00000197757	4	4	4	1	5	1	9	11	head_neck;lung;prostate;stomach	pancreas	4	4	TRUE	TRUE	FALSE
+PBX4	ENSG00000105717	4	4	4	1	5	2	9	11	colorectum;head_neck;kidney;stomach	pancreas	4	5	TRUE	TRUE	FALSE
+HOXC10	ENSG00000180818	4	4	3	0	4	0	9	11	breast;head_neck;lung;stomach		4	4	TRUE	TRUE	FALSE
+HOXC11	ENSG00000123388	4	4	4	0	4	0	9	11	breast;head_neck;kidney;stomach		4	4	TRUE	TRUE	FALSE
+ZNF239	ENSG00000196793	4	4	4	0	4	0	9	11	breast;colorectum;lung;stomach		4	5	TRUE	TRUE	FALSE
+ZNF695	ENSG00000197472	4	4	3	0	4	0	9	11	breast;colorectum;lung;stomach		4	4	TRUE	TRUE	FALSE
+BATF2	ENSG00000168062	4	3	4	4	8	1	9	11	breast;head_neck;kidney;stomach	brain;colorectum;lung;thyroid	3	4	TRUE	TRUE	FALSE
+ARNTL2	ENSG00000029153	4	3	4	3	7	0	9	11	breast;colorectum;kidney;lung	head_neck;pancreas;stomach	4	6	TRUE	TRUE	FALSE
+MSX1	ENSG00000163132	4	3	4	3	7	1	9	11	colorectum;kidney;prostate;stomach	brain;head_neck;pancreas	3	4	TRUE	TRUE	FALSE
+FOXQ1	ENSG00000164379	4	3	4	2	6	1	9	11	colorectum;kidney;lung;thyroid	pancreas;stomach	4	5	TRUE	TRUE	FALSE
+HOXC4	ENSG00000198353	4	3	4	2	6	1	9	11	breast;head_neck;lung;prostate	brain;pancreas	3	4	TRUE	TRUE	FALSE
+MYB	ENSG00000118513	4	3	4	2	6	1	9	11	breast;lung;prostate;stomach	colorectum;pancreas	3	4	TRUE	TRUE	FALSE
+TWIST1	ENSG00000122691	4	3	4	2	6	0	9	11	colorectum;head_neck;lung;prostate	brain;pancreas	3	4	TRUE	TRUE	FALSE
+HOXA10	ENSG00000253293	4	3	4	1	5	0	9	11	head_neck;kidney;lung;stomach	prostate	3	5	TRUE	TRUE	FALSE
+NPAS1	ENSG00000130751	4	3	4	1	5	0	9	11	breast;head_neck;lung;thyroid	pancreas	3	4	TRUE	TRUE	FALSE
+HOXC9	ENSG00000180806	4	3	4	0	4	1	9	11	breast;head_neck;lung;stomach		3	4	TRUE	TRUE	FALSE
+MLXIPL	ENSG00000009950	4	3	4	0	4	2	9	11	colorectum;kidney;stomach;thyroid		3	5	TRUE	TRUE	FALSE
+MNX1	ENSG00000130675	4	3	3	0	4	0	9	11	colorectum;lung;prostate;stomach		3	4	TRUE	TRUE	FALSE
+YBX2	ENSG00000006047	4	3	4	0	4	2	9	11	breast;kidney;lung;stomach		6	7	TRUE	TRUE	FALSE
+ZNF467	ENSG00000181444	4	3	4	0	4	1	9	11	breast;kidney;liver;prostate		3	4	TRUE	TRUE	FALSE
+DNTTIP1	ENSG00000101457	4	2	4	6	10	0	9	11	breast;colorectum;kidney;lung	brain;head_neck;liver;pancreas;stomach;thyroid	2	6	TRUE	TRUE	FALSE
+TGIF2	ENSG00000118707	4	2	4	4	8	0	9	11	colorectum;head_neck;lung;stomach	brain;breast;kidney;liver	2	4	TRUE	TRUE	FALSE
+ELF3	ENSG00000163435	4	2	4	3	7	3	9	11	breast;kidney;lung;thyroid	colorectum;pancreas;stomach	2	4	TRUE	TRUE	FALSE
+ETV5	ENSG00000244405	4	2	4	3	7	1	9	11	colorectum;head_neck;stomach;thyroid	brain;liver;lung	2	4	TRUE	TRUE	FALSE
+IRF5	ENSG00000128604	4	2	4	3	7	0	9	11	breast;kidney;liver;thyroid	brain;pancreas;stomach	2	4	TRUE	TRUE	FALSE
+PRRX1	ENSG00000116132	4	2	4	3	7	1	9	11	colorectum;kidney;lung;stomach	brain;head_neck;pancreas	2	5	TRUE	TRUE	FALSE
+PLAGL2	ENSG00000126003	4	2	4	2	6	1	9	11	colorectum;kidney;lung;stomach	brain;breast	2	4	TRUE	TRUE	FALSE
+SIX1	ENSG00000126778	4	2	4	2	6	1	9	11	breast;kidney;lung;prostate	brain;head_neck	3	5	TRUE	TRUE	FALSE
+E2F8	ENSG00000129173	4	2	4	1	5	0	9	11	breast;colorectum;lung;stomach	pancreas	3	5	TRUE	TRUE	FALSE
+GLI1	ENSG00000111087	4	2	4	1	5	1	9	11	head_neck;kidney;lung;stomach	pancreas	2	4	TRUE	TRUE	FALSE
+HOXB6	ENSG00000108511	4	2	3	1	5	0	9	11	breast;colorectum;lung;stomach	pancreas	2	4	TRUE	TRUE	FALSE
+RARG	ENSG00000172819	4	2	4	1	5	0	9	11	colorectum;kidney;lung;thyroid	pancreas	2	4	TRUE	TRUE	FALSE
+SP6	ENSG00000189120	4	2	4	1	5	0	9	11	breast;colorectum;lung;stomach	pancreas	2	4	TRUE	TRUE	FALSE
+ZNF117	ENSG00000152926	4	2	4	1	5	2	9	11	colorectum;kidney;lung;stomach	brain	2	5	TRUE	TRUE	FALSE
+ZNF320	ENSG00000182986	4	2	4	1	5	0	9	11	kidney;liver;lung;stomach	brain	3	5	TRUE	TRUE	FALSE
+HOXA9	ENSG00000078399	4	2	4	0	4	0	9	11	colorectum;kidney;prostate;stomach		2	4	TRUE	TRUE	FALSE
+NPAS2	ENSG00000170485	4	2	4	0	4	1	9	11	colorectum;kidney;liver;lung		3	5	TRUE	TRUE	FALSE
+NR1D1	ENSG00000126368	4	2	4	0	4	3	9	11	colorectum;kidney;lung;thyroid		3	7	TRUE	TRUE	FALSE
+ZNF280C	ENSG00000056277	4	2	4	0	4	0	9	11	colorectum;head_neck;lung;stomach		2	5	TRUE	TRUE	FALSE
+ZNF697	ENSG00000143067	4	2	4	0	4	0	9	11	colorectum;head_neck;prostate;stomach		2	4	TRUE	TRUE	FALSE
+DRAP1	ENSG00000175550	4	1	4	5	9	0	9	11	breast;kidney;liver;lung	colorectum;head_neck;pancreas;prostate;thyroid	1	6	TRUE	TRUE	FALSE
+ZNF165	ENSG00000197279	4	1	4	5	9	2	9	11	breast;kidney;liver;stomach	colorectum;head_neck;lung;prostate;thyroid	1	4	TRUE	TRUE	FALSE
+TFDP1	ENSG00000198176	4	1	4	4	8	1	9	11	breast;colorectum;lung;stomach	brain;head_neck;pancreas;prostate	1	5	TRUE	TRUE	FALSE
+ZNF138	ENSG00000197008	4	1	4	4	8	0	9	11	colorectum;kidney;lung;stomach	brain;breast;liver;prostate	1	5	TRUE	TRUE	FALSE
+ZNF93	ENSG00000184635	4	1	3	4	8	1	9	11	breast;colorectum;lung;stomach	brain;kidney;prostate;thyroid	2	5	TRUE	TRUE	FALSE
+CXXC5	ENSG00000171604	4	1	4	3	7	0	9	11	breast;colorectum;lung;thyroid	kidney;prostate;stomach	1	4	TRUE	TRUE	FALSE
+RELB	ENSG00000104856	4	1	4	3	7	1	9	11	breast;head_neck;kidney;liver	brain;pancreas;stomach	1	5	TRUE	TRUE	FALSE
+ZBTB42	ENSG00000179627	4	1	4	3	7	2	9	11	breast;kidney;prostate;thyroid	brain;colorectum;lung	1	5	TRUE	TRUE	FALSE
+ZNF48	ENSG00000180035	4	1	4	3	7	0	9	11	breast;kidney;liver;lung	colorectum;head_neck;thyroid	1	6	TRUE	TRUE	FALSE
+ZSCAN16	ENSG00000196812	4	1	4	3	7	0	9	11	breast;liver;lung;prostate	brain;colorectum;thyroid	1	4	TRUE	TRUE	FALSE
+ZKSCAN1	ENSG00000106261	4	1	4	2	6	0	9	11	colorectum;kidney;lung;stomach	brain;breast	1	4	TRUE	TRUE	FALSE
+ZNF66	ENSG00000160229	4	1	3	2	6	0	9	11	colorectum;kidney;lung;stomach	brain;breast	1	4	TRUE	TRUE	FALSE
+ZNF761	ENSG00000160336	4	1	4	2	6	1	9	11	colorectum;kidney;liver;stomach	brain;prostate	1	4	TRUE	TRUE	FALSE
+PRRX2	ENSG00000167157	4	1	4	1	5	0	9	11	colorectum;head_neck;lung;stomach	pancreas	2	5	TRUE	TRUE	FALSE
+TBX2	ENSG00000121068	4	1	4	1	5	4	9	11	head_neck;kidney;liver;thyroid	brain	1	4	TRUE	TRUE	FALSE
+ZNF131	ENSG00000172262	4	1	4	1	5	0	9	11	colorectum;kidney;lung;stomach	head_neck	1	5	TRUE	TRUE	FALSE
+MYPOP	ENSG00000176182	4	1	4	0	4	1	9	11	breast;kidney;liver;lung		1	5	TRUE	TRUE	FALSE
+ZNF233	ENSG00000159915	4	1	4	0	4	0	9	11	breast;kidney;prostate;thyroid		1	4	TRUE	TRUE	FALSE
+ZNF514	ENSG00000144026	4	1	4	0	4	4	9	11	colorectum;kidney;liver;lung		1	6	TRUE	TRUE	FALSE
+ZNF517	ENSG00000197363	4	1	4	0	4	0	9	11	breast;kidney;liver;lung		1	5	TRUE	TRUE	FALSE
+ZNF598	ENSG00000167962	4	1	4	0	4	3	9	11	breast;colorectum;kidney;lung		1	7	TRUE	TRUE	FALSE
+TP53	ENSG00000141510	4	0	4	7	11	1	9	11	colorectum;kidney;lung;stomach	brain;breast;head_neck;liver;pancreas;prostate;thyroid	0	5	TRUE	TRUE	FALSE
+PA2G4	ENSG00000170515	4	0	4	6	10	0	9	11	colorectum;kidney;lung;stomach	brain;breast;head_neck;liver;prostate;thyroid	0	5	TRUE	TRUE	FALSE
+SKIL	ENSG00000136603	4	0	4	4	8	0	9	11	breast;colorectum;head_neck;stomach	brain;kidney;lung;pancreas	0	4	TRUE	TRUE	FALSE
+ZNF200	ENSG00000010539	4	0	4	4	8	0	9	11	colorectum;head_neck;liver;stomach	brain;breast;kidney;lung	0	4	TRUE	TRUE	FALSE
+MSANTD3	ENSG00000066697	4	0	4	3	7	0	9	11	colorectum;head_neck;kidney;lung	brain;pancreas;stomach	0	5	TRUE	TRUE	FALSE
+ZNF480	ENSG00000198464	4	0	4	3	7	0	9	11	breast;kidney;liver;lung	brain;colorectum;stomach	0	5	TRUE	TRUE	FALSE
+ZNF749	ENSG00000186230	4	0	4	3	7	0	9	11	colorectum;kidney;liver;lung	breast;prostate;stomach	0	5	TRUE	TRUE	FALSE
+GLIS2	ENSG00000126603	4	0	4	2	6	0	9	11	breast;head_neck;kidney;liver	brain;pancreas	0	4	TRUE	TRUE	FALSE
+REXO4	ENSG00000148300	4	0	4	2	6	0	9	11	colorectum;kidney;liver;lung	head_neck;thyroid	0	4	TRUE	TRUE	FALSE
+SP140L	ENSG00000185404	4	0	4	2	6	1	9	11	head_neck;kidney;lung;stomach	brain;pancreas	0	4	TRUE	TRUE	FALSE
+THAP8	ENSG00000161277	4	0	4	2	6	0	9	11	breast;liver;lung;thyroid	brain;kidney	0	5	TRUE	TRUE	FALSE
+ZBED4	ENSG00000100426	4	0	4	2	6	1	9	11	breast;liver;lung;stomach	brain;colorectum	0	5	TRUE	TRUE	FALSE
+ZNF124	ENSG00000196418	4	0	4	2	6	0	9	11	breast;liver;lung;stomach	brain;colorectum	0	4	TRUE	TRUE	FALSE
+ZNF544	ENSG00000198131	4	0	4	2	6	0	9	11	breast;kidney;liver;lung	colorectum;stomach	0	5	TRUE	TRUE	FALSE
+SETDB1	ENSG00000143379	4	0	4	1	5	0	9	11	breast;kidney;liver;lung	brain	0	4	TRUE	TRUE	FALSE
+ZNF532	ENSG00000074657	4	0	4	1	5	0	9	11	head_neck;kidney;liver;lung	pancreas	0	5	TRUE	TRUE	FALSE
+ZNF600	ENSG00000189190	4	0	4	1	5	4	9	11	colorectum;kidney;liver;stomach	brain	0	5	TRUE	TRUE	FALSE
+ZNF736	ENSG00000234444	4	0	4	1	5	3	9	11	colorectum;kidney;lung;prostate	brain	0	4	TRUE	TRUE	FALSE
+CREBZF	ENSG00000137504	4	0	4	0	4	4	9	11	colorectum;kidney;lung;stomach		0	5	TRUE	TRUE	FALSE
+DBP	ENSG00000105516	4	0	4	0	4	0	9	11	kidney;liver;lung;thyroid		0	5	TRUE	TRUE	FALSE
+FLYWCH1	ENSG00000059122	4	0	4	0	4	4	9	11	head_neck;kidney;liver;lung		0	5	TRUE	TRUE	FALSE
+KMT2B	ENSG00000272333	4	0	4	0	4	4	9	11	colorectum;kidney;liver;lung		0	5	TRUE	TRUE	FALSE
+ZBTB7B	ENSG00000160685	4	0	4	0	4	1	9	11	breast;liver;lung;prostate		0	4	TRUE	TRUE	FALSE
+ZNF133	ENSG00000125846	4	0	4	0	4	3	9	11	colorectum;kidney;liver;lung		0	4	TRUE	TRUE	FALSE
+ZNF512B	ENSG00000196700	4	0	4	0	4	3	9	11	breast;kidney;liver;lung		0	5	TRUE	TRUE	FALSE
+ZNF550	ENSG00000251369	4	0	3	0	4	2	9	11	colorectum;kidney;liver;lung		0	5	TRUE	TRUE	FALSE
+ZNF814	ENSG00000204514	4	0	4	0	4	2	9	11	breast;kidney;prostate;stomach		0	4	TRUE	TRUE	FALSE
+ZNF860	ENSG00000197385	4	0	4	0	4	0	9	11	breast;kidney;stomach;thyroid		0	4	TRUE	TRUE	FALSE
+MSX2	ENSG00000120149	3	3	3	3	6	0	9	11	colorectum;lung;stomach	breast;head_neck;pancreas	3	3	TRUE	TRUE	FALSE
+SP140	ENSG00000079263	3	3	3	3	6	2	9	11	breast;head_neck;kidney	brain;pancreas;stomach	3	4	TRUE	TRUE	FALSE
+PITX1	ENSG00000069011	3	3	3	2	5	0	9	11	breast;colorectum;lung	brain;pancreas	4	4	TRUE	TRUE	FALSE
+SNAI2	ENSG00000019549	3	3	3	2	5	0	9	11	head_neck;liver;lung	brain;pancreas	3	3	TRUE	TRUE	FALSE
+ZNF469	ENSG00000225614	3	3	3	2	5	0	9	11	breast;head_neck;stomach	brain;pancreas	3	3	TRUE	TRUE	FALSE
+HEY2	ENSG00000135547	3	3	3	1	4	0	9	11	kidney;prostate;thyroid	brain	3	3	TRUE	TRUE	FALSE
+TBX1	ENSG00000184058	3	3	3	1	4	3	9	11	breast;lung;prostate	head_neck	3	4	TRUE	TRUE	FALSE
+DLX5	ENSG00000105880	3	3	3	0	3	0	9	11	head_neck;kidney;lung		3	3	TRUE	TRUE	FALSE
+HOXC13	ENSG00000123364	3	3	2	0	3	0	9	11	breast;head_neck;lung		3	3	TRUE	TRUE	FALSE
+IRX4	ENSG00000113430	3	3	2	0	3	1	9	11	head_neck;lung;prostate		3	3	TRUE	TRUE	FALSE
+PAX9	ENSG00000198807	3	3	3	0	3	0	9	11	breast;lung;thyroid		4	4	TRUE	TRUE	FALSE
+SALL4	ENSG00000101115	3	3	3	0	3	0	9	11	colorectum;lung;stomach		3	3	TRUE	TRUE	FALSE
+ZIC2	ENSG00000043355	3	3	1	0	3	0	9	11	head_neck;liver;lung		3	3	TRUE	TRUE	FALSE
+GTF3A	ENSG00000122034	3	2	3	6	9	2	9	11	colorectum;kidney;lung	breast;head_neck;liver;prostate;stomach;thyroid	2	4	TRUE	TRUE	FALSE
+EHF	ENSG00000135373	3	2	3	5	8	4	9	11	liver;lung;thyroid	breast;colorectum;pancreas;prostate;stomach	2	4	TRUE	TRUE	FALSE
+ELF4	ENSG00000102034	3	2	3	5	8	1	9	11	head_neck;kidney;thyroid	brain;colorectum;lung;pancreas;stomach	2	4	TRUE	TRUE	FALSE
+ETV1	ENSG00000006468	3	2	2	5	8	4	9	11	kidney;prostate;thyroid	brain;breast;head_neck;pancreas;stomach	2	3	TRUE	TRUE	FALSE
+TCF7	ENSG00000081059	3	2	2	5	8	1	9	11	colorectum;kidney;liver	brain;breast;head_neck;stomach;thyroid	2	4	TRUE	TRUE	FALSE
+RARA	ENSG00000131759	3	2	3	4	7	1	9	11	breast;kidney;thyroid	brain;head_neck;pancreas;stomach	2	3	TRUE	TRUE	FALSE
+TFAP2A	ENSG00000137203	3	2	3	4	7	0	9	11	breast;colorectum;lung	brain;head_neck;pancreas;stomach	3	4	TRUE	TRUE	FALSE
+FOXC1	ENSG00000054598	3	2	3	3	6	1	9	11	colorectum;lung;stomach	head_neck;kidney;pancreas	2	3	TRUE	TRUE	FALSE
+HOXB7	ENSG00000260027	3	2	3	3	6	1	9	11	head_neck;lung;stomach	colorectum;kidney;pancreas	3	4	TRUE	TRUE	FALSE
+IKZF3	ENSG00000161405	3	2	3	3	6	0	9	11	breast;kidney;lung	pancreas;stomach;thyroid	2	3	TRUE	TRUE	FALSE
+MYC	ENSG00000136997	3	2	3	3	6	1	9	11	colorectum;kidney;prostate	brain;head_neck;lung	3	4	TRUE	TRUE	FALSE
+TP73	ENSG00000078900	3	2	3	3	6	0	9	11	colorectum;head_neck;lung	brain;breast;stomach	2	3	TRUE	TRUE	FALSE
+ZNF385A	ENSG00000161642	3	2	3	3	6	1	9	11	breast;kidney;lung	liver;pancreas;stomach	3	5	TRUE	TRUE	FALSE
+ZSCAN2	ENSG00000176371	3	2	3	3	6	0	9	11	liver;lung;prostate	brain;head_neck;thyroid	2	4	TRUE	TRUE	FALSE
+BCL11A	ENSG00000119866	3	2	3	2	5	2	9	11	colorectum;kidney;lung	breast;stomach	3	5	TRUE	TRUE	FALSE
+BHLHE40	ENSG00000134107	3	2	3	2	5	1	9	11	colorectum;kidney;thyroid	pancreas;stomach	2	3	TRUE	TRUE	FALSE
+BHLHE41	ENSG00000123095	3	2	3	2	5	1	9	11	kidney;stomach;thyroid	head_neck;pancreas	3	4	TRUE	TRUE	FALSE
+GRHL1	ENSG00000134317	3	2	3	2	5	1	9	11	colorectum;lung;thyroid	pancreas;stomach	3	4	TRUE	TRUE	FALSE
+IRX3	ENSG00000177508	3	2	3	2	5	1	9	11	kidney;liver;thyroid	brain;lung	3	4	TRUE	TRUE	FALSE
+NKRF	ENSG00000186416	3	2	3	2	5	0	9	11	colorectum;lung;stomach	breast;head_neck	2	4	TRUE	TRUE	FALSE
+ZNF726	ENSG00000213967	3	2	3	2	5	1	9	11	breast;lung;prostate	brain;kidney	3	4	TRUE	TRUE	FALSE
+DLX3	ENSG00000064195	3	2	3	1	4	1	9	11	breast;lung;thyroid	head_neck	2	3	TRUE	TRUE	FALSE
+FOXA1	ENSG00000129514	3	2	3	1	4	0	9	11	breast;lung;prostate	pancreas	2	4	TRUE	TRUE	FALSE
+HOXA1	ENSG00000105991	3	2	3	1	4	0	9	11	head_neck;kidney;lung	stomach	2	3	TRUE	TRUE	FALSE
+SPDEF	ENSG00000124664	3	2	3	1	4	0	9	11	breast;lung;prostate	pancreas	2	3	TRUE	TRUE	FALSE
+TEAD2	ENSG00000074219	3	2	3	1	4	1	9	11	head_neck;liver;thyroid	brain	2	3	TRUE	TRUE	FALSE
+ZFPM1	ENSG00000179588	3	2	3	1	4	1	9	11	breast;colorectum;kidney	stomach	2	4	TRUE	TRUE	FALSE
+L3MBTL1	ENSG00000185513	3	2	3	0	3	3	9	11	colorectum;kidney;lung		2	5	TRUE	TRUE	FALSE
+MESP2	ENSG00000188095	3	2	3	0	3	0	9	11	breast;kidney;prostate		2	3	TRUE	TRUE	FALSE
+PLAG1	ENSG00000181690	3	2	3	0	3	0	9	11	kidney;lung;thyroid		2	3	TRUE	TRUE	FALSE
+STAT4	ENSG00000138378	3	2	3	0	3	1	9	11	head_neck;kidney;thyroid		3	4	TRUE	TRUE	FALSE
+ZC3H8	ENSG00000144161	3	2	3	0	3	1	9	11	colorectum;liver;lung		2	4	TRUE	TRUE	FALSE
+ZNF273	ENSG00000198039	3	2	3	0	3	2	9	11	colorectum;kidney;lung		3	5	TRUE	TRUE	FALSE
+ZNF385C	ENSG00000187595	3	2	3	0	3	0	9	11	kidney;lung;prostate		2	5	TRUE	TRUE	FALSE
+ZNF771	ENSG00000179965	3	2	3	0	3	2	9	11	breast;kidney;lung		2	4	TRUE	TRUE	FALSE
+ZNF775	ENSG00000196456	3	2	3	0	3	1	9	11	kidney;liver;prostate		2	4	TRUE	TRUE	FALSE
+ZNF83	ENSG00000167766	3	2	3	0	3	3	9	11	colorectum;kidney;liver		3	4	TRUE	TRUE	FALSE
+KDM5B	ENSG00000117139	3	1	3	7	10	1	9	11	breast;liver;lung	brain;head_neck;kidney;pancreas;prostate;stomach;thyroid	2	4	TRUE	TRUE	FALSE
+TCF20	ENSG00000100207	3	1	3	6	9	1	9	11	colorectum;kidney;lung	breast;head_neck;liver;pancreas;stomach;thyroid	1	3	TRUE	TRUE	FALSE
+ZNF146	ENSG00000167635	3	1	3	5	8	0	9	11	colorectum;lung;stomach	breast;head_neck;kidney;pancreas;prostate	1	4	TRUE	TRUE	FALSE
+ZNF668	ENSG00000167394	3	1	3	5	8	1	9	11	breast;kidney;liver	colorectum;head_neck;lung;pancreas;stomach	1	5	TRUE	TRUE	FALSE
+GRHL2	ENSG00000083307	3	1	3	4	7	1	9	11	breast;colorectum;lung	kidney;prostate;stomach;thyroid	1	4	TRUE	TRUE	FALSE
+SP110	ENSG00000135899	3	1	3	4	7	1	9	11	breast;head_neck;kidney	brain;liver;pancreas;stomach	1	3	TRUE	TRUE	FALSE
+VDR	ENSG00000111424	3	1	3	4	7	1	9	11	kidney;lung;thyroid	breast;head_neck;pancreas;stomach	1	3	TRUE	TRUE	FALSE
+SNAI1	ENSG00000124216	3	1	3	3	6	0	9	11	colorectum;kidney;stomach	brain;head_neck;pancreas	1	3	TRUE	TRUE	FALSE
+ZNF213	ENSG00000085644	3	1	3	3	6	1	9	11	breast;liver;thyroid	kidney;lung;stomach	1	3	TRUE	TRUE	FALSE
+BCL6B	ENSG00000161940	3	1	3	2	5	1	9	11	kidney;liver;thyroid	brain;pancreas	1	3	TRUE	TRUE	FALSE
+ETS1	ENSG00000134954	3	1	3	2	5	0	9	11	head_neck;kidney;stomach	brain;pancreas	1	3	TRUE	TRUE	FALSE
+HLX	ENSG00000136630	3	1	3	2	5	3	9	11	kidney;prostate;thyroid	brain;pancreas	1	4	TRUE	TRUE	FALSE
+HOXB3	ENSG00000120093	3	1	3	2	5	3	9	11	breast;colorectum;lung	brain;pancreas	2	4	TRUE	TRUE	FALSE
+IRF9	ENSG00000213928	3	1	3	2	5	1	9	11	breast;head_neck;kidney	brain;pancreas	1	3	TRUE	TRUE	FALSE
+POU2F3	ENSG00000137709	3	1	3	2	5	0	9	11	breast;lung;thyroid	pancreas;stomach	1	4	TRUE	TRUE	FALSE
+ZNF275	ENSG00000063587	3	1	3	2	5	0	9	11	colorectum;head_neck;kidney	brain;lung	1	3	TRUE	TRUE	FALSE
+DEAF1	ENSG00000177030	3	1	3	1	4	1	9	11	kidney;liver;prostate	lung	1	4	TRUE	TRUE	FALSE
+HMG20B	ENSG00000064961	3	1	3	1	4	0	9	11	breast;lung;prostate	brain	1	3	TRUE	TRUE	FALSE
+KLF7	ENSG00000118263	3	1	3	1	4	1	9	11	colorectum;head_neck;kidney	pancreas	1	4	TRUE	TRUE	FALSE
+NFXL1	ENSG00000170448	3	1	3	1	4	0	9	11	colorectum;lung;stomach	kidney	1	4	TRUE	TRUE	FALSE
+YBX3	ENSG00000060138	3	1	3	1	4	1	9	11	kidney;lung;thyroid	brain	2	4	TRUE	TRUE	FALSE
+ZNF30	ENSG00000168661	3	1	3	1	4	1	9	11	colorectum;liver;prostate	breast	1	3	TRUE	TRUE	FALSE
+ZNF530	ENSG00000183647	3	1	3	1	4	0	9	11	head_neck;kidney;lung	brain	1	5	TRUE	TRUE	FALSE
+ZNF768	ENSG00000169957	3	1	3	1	4	0	9	11	breast;kidney;lung	thyroid	1	5	TRUE	TRUE	FALSE
+ZNF837	ENSG00000152475	3	1	3	1	4	2	9	11	breast;kidney;prostate	brain	1	3	TRUE	TRUE	FALSE
+DMTF1	ENSG00000135164	3	1	3	0	3	3	9	11	head_neck;kidney;liver		1	4	TRUE	TRUE	FALSE
+ESR1	ENSG00000091831	3	1	2	0	3	0	9	11	breast;lung;thyroid		1	3	TRUE	TRUE	FALSE
+JRK	ENSG00000234616	3	1	3	0	3	2	9	11	colorectum;kidney;liver		1	3	TRUE	TRUE	FALSE
+MAFG	ENSG00000197063	3	1	3	0	3	3	9	11	kidney;liver;lung		1	3	TRUE	TRUE	FALSE
+MYRF	ENSG00000124920	3	1	3	0	3	0	9	11	colorectum;kidney;liver		1	3	TRUE	TRUE	FALSE
+RBCK1	ENSG00000125826	3	1	3	0	3	1	9	11	colorectum;kidney;liver		2	5	TRUE	TRUE	FALSE
+STAT2	ENSG00000170581	3	1	3	0	3	2	9	11	head_neck;kidney;lung		1	4	TRUE	TRUE	FALSE
+TBX6	ENSG00000149922	3	1	3	0	3	2	9	11	breast;kidney;lung		2	5	TRUE	TRUE	FALSE
+TIGD7	ENSG00000140993	3	1	3	0	3	1	9	11	kidney;liver;lung		1	4	TRUE	TRUE	FALSE
+ZNF195	ENSG00000005801	3	1	3	0	3	0	9	11	colorectum;lung;stomach		1	3	TRUE	TRUE	FALSE
+ZNF316	ENSG00000205903	3	1	3	0	3	3	9	11	colorectum;kidney;prostate		1	4	TRUE	TRUE	FALSE
+ZNF337	ENSG00000130684	3	1	3	0	3	3	9	11	colorectum;kidney;liver		2	5	TRUE	TRUE	FALSE
+ZNF341	ENSG00000131061	3	1	3	0	3	0	9	11	breast;liver;lung		1	3	TRUE	TRUE	FALSE
+ZNF354B	ENSG00000178338	3	1	3	0	3	3	9	11	colorectum;kidney;liver		1	4	TRUE	TRUE	FALSE
+ZNF605	ENSG00000196458	3	1	3	0	3	2	9	11	kidney;liver;lung		1	3	TRUE	TRUE	FALSE
+ZNF787	ENSG00000142409	3	1	3	0	3	1	9	11	breast;kidney;lung		1	5	TRUE	TRUE	FALSE
+ZNF28	ENSG00000198538	3	0	3	7	10	2	9	11	breast;liver;stomach	brain;colorectum;kidney;lung;pancreas;prostate;thyroid	0	3	TRUE	TRUE	FALSE
+PATZ1	ENSG00000100105	3	0	3	6	9	1	9	11	breast;colorectum;lung	brain;head_neck;kidney;liver;prostate;thyroid	0	3	TRUE	TRUE	FALSE
+AHCTF1	ENSG00000153207	3	0	3	4	7	1	9	11	colorectum;lung;stomach	brain;head_neck;kidney;liver	0	4	TRUE	TRUE	FALSE
+ETV2	ENSG00000105672	3	0	3	4	7	2	9	11	breast;liver;lung	brain;colorectum;prostate;stomach	0	3	TRUE	TRUE	FALSE
+GATAD2A	ENSG00000167491	3	0	3	4	7	0	9	11	breast;kidney;thyroid	brain;colorectum;head_neck;stomach	0	3	TRUE	TRUE	FALSE
+POGK	ENSG00000143157	3	0	3	4	7	0	9	11	breast;colorectum;liver	kidney;lung;pancreas;stomach	0	3	TRUE	TRUE	FALSE
+ZNF16	ENSG00000170631	3	0	3	4	7	0	9	11	kidney;liver;lung	brain;breast;prostate;thyroid	0	3	TRUE	TRUE	FALSE
+ZNF267	ENSG00000185947	3	0	3	4	7	1	9	11	colorectum;kidney;stomach	brain;breast;pancreas;thyroid	0	4	TRUE	TRUE	FALSE
+ADNP	ENSG00000101126	3	0	3	3	6	1	9	11	colorectum;lung;stomach	brain;breast;kidney	0	3	TRUE	TRUE	FALSE
+FOXN2	ENSG00000170802	3	0	3	3	6	0	9	11	colorectum;head_neck;stomach	brain;kidney;lung	0	3	TRUE	TRUE	FALSE
+FOXP4	ENSG00000137166	3	0	3	3	6	0	9	11	breast;colorectum;thyroid	head_neck;lung;stomach	0	3	TRUE	TRUE	FALSE
+ZNF319	ENSG00000166188	3	0	3	3	6	1	9	11	head_neck;kidney;thyroid	brain;lung;stomach	0	3	TRUE	TRUE	FALSE
+ZNF408	ENSG00000175213	3	0	3	3	6	0	9	11	breast;kidney;lung	brain;colorectum;pancreas	0	4	TRUE	TRUE	FALSE
+ERF	ENSG00000105722	3	0	3	2	5	0	9	11	colorectum;head_neck;lung	brain;pancreas	0	3	TRUE	TRUE	FALSE
+TEAD3	ENSG00000007866	3	0	3	2	5	2	9	11	liver;lung;thyroid	brain;pancreas	0	3	TRUE	TRUE	FALSE
+ZBTB18	ENSG00000179456	3	0	3	2	5	0	9	11	breast;colorectum;kidney	lung;prostate	0	3	TRUE	TRUE	FALSE
+ZNF250	ENSG00000196150	3	0	3	2	5	0	9	11	colorectum;kidney;liver	brain;breast	0	3	TRUE	TRUE	FALSE
+ZNF282	ENSG00000170265	3	0	3	2	5	0	9	11	kidney;liver;lung	brain;colorectum	0	4	TRUE	TRUE	FALSE
+ZNF675	ENSG00000197372	3	0	3	2	5	0	9	11	breast;kidney;lung	stomach;thyroid	0	4	TRUE	TRUE	FALSE
+ZNF687	ENSG00000143373	3	0	3	2	5	0	9	11	breast;liver;lung	brain;stomach	0	4	TRUE	TRUE	FALSE
+FOXK2	ENSG00000141568	3	0	3	1	4	0	9	11	breast;colorectum;lung	head_neck	0	4	TRUE	TRUE	FALSE
+LHX6	ENSG00000106852	3	0	3	1	4	2	9	11	kidney;prostate;thyroid	pancreas	0	3	TRUE	TRUE	FALSE
+PREB	ENSG00000138073	3	0	3	1	4	1	9	11	colorectum;liver;lung	brain	0	4	TRUE	TRUE	FALSE
+SNAPC2	ENSG00000104976	3	0	3	1	4	0	9	11	breast;liver;thyroid	head_neck	0	3	TRUE	TRUE	FALSE
+ZFP62	ENSG00000196670	3	0	3	1	4	0	9	11	kidney;liver;lung	breast	0	3	TRUE	TRUE	FALSE
+ZNF3	ENSG00000166526	3	0	3	1	4	0	9	11	colorectum;kidney;lung	brain	0	5	TRUE	TRUE	FALSE
+ZNF443	ENSG00000180855	3	0	3	1	4	0	9	11	breast;colorectum;stomach	lung	0	3	TRUE	TRUE	FALSE
+ZNF524	ENSG00000171443	3	0	3	1	4	1	9	11	kidney;prostate;thyroid	liver	0	3	TRUE	TRUE	FALSE
+ZNF628	ENSG00000197483	3	0	3	1	4	4	9	11	breast;kidney;liver	stomach	0	3	TRUE	TRUE	FALSE
+ZNF678	ENSG00000181450	3	0	3	1	4	0	9	11	breast;lung;stomach	brain	0	3	TRUE	TRUE	FALSE
+ZNF706	ENSG00000120963	3	0	3	1	4	0	9	11	breast;liver;lung	colorectum	0	3	TRUE	TRUE	FALSE
+ZSCAN9	ENSG00000137185	3	0	3	1	4	1	9	11	kidney;liver;lung	brain	0	3	TRUE	TRUE	FALSE
+AKAP8L	ENSG00000011243	3	0	3	0	3	3	9	11	breast;colorectum;liver		0	3	TRUE	TRUE	FALSE
+E2F4	ENSG00000205250	3	0	3	0	3	1	9	11	kidney;liver;lung		0	3	TRUE	TRUE	FALSE
+RBAK	ENSG00000146587	3	0	3	0	3	0	9	11	colorectum;kidney;lung		0	3	TRUE	TRUE	FALSE
+RFX3	ENSG00000080298	3	0	3	0	3	0	9	11	colorectum;prostate;stomach		0	3	TRUE	TRUE	FALSE
+SNAPC4	ENSG00000165684	3	0	3	0	3	2	9	11	colorectum;prostate;stomach		0	3	TRUE	TRUE	FALSE
+SOX18	ENSG00000203883	3	0	3	0	3	2	9	11	kidney;liver;thyroid		0	3	TRUE	TRUE	FALSE
+USF1	ENSG00000158773	3	0	3	0	3	0	9	11	breast;head_neck;liver		0	3	TRUE	TRUE	FALSE
+ZNF182	ENSG00000147118	3	0	3	0	3	3	9	11	colorectum;kidney;stomach		0	3	TRUE	TRUE	FALSE
+ZNF202	ENSG00000166261	3	0	3	0	3	2	9	11	colorectum;kidney;lung		0	3	TRUE	TRUE	FALSE
+ZNF335	ENSG00000198026	3	0	3	0	3	3	9	11	colorectum;kidney;liver		0	4	TRUE	TRUE	FALSE
+ZNF354A	ENSG00000169131	3	0	3	0	3	2	9	11	head_neck;kidney;liver		0	4	TRUE	TRUE	FALSE
+ZNF419	ENSG00000105136	3	0	3	0	3	3	9	11	kidney;liver;prostate		0	3	TRUE	TRUE	FALSE
+ZNF646	ENSG00000167395	3	0	3	0	3	1	9	11	breast;kidney;liver		0	4	TRUE	TRUE	FALSE
+ZNF682	ENSG00000197124	3	0	2	0	3	2	9	11	breast;kidney;liver		0	3	TRUE	TRUE	FALSE
+ZNF746	ENSG00000181220	3	0	3	0	3	1	9	11	colorectum;liver;lung		0	3	TRUE	TRUE	FALSE
+ZNF785	ENSG00000197162	3	0	3	0	3	3	9	11	kidney;liver;lung		0	4	TRUE	TRUE	FALSE
+ZNF865	ENSG00000261221	3	0	3	0	3	3	9	11	breast;kidney;liver		0	5	TRUE	TRUE	FALSE
+IRF6	ENSG00000117595	2	2	2	7	9	3	9	11	kidney;lung	breast;colorectum;head_neck;liver;pancreas;prostate;thyroid	2	3	FALSE	TRUE	FALSE
+OVOL1	ENSG00000172818	2	2	2	6	8	5	9	11	breast;lung	colorectum;kidney;pancreas;prostate;stomach;thyroid	3	3	FALSE	TRUE	FALSE
+RUNX3	ENSG00000020633	2	2	2	6	8	1	9	11	head_neck;kidney	brain;breast;colorectum;lung;pancreas;stomach	3	3	FALSE	TRUE	FALSE
+BARX2	ENSG00000043039	2	2	2	3	5	2	9	11	kidney;lung	pancreas;prostate;stomach	3	4	FALSE	TRUE	FALSE
+CEBPB	ENSG00000172216	2	2	2	3	5	3	9	11	colorectum;kidney	head_neck;pancreas;stomach	3	3	FALSE	TRUE	FALSE
+CEBPG	ENSG00000153879	2	2	2	3	5	1	9	11	kidney;lung	colorectum;head_neck;liver	2	2	FALSE	TRUE	FALSE
+FOXJ1	ENSG00000129654	2	2	1	3	5	1	9	11	kidney;stomach	brain;lung;pancreas	2	2	FALSE	TRUE	FALSE
+GLI2	ENSG00000074047	2	2	2	3	5	0	9	11	head_neck;lung	brain;pancreas;stomach	2	2	FALSE	TRUE	FALSE
+POU2F2	ENSG00000028277	2	2	2	3	5	1	9	11	head_neck;kidney	breast;pancreas;stomach	2	3	FALSE	TRUE	FALSE
+PRDM1	ENSG00000057657	2	2	2	3	5	2	9	11	kidney;thyroid	brain;pancreas;stomach	2	3	FALSE	TRUE	FALSE
+ZNF296	ENSG00000170684	2	2	2	3	5	1	9	11	breast;lung	colorectum;pancreas;stomach	2	3	FALSE	TRUE	FALSE
+ZSCAN31	ENSG00000235109	2	2	2	3	5	1	9	11	kidney;liver	breast;lung;prostate	2	2	FALSE	TRUE	FALSE
+CREB5	ENSG00000146592	2	2	2	2	4	1	9	11	kidney;thyroid	brain;head_neck	3	3	FALSE	TRUE	FALSE
+E2F2	ENSG00000007968	2	2	2	2	4	0	9	11	breast;lung	brain;stomach	3	3	FALSE	TRUE	FALSE
+HOXB2	ENSG00000173917	2	2	2	2	4	1	9	11	breast;lung	brain;pancreas	2	3	FALSE	TRUE	FALSE
+HOXD8	ENSG00000175879	2	2	2	2	4	1	9	11	head_neck;lung	pancreas;stomach	2	2	FALSE	TRUE	FALSE
+IRX5	ENSG00000176842	2	2	2	2	4	0	9	11	breast;kidney	lung;pancreas	2	2	FALSE	TRUE	FALSE
+TBX15	ENSG00000092607	2	2	2	2	4	1	9	11	kidney;lung	brain;head_neck	3	3	FALSE	TRUE	FALSE
+TRPS1	ENSG00000104447	2	2	2	2	4	1	9	11	breast;lung	brain;pancreas	2	3	FALSE	TRUE	FALSE
+ZNF681	ENSG00000196172	2	2	2	2	4	0	9	11	breast;lung	brain;colorectum	2	2	FALSE	TRUE	FALSE
+FOXC2	ENSG00000176692	2	2	2	1	3	0	9	11	head_neck;kidney	pancreas	2	2	FALSE	TRUE	FALSE
+FOXO6	ENSG00000204060	2	2	2	1	3	0	9	11	breast;lung	brain	3	3	FALSE	TRUE	FALSE
+HES2	ENSG00000069812	2	2	2	1	3	1	9	11	head_neck;lung	prostate	2	2	FALSE	TRUE	FALSE
+HOXD9	ENSG00000128709	2	2	2	1	3	0	9	11	head_neck;lung	pancreas	2	2	FALSE	TRUE	FALSE
+PBX3	ENSG00000167081	2	2	2	1	3	0	9	11	kidney;thyroid	brain	2	2	FALSE	TRUE	FALSE
+PROX1	ENSG00000117707	2	2	2	1	3	0	9	11	colorectum;stomach	brain	2	2	FALSE	TRUE	FALSE
+SHOX2	ENSG00000168779	2	2	2	1	3	0	9	11	head_neck;lung	brain	2	2	FALSE	TRUE	FALSE
+SIX2	ENSG00000170577	2	2	2	1	3	1	9	11	breast;lung	head_neck	3	3	FALSE	TRUE	FALSE
+VAX2	ENSG00000116035	2	2	2	1	3	0	9	11	breast;lung	brain	2	2	FALSE	TRUE	FALSE
+ZNF300	ENSG00000145908	2	2	2	1	3	1	9	11	kidney;lung	brain	3	3	FALSE	TRUE	FALSE
+AC023509.3	ENSG00000267281	2	2	2	0	2	2	9	11	kidney;prostate		3	3	FALSE	FALSE	FALSE
+BARX1	ENSG00000131668	2	2	1	0	2	0	9	11	head_neck;lung		2	2	FALSE	FALSE	FALSE
+BNC1	ENSG00000169594	2	2	2	0	2	0	9	11	head_neck;lung		2	2	FALSE	FALSE	FALSE
+DLX1	ENSG00000144355	2	2	2	0	2	0	9	11	head_neck;prostate		2	2	FALSE	FALSE	FALSE
+DMRT2	ENSG00000173253	2	2	2	0	2	0	9	11	kidney;lung		2	2	FALSE	FALSE	FALSE
+DPF1	ENSG00000011332	2	2	2	0	2	0	9	11	head_neck;lung		2	2	FALSE	FALSE	FALSE
+EOMES	ENSG00000163508	2	2	2	0	2	0	9	11	kidney;stomach		2	2	FALSE	FALSE	FALSE
+FEZF1	ENSG00000128610	2	2	0	0	2	0	9	11	lung;stomach		2	2	FALSE	FALSE	FALSE
+HOXD10	ENSG00000128710	2	2	2	0	2	0	9	11	head_neck;lung		2	2	FALSE	FALSE	FALSE
+HOXD11	ENSG00000128713	2	2	1	0	2	0	9	11	head_neck;lung		2	2	FALSE	FALSE	FALSE
+HOXD13	ENSG00000128714	2	2	1	0	2	0	9	11	head_neck;lung		2	2	FALSE	FALSE	FALSE
+LHX2	ENSG00000106689	2	2	1	0	2	0	9	11	head_neck;lung		2	2	FALSE	FALSE	FALSE
+TBX18	ENSG00000112837	2	2	2	0	2	0	9	11	head_neck;lung		2	2	FALSE	FALSE	FALSE
+ZNF219	ENSG00000165804	2	2	2	0	2	1	9	11	kidney;liver		2	3	FALSE	FALSE	FALSE
+MYCL	ENSG00000116990	2	1	2	6	8	3	9	11	breast;lung	brain;colorectum;kidney;liver;prostate;thyroid	1	3	FALSE	TRUE	FALSE
+ARNT2	ENSG00000172379	2	1	2	5	7	1	9	11	breast;kidney	lung;pancreas;prostate;stomach;thyroid	1	2	FALSE	TRUE	FALSE
+CEBPA	ENSG00000245848	2	1	2	5	7	2	9	11	kidney;liver	brain;colorectum;lung;prostate;stomach	2	3	FALSE	TRUE	FALSE
+RFX5	ENSG00000143390	2	1	2	5	7	1	9	11	breast;liver	head_neck;lung;pancreas;stomach;thyroid	1	2	FALSE	TRUE	FALSE
+SPI1	ENSG00000066336	2	1	2	5	7	0	9	11	breast;kidney	brain;head_neck;pancreas;stomach;thyroid	3	4	FALSE	TRUE	FALSE
+GATA3	ENSG00000107485	2	1	2	4	6	1	9	11	breast;stomach	head_neck;lung;pancreas;thyroid	1	2	FALSE	TRUE	FALSE
+IRF1	ENSG00000125347	2	1	2	4	6	0	9	11	breast;kidney	brain;head_neck;pancreas;stomach	1	2	FALSE	TRUE	FALSE
+IRF8	ENSG00000140968	2	1	2	4	6	1	9	11	kidney;stomach	brain;colorectum;head_neck;pancreas	1	2	FALSE	TRUE	FALSE
+XBP1	ENSG00000100219	2	1	2	4	6	2	9	11	breast;lung	brain;colorectum;head_neck;prostate	1	2	FALSE	TRUE	FALSE
+BCL11B	ENSG00000127152	2	1	2	3	5	0	9	11	colorectum;lung	head_neck;pancreas;stomach	1	2	FALSE	TRUE	FALSE
+GLIS3	ENSG00000107249	2	1	2	3	5	3	9	11	breast;stomach	brain;head_neck;kidney	1	2	FALSE	TRUE	FALSE
+PPARG	ENSG00000132170	2	1	2	3	5	2	9	11	kidney;liver	colorectum;pancreas;stomach	1	3	FALSE	TRUE	FALSE
+TFAP2C	ENSG00000087510	2	1	2	3	5	1	9	11	colorectum;lung	kidney;prostate;thyroid	2	3	FALSE	TRUE	FALSE
+TFEC	ENSG00000105967	2	1	2	3	5	0	9	11	breast;stomach	brain;kidney;pancreas	1	2	FALSE	TRUE	FALSE
+ZNF552	ENSG00000178935	2	1	2	3	5	0	9	11	breast;liver	brain;kidney;lung	1	2	FALSE	TRUE	FALSE
+ZNF639	ENSG00000121864	2	1	2	3	5	0	9	11	head_neck;lung	brain;kidney;stomach	1	2	FALSE	TRUE	FALSE
+ZNF683	ENSG00000176083	2	1	2	3	5	1	9	11	kidney;stomach	breast;lung;thyroid	1	2	FALSE	TRUE	FALSE
+ZNF786	ENSG00000197362	2	1	2	3	5	0	9	11	colorectum;lung	breast;stomach;thyroid	1	3	FALSE	TRUE	FALSE
+ZNF85	ENSG00000105750	2	1	2	3	5	0	9	11	kidney;lung	brain;breast;prostate	1	2	FALSE	TRUE	FALSE
+BATF3	ENSG00000123685	2	1	2	2	4	2	9	11	kidney;thyroid	brain;pancreas	1	2	FALSE	TRUE	FALSE
+HNF1B	ENSG00000275410	2	1	2	2	4	1	9	11	kidney;stomach	lung;prostate	1	2	FALSE	TRUE	FALSE
+IRX2	ENSG00000170561	2	1	2	2	4	0	9	11	prostate;thyroid	brain;head_neck	1	2	FALSE	TRUE	FALSE
+MTERF1	ENSG00000127989	2	1	2	2	4	0	9	11	kidney;lung	brain;breast	1	3	FALSE	TRUE	FALSE
+OSR2	ENSG00000164920	2	1	2	2	4	0	9	11	head_neck;lung	pancreas;stomach	2	3	FALSE	TRUE	FALSE
+POU2AF1	ENSG00000110777	2	1	2	2	4	0	9	11	head_neck;lung	breast;pancreas	2	3	FALSE	TRUE	FALSE
+TRERF1	ENSG00000124496	2	1	2	2	4	0	9	11	breast;lung	pancreas;stomach	1	3	FALSE	TRUE	FALSE
+ZNF488	ENSG00000265763	2	1	2	2	4	1	9	11	head_neck;lung	brain;stomach	1	2	FALSE	TRUE	FALSE
+DACH1	ENSG00000276644	2	1	2	1	3	0	9	11	breast;colorectum	stomach	1	2	FALSE	TRUE	FALSE
+ERG	ENSG00000157554	2	1	2	1	3	0	9	11	kidney;prostate	pancreas	1	2	FALSE	TRUE	FALSE
+FOXE1	ENSG00000178919	2	1	2	1	3	1	9	11	head_neck;lung	thyroid	1	2	FALSE	TRUE	FALSE
+FOXL1	ENSG00000176678	2	1	2	1	3	0	9	11	kidney;stomach	pancreas	1	2	FALSE	TRUE	FALSE
+HOXA3	ENSG00000105997	2	1	2	1	3	2	9	11	kidney;lung	pancreas	1	3	FALSE	TRUE	FALSE
+HOXA7	ENSG00000122592	2	1	2	1	3	0	9	11	head_neck;lung	kidney	1	2	FALSE	TRUE	FALSE
+HOXB9	ENSG00000170689	2	1	2	1	3	1	9	11	colorectum;stomach	kidney	1	2	FALSE	TRUE	FALSE
+KLF13	ENSG00000169926	2	1	2	1	3	0	9	11	kidney;liver	head_neck	1	2	FALSE	TRUE	FALSE
+MXD1	ENSG00000059728	2	1	2	1	3	1	9	11	kidney;lung	pancreas	1	2	FALSE	TRUE	FALSE
+SOX2	ENSG00000181449	2	1	2	1	3	0	9	11	head_neck;lung	brain	2	3	FALSE	TRUE	FALSE
+TBX19	ENSG00000143178	2	1	2	1	3	2	9	11	kidney;stomach	brain	1	3	FALSE	TRUE	FALSE
+TFCP2L1	ENSG00000115112	2	1	1	1	3	0	9	11	kidney;lung	pancreas	1	2	FALSE	TRUE	FALSE
+ZNF254	ENSG00000213096	2	1	2	1	3	0	9	11	kidney;lung	brain	1	2	FALSE	TRUE	FALSE
+ZNF431	ENSG00000196705	2	1	2	1	3	1	9	11	colorectum;kidney	brain	1	2	FALSE	TRUE	FALSE
+ZNF57	ENSG00000171970	2	1	2	1	3	0	9	11	liver;lung	kidney	1	2	FALSE	TRUE	FALSE
+ZNF711	ENSG00000147180	2	1	2	1	3	0	9	11	lung;stomach	brain	1	2	FALSE	TRUE	FALSE
+ARNTL	ENSG00000133794	2	1	2	0	2	1	9	11	head_neck;thyroid		1	2	FALSE	FALSE	FALSE
+BHLHA15	ENSG00000180535	2	1	2	0	2	0	9	11	lung;prostate		1	2	FALSE	FALSE	FALSE
+CENPT	ENSG00000102901	2	1	2	0	2	2	9	11	kidney;liver		1	3	FALSE	FALSE	FALSE
+CPEB1	ENSG00000214575	2	1	1	0	2	0	9	11	kidney;thyroid		1	2	FALSE	FALSE	FALSE
+DLX4	ENSG00000108813	2	1	2	0	2	0	9	11	head_neck;lung		2	3	FALSE	FALSE	FALSE
+ESRRA	ENSG00000173153	2	1	2	0	2	0	9	11	kidney;lung		1	2	FALSE	FALSE	FALSE
+GATA2	ENSG00000179348	2	1	1	0	2	1	9	11	breast;kidney		1	2	FALSE	FALSE	FALSE
+HOXA11	ENSG00000005073	2	1	1	0	2	1	9	11	colorectum;stomach		1	2	FALSE	FALSE	FALSE
+HOXC8	ENSG00000037965	2	1	1	0	2	1	9	11	kidney;lung		1	2	FALSE	FALSE	FALSE
+IRX6	ENSG00000159387	2	1	1	0	2	0	9	11	kidney;lung		1	2	FALSE	FALSE	FALSE
+KLF8	ENSG00000102349	2	1	2	0	2	2	9	11	kidney;thyroid		2	3	FALSE	FALSE	FALSE
+PGR	ENSG00000082175	2	1	1	0	2	0	9	11	breast;kidney		1	2	FALSE	FALSE	FALSE
+PRDM15	ENSG00000141956	2	1	2	0	2	2	9	11	liver;lung		1	3	FALSE	FALSE	FALSE
+TP63	ENSG00000073282	2	1	2	0	2	0	9	11	head_neck;lung		1	2	FALSE	FALSE	FALSE
+ZNF23	ENSG00000167377	2	1	2	0	2	2	9	11	colorectum;kidney		1	4	FALSE	FALSE	FALSE
+ZNF276	ENSG00000158805	2	1	2	0	2	2	9	11	kidney;prostate		1	4	FALSE	FALSE	FALSE
+ZNF385B	ENSG00000144331	2	1	2	0	2	0	9	11	kidney;prostate		1	2	FALSE	FALSE	FALSE
+ZNF580	ENSG00000213015	2	1	2	0	2	2	9	11	liver;prostate		1	2	FALSE	FALSE	FALSE
+ZNF721	ENSG00000182903	2	1	2	0	2	0	9	11	colorectum;kidney		1	2	FALSE	FALSE	FALSE
+ZNF526	ENSG00000167625	2	0	2	9	11	1	9	11	kidney;liver	brain;breast;colorectum;head_neck;lung;pancreas;prostate;stomach;thyroid	0	2	FALSE	TRUE	FALSE
+ZNF260	ENSG00000254004	2	0	2	7	9	2	9	11	colorectum;lung	brain;breast;kidney;pancreas;prostate;stomach;thyroid	0	3	FALSE	TRUE	FALSE
+CENPS	ENSG00000175279	2	0	2	6	8	2	9	11	breast;lung	brain;colorectum;head_neck;liver;prostate;thyroid	0	3	FALSE	TRUE	FALSE
+TIGD2	ENSG00000180346	2	0	2	6	8	1	9	11	colorectum;lung	brain;head_neck;kidney;prostate;stomach;thyroid	0	3	FALSE	TRUE	FALSE
+ZNF770	ENSG00000198146	2	0	2	6	8	4	9	11	colorectum;lung	brain;breast;kidney;prostate;stomach;thyroid	0	2	FALSE	TRUE	FALSE
+BRF2	ENSG00000104221	2	0	2	5	7	0	9	11	kidney;lung	breast;head_neck;liver;pancreas;thyroid	0	2	FALSE	TRUE	FALSE
+ELK3	ENSG00000111145	2	0	2	5	7	1	9	11	kidney;thyroid	brain;liver;lung;pancreas;stomach	0	2	FALSE	TRUE	FALSE
+HOMEZ	ENSG00000215271	2	0	2	5	7	3	9	11	kidney;lung	brain;breast;colorectum;prostate;thyroid	0	2	FALSE	TRUE	FALSE
+IKZF2	ENSG00000030419	2	0	2	5	7	2	9	11	lung;thyroid	brain;breast;kidney;pancreas;stomach	0	2	FALSE	TRUE	FALSE
+TIGD6	ENSG00000164296	2	0	2	5	7	1	9	11	kidney;liver	brain;breast;lung;prostate;thyroid	0	2	FALSE	TRUE	FALSE
+ZBTB10	ENSG00000205189	2	0	2	5	7	2	9	11	kidney;prostate	brain;breast;head_neck;lung;thyroid	0	2	FALSE	TRUE	FALSE
+ZNF670	ENSG00000277462	2	0	2	5	7	0	9	11	colorectum;stomach	brain;breast;head_neck;lung;prostate	0	2	FALSE	TRUE	FALSE
+ETV6	ENSG00000139083	2	0	2	4	6	2	9	11	kidney;lung	brain;head_neck;pancreas;stomach	0	4	FALSE	TRUE	FALSE
+HIF1A	ENSG00000100644	2	0	2	4	6	0	9	11	head_neck;lung	brain;pancreas;stomach;thyroid	0	3	FALSE	TRUE	FALSE
+ZNF551	ENSG00000204519	2	0	2	4	6	1	9	11	kidney;lung	brain;breast;colorectum;stomach	0	2	FALSE	TRUE	FALSE
+ZNF792	ENSG00000180884	2	0	2	4	6	0	9	11	colorectum;stomach	brain;kidney;pancreas;prostate	0	2	FALSE	TRUE	FALSE
+PLSCR1	ENSG00000188313	2	0	2	3	5	1	9	11	head_neck;stomach	brain;colorectum;pancreas	0	2	FALSE	TRUE	FALSE
+SLC2A4RG	ENSG00000125520	2	0	2	3	5	1	9	11	breast;lung	brain;pancreas;stomach	0	3	FALSE	TRUE	FALSE
+SREBF2	ENSG00000198911	2	0	2	3	5	1	9	11	kidney;liver	breast;lung;prostate	0	2	FALSE	TRUE	FALSE
+ZFAT	ENSG00000066827	2	0	2	3	5	1	9	11	liver;lung	head_neck;pancreas;thyroid	0	2	FALSE	TRUE	FALSE
+ZNF286A	ENSG00000187607	2	0	2	3	5	0	9	11	colorectum;lung	brain;breast;stomach	0	2	FALSE	TRUE	FALSE
+CREB3L2	ENSG00000182158	2	0	2	2	4	1	9	11	liver;lung	brain;kidney	0	2	FALSE	TRUE	FALSE
+E2F6	ENSG00000169016	2	0	2	2	4	0	9	11	colorectum;lung	brain;head_neck	0	3	FALSE	TRUE	FALSE
+OVOL2	ENSG00000125850	2	0	2	2	4	1	9	11	breast;lung	colorectum;prostate	0	3	FALSE	TRUE	FALSE
+ZBED6	ENSG00000257315	2	0	2	2	4	2	9	11	lung;stomach	brain;breast	0	2	FALSE	TRUE	FALSE
+ZBTB45	ENSG00000119574	2	0	2	2	4	1	9	11	breast;liver	lung;stomach	0	2	FALSE	TRUE	FALSE
+ZHX2	ENSG00000178764	2	0	2	2	4	1	9	11	kidney;thyroid	brain;head_neck	0	2	FALSE	TRUE	FALSE
+ZNF43	ENSG00000198521	2	0	2	2	4	0	9	11	breast;kidney	brain;thyroid	0	2	FALSE	TRUE	FALSE
+ZNF436	ENSG00000125945	2	0	2	2	4	1	9	11	liver;lung	brain;kidney	0	2	FALSE	TRUE	FALSE
+ZNF484	ENSG00000127081	2	0	2	2	4	1	9	11	head_neck;lung	kidney;stomach	0	2	FALSE	TRUE	FALSE
+ZNF511	ENSG00000198546	2	0	2	2	4	0	9	11	colorectum;prostate	head_neck;lung	0	2	FALSE	TRUE	FALSE
+ZNF672	ENSG00000171161	2	0	2	2	4	0	9	11	breast;kidney	brain;lung	0	2	FALSE	TRUE	FALSE
+ZNF81	ENSG00000197779	2	0	2	2	4	1	9	11	head_neck;stomach	brain;kidney	0	2	FALSE	TRUE	FALSE
+ATF6B	ENSG00000213676	2	0	2	1	3	0	9	11	breast;liver	lung	0	2	FALSE	TRUE	FALSE
+DOT1L	ENSG00000104885	2	0	2	1	3	2	9	11	breast;prostate	brain	0	2	FALSE	TRUE	FALSE
+EBF4	ENSG00000088881	2	0	1	1	3	2	9	11	breast;kidney	brain	0	3	FALSE	TRUE	FALSE
+FIZ1	ENSG00000179943	2	0	2	1	3	0	9	11	breast;kidney	lung	0	2	FALSE	TRUE	FALSE
+HHEX	ENSG00000152804	2	0	2	1	3	0	9	11	kidney;stomach	brain	0	2	FALSE	TRUE	FALSE
+HNF1A	ENSG00000135100	2	0	2	1	3	0	9	11	colorectum;stomach	kidney	0	2	FALSE	TRUE	FALSE
+NFAT5	ENSG00000102908	2	0	2	1	3	2	9	11	colorectum;kidney	stomach	0	2	FALSE	TRUE	FALSE
+POU2F1	ENSG00000143190	2	0	2	1	3	0	9	11	colorectum;stomach	brain	0	2	FALSE	TRUE	FALSE
+PRR12	ENSG00000126464	2	0	2	1	3	0	9	11	kidney;liver	stomach	0	2	FALSE	TRUE	FALSE
+SMAD3	ENSG00000166949	2	0	2	1	3	0	9	11	kidney;lung	pancreas	0	2	FALSE	TRUE	FALSE
+THAP7	ENSG00000184436	2	0	2	1	3	0	9	11	kidney;lung	head_neck	0	2	FALSE	TRUE	FALSE
+ZBTB39	ENSG00000166860	2	0	2	1	3	0	9	11	colorectum;lung	brain	0	2	FALSE	TRUE	FALSE
+ZKSCAN4	ENSG00000187626	2	0	2	1	3	0	9	11	liver;lung	brain	0	2	FALSE	TRUE	FALSE
+ZNF189	ENSG00000136870	2	0	2	1	3	1	9	11	kidney;liver	lung	0	2	FALSE	TRUE	FALSE
+ZNF256	ENSG00000152454	2	0	2	1	3	0	9	11	kidney;lung	brain	0	2	FALSE	TRUE	FALSE
+ZNF350	ENSG00000256683	2	0	2	1	3	0	9	11	kidney;prostate	breast	0	2	FALSE	TRUE	FALSE
+ZNF558	ENSG00000167785	2	0	2	1	3	2	9	11	kidney;lung	brain	0	3	FALSE	TRUE	FALSE
+ZNF595	ENSG00000272602	2	0	2	1	3	0	9	11	kidney;liver	brain	0	2	FALSE	TRUE	FALSE
+ZNF606	ENSG00000166704	2	0	2	1	3	1	9	11	liver;lung	brain	0	2	FALSE	TRUE	FALSE
+ZNF607	ENSG00000198182	2	0	2	1	3	0	9	11	kidney;lung	breast	0	3	FALSE	TRUE	FALSE
+ZNF625	ENSG00000257591	2	0	2	1	3	0	9	11	breast;kidney	brain	0	2	FALSE	TRUE	FALSE
+ZNF700	ENSG00000196757	2	0	2	1	3	2	9	11	kidney;stomach	brain	0	3	FALSE	TRUE	FALSE
+ZNF718	ENSG00000250312	2	0	2	1	3	0	9	11	kidney;lung	brain	0	2	FALSE	TRUE	FALSE
+ZNF764	ENSG00000169951	2	0	2	1	3	1	9	11	breast;liver	lung	0	2	FALSE	TRUE	FALSE
+ZNF765	ENSG00000196417	2	0	2	1	3	0	9	11	kidney;stomach	brain	0	2	FALSE	TRUE	FALSE
+ZNF77	ENSG00000175691	2	0	2	1	3	1	9	11	liver;lung	brain	0	2	FALSE	TRUE	FALSE
+ZNF8	ENSG00000278129	2	0	2	1	3	1	9	11	colorectum;kidney	stomach	0	2	FALSE	TRUE	FALSE
+ZSCAN21	ENSG00000166529	2	0	2	1	3	0	9	11	kidney;lung	brain	0	2	FALSE	TRUE	FALSE
+C11orf95	ENSG00000188070	2	0	2	0	2	1	9	11	colorectum;kidney		0	2	FALSE	FALSE	FALSE
+CC2D1A	ENSG00000132024	2	0	2	0	2	1	9	11	kidney;thyroid		0	2	FALSE	FALSE	FALSE
+DZIP1	ENSG00000134874	2	0	2	0	2	1	9	11	head_neck;thyroid		0	2	FALSE	FALSE	FALSE
+GMEB2	ENSG00000101216	2	0	2	0	2	0	9	11	kidney;liver		0	2	FALSE	FALSE	FALSE
+HIC2	ENSG00000169635	2	0	2	0	2	0	9	11	kidney;lung		0	2	FALSE	FALSE	FALSE
+HINFP	ENSG00000172273	2	0	2	0	2	2	9	11	kidney;lung		0	2	FALSE	FALSE	FALSE
+HSF2	ENSG00000025156	2	0	2	0	2	0	9	11	liver;lung		0	2	FALSE	FALSE	FALSE
+IKZF4	ENSG00000123411	2	0	2	0	2	0	9	11	kidney;thyroid		0	2	FALSE	FALSE	FALSE
+MXD4	ENSG00000123933	2	0	2	0	2	0	9	11	kidney;liver		0	2	FALSE	FALSE	FALSE
+MZF1	ENSG00000099326	2	0	2	0	2	2	9	11	kidney;prostate		0	2	FALSE	FALSE	FALSE
+NR2F1	ENSG00000175745	2	0	2	0	2	1	9	11	colorectum;thyroid		0	2	FALSE	FALSE	FALSE
+NR6A1	ENSG00000148200	2	0	2	0	2	1	9	11	colorectum;stomach		0	2	FALSE	FALSE	FALSE
+PHF21A	ENSG00000135365	2	0	2	0	2	1	9	11	kidney;liver		0	2	FALSE	FALSE	FALSE
+SGSM2	ENSG00000141258	2	0	2	0	2	2	9	11	kidney;liver		0	2	FALSE	FALSE	FALSE
+STAT6	ENSG00000166888	2	0	2	0	2	1	9	11	kidney;thyroid		0	3	FALSE	FALSE	FALSE
+THAP3	ENSG00000041988	2	0	2	0	2	2	9	11	kidney;liver		0	2	FALSE	FALSE	FALSE
+WIZ	ENSG00000011451	2	0	2	0	2	0	9	11	kidney;lung		0	2	FALSE	FALSE	FALSE
+ZGPAT	ENSG00000197114	2	0	2	0	2	1	9	11	breast;lung		0	2	FALSE	FALSE	FALSE
+ZNF142	ENSG00000115568	2	0	2	0	2	1	9	11	colorectum;liver		0	2	FALSE	FALSE	FALSE
+ZNF18	ENSG00000154957	2	0	2	0	2	0	9	11	kidney;lung		0	2	FALSE	FALSE	FALSE
+ZNF224	ENSG00000267680	2	0	2	0	2	2	9	11	kidney;stomach		0	2	FALSE	FALSE	FALSE
+ZNF248	ENSG00000198105	2	0	2	0	2	2	9	11	kidney;liver		0	3	FALSE	FALSE	FALSE
+ZNF263	ENSG00000006194	2	0	2	0	2	0	9	11	colorectum;kidney		0	2	FALSE	FALSE	FALSE
+ZNF343	ENSG00000088876	2	0	2	0	2	2	9	11	colorectum;lung		0	2	FALSE	FALSE	FALSE
+ZNF446	ENSG00000083838	2	0	2	0	2	2	9	11	breast;liver		0	2	FALSE	FALSE	FALSE
+ZNF449	ENSG00000173275	2	0	2	0	2	2	9	11	colorectum;kidney		0	3	FALSE	FALSE	FALSE
+ZNF497	ENSG00000174586	2	0	2	0	2	1	9	11	breast;prostate		0	2	FALSE	FALSE	FALSE
+ZNF503	ENSG00000165655	2	0	2	0	2	0	9	11	colorectum;liver		0	2	FALSE	FALSE	FALSE
+ZNF507	ENSG00000168813	2	0	2	0	2	0	9	11	kidney;lung		0	2	FALSE	FALSE	FALSE
+ZNF513	ENSG00000163795	2	0	2	0	2	2	9	11	breast;lung		0	3	FALSE	FALSE	FALSE
+ZNF519	ENSG00000175322	2	0	2	0	2	0	9	11	kidney;lung		0	2	FALSE	FALSE	FALSE
+ZNF611	ENSG00000213020	2	0	2	0	2	0	9	11	kidney;stomach		0	2	FALSE	FALSE	FALSE
+ZNF653	ENSG00000161914	2	0	2	0	2	2	9	11	breast;kidney		0	2	FALSE	FALSE	FALSE
+ZNF688	ENSG00000229809	2	0	2	0	2	0	9	11	breast;kidney		0	3	FALSE	FALSE	FALSE
+ZNF740	ENSG00000139651	2	0	2	0	2	1	9	11	kidney;liver		0	2	FALSE	FALSE	FALSE
+ZNF75A	ENSG00000162086	2	0	2	0	2	0	9	11	breast;lung		0	2	FALSE	FALSE	FALSE
+ZNF774	ENSG00000196391	2	0	2	0	2	0	9	11	lung;stomach		0	3	FALSE	FALSE	FALSE
+ZNF784	ENSG00000179922	2	0	2	0	2	1	9	11	kidney;prostate		0	2	FALSE	FALSE	FALSE
+ZNF84	ENSG00000198040	2	0	2	0	2	1	9	11	colorectum;kidney		0	2	FALSE	FALSE	FALSE
+CUX1	ENSG00000257923	1	1	1	9	10	4	9	11	kidney	brain;breast;colorectum;head_neck;lung;pancreas;prostate;stomach;thyroid	1	2	FALSE	TRUE	FALSE
+ZNF629	ENSG00000102870	1	1	1	7	8	1	9	11	kidney	brain;breast;colorectum;head_neck;lung;pancreas;thyroid	1	1	FALSE	TRUE	FALSE
+KLF5	ENSG00000102554	1	1	1	6	7	1	9	11	lung	colorectum;kidney;liver;pancreas;stomach;thyroid	1	1	FALSE	TRUE	FALSE
+LTF	ENSG00000012223	1	1	1	6	7	3	9	11	lung	brain;breast;colorectum;head_neck;pancreas;prostate	1	2	FALSE	TRUE	FALSE
+NFATC2	ENSG00000101096	1	1	1	6	7	4	9	11	kidney	brain;head_neck;liver;lung;pancreas;stomach	1	1	FALSE	TRUE	FALSE
+ZNF322	ENSG00000181315	1	1	1	6	7	1	9	11	lung	brain;breast;head_neck;kidney;liver;prostate	2	2	FALSE	TRUE	FALSE
+ZNF664	ENSG00000179195	1	1	1	6	7	1	9	11	kidney	brain;breast;colorectum;lung;prostate;thyroid	1	1	FALSE	TRUE	FALSE
+FOSL1	ENSG00000175592	1	1	1	5	6	2	9	11	colorectum	brain;head_neck;lung;pancreas;thyroid	1	1	FALSE	TRUE	FALSE
+IKZF1	ENSG00000185811	1	1	1	5	6	1	9	11	kidney	brain;breast;head_neck;pancreas;stomach	1	2	FALSE	TRUE	FALSE
+AR	ENSG00000169083	1	1	1	4	5	0	9	11	kidney	brain;breast;pancreas;prostate	1	2	FALSE	TRUE	FALSE
+ARHGAP35	ENSG00000160007	1	1	1	4	5	3	9	11	kidney	breast;lung;stomach;thyroid	1	1	FALSE	TRUE	FALSE
+HES1	ENSG00000114315	1	1	1	4	5	1	9	11	lung	brain;colorectum;pancreas;stomach	1	2	FALSE	TRUE	FALSE
+HNF4G	ENSG00000164749	1	1	1	4	5	2	9	11	lung	brain;colorectum;kidney;stomach	1	1	FALSE	TRUE	FALSE
+MAFB	ENSG00000204103	1	1	1	4	5	1	9	11	kidney	brain;head_neck;pancreas;stomach	1	2	FALSE	TRUE	FALSE
+MEF2C	ENSG00000081189	1	1	1	4	5	3	9	11	kidney	head_neck;liver;pancreas;stomach	1	1	FALSE	TRUE	FALSE
+TCF4	ENSG00000196628	1	1	1	4	5	1	9	11	kidney	brain;head_neck;pancreas;stomach	1	1	FALSE	TRUE	FALSE
+ZKSCAN2	ENSG00000155592	1	1	1	4	5	3	9	11	kidney	brain;breast;lung;thyroid	1	1	FALSE	TRUE	FALSE
+FOXP1	ENSG00000114861	1	1	1	3	4	0	9	11	kidney	liver;pancreas;prostate	1	1	FALSE	TRUE	FALSE
+LYL1	ENSG00000104903	1	1	1	3	4	0	9	11	kidney	brain;liver;pancreas	1	1	FALSE	TRUE	FALSE
+MECOM	ENSG00000085276	1	1	1	3	4	3	9	11	thyroid	colorectum;kidney;lung	1	1	FALSE	TRUE	FALSE
+MYNN	ENSG00000085274	1	1	1	3	4	2	9	11	lung	brain;head_neck;kidney	1	1	FALSE	TRUE	FALSE
+TSC22D1	ENSG00000102804	1	1	1	3	4	2	9	11	thyroid	head_neck;kidney;pancreas	1	1	FALSE	TRUE	FALSE
+ZBTB7C	ENSG00000184828	1	1	1	3	4	1	9	11	lung	breast;pancreas;thyroid	1	1	FALSE	TRUE	FALSE
+AKNA	ENSG00000106948	1	1	1	2	3	1	9	11	kidney	brain;pancreas	1	3	FALSE	TRUE	FALSE
+FLI1	ENSG00000151702	1	1	1	2	3	0	9	11	kidney	brain;pancreas	1	1	FALSE	TRUE	FALSE
+INSM1	ENSG00000173404	1	1	1	2	3	0	9	11	prostate	brain;pancreas	1	1	FALSE	TRUE	FALSE
+NR1D2	ENSG00000174738	1	1	1	2	3	2	9	11	kidney	lung;thyroid	1	1	FALSE	TRUE	FALSE
+ONECUT2	ENSG00000119547	1	1	1	2	3	0	9	11	stomach	liver;pancreas	1	1	FALSE	TRUE	FALSE
+OSR1	ENSG00000143867	1	1	1	2	3	0	9	11	kidney	brain;pancreas	1	1	FALSE	TRUE	FALSE
+PITX2	ENSG00000164093	1	1	0	2	3	2	9	11	lung	colorectum;head_neck	2	2	FALSE	TRUE	FALSE
+RFX2	ENSG00000087903	1	1	1	2	3	0	9	11	kidney	brain;pancreas	1	2	FALSE	TRUE	FALSE
+SMAD9	ENSG00000120693	1	1	1	2	3	0	9	11	kidney	brain;pancreas	1	2	FALSE	TRUE	FALSE
+SOX8	ENSG00000005513	1	1	1	2	3	1	9	11	prostate	brain;pancreas	1	1	FALSE	TRUE	FALSE
+SPIB	ENSG00000269404	1	1	1	2	3	0	9	11	lung	pancreas;stomach	1	2	FALSE	TRUE	FALSE
+ZNF100	ENSG00000197020	1	1	1	2	3	0	9	11	kidney	brain;thyroid	1	1	FALSE	TRUE	FALSE
+ZNF114	ENSG00000178150	1	1	1	2	3	0	9	11	head_neck	brain;thyroid	1	1	FALSE	TRUE	FALSE
+ZNF91	ENSG00000167232	1	1	1	2	3	0	9	11	kidney	breast;stomach	1	1	FALSE	TRUE	FALSE
+ARID5A	ENSG00000196843	1	1	1	1	2	1	9	11	kidney	pancreas	1	1	FALSE	FALSE	FALSE
+CREB3L3	ENSG00000060566	1	1	1	1	2	1	9	11	kidney	stomach	1	1	FALSE	FALSE	FALSE
+DMRTA2	ENSG00000142700	1	1	0	1	2	0	9	11	lung	brain	1	1	FALSE	FALSE	FALSE
+FOXA2	ENSG00000125798	1	1	1	1	2	1	9	11	colorectum	lung	1	1	FALSE	FALSE	FALSE
+FOXA3	ENSG00000170608	1	1	1	1	2	1	9	11	lung	colorectum	1	1	FALSE	FALSE	FALSE
+FOXF1	ENSG00000103241	1	1	1	1	2	0	9	11	kidney	pancreas	1	1	FALSE	FALSE	FALSE
+FOXF2	ENSG00000137273	1	1	1	1	2	1	9	11	head_neck	pancreas	1	1	FALSE	FALSE	FALSE
+FOXI1	ENSG00000168269	1	1	1	1	2	1	9	11	kidney	breast	1	1	FALSE	FALSE	FALSE
+FOXN3	ENSG00000053254	1	1	1	1	2	0	9	11	kidney	brain	1	1	FALSE	FALSE	FALSE
+FOXO1	ENSG00000150907	1	1	1	1	2	0	9	11	kidney	brain	1	1	FALSE	FALSE	FALSE
+GSC	ENSG00000133937	1	1	1	1	2	0	9	11	prostate	brain	1	1	FALSE	FALSE	FALSE
+HOXA4	ENSG00000197576	1	1	1	1	2	0	9	11	kidney	pancreas	2	2	FALSE	FALSE	FALSE
+KDM2B	ENSG00000089094	1	1	1	1	2	0	9	11	kidney	stomach	1	1	FALSE	FALSE	FALSE
+NR1H3	ENSG00000025434	1	1	1	1	2	0	9	11	kidney	brain	1	1	FALSE	FALSE	FALSE
+NR5A2	ENSG00000116833	1	1	1	1	2	0	9	11	kidney	stomach	1	1	FALSE	FALSE	FALSE
+OLIG1	ENSG00000184221	1	1	1	1	2	0	9	11	kidney	brain	1	1	FALSE	FALSE	FALSE
+PAX8	ENSG00000125618	1	1	1	1	2	0	9	11	stomach	pancreas	1	1	FALSE	FALSE	FALSE
+PDX1	ENSG00000139515	1	1	1	1	2	0	9	11	colorectum	stomach	1	1	FALSE	FALSE	FALSE
+SOX21	ENSG00000125285	1	1	1	1	2	0	9	11	lung	brain	1	1	FALSE	FALSE	FALSE
+TSHZ2	ENSG00000182463	1	1	1	1	2	0	9	11	lung	pancreas	1	1	FALSE	FALSE	FALSE
+ZKSCAN3	ENSG00000189298	1	1	1	1	2	0	9	11	liver	brain	1	1	FALSE	FALSE	FALSE
+ZNF257	ENSG00000197134	1	1	1	1	2	0	9	11	kidney	breast	1	1	FALSE	FALSE	FALSE
+ZNF292	ENSG00000188994	1	1	1	1	2	0	9	11	kidney	brain	1	1	FALSE	FALSE	FALSE
+ZNF382	ENSG00000161298	1	1	1	1	2	0	9	11	kidney	breast	1	3	FALSE	FALSE	FALSE
+ZNF395	ENSG00000186918	1	1	1	1	2	0	9	11	kidney	brain	1	1	FALSE	FALSE	FALSE
+ZNF674	ENSG00000251192	1	1	1	1	2	0	9	11	kidney	lung	1	1	FALSE	FALSE	FALSE
+ZNF750	ENSG00000141579	1	1	1	1	2	0	9	11	lung	thyroid	2	2	FALSE	FALSE	FALSE
+ASCL4	ENSG00000187855	1	1	1	0	1	0	9	11	kidney		1	1	FALSE	FALSE	FALSE
+ATF4	ENSG00000128272	1	1	1	0	1	1	9	11	kidney		1	2	FALSE	FALSE	FALSE
+DLX6	ENSG00000006377	1	1	0	0	1	0	9	11	lung		1	1	FALSE	FALSE	FALSE
+EBF2	ENSG00000221818	1	1	1	0	1	0	9	11	kidney		2	2	FALSE	FALSE	FALSE
+EBF3	ENSG00000108001	1	1	1	0	1	0	9	11	kidney		1	1	FALSE	FALSE	FALSE
+EN1	ENSG00000163064	1	1	1	0	1	0	9	11	head_neck		1	1	FALSE	FALSE	FALSE
+EVX1	ENSG00000106038	1	1	1	0	1	0	9	11	colorectum		1	1	FALSE	FALSE	FALSE
+FEV	ENSG00000163497	1	1	1	0	1	0	9	11	prostate		1	1	FALSE	FALSE	FALSE
+FOXD2	ENSG00000186564	1	1	1	0	1	0	9	11	stomach		1	1	FALSE	FALSE	FALSE
+FOXI2	ENSG00000186766	1	1	1	0	1	0	9	11	kidney		1	1	FALSE	FALSE	FALSE
+FOXJ3	ENSG00000198815	1	1	1	0	1	0	9	11	kidney		1	1	FALSE	FALSE	FALSE
+FOXN1	ENSG00000109101	1	1	1	0	1	0	9	11	lung		1	1	FALSE	FALSE	FALSE
+GFI1	ENSG00000162676	1	1	1	0	1	0	9	11	head_neck		1	1	FALSE	FALSE	FALSE
+GLIS1	ENSG00000174332	1	1	1	0	1	0	9	11	kidney		2	2	FALSE	FALSE	FALSE
+HOXA13	ENSG00000106031	1	1	1	0	1	0	9	11	stomach		1	1	FALSE	FALSE	FALSE
+HOXB8	ENSG00000120068	1	1	1	0	1	0	9	11	colorectum		1	1	FALSE	FALSE	FALSE
+HOXD1	ENSG00000128645	1	1	0	0	1	1	9	11	lung		1	1	FALSE	FALSE	FALSE
+KCNIP3	ENSG00000115041	1	1	1	0	1	0	9	11	kidney		2	2	FALSE	FALSE	FALSE
+LHX9	ENSG00000143355	1	1	1	0	1	0	9	11	kidney		1	1	FALSE	FALSE	FALSE
+MAFA	ENSG00000182759	1	1	1	0	1	0	9	11	kidney		1	1	FALSE	FALSE	FALSE
+MECP2	ENSG00000169057	1	1	1	0	1	0	9	11	kidney		1	1	FALSE	FALSE	FALSE
+MEF2B	ENSG00000213999	1	1	1	0	1	1	9	11	lung		2	2	FALSE	FALSE	FALSE
+MNT	ENSG00000070444	1	1	1	0	1	1	9	11	kidney		1	2	FALSE	FALSE	FALSE
+NKX6-1	ENSG00000163623	1	1	0	0	1	0	9	11	kidney		1	1	FALSE	FALSE	FALSE
+NR1H4	ENSG00000012504	1	1	1	0	1	0	9	11	kidney		1	2	FALSE	FALSE	FALSE
+NR3C2	ENSG00000151623	1	1	1	0	1	0	9	11	kidney		1	1	FALSE	FALSE	FALSE
+PAX6	ENSG00000007372	1	1	1	0	1	0	9	11	lung		1	1	FALSE	FALSE	FALSE
+PLAGL1	ENSG00000118495	1	1	1	0	1	1	9	11	kidney		1	2	FALSE	FALSE	FALSE
+POU5F1B	ENSG00000212993	1	1	1	0	1	0	9	11	colorectum		1	1	FALSE	FALSE	FALSE
+POU6F2	ENSG00000106536	1	1	1	0	1	0	9	11	lung		1	1	FALSE	FALSE	FALSE
+PRDM4	ENSG00000110851	1	1	1	0	1	0	9	11	kidney		1	1	FALSE	FALSE	FALSE
+RXRG	ENSG00000143171	1	1	1	0	1	0	9	11	thyroid		1	1	FALSE	FALSE	FALSE
+SATB1	ENSG00000182568	1	1	1	0	1	0	9	11	kidney		1	1	FALSE	FALSE	FALSE
+SOX14	ENSG00000168875	1	1	1	0	1	0	9	11	prostate		1	1	FALSE	FALSE	FALSE
+SOX15	ENSG00000129194	1	1	1	0	1	0	9	11	lung		1	1	FALSE	FALSE	FALSE
+TCF15	ENSG00000125878	1	1	1	0	1	0	9	11	lung		1	1	FALSE	FALSE	FALSE
+TFAP2E	ENSG00000116819	1	1	1	0	1	0	9	11	head_neck		1	1	FALSE	FALSE	FALSE
+TLX1	ENSG00000107807	1	1	1	0	1	0	9	11	colorectum		1	1	FALSE	FALSE	FALSE
+USF2	ENSG00000105698	1	1	1	0	1	1	9	11	kidney		1	2	FALSE	FALSE	FALSE
+ZBTB43	ENSG00000169155	1	1	1	0	1	0	9	11	kidney		1	1	FALSE	FALSE	FALSE
+ZBTB47	ENSG00000114853	1	1	1	0	1	0	9	11	kidney		1	1	FALSE	FALSE	FALSE
+ZFP57	ENSG00000204644	1	1	1	0	1	0	9	11	kidney		1	1	FALSE	FALSE	FALSE
+ZMAT1	ENSG00000166432	1	1	1	0	1	1	9	11	kidney		1	3	FALSE	FALSE	FALSE
+ZNF334	ENSG00000198185	1	1	1	0	1	0	9	11	kidney		1	1	FALSE	FALSE	FALSE
+ZNF404	ENSG00000176222	1	1	1	0	1	0	9	11	kidney		1	1	FALSE	FALSE	FALSE
+ZNF493	ENSG00000196268	1	1	1	0	1	0	9	11	kidney		1	1	FALSE	FALSE	FALSE
+ZNF541	ENSG00000118156	1	1	0	0	1	0	9	11	kidney		1	1	FALSE	FALSE	FALSE
+ZNF724	ENSG00000196081	1	1	1	0	1	0	9	11	stomach		1	1	FALSE	FALSE	FALSE
+ZNF793	ENSG00000188227	1	1	1	0	1	0	9	11	lung		1	2	FALSE	FALSE	FALSE
+ZNF852	ENSG00000178917	1	1	1	0	1	0	9	11	kidney		1	1	FALSE	FALSE	FALSE
+CHCHD3	ENSG00000106554	1	0	1	9	10	3	9	11	kidney	brain;colorectum;head_neck;liver;lung;pancreas;prostate;stomach;thyroid	0	1	FALSE	TRUE	FALSE
+ZNF669	ENSG00000188295	1	0	1	9	10	2	9	11	liver	brain;breast;colorectum;head_neck;kidney;lung;prostate;stomach;thyroid	0	1	FALSE	TRUE	FALSE
+PHF20	ENSG00000025293	1	0	1	8	9	1	9	11	colorectum	brain;breast;head_neck;kidney;liver;pancreas;prostate;stomach	0	1	FALSE	TRUE	FALSE
+ZNF184	ENSG00000096654	1	0	1	8	9	1	9	11	colorectum	breast;head_neck;kidney;liver;lung;pancreas;stomach;thyroid	0	1	FALSE	TRUE	FALSE
+CEBPZ	ENSG00000115816	1	0	1	7	8	4	9	11	colorectum	brain;breast;head_neck;kidney;lung;prostate;thyroid	0	1	FALSE	TRUE	FALSE
+CENPB	ENSG00000125817	1	0	1	7	8	1	9	11	kidney	colorectum;head_neck;liver;lung;pancreas;stomach;thyroid	0	1	FALSE	TRUE	FALSE
+LIN54	ENSG00000189308	1	0	1	7	8	3	9	11	kidney	breast;colorectum;lung;pancreas;prostate;stomach;thyroid	0	1	FALSE	TRUE	FALSE
+THAP10	ENSG00000129028	1	0	1	7	8	3	9	11	colorectum	breast;head_neck;kidney;lung;pancreas;prostate;thyroid	0	1	FALSE	TRUE	FALSE
+ZKSCAN5	ENSG00000196652	1	0	1	7	8	0	9	11	liver	brain;breast;head_neck;kidney;lung;pancreas;stomach	0	1	FALSE	TRUE	FALSE
+ZNF253	ENSG00000256771	1	0	1	7	8	2	9	11	kidney	brain;breast;colorectum;lung;prostate;stomach;thyroid	0	1	FALSE	TRUE	FALSE
+ZNF277	ENSG00000198839	1	0	1	7	8	3	9	11	kidney	brain;colorectum;head_neck;liver;lung;prostate;thyroid	0	1	FALSE	TRUE	FALSE
+ZNF574	ENSG00000105732	1	0	1	7	8	1	9	11	kidney	colorectum;liver;lung;pancreas;prostate;stomach;thyroid	0	1	FALSE	TRUE	FALSE
+ZNF816	ENSG00000180257	1	0	1	7	8	0	9	11	stomach	brain;breast;colorectum;kidney;lung;pancreas;thyroid	0	1	FALSE	TRUE	FALSE
+YBX1	ENSG00000065978	1	0	1	6	7	0	9	11	lung	brain;colorectum;head_neck;liver;pancreas;stomach	0	1	FALSE	TRUE	FALSE
+ZNF610	ENSG00000167554	1	0	1	6	7	0	9	11	kidney	brain;breast;lung;pancreas;prostate;thyroid	0	1	FALSE	TRUE	FALSE
+ZNF766	ENSG00000196214	1	0	1	6	7	0	9	11	kidney	brain;breast;colorectum;head_neck;liver;lung	0	1	FALSE	TRUE	FALSE
+LCORL	ENSG00000178177	1	0	1	5	6	0	9	11	kidney	brain;colorectum;pancreas;prostate;stomach	0	1	FALSE	TRUE	FALSE
+ZBTB3	ENSG00000185670	1	0	1	5	6	3	9	11	kidney	brain;breast;lung;prostate;thyroid	0	1	FALSE	TRUE	FALSE
+ZNF426	ENSG00000130818	1	0	1	5	6	5	9	11	kidney	brain;breast;lung;prostate;thyroid	0	1	FALSE	TRUE	FALSE
+ZNF428	ENSG00000131116	1	0	1	5	6	0	9	11	breast	head_neck;liver;lung;pancreas;thyroid	0	1	FALSE	TRUE	FALSE
+ZNF430	ENSG00000118620	1	0	1	5	6	2	9	11	thyroid	brain;colorectum;kidney;lung;stomach	0	1	FALSE	TRUE	FALSE
+ZNF626	ENSG00000188171	1	0	1	5	6	1	9	11	kidney	brain;breast;lung;prostate;thyroid	0	1	FALSE	TRUE	FALSE
+ZNF777	ENSG00000196453	1	0	1	5	6	0	9	11	kidney	colorectum;head_neck;liver;lung;stomach	0	1	FALSE	TRUE	FALSE
+ZNF813	ENSG00000198346	1	0	1	5	6	2	9	11	kidney	brain;breast;lung;prostate;thyroid	0	1	FALSE	TRUE	FALSE
+GLI3	ENSG00000106571	1	0	1	4	5	0	9	11	head_neck	brain;kidney;lung;pancreas	0	1	FALSE	TRUE	FALSE
+NCOA2	ENSG00000140396	1	0	1	4	5	2	9	11	kidney	breast;lung;prostate;stomach	0	1	FALSE	TRUE	FALSE
+NFATC1	ENSG00000131196	1	0	1	4	5	2	9	11	kidney	brain;head_neck;pancreas;stomach	0	1	FALSE	TRUE	FALSE
+NFIX	ENSG00000008441	1	0	1	4	5	0	9	11	kidney	brain;liver;pancreas;prostate	0	1	FALSE	TRUE	FALSE
+NKX3-1	ENSG00000167034	1	0	0	4	5	2	9	11	breast	lung;pancreas;prostate;stomach	0	1	FALSE	TRUE	FALSE
+TCF12	ENSG00000140262	1	0	1	4	5	1	9	11	colorectum	brain;kidney;pancreas;stomach	0	1	FALSE	TRUE	FALSE
+TFCP2	ENSG00000135457	1	0	1	4	5	0	9	11	lung	brain;colorectum;kidney;prostate	0	1	FALSE	TRUE	FALSE
+TFDP2	ENSG00000114126	1	0	1	4	5	3	9	11	lung	brain;head_neck;kidney;thyroid	0	1	FALSE	TRUE	FALSE
+ZNF101	ENSG00000181896	1	0	1	4	5	0	9	11	liver	brain;lung;pancreas;stomach	0	1	FALSE	TRUE	FALSE
+ZNF462	ENSG00000148143	1	0	1	4	5	1	9	11	kidney	brain;lung;pancreas;stomach	0	1	FALSE	TRUE	FALSE
+ZNF597	ENSG00000167981	1	0	1	4	5	0	9	11	colorectum	breast;kidney;stomach;thyroid	0	1	FALSE	TRUE	FALSE
+ZNF713	ENSG00000178665	1	0	1	4	5	1	9	11	stomach	brain;breast;kidney;lung	0	1	FALSE	TRUE	FALSE
+ZNF79	ENSG00000196152	1	0	1	4	5	1	9	11	kidney	brain;head_neck;lung;thyroid	0	1	FALSE	TRUE	FALSE
+ZSCAN5A	ENSG00000131848	1	0	1	4	5	0	9	11	kidney	brain;head_neck;lung;stomach	0	1	FALSE	TRUE	FALSE
+ZXDB	ENSG00000198455	1	0	1	4	5	2	9	11	kidney	brain;breast;colorectum;prostate	0	1	FALSE	TRUE	FALSE
+AEBP2	ENSG00000139154	1	0	1	3	4	1	9	11	lung	kidney;stomach;thyroid	0	1	FALSE	TRUE	FALSE
+ATMIN	ENSG00000166454	1	0	1	3	4	3	9	11	kidney	breast;lung;thyroid	0	1	FALSE	TRUE	FALSE
+GTF2I	ENSG00000263001	1	0	1	3	4	1	9	11	colorectum	brain;kidney;lung	0	1	FALSE	TRUE	FALSE
+JAZF1	ENSG00000153814	1	0	1	3	4	1	9	11	kidney	liver;pancreas;thyroid	0	3	FALSE	TRUE	FALSE
+NFE2L2	ENSG00000116044	1	0	1	3	4	1	9	11	lung	brain;kidney;pancreas	0	1	FALSE	TRUE	FALSE
+RORC	ENSG00000143365	1	0	1	3	4	0	9	11	kidney	breast;lung;prostate	0	1	FALSE	TRUE	FALSE
+TBPL1	ENSG00000028839	1	0	1	3	4	0	9	11	lung	colorectum;head_neck;prostate	0	1	FALSE	TRUE	FALSE
+TBX3	ENSG00000135111	1	0	1	3	4	2	9	11	colorectum	head_neck;pancreas;stomach	0	1	FALSE	TRUE	FALSE
+ZFHX3	ENSG00000140836	1	0	1	3	4	2	9	11	kidney	brain;head_neck;stomach	0	1	FALSE	TRUE	FALSE
+ZNF576	ENSG00000124444	1	0	1	3	4	0	9	11	lung	kidney;pancreas;thyroid	0	1	FALSE	TRUE	FALSE
+ZNF613	ENSG00000176024	1	0	1	3	4	0	9	11	prostate	brain;breast;lung	0	1	FALSE	TRUE	FALSE
+ZNF70	ENSG00000187792	1	0	1	3	4	1	9	11	kidney	brain;lung;stomach	0	1	FALSE	TRUE	FALSE
+ZNF701	ENSG00000167562	1	0	1	3	4	0	9	11	kidney	brain;breast;lung	0	1	FALSE	TRUE	FALSE
+ZSCAN32	ENSG00000140987	1	0	1	3	4	0	9	11	kidney	brain;breast;lung	0	1	FALSE	TRUE	FALSE
+ADNP2	ENSG00000101544	1	0	1	2	3	0	9	11	kidney	brain;lung	0	1	FALSE	TRUE	FALSE
+CXXC4	ENSG00000168772	1	0	1	2	3	0	9	11	lung	brain;breast	0	1	FALSE	TRUE	FALSE
+EBF1	ENSG00000164330	1	0	1	2	3	0	9	11	kidney	brain;pancreas	0	1	FALSE	TRUE	FALSE
+ETS2	ENSG00000157557	1	0	1	2	3	1	9	11	colorectum	head_neck;pancreas	0	1	FALSE	TRUE	FALSE
+HIVEP3	ENSG00000127124	1	0	1	2	3	1	9	11	kidney	pancreas;stomach	0	1	FALSE	TRUE	FALSE
+HMGN3	ENSG00000118418	1	0	1	2	3	1	9	11	kidney	lung;thyroid	0	1	FALSE	TRUE	FALSE
+HOXB13	ENSG00000159184	1	0	1	2	3	1	9	11	prostate	colorectum;stomach	0	1	FALSE	TRUE	FALSE
+MAF	ENSG00000178573	1	0	1	2	3	0	9	11	kidney	brain;pancreas	0	1	FALSE	TRUE	FALSE
+MITF	ENSG00000187098	1	0	1	2	3	1	9	11	kidney	brain;pancreas	0	1	FALSE	TRUE	FALSE
+NFIB	ENSG00000147862	1	0	1	2	3	1	9	11	kidney	brain;stomach	0	1	FALSE	TRUE	FALSE
+PBX1	ENSG00000185630	1	0	1	2	3	1	9	11	breast	brain;thyroid	0	1	FALSE	TRUE	FALSE
+PCGF6	ENSG00000156374	1	0	1	2	3	0	9	11	lung	brain;head_neck	0	1	FALSE	TRUE	FALSE
+RARB	ENSG00000077092	1	0	1	2	3	1	9	11	lung	kidney;pancreas	0	1	FALSE	TRUE	FALSE
+SOX6	ENSG00000110693	1	0	1	2	3	1	9	11	lung	brain;kidney	0	1	FALSE	TRUE	FALSE
+SP1	ENSG00000185591	1	0	1	2	3	0	9	11	kidney	brain;stomach	0	1	FALSE	TRUE	FALSE
+SP100	ENSG00000067066	1	0	1	2	3	0	9	11	head_neck	brain;pancreas	0	1	FALSE	TRUE	FALSE
+TFEB	ENSG00000112561	1	0	1	2	3	0	9	11	kidney	brain;pancreas	0	1	FALSE	TRUE	FALSE
+TRAFD1	ENSG00000135148	1	0	1	2	3	0	9	11	breast	brain;pancreas	0	1	FALSE	TRUE	FALSE
+USF3	ENSG00000176542	1	0	1	2	3	1	9	11	kidney	prostate;stomach	0	1	FALSE	TRUE	FALSE
+ZBED9	ENSG00000232040	1	0	1	2	3	1	9	11	lung	kidney;prostate	0	1	FALSE	TRUE	FALSE
+ZBTB22	ENSG00000236104	1	0	1	2	3	1	9	11	liver	prostate;thyroid	0	1	FALSE	TRUE	FALSE
+ZBTB38	ENSG00000177311	1	0	1	2	3	2	9	11	kidney	head_neck;stomach	0	1	FALSE	TRUE	FALSE
+ZBTB7A	ENSG00000178951	1	0	1	2	3	1	9	11	kidney	pancreas;stomach	0	1	FALSE	TRUE	FALSE
+ZEB1	ENSG00000148516	1	0	1	2	3	0	9	11	kidney	brain;pancreas	0	1	FALSE	TRUE	FALSE
+ZFP69	ENSG00000187815	1	0	1	2	3	0	9	11	lung	brain;breast	0	2	FALSE	TRUE	FALSE
+ZNF174	ENSG00000103343	1	0	1	2	3	0	9	11	liver	breast;lung	0	1	FALSE	TRUE	FALSE
+ZNF394	ENSG00000160908	1	0	1	2	3	0	9	11	kidney	brain;pancreas	0	1	FALSE	TRUE	FALSE
+ZNF487	ENSG00000243660	1	0	1	2	3	1	9	11	kidney	pancreas;stomach	0	1	FALSE	TRUE	FALSE
+ZNF518B	ENSG00000178163	1	0	1	2	3	0	9	11	lung	head_neck;pancreas	0	1	FALSE	TRUE	FALSE
+ZNF566	ENSG00000186017	1	0	1	2	3	0	9	11	colorectum	brain;kidney	0	1	FALSE	TRUE	FALSE
+ZNF572	ENSG00000180938	1	0	1	2	3	0	9	11	colorectum	brain;breast	0	1	FALSE	TRUE	FALSE
+ZNF652	ENSG00000198740	1	0	1	2	3	0	9	11	prostate	brain;breast	0	1	FALSE	TRUE	FALSE
+ZNF691	ENSG00000164011	1	0	1	2	3	0	9	11	lung	brain;breast	0	1	FALSE	TRUE	FALSE
+ZNF704	ENSG00000164684	1	0	1	2	3	1	9	11	liver	brain;kidney	0	1	FALSE	TRUE	FALSE
+ZSCAN25	ENSG00000197037	1	0	1	2	3	0	9	11	kidney	brain;lung	0	1	FALSE	TRUE	FALSE
+BCL6	ENSG00000113916	1	0	1	1	2	1	9	11	kidney	brain	0	2	FALSE	FALSE	FALSE
+BORCS8-MEF2B	ENSG00000064489	1	0	1	1	2	1	9	11	liver	brain	0	1	FALSE	FALSE	FALSE
+CASZ1	ENSG00000130940	1	0	1	1	2	0	9	11	breast	brain	0	1	FALSE	FALSE	FALSE
+CEBPD	ENSG00000221869	1	0	1	1	2	1	9	11	kidney	brain	0	1	FALSE	FALSE	FALSE
+DPF3	ENSG00000205683	1	0	1	1	2	0	9	11	kidney	brain	0	1	FALSE	FALSE	FALSE
+ELK4	ENSG00000158711	1	0	1	1	2	0	9	11	stomach	brain	0	1	FALSE	FALSE	FALSE
+FOXP2	ENSG00000128573	1	0	1	1	2	0	9	11	kidney	lung	0	1	FALSE	FALSE	FALSE
+GLYR1	ENSG00000140632	1	0	1	1	2	0	9	11	breast	kidney	0	1	FALSE	FALSE	FALSE
+GZF1	ENSG00000125812	1	0	1	1	2	0	9	11	colorectum	kidney	0	1	FALSE	FALSE	FALSE
+HIC1	ENSG00000177374	1	0	1	1	2	1	9	11	kidney	pancreas	0	1	FALSE	FALSE	FALSE
+HMBOX1	ENSG00000147421	1	0	1	1	2	1	9	11	kidney	brain	0	1	FALSE	FALSE	FALSE
+HOXB4	ENSG00000182742	1	0	1	1	2	1	9	11	colorectum	pancreas	0	1	FALSE	FALSE	FALSE
+KDM2A	ENSG00000173120	1	0	1	1	2	0	9	11	kidney	pancreas	0	1	FALSE	FALSE	FALSE
+KLF6	ENSG00000067082	1	0	1	1	2	0	9	11	kidney	brain	0	1	FALSE	FALSE	FALSE
+L3MBTL3	ENSG00000198945	1	0	1	1	2	1	9	11	lung	pancreas	0	1	FALSE	FALSE	FALSE
+LCOR	ENSG00000196233	1	0	1	1	2	0	9	11	lung	stomach	0	2	FALSE	FALSE	FALSE
+MAX	ENSG00000125952	1	0	1	1	2	0	9	11	kidney	pancreas	0	1	FALSE	FALSE	FALSE
+MBD6	ENSG00000166987	1	0	1	1	2	1	9	11	kidney	brain	0	1	FALSE	FALSE	FALSE
+NFIA	ENSG00000162599	1	0	1	1	2	0	9	11	kidney	brain	0	1	FALSE	FALSE	FALSE
+NKX2-1	ENSG00000136352	1	0	1	1	2	0	9	11	thyroid	lung	0	1	FALSE	FALSE	FALSE
+NPAS3	ENSG00000151322	1	0	1	1	2	0	9	11	thyroid	brain	0	1	FALSE	FALSE	FALSE
+NR1H2	ENSG00000131408	1	0	1	1	2	0	9	11	kidney	thyroid	0	1	FALSE	FALSE	FALSE
+NR3C1	ENSG00000113580	1	0	1	1	2	1	9	11	kidney	head_neck	0	1	FALSE	FALSE	FALSE
+PPARD	ENSG00000112033	1	0	1	1	2	1	9	11	kidney	pancreas	0	2	FALSE	FALSE	FALSE
+PRDM8	ENSG00000152784	1	0	1	1	2	0	9	11	lung	pancreas	0	1	FALSE	FALSE	FALSE
+RBPJ	ENSG00000168214	1	0	1	1	2	0	9	11	kidney	brain	0	1	FALSE	FALSE	FALSE
+SKI	ENSG00000157933	1	0	1	1	2	0	9	11	kidney	pancreas	0	1	FALSE	FALSE	FALSE
+SOX13	ENSG00000143842	1	0	1	1	2	0	9	11	liver	brain	0	1	FALSE	FALSE	FALSE
+SRCAP	ENSG00000080603	1	0	1	1	2	0	9	11	kidney	brain	0	1	FALSE	FALSE	FALSE
+TAL1	ENSG00000162367	1	0	1	1	2	1	9	11	kidney	brain	0	1	FALSE	FALSE	FALSE
+TEF	ENSG00000167074	1	0	1	1	2	0	9	11	kidney	thyroid	0	1	FALSE	FALSE	FALSE
+TET2	ENSG00000168769	1	0	1	1	2	0	9	11	kidney	brain	0	1	FALSE	FALSE	FALSE
+THAP9	ENSG00000168152	1	0	1	1	2	0	9	11	kidney	lung	0	1	FALSE	FALSE	FALSE
+THRB	ENSG00000151090	1	0	1	1	2	0	9	11	kidney	prostate	0	1	FALSE	FALSE	FALSE
+TSHZ3	ENSG00000121297	1	0	1	1	2	0	9	11	head_neck	pancreas	0	1	FALSE	FALSE	FALSE
+YY2	ENSG00000230797	1	0	1	1	2	0	9	11	breast	brain	0	1	FALSE	FALSE	FALSE
+ZBTB5	ENSG00000168795	1	0	1	1	2	0	9	11	lung	brain	0	1	FALSE	FALSE	FALSE
+ZEB2	ENSG00000169554	1	0	1	1	2	0	9	11	kidney	pancreas	0	1	FALSE	FALSE	FALSE
+ZNF12	ENSG00000164631	1	0	1	1	2	0	9	11	kidney	brain	0	2	FALSE	FALSE	FALSE
+ZNF19	ENSG00000157429	1	0	1	1	2	0	9	11	kidney	brain	0	1	FALSE	FALSE	FALSE
+ZNF212	ENSG00000170260	1	0	1	1	2	0	9	11	lung	brain	0	2	FALSE	FALSE	FALSE
+ZNF227	ENSG00000131115	1	0	1	1	2	0	9	11	kidney	brain	0	1	FALSE	FALSE	FALSE
+ZNF232	ENSG00000167840	1	0	1	1	2	0	9	11	liver	brain	0	1	FALSE	FALSE	FALSE
+ZNF266	ENSG00000174652	1	0	1	1	2	1	9	11	kidney	brain	0	1	FALSE	FALSE	FALSE
+ZNF286B	ENSG00000249459	1	0	1	1	2	0	9	11	lung	brain	0	1	FALSE	FALSE	FALSE
+ZNF304	ENSG00000131845	1	0	1	1	2	2	9	11	kidney	breast	0	1	FALSE	FALSE	FALSE
+ZNF317	ENSG00000130803	1	0	1	1	2	0	9	11	kidney	brain	0	1	FALSE	FALSE	FALSE
+ZNF324	ENSG00000083812	1	0	1	1	2	0	9	11	kidney	lung	0	1	FALSE	FALSE	FALSE
+ZNF333	ENSG00000160961	1	0	1	1	2	1	9	11	kidney	brain	0	1	FALSE	FALSE	FALSE
+ZNF345	ENSG00000251247	1	0	1	1	2	1	9	11	kidney	brain	0	2	FALSE	FALSE	FALSE
+ZNF365	ENSG00000138311	1	0	1	1	2	0	9	11	breast	pancreas	0	1	FALSE	FALSE	FALSE
+ZNF384	ENSG00000126746	1	0	1	1	2	0	9	11	lung	brain	0	1	FALSE	FALSE	FALSE
+ZNF391	ENSG00000124613	1	0	1	1	2	0	9	11	colorectum	lung	0	1	FALSE	FALSE	FALSE
+ZNF41	ENSG00000147124	1	0	1	1	2	2	9	11	kidney	breast	0	1	FALSE	FALSE	FALSE
+ZNF432	ENSG00000256087	1	0	1	1	2	1	9	11	liver	brain	0	1	FALSE	FALSE	FALSE
+ZNF439	ENSG00000171291	1	0	1	1	2	0	9	11	kidney	brain	0	1	FALSE	FALSE	FALSE
+ZNF491	ENSG00000177599	1	0	1	1	2	0	9	11	kidney	brain	0	1	FALSE	FALSE	FALSE
+ZNF512	ENSG00000243943	1	0	1	1	2	0	9	11	liver	brain	0	1	FALSE	FALSE	FALSE
+ZNF516	ENSG00000101493	1	0	1	1	2	0	9	11	kidney	brain	0	1	FALSE	FALSE	FALSE
+ZNF548	ENSG00000188785	1	0	1	1	2	0	9	11	kidney	brain	0	1	FALSE	FALSE	FALSE
+ZNF555	ENSG00000186300	1	0	1	1	2	0	9	11	kidney	brain	0	1	FALSE	FALSE	FALSE
+ZNF563	ENSG00000188868	1	0	1	1	2	0	9	11	liver	brain	0	1	FALSE	FALSE	FALSE
+ZNF567	ENSG00000189042	1	0	1	1	2	0	9	11	lung	brain	0	1	FALSE	FALSE	FALSE
+ZNF608	ENSG00000168916	1	0	1	1	2	0	9	11	kidney	brain	0	1	FALSE	FALSE	FALSE
+ZNF609	ENSG00000180357	1	0	1	1	2	0	9	11	kidney	brain	0	1	FALSE	FALSE	FALSE
+ZNF621	ENSG00000172888	1	0	1	1	2	1	9	11	colorectum	brain	0	1	FALSE	FALSE	FALSE
+ZNF665	ENSG00000197497	1	0	1	1	2	0	9	11	kidney	brain	0	1	FALSE	FALSE	FALSE
+ZNF69	ENSG00000198429	1	0	1	1	2	1	9	11	stomach	brain	0	1	FALSE	FALSE	FALSE
+ZNF708	ENSG00000182141	1	0	1	1	2	0	9	11	kidney	brain	0	1	FALSE	FALSE	FALSE
+ZNF773	ENSG00000152439	1	0	1	1	2	0	9	11	kidney	brain	0	1	FALSE	FALSE	FALSE
+ZNF778	ENSG00000170100	1	0	1	1	2	0	9	11	kidney	brain	0	1	FALSE	FALSE	FALSE
+ZNF799	ENSG00000196466	1	0	1	1	2	0	9	11	stomach	brain	0	1	FALSE	FALSE	FALSE
+ZSCAN29	ENSG00000140265	1	0	1	1	2	0	9	11	kidney	brain	0	1	FALSE	FALSE	FALSE
+AHDC1	ENSG00000126705	1	0	1	0	1	1	9	11	lung		0	2	FALSE	FALSE	FALSE
+AKAP8	ENSG00000105127	1	0	1	0	1	0	9	11	kidney		0	1	FALSE	FALSE	FALSE
+ARID3B	ENSG00000179361	1	0	1	0	1	1	9	11	liver		0	1	FALSE	FALSE	FALSE
+BAZ2A	ENSG00000076108	1	0	1	0	1	0	9	11	kidney		0	1	FALSE	FALSE	FALSE
+CIC	ENSG00000079432	1	0	1	0	1	0	9	11	kidney		0	1	FALSE	FALSE	FALSE
+CSRNP2	ENSG00000110925	1	0	1	0	1	0	9	11	breast		0	1	FALSE	FALSE	FALSE
+CXXC1	ENSG00000154832	1	0	1	0	1	1	9	11	kidney		0	1	FALSE	FALSE	FALSE
+EPAS1	ENSG00000116016	1	0	1	0	1	0	9	11	kidney		0	1	FALSE	FALSE	FALSE
+HKR1	ENSG00000181666	1	0	1	0	1	0	9	11	kidney		0	1	FALSE	FALSE	FALSE
+HOXA2	ENSG00000105996	1	0	0	0	1	1	9	11	kidney		0	1	FALSE	FALSE	FALSE
+IRF4	ENSG00000137265	1	0	1	0	1	0	9	11	lung		0	1	FALSE	FALSE	FALSE
+KCMF1	ENSG00000176407	1	0	1	0	1	0	9	11	lung		0	1	FALSE	FALSE	FALSE
+L3MBTL4	ENSG00000154655	1	0	1	0	1	0	9	11	kidney		0	1	FALSE	FALSE	FALSE
+LMX1B	ENSG00000136944	1	0	1	0	1	0	9	11	breast		0	1	FALSE	FALSE	FALSE
+MAFK	ENSG00000198517	1	0	1	0	1	1	9	11	kidney		0	2	FALSE	FALSE	FALSE
+MBD3	ENSG00000071655	1	0	1	0	1	0	9	11	kidney		0	1	FALSE	FALSE	FALSE
+MBD4	ENSG00000129071	1	0	1	0	1	0	9	11	head_neck		0	1	FALSE	FALSE	FALSE
+MEF2A	ENSG00000068305	1	0	1	0	1	0	9	11	kidney		0	1	FALSE	FALSE	FALSE
+MEF2D	ENSG00000116604	1	0	1	0	1	0	9	11	liver		0	1	FALSE	FALSE	FALSE
+MTERF2	ENSG00000120832	1	0	0	0	1	1	9	11	kidney		0	1	FALSE	FALSE	FALSE
+MTF2	ENSG00000143033	1	0	1	0	1	0	9	11	stomach		0	1	FALSE	FALSE	FALSE
+MXI1	ENSG00000119950	1	0	1	0	1	0	9	11	kidney		0	1	FALSE	FALSE	FALSE
+NFIC	ENSG00000141905	1	0	1	0	1	0	9	11	kidney		0	1	FALSE	FALSE	FALSE
+NKX2-8	ENSG00000136327	1	0	1	0	1	0	9	11	thyroid		0	1	FALSE	FALSE	FALSE
+NR2C1	ENSG00000120798	1	0	1	0	1	1	9	11	stomach		0	1	FALSE	FALSE	FALSE
+NR2C2	ENSG00000177463	1	0	1	0	1	1	9	11	liver		0	1	FALSE	FALSE	FALSE
+PBX2	ENSG00000204304	1	0	1	0	1	0	9	11	liver		0	1	FALSE	FALSE	FALSE
+PIN1	ENSG00000127445	1	0	1	0	1	1	9	11	breast		0	1	FALSE	FALSE	FALSE
+POU3F1	ENSG00000185668	1	0	1	0	1	0	9	11	head_neck		0	1	FALSE	FALSE	FALSE
+POU6F1	ENSG00000184271	1	0	1	0	1	0	9	11	kidney		0	1	FALSE	FALSE	FALSE
+RLF	ENSG00000117000	1	0	1	0	1	0	9	11	kidney		0	1	FALSE	FALSE	FALSE
+SCMH1	ENSG00000010803	1	0	1	0	1	1	9	11	kidney		0	2	FALSE	FALSE	FALSE
+SETDB2	ENSG00000136169	1	0	1	0	1	0	9	11	kidney		0	1	FALSE	FALSE	FALSE
+TAL2	ENSG00000186051	1	0	1	0	1	0	9	11	kidney		0	1	FALSE	FALSE	FALSE
+TFAP2B	ENSG00000008196	1	0	0	0	1	0	9	11	breast		0	1	FALSE	FALSE	FALSE
+THRA	ENSG00000126351	1	0	1	0	1	0	9	11	liver		0	1	FALSE	FALSE	FALSE
+ZBED5	ENSG00000236287	1	0	1	0	1	1	9	11	liver		0	1	FALSE	FALSE	FALSE
+ZBTB17	ENSG00000116809	1	0	1	0	1	1	9	11	kidney		0	1	FALSE	FALSE	FALSE
+ZBTB40	ENSG00000184677	1	0	1	0	1	1	9	11	liver		0	1	FALSE	FALSE	FALSE
+ZBTB48	ENSG00000204859	1	0	1	0	1	1	9	11	kidney		0	1	FALSE	FALSE	FALSE
+ZFHX2	ENSG00000136367	1	0	1	0	1	0	9	11	breast		0	1	FALSE	FALSE	FALSE
+ZFP90	ENSG00000184939	1	0	1	0	1	0	9	11	kidney		0	1	FALSE	FALSE	FALSE
+ZNF141	ENSG00000131127	1	0	1	0	1	0	9	11	kidney		0	1	FALSE	FALSE	FALSE
+ZNF154	ENSG00000179909	1	0	1	0	1	0	9	11	kidney		0	1	FALSE	FALSE	FALSE
+ZNF160	ENSG00000170949	1	0	1	0	1	1	9	11	kidney		0	1	FALSE	FALSE	FALSE
+ZNF177	ENSG00000188629	1	0	1	0	1	1	9	11	colorectum		0	1	FALSE	FALSE	FALSE
+ZNF208	ENSG00000160321	1	0	0	0	1	0	9	11	kidney		0	1	FALSE	FALSE	FALSE
+ZNF215	ENSG00000149054	1	0	1	0	1	0	9	11	colorectum		0	1	FALSE	FALSE	FALSE
+ZNF226	ENSG00000167380	1	0	1	0	1	1	9	11	kidney		0	1	FALSE	FALSE	FALSE
+ZNF34	ENSG00000196378	1	0	1	0	1	0	9	11	liver		0	1	FALSE	FALSE	FALSE
+ZNF358	ENSG00000198816	1	0	1	0	1	1	9	11	kidney		0	2	FALSE	FALSE	FALSE
+ZNF397	ENSG00000186812	1	0	1	0	1	0	9	11	kidney		0	1	FALSE	FALSE	FALSE
+ZNF414	ENSG00000133250	1	0	1	0	1	0	9	11	kidney		0	1	FALSE	FALSE	FALSE
+ZNF444	ENSG00000167685	1	0	1	0	1	1	9	11	breast		0	1	FALSE	FALSE	FALSE
+ZNF445	ENSG00000185219	1	0	1	0	1	0	9	11	kidney		0	1	FALSE	FALSE	FALSE
+ZNF461	ENSG00000197808	1	0	1	0	1	1	9	11	liver		0	1	FALSE	FALSE	FALSE
+ZNF500	ENSG00000103199	1	0	1	0	1	1	9	11	liver		0	1	FALSE	FALSE	FALSE
+ZNF506	ENSG00000081665	1	0	1	0	1	1	9	11	liver		0	1	FALSE	FALSE	FALSE
+ZNF518A	ENSG00000177853	1	0	1	0	1	1	9	11	stomach		0	1	FALSE	FALSE	FALSE
+ZNF529	ENSG00000186020	1	0	1	0	1	0	9	11	kidney		0	1	FALSE	FALSE	FALSE
+ZNF547	ENSG00000152433	1	0	1	0	1	1	9	11	prostate		0	1	FALSE	FALSE	FALSE
+ZNF554	ENSG00000172006	1	0	1	0	1	0	9	11	kidney		0	1	FALSE	FALSE	FALSE
+ZNF577	ENSG00000161551	1	0	1	0	1	1	9	11	prostate		0	1	FALSE	FALSE	FALSE
+ZNF589	ENSG00000164048	1	0	1	0	1	1	9	11	liver		0	1	FALSE	FALSE	FALSE
+ZNF594	ENSG00000180626	1	0	1	0	1	0	9	11	lung		0	1	FALSE	FALSE	FALSE
+ZNF615	ENSG00000197619	1	0	1	0	1	0	9	11	prostate		0	1	FALSE	FALSE	FALSE
+ZNF630	ENSG00000221994	1	0	1	0	1	0	9	11	kidney		0	1	FALSE	FALSE	FALSE
+ZNF654	ENSG00000175105	1	0	1	0	1	0	9	11	kidney		0	1	FALSE	FALSE	FALSE
+ZNF667	ENSG00000198046	1	0	1	0	1	1	9	11	prostate		0	1	FALSE	FALSE	FALSE
+ZNF671	ENSG00000083814	1	0	1	0	1	1	9	11	kidney		0	2	FALSE	FALSE	FALSE
+ZNF717	ENSG00000227124	1	0	1	0	1	0	9	11	colorectum		0	1	FALSE	FALSE	FALSE
+ZNF75D	ENSG00000186376	1	0	1	0	1	0	9	11	kidney		0	1	FALSE	FALSE	FALSE
+ZNF76	ENSG00000065029	1	0	1	0	1	1	9	11	liver		0	1	FALSE	FALSE	FALSE
+ZNF782	ENSG00000196597	1	0	1	0	1	1	9	11	colorectum		0	1	FALSE	FALSE	FALSE
+ZNF808	ENSG00000198482	1	0	1	0	1	0	9	11	kidney		0	1	FALSE	FALSE	FALSE
+ZNF835	ENSG00000127903	1	0	0	0	1	0	9	11	kidney		0	1	FALSE	FALSE	FALSE
+ZNF836	ENSG00000196267	1	0	1	0	1	0	9	11	liver		0	1	FALSE	FALSE	FALSE
+ZSCAN1	ENSG00000152467	1	0	0	0	1	1	9	11	prostate		0	1	FALSE	FALSE	FALSE
+CDC5L	ENSG00000096401	0	0	0	10	10	4	9	11		brain;breast;colorectum;head_neck;kidney;liver;lung;prostate;stomach;thyroid	0	0	FALSE	TRUE	FALSE
+ATF6	ENSG00000118217	0	0	0	9	9	2	9	11		brain;breast;colorectum;head_neck;kidney;liver;lung;stomach;thyroid	0	0	FALSE	TRUE	FALSE
+EGR2	ENSG00000122877	0	0	0	9	9	5	9	11		brain;colorectum;head_neck;kidney;lung;pancreas;prostate;stomach;thyroid	0	0	FALSE	TRUE	FALSE
+GMEB1	ENSG00000162419	0	0	0	9	9	2	9	11		brain;breast;colorectum;head_neck;lung;pancreas;prostate;stomach;thyroid	0	0	FALSE	TRUE	FALSE
+ZBTB6	ENSG00000186130	0	0	0	9	9	3	9	11		brain;breast;colorectum;head_neck;kidney;lung;prostate;stomach;thyroid	0	0	FALSE	TRUE	FALSE
+ZNF148	ENSG00000163848	0	0	0	9	9	6	9	11		brain;breast;colorectum;head_neck;kidney;lung;prostate;stomach;thyroid	0	0	FALSE	TRUE	FALSE
+ZNF416	ENSG00000083817	0	0	0	9	9	4	9	11		brain;breast;colorectum;kidney;liver;lung;pancreas;prostate;thyroid	0	0	FALSE	TRUE	FALSE
+ZNF557	ENSG00000130544	0	0	0	9	9	6	9	11		brain;breast;colorectum;head_neck;kidney;lung;prostate;stomach;thyroid	0	0	FALSE	TRUE	FALSE
+BBX	ENSG00000114439	0	0	0	8	8	4	9	11		brain;breast;head_neck;kidney;lung;pancreas;stomach;thyroid	0	0	FALSE	TRUE	FALSE
+DR1	ENSG00000117505	0	0	0	8	8	3	9	11		brain;colorectum;head_neck;kidney;lung;pancreas;stomach;thyroid	0	0	FALSE	TRUE	FALSE
+THAP5	ENSG00000177683	0	0	0	8	8	4	9	11		brain;breast;colorectum;head_neck;kidney;lung;prostate;thyroid	0	0	FALSE	TRUE	FALSE
+ZBTB2	ENSG00000181472	0	0	0	8	8	2	9	11		brain;breast;colorectum;head_neck;kidney;lung;stomach;thyroid	0	0	FALSE	TRUE	FALSE
+ZNF624	ENSG00000197566	0	0	0	8	8	4	9	11		brain;breast;head_neck;kidney;lung;pancreas;stomach;thyroid	0	0	FALSE	TRUE	FALSE
+ZNF772	ENSG00000197128	0	0	0	8	8	1	9	11		brain;breast;kidney;lung;pancreas;prostate;stomach;thyroid	0	0	FALSE	TRUE	FALSE
+ZNF845	ENSG00000213799	0	0	0	8	8	3	9	11		brain;breast;colorectum;head_neck;kidney;lung;prostate;stomach	0	0	FALSE	TRUE	FALSE
+ATF1	ENSG00000123268	0	0	0	7	7	2	9	11		brain;colorectum;head_neck;kidney;lung;stomach;thyroid	0	0	FALSE	TRUE	FALSE
+CHAMP1	ENSG00000198824	0	0	0	7	7	3	9	11		brain;breast;colorectum;head_neck;lung;prostate;stomach	0	0	FALSE	TRUE	FALSE
+CTCF	ENSG00000102974	0	0	0	7	7	3	9	11		brain;colorectum;kidney;lung;prostate;stomach;thyroid	0	0	FALSE	TRUE	FALSE
+ETV3	ENSG00000117036	0	0	0	7	7	5	9	11		brain;breast;colorectum;kidney;lung;pancreas;prostate	0	0	FALSE	TRUE	FALSE
+REST	ENSG00000084093	0	0	0	7	7	1	9	11		brain;breast;colorectum;kidney;lung;stomach;thyroid	0	0	FALSE	TRUE	FALSE
+SP3	ENSG00000172845	0	0	0	7	7	0	9	11		brain;colorectum;head_neck;kidney;lung;pancreas;stomach	0	0	FALSE	TRUE	FALSE
+ZNF268	ENSG00000090612	0	0	0	7	7	6	9	11		brain;breast;colorectum;kidney;lung;prostate;thyroid	0	0	FALSE	TRUE	FALSE
+ZNF543	ENSG00000178229	0	0	0	7	7	3	9	11		brain;breast;kidney;lung;pancreas;prostate;stomach	0	0	FALSE	TRUE	FALSE
+ZNF614	ENSG00000142556	0	0	0	7	7	2	9	11		brain;breast;colorectum;kidney;lung;prostate;stomach	0	0	FALSE	TRUE	FALSE
+ZNF627	ENSG00000198551	0	0	0	7	7	3	9	11		brain;breast;colorectum;kidney;lung;prostate;thyroid	0	0	FALSE	TRUE	FALSE
+ZNF649	ENSG00000198093	0	0	0	7	7	4	9	11		brain;breast;kidney;lung;pancreas;prostate;thyroid	0	0	FALSE	TRUE	FALSE
+ZNF689	ENSG00000156853	0	0	0	7	7	3	9	11		brain;breast;head_neck;kidney;lung;stomach;thyroid	0	0	FALSE	TRUE	FALSE
+CENPBD1	ENSG00000177946	0	0	0	6	6	2	9	11		breast;head_neck;kidney;lung;prostate;thyroid	0	0	FALSE	TRUE	FALSE
+CREB3	ENSG00000107175	0	0	0	6	6	0	9	11		breast;head_neck;kidney;lung;pancreas;thyroid	0	0	FALSE	TRUE	FALSE
+CREBL2	ENSG00000111269	0	0	0	6	6	4	9	11		head_neck;kidney;lung;pancreas;prostate;thyroid	0	0	FALSE	TRUE	FALSE
+FOSB	ENSG00000125740	0	0	0	6	6	4	9	11		brain;head_neck;kidney;pancreas;prostate;thyroid	0	0	FALSE	TRUE	FALSE
+NAIF1	ENSG00000171169	0	0	0	6	6	1	9	11		brain;head_neck;kidney;lung;prostate;thyroid	0	0	FALSE	TRUE	FALSE
+NFATC3	ENSG00000072736	0	0	0	6	6	1	9	11		brain;colorectum;head_neck;kidney;pancreas;stomach	0	0	FALSE	TRUE	FALSE
+SP4	ENSG00000105866	0	0	0	6	6	3	9	11		brain;head_neck;kidney;lung;stomach;thyroid	0	0	FALSE	TRUE	FALSE
+THAP1	ENSG00000131931	0	0	0	6	6	2	9	11		brain;breast;head_neck;lung;stomach;thyroid	0	0	FALSE	TRUE	FALSE
+THAP12	ENSG00000137492	0	0	0	6	6	1	9	11		brain;colorectum;head_neck;kidney;lung;prostate	0	0	FALSE	TRUE	FALSE
+ZBED1	ENSG00000214717	0	0	0	6	6	1	9	11		brain;colorectum;head_neck;kidney;lung;prostate	0	0	FALSE	TRUE	FALSE
+ZBTB24	ENSG00000112365	0	0	0	6	6	0	9	11		breast;colorectum;head_neck;lung;prostate;stomach	0	0	FALSE	TRUE	FALSE
+ZFP1	ENSG00000184517	0	0	0	6	6	3	9	11		head_neck;kidney;lung;pancreas;stomach;thyroid	0	0	FALSE	TRUE	FALSE
+ZNF14	ENSG00000105708	0	0	0	6	6	5	9	11		brain;breast;kidney;lung;prostate;thyroid	0	0	FALSE	TRUE	FALSE
+ZNF264	ENSG00000083844	0	0	0	6	6	1	9	11		breast;kidney;pancreas;prostate;stomach;thyroid	0	0	FALSE	TRUE	FALSE
+ZNF35	ENSG00000169981	0	0	0	6	6	1	9	11		brain;breast;colorectum;kidney;lung;stomach	0	0	FALSE	TRUE	FALSE
+ZNF429	ENSG00000197013	0	0	0	6	6	5	9	11		brain;breast;kidney;lung;prostate;stomach	0	0	FALSE	TRUE	FALSE
+BACH1	ENSG00000156273	0	0	0	5	5	1	9	11		brain;kidney;prostate;stomach;thyroid	0	0	FALSE	TRUE	FALSE
+FOS	ENSG00000170345	0	0	0	5	5	4	9	11		brain;head_neck;kidney;prostate;thyroid	0	0	FALSE	TRUE	FALSE
+NFE2L1	ENSG00000082641	0	0	0	5	5	1	9	11		head_neck;kidney;liver;lung;pancreas	0	0	FALSE	TRUE	FALSE
+NFKB1	ENSG00000109320	0	0	0	5	5	1	9	11		brain;head_neck;kidney;pancreas;stomach	0	0	FALSE	TRUE	FALSE
+PURB	ENSG00000146676	0	0	0	5	5	2	9	11		breast;head_neck;kidney;lung;stomach	0	0	FALSE	TRUE	FALSE
+SMAD1	ENSG00000170365	0	0	0	5	5	3	9	11		brain;head_neck;kidney;lung;stomach	0	0	FALSE	TRUE	FALSE
+TERF2	ENSG00000132604	0	0	0	5	5	2	9	11		colorectum;head_neck;kidney;lung;stomach	0	0	FALSE	TRUE	FALSE
+ZHX1	ENSG00000165156	0	0	0	5	5	3	9	11		brain;kidney;lung;prostate;stomach	0	0	FALSE	TRUE	FALSE
+ZNF134	ENSG00000213762	0	0	0	5	5	1	9	11		brain;breast;kidney;lung;pancreas	0	0	FALSE	TRUE	FALSE
+ZNF22	ENSG00000165512	0	0	0	5	5	0	9	11		brain;colorectum;head_neck;kidney;prostate	0	0	FALSE	TRUE	FALSE
+ZNF287	ENSG00000141040	0	0	0	5	5	3	9	11		brain;kidney;lung;prostate;thyroid	0	0	FALSE	TRUE	FALSE
+ZNF398	ENSG00000197024	0	0	0	5	5	1	9	11		brain;breast;colorectum;lung;stomach	0	0	FALSE	TRUE	FALSE
+ZNF420	ENSG00000197050	0	0	0	5	5	1	9	11		brain;breast;kidney;lung;prostate	0	0	FALSE	TRUE	FALSE
+ZNF501	ENSG00000186446	0	0	0	5	5	4	9	11		brain;kidney;lung;prostate;thyroid	0	0	FALSE	TRUE	FALSE
+ZNF562	ENSG00000171466	0	0	0	5	5	0	9	11		brain;breast;kidney;lung;stomach	0	0	FALSE	TRUE	FALSE
+ZNF616	ENSG00000204611	0	0	0	5	5	1	9	11		brain;colorectum;kidney;lung;prostate	0	0	FALSE	TRUE	FALSE
+ZNF620	ENSG00000177842	0	0	0	5	5	2	9	11		brain;colorectum;kidney;lung;stomach	0	0	FALSE	TRUE	FALSE
+ZNF737	ENSG00000237440	0	0	0	5	5	1	9	11		brain;breast;kidney;lung;prostate	0	0	FALSE	TRUE	FALSE
+ZNF805	ENSG00000204524	0	0	0	5	5	2	9	11		brain;breast;head_neck;kidney;stomach	0	0	FALSE	TRUE	FALSE
+ZNF827	ENSG00000151612	0	0	0	5	5	1	9	11		brain;head_neck;kidney;lung;pancreas	0	0	FALSE	TRUE	FALSE
+ZNF844	ENSG00000223547	0	0	0	5	5	3	9	11		brain;breast;kidney;prostate;thyroid	0	0	FALSE	TRUE	FALSE
+ARID2	ENSG00000189079	0	0	0	4	4	1	9	11		brain;breast;kidney;stomach	0	0	FALSE	TRUE	FALSE
+ARID5B	ENSG00000150347	0	0	0	4	4	1	9	11		kidney;pancreas;prostate;stomach	0	0	FALSE	TRUE	FALSE
+ATF2	ENSG00000115966	0	0	0	4	4	1	9	11		head_neck;kidney;lung;stomach	0	0	FALSE	TRUE	FALSE
+EEA1	ENSG00000102189	0	0	0	4	4	2	9	11		brain;colorectum;kidney;stomach	0	0	FALSE	TRUE	FALSE
+EGR3	ENSG00000179388	0	0	0	4	4	3	9	11		head_neck;kidney;pancreas;prostate	0	0	FALSE	TRUE	FALSE
+ELF1	ENSG00000120690	0	0	0	4	4	1	9	11		brain;colorectum;kidney;stomach	0	0	FALSE	TRUE	FALSE
+HIVEP1	ENSG00000095951	0	0	0	4	4	1	9	11		lung;prostate;stomach;thyroid	0	0	FALSE	TRUE	FALSE
+IRF2	ENSG00000168310	0	0	0	4	4	0	9	11		brain;kidney;pancreas;thyroid	0	0	FALSE	TRUE	FALSE
+JUN	ENSG00000177606	0	0	0	4	4	2	9	11		brain;head_neck;kidney;prostate	0	0	FALSE	TRUE	FALSE
+KLF12	ENSG00000118922	0	0	0	4	4	1	9	11		brain;head_neck;kidney;pancreas	0	0	FALSE	TRUE	FALSE
+REL	ENSG00000162924	0	0	0	4	4	1	9	11		breast;head_neck;kidney;stomach	0	0	FALSE	TRUE	FALSE
+RFX7	ENSG00000181827	0	0	0	4	4	0	9	11		brain;kidney;lung;stomach	0	0	FALSE	TRUE	FALSE
+SNAPC5	ENSG00000174446	0	0	0	4	4	1	9	11		head_neck;kidney;lung;thyroid	0	0	FALSE	TRUE	FALSE
+TERF1	ENSG00000147601	0	0	0	4	4	0	9	11		colorectum;head_neck;liver;lung	0	0	FALSE	TRUE	FALSE
+TOPORS	ENSG00000197579	0	0	0	4	4	2	9	11		brain;kidney;lung;thyroid	0	0	FALSE	TRUE	FALSE
+ZFP30	ENSG00000120784	0	0	0	4	4	0	9	11		brain;breast;kidney;lung	0	0	FALSE	TRUE	FALSE
+ZFP37	ENSG00000136866	0	0	0	4	4	1	9	11		brain;kidney;lung;thyroid	0	0	FALSE	TRUE	FALSE
+ZFP82	ENSG00000181007	0	0	0	4	4	2	9	11		breast;kidney;lung;thyroid	0	0	FALSE	TRUE	FALSE
+ZNF229	ENSG00000278318	0	0	0	4	4	1	9	11		brain;breast;kidney;prostate	0	0	FALSE	TRUE	FALSE
+ZNF24	ENSG00000172466	0	0	0	4	4	1	9	11		brain;breast;kidney;prostate	0	0	FALSE	TRUE	FALSE
+ZNF396	ENSG00000186496	0	0	0	4	4	1	9	11		brain;breast;kidney;lung	0	0	FALSE	TRUE	FALSE
+ZNF490	ENSG00000188033	0	0	0	4	4	1	9	11		brain;breast;kidney;stomach	0	0	FALSE	TRUE	FALSE
+ZNF619	ENSG00000177873	0	0	0	4	4	0	9	11		brain;breast;kidney;stomach	0	0	FALSE	TRUE	FALSE
+ZNF644	ENSG00000122482	0	0	0	4	4	1	9	11		brain;kidney;lung;stomach	0	0	FALSE	TRUE	FALSE
+ZNF790	ENSG00000197863	0	0	0	4	4	0	9	11		brain;kidney;lung;pancreas	0	0	FALSE	TRUE	FALSE
+ZNF800	ENSG00000048405	0	0	0	4	4	1	9	11		brain;colorectum;kidney;stomach	0	0	FALSE	TRUE	FALSE
+ZNF880	ENSG00000221923	0	0	0	4	4	0	9	11		brain;kidney;pancreas;prostate	0	0	FALSE	TRUE	FALSE
+ZXDA	ENSG00000198205	0	0	0	4	4	3	9	11		brain;kidney;lung;prostate	0	0	FALSE	TRUE	FALSE
+ATF3	ENSG00000162772	0	0	0	3	3	2	9	11		brain;head_neck;thyroid	0	0	FALSE	TRUE	FALSE
+CAMTA1	ENSG00000171735	0	0	0	3	3	0	9	11		head_neck;pancreas;thyroid	0	0	FALSE	TRUE	FALSE
+CLOCK	ENSG00000134852	0	0	0	3	3	2	9	11		breast;kidney;stomach	0	0	FALSE	TRUE	FALSE
+CREB1	ENSG00000118260	0	0	0	3	3	1	9	11		brain;kidney;stomach	0	0	FALSE	TRUE	FALSE
+EGR1	ENSG00000120738	0	0	0	3	3	2	9	11		brain;kidney;prostate	0	0	FALSE	TRUE	FALSE
+ESRRG	ENSG00000196482	0	0	0	3	3	1	9	11		breast;kidney;prostate	0	0	FALSE	TRUE	FALSE
+GTF2B	ENSG00000137947	0	0	0	3	3	2	9	11		brain;lung;thyroid	0	0	FALSE	TRUE	FALSE
+HNF4A	ENSG00000101076	0	0	0	3	3	1	9	11		colorectum;pancreas;stomach	0	0	FALSE	TRUE	FALSE
+KLF10	ENSG00000155090	0	0	0	3	3	2	9	11		brain;head_neck;kidney	0	0	FALSE	TRUE	FALSE
+KLF3	ENSG00000109787	0	0	0	3	3	2	9	11		brain;kidney;stomach	0	0	FALSE	TRUE	FALSE
+MBNL2	ENSG00000139793	0	0	0	3	3	3	9	11		head_neck;kidney;stomach	0	0	FALSE	TRUE	FALSE
+NCOA3	ENSG00000124151	0	0	0	3	3	0	9	11		brain;kidney;stomach	0	0	FALSE	TRUE	FALSE
+NR4A3	ENSG00000119508	0	0	0	3	3	2	9	11		head_neck;kidney;pancreas	0	0	FALSE	TRUE	FALSE
+RREB1	ENSG00000124782	0	0	0	3	3	1	9	11		brain;kidney;stomach	0	0	FALSE	TRUE	FALSE
+SALL2	ENSG00000165821	0	0	0	3	3	1	9	11		brain;breast;lung	0	0	FALSE	TRUE	FALSE
+STAT5A	ENSG00000126561	0	0	0	3	3	0	9	11		brain;head_neck;pancreas	0	0	FALSE	TRUE	FALSE
+TCF7L2	ENSG00000148737	0	0	0	3	3	0	9	11		brain;pancreas;stomach	0	0	FALSE	TRUE	FALSE
+TEAD1	ENSG00000187079	0	0	0	3	3	1	9	11		brain;kidney;thyroid	0	0	FALSE	TRUE	FALSE
+THAP2	ENSG00000173451	0	0	0	3	3	1	9	11		brain;breast;thyroid	0	0	FALSE	TRUE	FALSE
+THAP4	ENSG00000176946	0	0	0	3	3	1	9	11		liver;lung;prostate	0	0	FALSE	TRUE	FALSE
+THYN1	ENSG00000151500	0	0	0	3	3	0	9	11		lung;prostate;thyroid	0	0	FALSE	TRUE	FALSE
+VEZF1	ENSG00000136451	0	0	0	3	3	2	9	11		brain;breast;kidney	0	0	FALSE	TRUE	FALSE
+ZBED3	ENSG00000132846	0	0	0	3	3	0	9	11		brain;colorectum;kidney	0	0	FALSE	TRUE	FALSE
+ZBTB14	ENSG00000198081	0	0	0	3	3	2	9	11		kidney;lung;thyroid	0	0	FALSE	TRUE	FALSE
+ZFX	ENSG00000005889	0	0	0	3	3	1	9	11		brain;breast;kidney	0	0	FALSE	TRUE	FALSE
+ZIK1	ENSG00000171649	0	0	0	3	3	0	9	11		brain;kidney;lung	0	0	FALSE	TRUE	FALSE
+ZNF112	ENSG00000062370	0	0	0	3	3	0	9	11		brain;kidney;lung	0	0	FALSE	TRUE	FALSE
+ZNF180	ENSG00000167384	0	0	0	3	3	1	9	11		brain;kidney;lung	0	0	FALSE	TRUE	FALSE
+ZNF2	ENSG00000275111	0	0	0	3	3	0	9	11		brain;breast;lung	0	0	FALSE	TRUE	FALSE
+ZNF20	ENSG00000132010	0	0	0	3	3	1	9	11		brain;breast;colorectum	0	0	FALSE	TRUE	FALSE
+ZNF283	ENSG00000167637	0	0	0	3	3	1	9	11		breast;lung;stomach	0	0	FALSE	TRUE	FALSE
+ZNF423	ENSG00000102935	0	0	0	3	3	1	9	11		brain;pancreas;stomach	0	0	FALSE	TRUE	FALSE
+ZNF425	ENSG00000204947	0	0	0	3	3	1	9	11		brain;breast;thyroid	0	0	FALSE	TRUE	FALSE
+ZNF440	ENSG00000171295	0	0	0	3	3	0	9	11		brain;breast;stomach	0	0	FALSE	TRUE	FALSE
+ZNF521	ENSG00000198795	0	0	0	3	3	0	9	11		brain;kidney;pancreas	0	0	FALSE	TRUE	FALSE
+ZNF561	ENSG00000171469	0	0	0	3	3	1	9	11		brain;kidney;lung	0	0	FALSE	TRUE	FALSE
+ZNF568	ENSG00000198453	0	0	0	3	3	0	9	11		brain;kidney;liver	0	0	FALSE	TRUE	FALSE
+ZNF569	ENSG00000196437	0	0	0	3	3	2	9	11		breast;kidney;lung	0	0	FALSE	TRUE	FALSE
+ZNF570	ENSG00000171827	0	0	0	3	3	3	9	11		breast;kidney;lung	0	0	FALSE	TRUE	FALSE
+ZNF573	ENSG00000189144	0	0	0	3	3	1	9	11		brain;kidney;stomach	0	0	FALSE	TRUE	FALSE
+ZNF658	ENSG00000274349	0	0	0	3	3	1	9	11		brain;kidney;lung	0	0	FALSE	TRUE	FALSE
+ZNF699	ENSG00000196110	0	0	0	3	3	1	9	11		brain;kidney;stomach	0	0	FALSE	TRUE	FALSE
+ZNF829	ENSG00000185869	0	0	0	3	3	0	9	11		brain;breast;prostate	0	0	FALSE	TRUE	FALSE
+ZNF883	ENSG00000228623	0	0	0	3	3	1	9	11		brain;breast;pancreas	0	0	FALSE	TRUE	FALSE
+ZSCAN12	ENSG00000158691	0	0	0	3	3	1	9	11		brain;kidney;lung	0	0	FALSE	TRUE	FALSE
+ATF7	ENSG00000170653	0	0	0	2	2	0	9	11		brain;kidney	0	0	FALSE	FALSE	FALSE
+BPTF	ENSG00000171634	0	0	0	2	2	0	9	11		brain;stomach	0	0	FALSE	FALSE	FALSE
+CDX1	ENSG00000113722	0	0	0	2	2	1	9	11		colorectum;stomach	0	0	FALSE	FALSE	FALSE
+CDX2	ENSG00000165556	0	0	0	2	2	1	9	11		colorectum;stomach	0	0	FALSE	FALSE	FALSE
+CREM	ENSG00000095794	0	0	0	2	2	1	9	11		head_neck;pancreas	0	0	FALSE	FALSE	FALSE
+DMRTA1	ENSG00000176399	0	0	0	2	2	1	9	11		prostate;thyroid	0	0	FALSE	FALSE	FALSE
+ELF5	ENSG00000135374	0	0	0	2	2	2	9	11		lung;prostate	0	0	FALSE	FALSE	FALSE
+FOSL2	ENSG00000075426	0	0	0	2	2	1	9	11		kidney;pancreas	0	0	FALSE	FALSE	FALSE
+GABPA	ENSG00000154727	0	0	0	2	2	1	9	11		brain;kidney	0	0	FALSE	FALSE	FALSE
+HBP1	ENSG00000105856	0	0	0	2	2	1	9	11		brain;kidney	0	0	FALSE	FALSE	FALSE
+HIVEP2	ENSG00000010818	0	0	0	2	2	2	9	11		head_neck;stomach	0	0	FALSE	FALSE	FALSE
+HMG20A	ENSG00000140382	0	0	0	2	2	0	9	11		brain;kidney	0	0	FALSE	FALSE	FALSE
+HOXB5	ENSG00000120075	0	0	0	2	2	0	9	11		pancreas;stomach	0	0	FALSE	FALSE	FALSE
+JUNB	ENSG00000171223	0	0	0	2	2	0	9	11		brain;pancreas	0	0	FALSE	FALSE	FALSE
+JUND	ENSG00000130522	0	0	0	2	2	2	9	11		kidney;thyroid	0	0	FALSE	FALSE	FALSE
+KLF11	ENSG00000172059	0	0	0	2	2	2	9	11		head_neck;kidney	0	0	FALSE	FALSE	FALSE
+KLF4	ENSG00000136826	0	0	0	2	2	0	9	11		kidney;pancreas	0	0	FALSE	FALSE	FALSE
+MAFF	ENSG00000185022	0	0	0	2	2	1	9	11		kidney;pancreas	0	0	FALSE	FALSE	FALSE
+MEOX2	ENSG00000106511	0	0	0	2	2	0	9	11		brain;pancreas	0	0	FALSE	FALSE	FALSE
+MGA	ENSG00000174197	0	0	0	2	2	0	9	11		kidney;lung	0	0	FALSE	FALSE	FALSE
+MSANTD4	ENSG00000170903	0	0	0	2	2	1	9	11		kidney;lung	0	0	FALSE	FALSE	FALSE
+MYCN	ENSG00000134323	0	0	0	2	2	0	9	11		brain;stomach	0	0	FALSE	FALSE	FALSE
+NFIL3	ENSG00000165030	0	0	0	2	2	1	9	11		brain;head_neck	0	0	FALSE	FALSE	FALSE
+NFYC	ENSG00000066136	0	0	0	2	2	0	9	11		kidney;lung	0	0	FALSE	FALSE	FALSE
+NKX2-2	ENSG00000125820	0	0	0	2	2	0	9	11		brain;pancreas	0	0	FALSE	FALSE	FALSE
+NR1I2	ENSG00000144852	0	0	0	2	2	1	9	11		pancreas;stomach	0	0	FALSE	FALSE	FALSE
+NR2F2	ENSG00000185551	0	0	0	2	2	0	9	11		brain;pancreas	0	0	FALSE	FALSE	FALSE
+PKNOX1	ENSG00000160199	0	0	0	2	2	0	9	11		breast;head_neck	0	0	FALSE	FALSE	FALSE
+POU3F3	ENSG00000198914	0	0	0	2	2	1	9	11		brain;kidney	0	0	FALSE	FALSE	FALSE
+PURA	ENSG00000185129	0	0	0	2	2	1	9	11		brain;kidney	0	0	FALSE	FALSE	FALSE
+SMAD4	ENSG00000141646	0	0	0	2	2	0	9	11		brain;kidney	0	0	FALSE	FALSE	FALSE
+SMAD5	ENSG00000113658	0	0	0	2	2	1	9	11		brain;kidney	0	0	FALSE	FALSE	FALSE
+SOX7	ENSG00000171056	0	0	0	2	2	1	9	11		pancreas;stomach	0	0	FALSE	FALSE	FALSE
+SP2	ENSG00000167182	0	0	0	2	2	1	9	11		brain;stomach	0	0	FALSE	FALSE	FALSE
+THAP11	ENSG00000168286	0	0	0	2	2	0	9	11		brain;lung	0	0	FALSE	FALSE	FALSE
+THAP6	ENSG00000174796	0	0	0	2	2	0	9	11		kidney;lung	0	0	FALSE	FALSE	FALSE
+YY1	ENSG00000100811	0	0	0	2	2	0	9	11		kidney;lung	0	0	FALSE	FALSE	FALSE
+ZBED2	ENSG00000177494	0	0	0	2	2	2	9	11		head_neck;thyroid	0	0	FALSE	FALSE	FALSE
+ZBTB20	ENSG00000181722	0	0	0	2	2	1	9	11		brain;stomach	0	0	FALSE	FALSE	FALSE
+ZBTB8A	ENSG00000160062	0	0	0	2	2	1	9	11		brain;stomach	0	0	FALSE	FALSE	FALSE
+ZFP91	ENSG00000186660	0	0	0	2	2	1	9	11		head_neck;kidney	0	0	FALSE	FALSE	FALSE
+ZFPM2	ENSG00000169946	0	0	0	2	2	0	9	11		kidney;pancreas	0	0	FALSE	FALSE	FALSE
+ZNF136	ENSG00000196646	0	0	0	2	2	1	9	11		brain;kidney	0	0	FALSE	FALSE	FALSE
+ZNF140	ENSG00000196387	0	0	0	2	2	0	9	11		brain;lung	0	0	FALSE	FALSE	FALSE
+ZNF197	ENSG00000186448	0	0	0	2	2	0	9	11		brain;kidney	0	0	FALSE	FALSE	FALSE
+ZNF230	ENSG00000159882	0	0	0	2	2	0	9	11		brain;kidney	0	0	FALSE	FALSE	FALSE
+ZNF285	ENSG00000267508	0	0	0	2	2	1	9	11		breast;kidney	0	0	FALSE	FALSE	FALSE
+ZNF32	ENSG00000169740	0	0	0	2	2	1	9	11		liver;lung	0	0	FALSE	FALSE	FALSE
+ZNF347	ENSG00000197937	0	0	0	2	2	0	9	11		brain;kidney	0	0	FALSE	FALSE	FALSE
+ZNF362	ENSG00000160094	0	0	0	2	2	1	9	11		liver;lung	0	0	FALSE	FALSE	FALSE
+ZNF410	ENSG00000119725	0	0	0	2	2	0	9	11		brain;lung	0	0	FALSE	FALSE	FALSE
+ZNF438	ENSG00000183621	0	0	0	2	2	0	9	11		brain;pancreas	0	0	FALSE	FALSE	FALSE
+ZNF45	ENSG00000124459	0	0	0	2	2	1	9	11		brain;lung	0	0	FALSE	FALSE	FALSE
+ZNF564	ENSG00000249709	0	0	0	2	2	0	9	11		brain;kidney	0	0	FALSE	FALSE	FALSE
+ZNF584	ENSG00000171574	0	0	0	2	2	0	9	11		brain;lung	0	0	FALSE	FALSE	FALSE
+ZNF677	ENSG00000197928	0	0	0	2	2	0	9	11		brain;kidney	0	0	FALSE	FALSE	FALSE
+ZNF684	ENSG00000117010	0	0	0	2	2	0	9	11		brain;kidney	0	0	FALSE	FALSE	FALSE
+ZNF71	ENSG00000197951	0	0	0	2	2	0	9	11		kidney;lung	0	0	FALSE	FALSE	FALSE
+ZNF776	ENSG00000152443	0	0	0	2	2	0	9	11		brain;breast	0	0	FALSE	FALSE	FALSE
+ZNF788	ENSG00000214189	0	0	0	2	2	0	9	11		brain;breast	0	0	FALSE	FALSE	FALSE
+ZNF821	ENSG00000102984	0	0	0	2	2	0	9	11		kidney;thyroid	0	0	FALSE	FALSE	FALSE
+ZNF830	ENSG00000198783	0	0	0	2	2	0	9	11		brain;lung	0	0	FALSE	FALSE	FALSE
+ZZZ3	ENSG00000036549	0	0	0	2	2	0	9	11		colorectum;lung	0	0	FALSE	FALSE	FALSE
+ASCL1	ENSG00000139352	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+ATOH8	ENSG00000168874	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+BACH2	ENSG00000112182	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+BNC2	ENSG00000173068	0	0	0	1	1	0	9	11		pancreas	0	0	FALSE	FALSE	FALSE
+CGGBP1	ENSG00000163320	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+CSRNP1	ENSG00000144655	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+CSRNP3	ENSG00000178662	0	0	0	1	1	0	9	11		thyroid	0	0	FALSE	FALSE	FALSE
+CUX2	ENSG00000111249	0	0	0	1	1	0	9	11		prostate	0	0	FALSE	FALSE	FALSE
+DBX2	ENSG00000185610	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+DMRT3	ENSG00000064218	0	0	0	1	1	0	9	11		thyroid	0	0	FALSE	FALSE	FALSE
+EN2	ENSG00000164778	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+FOXO3	ENSG00000118689	0	0	0	1	1	1	9	11		kidney	0	0	FALSE	FALSE	FALSE
+GATA6	ENSG00000141448	0	0	0	1	1	1	9	11		colorectum	0	0	FALSE	FALSE	FALSE
+GBX2	ENSG00000168505	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+GSX1	ENSG00000169840	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+GSX2	ENSG00000180613	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+GTF2IRD2	ENSG00000196275	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+GTF2IRD2B	ENSG00000174428	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+HAND2	ENSG00000164107	0	0	0	1	1	0	9	11		pancreas	0	0	FALSE	FALSE	FALSE
+HDX	ENSG00000165259	0	0	0	1	1	0	9	11		pancreas	0	0	FALSE	FALSE	FALSE
+HES5	ENSG00000197921	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+HESX1	ENSG00000163666	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+HLF	ENSG00000108924	0	0	0	1	1	0	9	11		kidney	0	0	FALSE	FALSE	FALSE
+HMX1	ENSG00000215612	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+HOXA5	ENSG00000106004	0	0	0	1	1	0	9	11		pancreas	0	0	FALSE	FALSE	FALSE
+HOXA6	ENSG00000106006	0	0	0	1	1	1	9	11		stomach	0	0	FALSE	FALSE	FALSE
+IRX1	ENSG00000170549	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+ISL1	ENSG00000016082	0	0	0	1	1	0	9	11		pancreas	0	0	FALSE	FALSE	FALSE
+JDP2	ENSG00000140044	0	0	0	1	1	0	9	11		pancreas	0	0	FALSE	FALSE	FALSE
+KAT7	ENSG00000136504	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+KLF15	ENSG00000163884	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+KLF2	ENSG00000127528	0	0	0	1	1	0	9	11		pancreas	0	0	FALSE	FALSE	FALSE
+KMT2A	ENSG00000118058	0	0	0	1	1	1	9	11		stomach	0	0	FALSE	FALSE	FALSE
+MBD2	ENSG00000134046	0	0	0	1	1	0	9	11		lung	0	0	FALSE	FALSE	FALSE
+MEIS1	ENSG00000143995	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+MEOX1	ENSG00000005102	0	0	0	1	1	0	9	11		pancreas	0	0	FALSE	FALSE	FALSE
+MLX	ENSG00000108788	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+MTF1	ENSG00000188786	0	0	0	1	1	1	9	11		breast	0	0	FALSE	FALSE	FALSE
+MYT1	ENSG00000196132	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+NEUROD1	ENSG00000162992	0	0	0	1	1	0	9	11		pancreas	0	0	FALSE	FALSE	FALSE
+NFE2	ENSG00000123405	0	0	0	1	1	1	9	11		thyroid	0	0	FALSE	FALSE	FALSE
+NFX1	ENSG00000086102	0	0	0	1	1	0	9	11		kidney	0	0	FALSE	FALSE	FALSE
+NKX2-3	ENSG00000119919	0	0	0	1	1	0	9	11		pancreas	0	0	FALSE	FALSE	FALSE
+NKX3-2	ENSG00000109705	0	0	0	1	1	0	9	11		pancreas	0	0	FALSE	FALSE	FALSE
+NKX6-3	ENSG00000165066	0	0	0	1	1	0	9	11		stomach	0	0	FALSE	FALSE	FALSE
+NR4A1	ENSG00000123358	0	0	0	1	1	1	9	11		kidney	0	0	FALSE	FALSE	FALSE
+NRL	ENSG00000129535	0	0	0	1	1	0	9	11		kidney	0	0	FALSE	FALSE	FALSE
+OLIG2	ENSG00000205927	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+PEG3	ENSG00000198300	0	0	0	1	1	0	9	11		breast	0	0	FALSE	FALSE	FALSE
+POU3F2	ENSG00000184486	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+POU3F4	ENSG00000196767	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+PPARA	ENSG00000186951	0	0	0	1	1	0	9	11		lung	0	0	FALSE	FALSE	FALSE
+PRDM16	ENSG00000142611	0	0	0	1	1	0	9	11		kidney	0	0	FALSE	FALSE	FALSE
+PRDM5	ENSG00000138738	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+RAG1	ENSG00000166349	0	0	0	1	1	1	9	11		kidney	0	0	FALSE	FALSE	FALSE
+RBSN	ENSG00000131381	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+RELA	ENSG00000173039	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+RFX4	ENSG00000111783	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+RORA	ENSG00000069667	0	0	0	1	1	0	9	11		kidney	0	0	FALSE	FALSE	FALSE
+SALL1	ENSG00000103449	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+SALL3	ENSG00000256463	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+SETBP1	ENSG00000152217	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+SIM1	ENSG00000112246	0	0	0	1	1	0	9	11		kidney	0	0	FALSE	FALSE	FALSE
+SIX5	ENSG00000177045	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+SNAI3	ENSG00000185669	0	0	0	1	1	0	9	11		thyroid	0	0	FALSE	FALSE	FALSE
+SOHLH2	ENSG00000120669	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+SON	ENSG00000159140	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+SOX1	ENSG00000182968	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+SOX11	ENSG00000176887	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+SOX3	ENSG00000134595	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+SOX5	ENSG00000134532	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+SP8	ENSG00000164651	0	0	0	1	1	1	9	11		prostate	0	0	FALSE	FALSE	FALSE
+STAT3	ENSG00000168610	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+TBP	ENSG00000112592	0	0	0	1	1	0	9	11		lung	0	0	FALSE	FALSE	FALSE
+TCF21	ENSG00000118526	0	0	0	1	1	0	9	11		pancreas	0	0	FALSE	FALSE	FALSE
+TCF7L1	ENSG00000152284	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+TFE3	ENSG00000068323	0	0	0	1	1	0	9	11		pancreas	0	0	FALSE	FALSE	FALSE
+TIGD4	ENSG00000169989	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+TMF1	ENSG00000144747	0	0	0	1	1	0	9	11		kidney	0	0	FALSE	FALSE	FALSE
+TSHZ1	ENSG00000179981	0	0	0	1	1	0	9	11		kidney	0	0	FALSE	FALSE	FALSE
+TTF1	ENSG00000125482	0	0	0	1	1	0	9	11		head_neck	0	0	FALSE	FALSE	FALSE
+TWIST2	ENSG00000233608	0	0	0	1	1	0	9	11		pancreas	0	0	FALSE	FALSE	FALSE
+ZBTB16	ENSG00000109906	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+ZBTB21	ENSG00000173276	0	0	0	1	1	0	9	11		kidney	0	0	FALSE	FALSE	FALSE
+ZBTB26	ENSG00000171448	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+ZBTB4	ENSG00000174282	0	0	0	1	1	1	9	11		kidney	0	0	FALSE	FALSE	FALSE
+ZBTB44	ENSG00000196323	0	0	0	1	1	1	9	11		kidney	0	0	FALSE	FALSE	FALSE
+ZFHX4	ENSG00000091656	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+ZFP3	ENSG00000180787	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+ZFY	ENSG00000067646	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+ZHX3	ENSG00000174306	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+ZIC1	ENSG00000152977	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+ZKSCAN7	ENSG00000196345	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+ZKSCAN8	ENSG00000198315	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+ZNF155	ENSG00000204920	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+ZNF17	ENSG00000186272	0	0	0	1	1	0	9	11		kidney	0	0	FALSE	FALSE	FALSE
+ZNF207	ENSG00000010244	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+ZNF214	ENSG00000149050	0	0	0	1	1	0	9	11		kidney	0	0	FALSE	FALSE	FALSE
+ZNF221	ENSG00000159905	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+ZNF225	ENSG00000256294	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+ZNF234	ENSG00000263002	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+ZNF25	ENSG00000175395	0	0	0	1	1	0	9	11		kidney	0	0	FALSE	FALSE	FALSE
+ZNF274	ENSG00000171606	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+ZNF284	ENSG00000186026	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+ZNF311	ENSG00000197935	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+ZNF324B	ENSG00000249471	0	0	0	1	1	0	9	11		lung	0	0	FALSE	FALSE	FALSE
+ZNF329	ENSG00000181894	0	0	0	1	1	0	9	11		breast	0	0	FALSE	FALSE	FALSE
+ZNF331	ENSG00000130844	0	0	0	1	1	0	9	11		kidney	0	0	FALSE	FALSE	FALSE
+ZNF33B	ENSG00000196693	0	0	0	1	1	1	9	11		kidney	0	0	FALSE	FALSE	FALSE
+ZNF354C	ENSG00000177932	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+ZNF366	ENSG00000178175	0	0	0	1	1	0	9	11		kidney	0	0	FALSE	FALSE	FALSE
+ZNF37A	ENSG00000075407	0	0	0	1	1	0	9	11		breast	0	0	FALSE	FALSE	FALSE
+ZNF385D	ENSG00000151789	0	0	0	1	1	0	9	11		pancreas	0	0	FALSE	FALSE	FALSE
+ZNF407	ENSG00000215421	0	0	0	1	1	0	9	11		kidney	0	0	FALSE	FALSE	FALSE
+ZNF415	ENSG00000170954	0	0	0	1	1	0	9	11		kidney	0	0	FALSE	FALSE	FALSE
+ZNF433	ENSG00000197647	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+ZNF442	ENSG00000198342	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+ZNF454	ENSG00000178187	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+ZNF460	ENSG00000197714	0	0	0	1	1	0	9	11		stomach	0	0	FALSE	FALSE	FALSE
+ZNF470	ENSG00000197016	0	0	0	1	1	0	9	11		thyroid	0	0	FALSE	FALSE	FALSE
+ZNF496	ENSG00000162714	0	0	0	1	1	0	9	11		head_neck	0	0	FALSE	FALSE	FALSE
+ZNF502	ENSG00000196653	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+ZNF527	ENSG00000189164	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+ZNF559	ENSG00000188321	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+ZNF565	ENSG00000196357	0	0	0	1	1	0	9	11		lung	0	0	FALSE	FALSE	FALSE
+ZNF575	ENSG00000176472	0	0	0	1	1	1	9	11		stomach	0	0	FALSE	FALSE	FALSE
+ZNF578	ENSG00000258405	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+ZNF582	ENSG00000018869	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+ZNF586	ENSG00000083828	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+ZNF592	ENSG00000166716	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+ZNF599	ENSG00000153896	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+ZNF660	ENSG00000144792	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+ZNF709	ENSG00000242852	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+ZNF747	ENSG00000169955	0	0	0	1	1	0	9	11		kidney	0	0	FALSE	FALSE	FALSE
+ZNF763	ENSG00000197054	0	0	0	1	1	0	9	11		kidney	0	0	FALSE	FALSE	FALSE
+ZNF791	ENSG00000173875	0	0	0	1	1	0	9	11		kidney	0	0	FALSE	FALSE	FALSE
+ZNF823	ENSG00000197933	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+ZNF843	ENSG00000176723	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+ZNF879	ENSG00000234284	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+ZNF888	ENSG00000213793	0	0	0	1	1	0	9	11		kidney	0	0	FALSE	FALSE	FALSE
+ZNF98	ENSG00000197360	0	0	0	1	1	1	9	11		thyroid	0	0	FALSE	FALSE	FALSE
+ZSCAN20	ENSG00000121903	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+ZSCAN22	ENSG00000182318	0	0	0	1	1	0	9	11		breast	0	0	FALSE	FALSE	FALSE
+ZSCAN23	ENSG00000187987	0	0	0	1	1	0	9	11		brain	0	0	FALSE	FALSE	FALSE
+ZUFSP	ENSG00000153975	0	0	0	1	1	0	9	11		colorectum	0	0	FALSE	FALSE	FALSE
+AC008770.3	ENSG00000267179	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+AC092835.1	ENSG00000233757	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+AC138696.1	ENSG00000264668	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+AHRR	ENSG00000063438	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+AIRE	ENSG00000160224	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ALX1	ENSG00000180318	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ALX3	ENSG00000156150	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ALX4	ENSG00000052850	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ANHX	ENSG00000227059	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ARGFX	ENSG00000186103	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ARID3C	ENSG00000205143	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ARNT	ENSG00000143437	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ARX	ENSG00000004848	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ASCL3	ENSG00000176009	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ASCL5	ENSG00000232237	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ASH1L	ENSG00000116539	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ATOH1	ENSG00000172238	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ATOH7	ENSG00000179774	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+BARHL1	ENSG00000125492	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+BARHL2	ENSG00000143032	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+BAZ2B	ENSG00000123636	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+BHLHA9	ENSG00000205899	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+BHLHE22	ENSG00000180828	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+BHLHE23	ENSG00000125533	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+BSX	ENSG00000188909	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+CAMTA2	ENSG00000108509	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+CARF	ENSG00000138380	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+CCDC169-SOHLH2	ENSG00000250709	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+CCDC17	ENSG00000159588	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+CDX4	ENSG00000131264	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+CEBPE	ENSG00000092067	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+CPXCR1	ENSG00000147183	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+CRX	ENSG00000105392	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+CTCFL	ENSG00000124092	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+DACH2	ENSG00000126733	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+DBX1	ENSG00000109851	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+DLX2	ENSG00000115844	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+DMBX1	ENSG00000197587	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+DMRT1	ENSG00000137090	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+DMRTB1	ENSG00000143006	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+DMRTC2	ENSG00000142025	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+DPRX	ENSG00000204595	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+DRGX	ENSG00000165606	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+DUX4	ENSG00000260596	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+DUXA	ENSG00000258873	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+EGR4	ENSG00000135625	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ELF2	ENSG00000109381	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+EMX1	ENSG00000135638	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+EMX2	ENSG00000170370	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ESR2	ENSG00000140009	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ESRRB	ENSG00000119715	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ESX1	ENSG00000123576	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ETV3L	ENSG00000253831	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+EVX2	ENSG00000174279	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+FAM170A	ENSG00000164334	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+FAM200B	ENSG00000237765	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+FERD3L	ENSG00000146618	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+FEZF2	ENSG00000153266	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+FIGLA	ENSG00000183733	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+FOXB1	ENSG00000171956	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+FOXB2	ENSG00000204612	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+FOXD3	ENSG00000187140	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+FOXD4	ENSG00000170122	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+FOXD4L1	ENSG00000184492	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+FOXD4L3	ENSG00000187559	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+FOXD4L4	ENSG00000184659	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+FOXD4L5	ENSG00000204779	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+FOXD4L6	ENSG00000273514	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+FOXE3	ENSG00000186790	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+FOXG1	ENSG00000176165	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+FOXH1	ENSG00000160973	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+FOXI3	ENSG00000214336	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+FOXJ2	ENSG00000065970	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+FOXL2	ENSG00000183770	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+FOXN4	ENSG00000139445	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+FOXO4	ENSG00000184481	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+FOXR1	ENSG00000176302	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+FOXR2	ENSG00000189299	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+GATA1	ENSG00000102145	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+GATA4	ENSG00000136574	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+GATA5	ENSG00000130700	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+GATAD2B	ENSG00000143614	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+GBX1	ENSG00000164900	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+GCM1	ENSG00000137270	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+GCM2	ENSG00000124827	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+GFI1B	ENSG00000165702	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+GPBP1	ENSG00000062194	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+GPBP1L1	ENSG00000159592	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+GSC2	ENSG00000063515	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+HAND1	ENSG00000113196	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+HELT	ENSG00000187821	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+HES3	ENSG00000173673	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+HES7	ENSG00000179111	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+HIF3A	ENSG00000124440	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+HMX2	ENSG00000188816	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+HMX3	ENSG00000188620	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+HOXB1	ENSG00000120094	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+HOXC12	ENSG00000123407	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+HOXC5	ENSG00000172789	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+HOXD12	ENSG00000170178	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+HOXD3	ENSG00000128652	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+HOXD4	ENSG00000170166	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+HSF5	ENSG00000176160	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+HSFX1	ENSG00000171116	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+HSFX2	ENSG00000268738	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+HSFY1	ENSG00000172468	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+HSFY2	ENSG00000169953	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+IKZF5	ENSG00000095574	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+INSM2	ENSG00000168348	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ISL2	ENSG00000159556	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ISX	ENSG00000175329	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+KIN	ENSG00000151657	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+KLF1	ENSG00000105610	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+KLF14	ENSG00000266265	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+KLF17	ENSG00000171872	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+KLF9	ENSG00000119138	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+LBX1	ENSG00000138136	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+LEUTX	ENSG00000213921	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+LHX1	ENSG00000273706	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+LHX3	ENSG00000107187	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+LHX4	ENSG00000121454	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+LHX5	ENSG00000089116	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+LHX8	ENSG00000162624	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+LIN28A	ENSG00000131914	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+LIN28B	ENSG00000187772	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+LMX1A	ENSG00000162761	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+MBD1	ENSG00000141644	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+MEIS2	ENSG00000134138	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+MIXL1	ENSG00000185155	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+MKX	ENSG00000150051	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+MLXIP	ENSG00000175727	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+MSANTD1	ENSG00000188981	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+MSGN1	ENSG00000151379	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+MTERF4	ENSG00000122085	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+MYF5	ENSG00000111049	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+MYF6	ENSG00000111046	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+MYOD1	ENSG00000129152	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+MYOG	ENSG00000122180	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+MYRFL	ENSG00000166268	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+MYSM1	ENSG00000162601	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+MYT1L	ENSG00000186487	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+NACC2	ENSG00000148411	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+NANOG	ENSG00000111704	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+NANOGNB	ENSG00000205857	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+NANOGP8	ENSG00000255192	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+NCOA1	ENSG00000084676	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+NEUROD2	ENSG00000171532	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+NEUROD4	ENSG00000123307	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+NEUROD6	ENSG00000164600	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+NEUROG1	ENSG00000181965	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+NEUROG2	ENSG00000178403	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+NEUROG3	ENSG00000122859	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+NFE4	ENSG00000230257	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+NFYB	ENSG00000120837	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+NHLH1	ENSG00000171786	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+NHLH2	ENSG00000177551	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+NKX1-1	ENSG00000235608	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+NKX1-2	ENSG00000229544	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+NKX2-4	ENSG00000125816	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+NKX2-5	ENSG00000183072	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+NKX2-6	ENSG00000180053	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+NKX6-2	ENSG00000148826	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+NOBOX	ENSG00000106410	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+NOTO	ENSG00000214513	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+NPAS4	ENSG00000174576	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+NR0B1	ENSG00000169297	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+NR1I3	ENSG00000143257	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+NR2E1	ENSG00000112333	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+NR2E3	ENSG00000278570	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+NR4A2	ENSG00000153234	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+NR5A1	ENSG00000136931	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+NRF1	ENSG00000106459	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+OLIG3	ENSG00000177468	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ONECUT1	ENSG00000169856	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ONECUT3	ENSG00000205922	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+OTP	ENSG00000171540	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+OTX2	ENSG00000165588	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+OVOL3	ENSG00000105261	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+PAX1	ENSG00000125813	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+PAX2	ENSG00000075891	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+PAX3	ENSG00000135903	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+PAX4	ENSG00000106331	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+PAX5	ENSG00000196092	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+PAX7	ENSG00000009709	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+PHF1	ENSG00000112511	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+PHOX2A	ENSG00000165462	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+PHOX2B	ENSG00000109132	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+PITX3	ENSG00000107859	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+PKNOX2	ENSG00000165495	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+POU1F1	ENSG00000064835	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+POU4F1	ENSG00000152192	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+POU4F2	ENSG00000151615	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+POU4F3	ENSG00000091010	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+POU5F2	ENSG00000248483	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+PRDM10	ENSG00000170325	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+PRDM12	ENSG00000130711	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+PRDM13	ENSG00000112238	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+PRDM14	ENSG00000147596	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+PRDM2	ENSG00000116731	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+PRDM6	ENSG00000061455	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+PRDM9	ENSG00000164256	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+PROP1	ENSG00000175325	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+PROX2	ENSG00000119608	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+PTF1A	ENSG00000168267	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+PURG	ENSG00000172733	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+RAX	ENSG00000134438	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+RAX2	ENSG00000173976	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+RBPJL	ENSG00000124232	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+RFX1	ENSG00000132005	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+RFX6	ENSG00000185002	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+RFX8	ENSG00000196460	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+RHOXF1	ENSG00000101883	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+RHOXF2	ENSG00000131721	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+RHOXF2B	ENSG00000203989	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+RORB	ENSG00000198963	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+RXRA	ENSG00000186350	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+RXRB	ENSG00000204231	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+SAFB	ENSG00000160633	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+SAFB2	ENSG00000130254	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+SCML4	ENSG00000146285	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+SCRT1	ENSG00000261678	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+SCRT2	ENSG00000215397	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+SEBOX	ENSG00000274529	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+SHOX	ENSG00000185960	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+SIX3	ENSG00000138083	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+SIX6	ENSG00000184302	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+SKOR1	ENSG00000188779	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+SKOR2	ENSG00000215474	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+SOHLH1	ENSG00000165643	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+SOX10	ENSG00000100146	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+SOX17	ENSG00000164736	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+SOX30	ENSG00000039600	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+SP7	ENSG00000170374	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+SP9	ENSG00000217236	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+SPEN	ENSG00000065526	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+SPIC	ENSG00000166211	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+SPZ1	ENSG00000164299	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+SRF	ENSG00000112658	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+SRY	ENSG00000184895	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ST18	ENSG00000147488	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+STAT5B	ENSG00000173757	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+T	ENSG00000164458	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+TBPL2	ENSG00000182521	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+TBR1	ENSG00000136535	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+TBX10	ENSG00000167800	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+TBX20	ENSG00000164532	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+TBX21	ENSG00000073861	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+TBX22	ENSG00000122145	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+TBX4	ENSG00000121075	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+TBX5	ENSG00000089225	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+TCF23	ENSG00000163792	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+TCF24	ENSG00000261787	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+TERB1	ENSG00000249961	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+TET1	ENSG00000138336	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+TFAP2D	ENSG00000008197	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+TFDP3	ENSG00000183434	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+TGIF2LX	ENSG00000153779	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+TGIF2LY	ENSG00000176679	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+TIGD3	ENSG00000173825	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+TLX2	ENSG00000115297	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+TLX3	ENSG00000164438	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+TPRX1	ENSG00000178928	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+UBP1	ENSG00000153560	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+UNCX	ENSG00000164853	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+VAX1	ENSG00000148704	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+VENTX	ENSG00000151650	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+VSX1	ENSG00000100987	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+VSX2	ENSG00000119614	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+WT1	ENSG00000184937	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+XPA	ENSG00000136936	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZBTB1	ENSG00000126804	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZBTB11	ENSG00000066422	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZBTB25	ENSG00000089775	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZBTB32	ENSG00000011590	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZBTB34	ENSG00000177125	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZBTB37	ENSG00000185278	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZBTB46	ENSG00000130584	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZBTB49	ENSG00000168826	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZBTB8B	ENSG00000273274	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZFP14	ENSG00000142065	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZFP2	ENSG00000198939	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZFP28	ENSG00000196867	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZFP42	ENSG00000179059	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZFP92	ENSG00000189420	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZIC3	ENSG00000156925	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZIC4	ENSG00000174963	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZIC5	ENSG00000139800	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZIM2	ENSG00000269699	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZIM3	ENSG00000141946	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZMAT4	ENSG00000165061	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF10	ENSG00000256223	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF132	ENSG00000131849	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF135	ENSG00000176293	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF143	ENSG00000166478	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF157	ENSG00000147117	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF169	ENSG00000175787	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF175	ENSG00000105497	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF181	ENSG00000197841	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF211	ENSG00000121417	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF222	ENSG00000159885	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF223	ENSG00000178386	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF235	ENSG00000159917	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF236	ENSG00000130856	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF280A	ENSG00000169548	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF280B	ENSG00000275004	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF280D	ENSG00000137871	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF302	ENSG00000089335	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF326	ENSG00000162664	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF33A	ENSG00000189180	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF346	ENSG00000113761	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF383	ENSG00000188283	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF417	ENSG00000173480	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF418	ENSG00000196724	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF44	ENSG00000197857	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF441	ENSG00000197044	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF451	ENSG00000112200	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF471	ENSG00000196263	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF474	ENSG00000164185	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF479	ENSG00000185177	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF483	ENSG00000173258	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF492	ENSG00000229676	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF510	ENSG00000081386	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF528	ENSG00000167555	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF534	ENSG00000198633	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF536	ENSG00000198597	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF540	ENSG00000171817	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF546	ENSG00000187187	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF549	ENSG00000121406	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF556	ENSG00000172000	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF560	ENSG00000198028	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF571	ENSG00000180479	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF583	ENSG00000198440	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF585A	ENSG00000196967	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF585B	ENSG00000245680	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF596	ENSG00000172748	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF641	ENSG00000167528	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF645	ENSG00000175809	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF648	ENSG00000179930	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF655	ENSG00000197343	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF662	ENSG00000182983	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF676	ENSG00000196109	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF679	ENSG00000197123	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF705A	ENSG00000196946	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF705B	ENSG00000215356	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF705D	ENSG00000215343	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF705E	ENSG00000214534	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF705G	ENSG00000215372	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF716	ENSG00000182111	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF727	ENSG00000214652	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF728	ENSG00000269067	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF729	ENSG00000196350	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF730	ENSG00000183850	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF732	ENSG00000186777	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF735	ENSG00000223614	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF780A	ENSG00000197782	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF780B	ENSG00000128000	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF781	ENSG00000196381	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF80	ENSG00000174255	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF804A	ENSG00000170396	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF804B	ENSG00000182348	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF831	ENSG00000124203	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF846	ENSG00000196605	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF850	ENSG00000267041	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF853	ENSG00000236609	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF878	ENSG00000257446	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF891	ENSG00000214029	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZNF99	ENSG00000213973	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZSCAN10	ENSG00000130182	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZSCAN18	ENSG00000121413	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZSCAN26	ENSG00000197062	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZSCAN30	ENSG00000186814	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZSCAN4	ENSG00000180532	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZSCAN5B	ENSG00000197213	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZSCAN5C	ENSG00000204532	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
+ZXDC	ENSG00000070476	0	0	0	0	0	0	9	11			0	0	FALSE	FALSE	FALSE
