@@ -53,10 +53,14 @@ Number of the 28 BAF members called per pair:
 
 ## 3. DepMap co-dependency (cell lines)
 
-Significant calls (q < 0.05) out of 140 tests:
+Significant calls (q < 0.05; BH within each pair's 28 members, as
+designed). These are **not** corrected across all 140 tests: with a single
+BH over 140 tests, both hits have q = 0.087 (review N3).
 
 - **AML SPI1–SMARCD1**: ρ = 0.56, q = 0.022, n = 32 (strong positive).
 - **CRC SOX9–DPF3**: ρ = −0.40, q = 0.035, n = 63 (strong negative).
+  DPF3 is flagged low-expression in TCGA COADREAD, so this is not read as a
+  mechanistic cBAF partner (review N1).
 - Near misses (q 0.07–0.17): AML SPI1–BRD9 0.49; breast GATA3–SMARCD1 0.37
   and –SMARCE1 0.33; melanoma SOX10–SMARCA2 0.32. Prostate FOXA1–SMARCB1
   is 0.79 with n = 10, which is underpowered and not interpreted.
@@ -65,7 +69,9 @@ Significant calls (q < 0.05) out of 140 tests:
 
 ## 4. Both evidence types
 
-**No BAF member passes the calls in both TCGA and DepMap for any pair.** The
+**No BAF member has a statistically supported concordant association
+(both TCGA and DepMap) in any pair.** This is not evidence of no functional
+relationship, especially for prostate (n = 10) (review N2). The
 one DepMap hit, AML SMARCD1, has TCGA ρ = 0.00. The figures show this as it
 is (`figures/TFBAF2_summary_dotplot.pdf`; `figures/TFBAF1_scatter.pdf`, one
 page per pair, with selected members shown even when nonsignificant).
@@ -78,6 +84,10 @@ page per pair, with selected members shown even when nonsignificant).
     AML SPI1–SMARCD1.
 - Not established: a TF-specific BAF subunit or subcomplex partner in any
   of the five cancers.
+- CRC SOX9–SMARCC1 (TCGA ρ 0.34) has no DepMap co-dependency support. This
+  does not bear on the SOX9–BAF chromatin experiments (dTAG,
+  accessibility, SMARCC1 occupancy): those measure a different relation,
+  and co-dependency is not recruitment (review N4).
 - Limits:
   - There is no background reference for expression correlation (point 1).
   - DepMap uses 2D cell lines only. Organoid screens are deferred (design
@@ -97,3 +107,14 @@ page per pair, with selected members shown even when nonsignificant).
 ## 6. Deviations
 
 None from the approved design.
+
+## 7. Review
+
+- Round 7 (PR #5, head 5d83c5e): **APPROVE**, 0 blocking.
+  - N1–N4 are folded into the wording above.
+  - Open point 1 (background reference): add it as v0.2 without blocking
+    the merge. Use the TF's Spearman distribution against all
+    expression-filtered protein-coding genes in the same tumors and report
+    the gene universe. A percentile is not set-level enrichment; that needs
+    a set test that accounts for expression level.
+  - Organoids are a later module.
